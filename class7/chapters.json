@@ -1,0 +1,4264 @@
+{
+  "books": {
+    "class7-agriculture-bn": {
+      "subject": "agriculture",
+      "chapters": [
+        {
+          "chapter_id": "class7-agriculture-bn-ch1",
+          "number": 1,
+          "title": "কৃষি এবং আমাদের সংস্কৃতি",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-agriculture-bn-ch2",
+          "number": 2,
+          "title": "কৃষি প্রযুক্তি",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 36,
+          "pdf_end_page": 41
+        },
+        {
+          "chapter_id": "class7-agriculture-bn-ch3",
+          "number": 3,
+          "title": "কৃষি উপকরণ",
+          "printed_start_page": 37,
+          "pdf_start_page": 42,
+          "printed_end_page": 55,
+          "pdf_end_page": 60
+        },
+        {
+          "chapter_id": "class7-agriculture-bn-ch4",
+          "number": 4,
+          "title": "কৃষি ও জলবায়ু",
+          "printed_start_page": 56,
+          "pdf_start_page": 61,
+          "printed_end_page": 73,
+          "pdf_end_page": 78
+        },
+        {
+          "chapter_id": "class7-agriculture-bn-ch5",
+          "number": 5,
+          "title": "কৃষিজ উৎপাদন",
+          "printed_start_page": 74,
+          "pdf_start_page": 79,
+          "printed_end_page": 104,
+          "pdf_end_page": 109
+        },
+        {
+          "chapter_id": "class7-agriculture-bn-ch6",
+          "number": 6,
+          "title": "বনায়ন",
+          "printed_start_page": 105,
+          "pdf_start_page": 110,
+          "printed_end_page": 124,
+          "pdf_end_page": 129
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-agriculture-en": {
+      "subject": "agriculture",
+      "chapters": [
+        {
+          "chapter_id": "class7-agriculture-en-ch1",
+          "number": 1,
+          "title": "Agriculture and Our Culture",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 17,
+          "pdf_end_page": 22
+        },
+        {
+          "chapter_id": "class7-agriculture-en-ch2",
+          "number": 2,
+          "title": "Agricultural Technology",
+          "printed_start_page": 18,
+          "pdf_start_page": 23,
+          "printed_end_page": 38,
+          "pdf_end_page": 43
+        },
+        {
+          "chapter_id": "class7-agriculture-en-ch3",
+          "number": 3,
+          "title": "Agricultural Equipments",
+          "printed_start_page": 39,
+          "pdf_start_page": 44,
+          "printed_end_page": 58,
+          "pdf_end_page": 63
+        },
+        {
+          "chapter_id": "class7-agriculture-en-ch4",
+          "number": 4,
+          "title": "Agriculture and Climate",
+          "printed_start_page": 59,
+          "pdf_start_page": 64,
+          "printed_end_page": 76,
+          "pdf_end_page": 81
+        },
+        {
+          "chapter_id": "class7-agriculture-en-ch5",
+          "number": 5,
+          "title": "Agricultural Production",
+          "printed_start_page": 77,
+          "pdf_start_page": 82,
+          "printed_end_page": 108,
+          "pdf_end_page": 113
+        },
+        {
+          "chapter_id": "class7-agriculture-en-ch6",
+          "number": 6,
+          "title": "Afforestation",
+          "printed_start_page": 109,
+          "pdf_start_page": 114,
+          "printed_end_page": 132,
+          "pdf_end_page": 137
+        }
+      ],
+      "language": "en"
+    },
+    "class7-anandopath-bn": {
+      "subject": "anandopath",
+      "chapters": [
+        {
+          "chapter_id": "class7-anandopath-bn-ch1",
+          "number": 1,
+          "title": "তোতা-কাহিনি",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 5,
+          "pdf_end_page": 10
+        },
+        {
+          "chapter_id": "class7-anandopath-bn-ch2",
+          "number": 2,
+          "title": "জিদ",
+          "printed_start_page": 6,
+          "pdf_start_page": 11,
+          "printed_end_page": 10,
+          "pdf_end_page": 15
+        },
+        {
+          "chapter_id": "class7-anandopath-bn-ch3",
+          "number": 3,
+          "title": "খুদে গোয়েন্দার অভিযান",
+          "printed_start_page": 11,
+          "pdf_start_page": 16,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-anandopath-bn-ch4",
+          "number": 4,
+          "title": "দীক্ষা",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 24,
+          "pdf_end_page": 29
+        },
+        {
+          "chapter_id": "class7-anandopath-bn-ch5",
+          "number": 5,
+          "title": "পদ্য লেখার জোরে",
+          "printed_start_page": 25,
+          "pdf_start_page": 30,
+          "printed_end_page": 31,
+          "pdf_end_page": 36
+        },
+        {
+          "chapter_id": "class7-anandopath-bn-ch6",
+          "number": 6,
+          "title": "কোকিল",
+          "printed_start_page": 32,
+          "pdf_start_page": 37,
+          "printed_end_page": 39,
+          "pdf_end_page": 44
+        },
+        {
+          "chapter_id": "class7-anandopath-bn-ch7",
+          "number": 7,
+          "title": "কিং লিয়ার",
+          "printed_start_page": 40,
+          "pdf_start_page": 45,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-anandopath-bn-ch8",
+          "number": 8,
+          "title": "যুদ্ধক্ষেত্রে পিতাপুত্র",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 57,
+          "pdf_end_page": 62
+        },
+        {
+          "chapter_id": "class7-anandopath-bn-ch9",
+          "number": 9,
+          "title": "জাগো সুন্দর",
+          "printed_start_page": 58,
+          "pdf_start_page": 63,
+          "printed_end_page": 64,
+          "pdf_end_page": 69
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-anandopath-en": {
+      "subject": "anandopath",
+      "chapters": [
+        {
+          "chapter_id": "class7-anandopath-en-ch1",
+          "number": 1,
+          "title": "তোতা-কাহিনি",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 5,
+          "pdf_end_page": 10
+        },
+        {
+          "chapter_id": "class7-anandopath-en-ch2",
+          "number": 2,
+          "title": "জিদ",
+          "printed_start_page": 6,
+          "pdf_start_page": 11,
+          "printed_end_page": 10,
+          "pdf_end_page": 15
+        },
+        {
+          "chapter_id": "class7-anandopath-en-ch3",
+          "number": 3,
+          "title": "খুদে গোয়েন্দার অভিযান",
+          "printed_start_page": 11,
+          "pdf_start_page": 16,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-anandopath-en-ch4",
+          "number": 4,
+          "title": "দীক্ষা",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 24,
+          "pdf_end_page": 29
+        },
+        {
+          "chapter_id": "class7-anandopath-en-ch5",
+          "number": 5,
+          "title": "পদ্য লেখার জোরে",
+          "printed_start_page": 25,
+          "pdf_start_page": 30,
+          "printed_end_page": 31,
+          "pdf_end_page": 36
+        },
+        {
+          "chapter_id": "class7-anandopath-en-ch6",
+          "number": 6,
+          "title": "কোকিল",
+          "printed_start_page": 32,
+          "pdf_start_page": 37,
+          "printed_end_page": 39,
+          "pdf_end_page": 44
+        },
+        {
+          "chapter_id": "class7-anandopath-en-ch7",
+          "number": 7,
+          "title": "কিং লিয়ার",
+          "printed_start_page": 40,
+          "pdf_start_page": 45,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-anandopath-en-ch8",
+          "number": 8,
+          "title": "যুদ্ধক্ষেত্রে পিতাপুত্র",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 57,
+          "pdf_end_page": 62
+        },
+        {
+          "chapter_id": "class7-anandopath-en-ch9",
+          "number": 9,
+          "title": "জাগো সুন্দর",
+          "printed_start_page": 58,
+          "pdf_start_page": 63,
+          "printed_end_page": 64,
+          "pdf_end_page": 69
+        }
+      ],
+      "language": "en"
+    },
+    "class7-arabic-bn": {
+      "subject": "arabic",
+      "chapters": [
+        {
+          "chapter_id": "class7-arabic-bn-ch1",
+          "number": 1,
+          "title": "আল্লাহর বাণী",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 4,
+          "pdf_end_page": 9
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch2",
+          "number": 2,
+          "title": "রাসূল (সা:)-এর হাদিস",
+          "printed_start_page": 5,
+          "pdf_start_page": 10,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch3",
+          "number": 3,
+          "title": "আরবিতে সপ্তাহের সাত দিনের নাম",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch4",
+          "number": 4,
+          "title": "আরবিতে দিকের নাম",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 20,
+          "pdf_end_page": 25
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch5",
+          "number": 5,
+          "title": "আরবি মাসের নাম",
+          "printed_start_page": 21,
+          "pdf_start_page": 26,
+          "printed_end_page": 25,
+          "pdf_end_page": 30
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch6",
+          "number": 6,
+          "title": "আরবিতে ঋতুর নাম",
+          "printed_start_page": 26,
+          "pdf_start_page": 31,
+          "printed_end_page": 32,
+          "pdf_end_page": 37
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch7",
+          "number": 7,
+          "title": "আরবিতে গণনা",
+          "printed_start_page": 33,
+          "pdf_start_page": 38,
+          "printed_end_page": 42,
+          "pdf_end_page": 47
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch8",
+          "number": 8,
+          "title": "فِي الصَّفِّ",
+          "printed_start_page": 43,
+          "pdf_start_page": 48,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch9",
+          "number": 9,
+          "title": "وَطَنِي",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 53,
+          "pdf_end_page": 58
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch10",
+          "number": 10,
+          "title": "آدَابُ الطَّعَامِ",
+          "printed_start_page": 54,
+          "pdf_start_page": 59,
+          "printed_end_page": 59,
+          "pdf_end_page": 64
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch11",
+          "number": 11,
+          "title": "زِيَارَةُ بَيْتِ خَالٍ",
+          "printed_start_page": 60,
+          "pdf_start_page": 65,
+          "printed_end_page": 66,
+          "pdf_end_page": 71
+        },
+        {
+          "chapter_id": "class7-arabic-bn-ch12",
+          "number": 12,
+          "title": "فِي السُّوقِ",
+          "printed_start_page": 67,
+          "pdf_start_page": 72,
+          "printed_end_page": 72,
+          "pdf_end_page": 77
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-arabic-en": {
+      "subject": "arabic",
+      "chapters": [
+        {
+          "chapter_id": "class7-arabic-en-ch1",
+          "number": 1,
+          "title": "আল্লাহর বাণী",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 4,
+          "pdf_end_page": 9
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch2",
+          "number": 2,
+          "title": "রাসূল (সা:)-এর হাদিস",
+          "printed_start_page": 5,
+          "pdf_start_page": 10,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch3",
+          "number": 3,
+          "title": "আরবিতে সপ্তাহের সাত দিনের নাম",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch4",
+          "number": 4,
+          "title": "আরবিতে দিকের নাম",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 20,
+          "pdf_end_page": 25
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch5",
+          "number": 5,
+          "title": "আরবি মাসের নাম",
+          "printed_start_page": 21,
+          "pdf_start_page": 26,
+          "printed_end_page": 25,
+          "pdf_end_page": 30
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch6",
+          "number": 6,
+          "title": "আরবিতে ঋতুর নাম",
+          "printed_start_page": 26,
+          "pdf_start_page": 31,
+          "printed_end_page": 32,
+          "pdf_end_page": 37
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch7",
+          "number": 7,
+          "title": "আরবিতে গণনা",
+          "printed_start_page": 33,
+          "pdf_start_page": 38,
+          "printed_end_page": 42,
+          "pdf_end_page": 47
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch8",
+          "number": 8,
+          "title": "فِي الصَّفِّ",
+          "printed_start_page": 43,
+          "pdf_start_page": 48,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch9",
+          "number": 9,
+          "title": "وَطَنِي",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 53,
+          "pdf_end_page": 58
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch10",
+          "number": 10,
+          "title": "آدَابُ الطَّعَامِ",
+          "printed_start_page": 54,
+          "pdf_start_page": 59,
+          "printed_end_page": 59,
+          "pdf_end_page": 64
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch11",
+          "number": 11,
+          "title": "زِيَارَةُ بَيْتِ خَالٍ",
+          "printed_start_page": 60,
+          "pdf_start_page": 65,
+          "printed_end_page": 66,
+          "pdf_end_page": 71
+        },
+        {
+          "chapter_id": "class7-arabic-en-ch12",
+          "number": 12,
+          "title": "فِي السُّوقِ",
+          "printed_start_page": 67,
+          "pdf_start_page": 72,
+          "printed_end_page": 72,
+          "pdf_end_page": 77
+        }
+      ],
+      "language": "en"
+    },
+    "class7-arts-bn": {
+      "subject": "arts",
+      "chapters": [
+        {
+          "chapter_id": "class7-arts-bn-ch1",
+          "number": 1,
+          "title": "বাংলাদেশে চারুকলা শিক্ষার ইতিহাস",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 7,
+          "pdf_end_page": 12
+        },
+        {
+          "chapter_id": "class7-arts-bn-ch2",
+          "number": 2,
+          "title": "চিত্রকলা সর্বকালে সব মানুষের ভাষা",
+          "printed_start_page": 8,
+          "pdf_start_page": 13,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-arts-bn-ch3",
+          "number": 3,
+          "title": "বাংলাদেশের লোকশিল্প ও কারুশিল্প",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 26,
+          "pdf_end_page": 31
+        },
+        {
+          "chapter_id": "class7-arts-bn-ch4",
+          "number": 4,
+          "title": "ছবি আঁকার বিভিন্ন মাধ্যম",
+          "printed_start_page": 27,
+          "pdf_start_page": 32,
+          "printed_end_page": 30,
+          "pdf_end_page": 35
+        },
+        {
+          "chapter_id": "class7-arts-bn-ch5",
+          "number": 5,
+          "title": "ছবি আঁকার নানারকম আনন্দদায়ক অনুশীলন",
+          "printed_start_page": 31,
+          "pdf_start_page": 36,
+          "printed_end_page": 39,
+          "pdf_end_page": 44
+        },
+        {
+          "chapter_id": "class7-arts-bn-ch6",
+          "number": 6,
+          "title": "বিভিন্ন প্রকার শিল্পকর্ম",
+          "printed_start_page": 40,
+          "pdf_start_page": 45,
+          "printed_end_page": 60,
+          "pdf_end_page": 65
+        },
+        {
+          "chapter_id": "class7-arts-bn-ch7",
+          "number": 7,
+          "title": "রঙ ও রঙের ব্যবহার",
+          "printed_start_page": 61,
+          "pdf_start_page": 66,
+          "printed_end_page": 68,
+          "pdf_end_page": 73
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-arts-en": {
+      "subject": "arts",
+      "chapters": [
+        {
+          "chapter_id": "class7-arts-en-ch1",
+          "number": 1,
+          "title": "The History of Fine Arts Education of Bangladesh",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 8,
+          "pdf_end_page": 13
+        },
+        {
+          "chapter_id": "class7-arts-en-ch2",
+          "number": 2,
+          "title": "Fine Arts is the Language of All People of All Ages",
+          "printed_start_page": 9,
+          "pdf_start_page": 14,
+          "printed_end_page": 17,
+          "pdf_end_page": 22
+        },
+        {
+          "chapter_id": "class7-arts-en-ch3",
+          "number": 3,
+          "title": "The Folk Art and Handicrafts of Bangladesh",
+          "printed_start_page": 18,
+          "pdf_start_page": 23,
+          "printed_end_page": 28,
+          "pdf_end_page": 33
+        },
+        {
+          "chapter_id": "class7-arts-en-ch4",
+          "number": 4,
+          "title": "Different Media of Drawing Pictures",
+          "printed_start_page": 29,
+          "pdf_start_page": 34,
+          "printed_end_page": 33,
+          "pdf_end_page": 38
+        },
+        {
+          "chapter_id": "class7-arts-en-ch5",
+          "number": 5,
+          "title": "Various Interesting Practices of Drawing Pictures",
+          "printed_start_page": 34,
+          "pdf_start_page": 39,
+          "printed_end_page": 42,
+          "pdf_end_page": 47
+        },
+        {
+          "chapter_id": "class7-arts-en-ch6",
+          "number": 6,
+          "title": "Different Types of Crafts",
+          "printed_start_page": 43,
+          "pdf_start_page": 48,
+          "printed_end_page": 60,
+          "pdf_end_page": 65
+        },
+        {
+          "chapter_id": "class7-arts-en-ch7",
+          "number": 7,
+          "title": "Colors and Their Uses",
+          "printed_start_page": 61,
+          "pdf_start_page": 66,
+          "printed_end_page": 68,
+          "pdf_end_page": 73
+        }
+      ],
+      "language": "en"
+    },
+    "class7-bekoron-bn": {
+      "subject": "bekoron",
+      "chapters": [
+        {
+          "chapter_id": "class7-bekoron-bn-ch1",
+          "number": 1,
+          "title": "ভাষা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch2",
+          "number": 2,
+          "title": "ব্যাকরণ",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 11,
+          "pdf_end_page": 16
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch3",
+          "number": 3,
+          "title": "ধ্বনি ও বর্ণ",
+          "printed_start_page": 12,
+          "pdf_start_page": 17,
+          "printed_end_page": 17,
+          "pdf_end_page": 22
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch4",
+          "number": 4,
+          "title": "সন্ধি",
+          "printed_start_page": 18,
+          "pdf_start_page": 23,
+          "printed_end_page": 26,
+          "pdf_end_page": 31
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch5",
+          "number": 5,
+          "title": "শব্দ ও পদ",
+          "printed_start_page": 27,
+          "pdf_start_page": 32,
+          "printed_end_page": 42,
+          "pdf_end_page": 47
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch6",
+          "number": 6,
+          "title": "শব্দগঠন",
+          "printed_start_page": 43,
+          "pdf_start_page": 48,
+          "printed_end_page": 57,
+          "pdf_end_page": 62
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch7",
+          "number": 7,
+          "title": "বাক্য",
+          "printed_start_page": 58,
+          "pdf_start_page": 63,
+          "printed_end_page": 62,
+          "pdf_end_page": 67
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch8",
+          "number": 8,
+          "title": "বিরামচিহ্ন",
+          "printed_start_page": 63,
+          "pdf_start_page": 68,
+          "printed_end_page": 67,
+          "pdf_end_page": 72
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch9",
+          "number": 9,
+          "title": "বানান",
+          "printed_start_page": 68,
+          "pdf_start_page": 73,
+          "printed_end_page": 73,
+          "pdf_end_page": 78
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch10",
+          "number": 10,
+          "title": "শব্দার্থ",
+          "printed_start_page": 74,
+          "pdf_start_page": 79,
+          "printed_end_page": 91,
+          "pdf_end_page": 96
+        },
+        {
+          "chapter_id": "class7-bekoron-bn-ch11",
+          "number": 11,
+          "title": "নির্মিতি",
+          "printed_start_page": 92,
+          "pdf_start_page": 97,
+          "printed_end_page": 128,
+          "pdf_end_page": 133
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-bekoron-en": {
+      "subject": "bekoron",
+      "chapters": [
+        {
+          "chapter_id": "class7-bekoron-en-ch1",
+          "number": 1,
+          "title": "ভাষা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch2",
+          "number": 2,
+          "title": "ব্যাকরণ",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 11,
+          "pdf_end_page": 16
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch3",
+          "number": 3,
+          "title": "ধ্বনি ও বর্ণ",
+          "printed_start_page": 12,
+          "pdf_start_page": 17,
+          "printed_end_page": 17,
+          "pdf_end_page": 22
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch4",
+          "number": 4,
+          "title": "সন্ধি",
+          "printed_start_page": 18,
+          "pdf_start_page": 23,
+          "printed_end_page": 26,
+          "pdf_end_page": 31
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch5",
+          "number": 5,
+          "title": "শব্দ ও পদ",
+          "printed_start_page": 27,
+          "pdf_start_page": 32,
+          "printed_end_page": 42,
+          "pdf_end_page": 47
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch6",
+          "number": 6,
+          "title": "শব্দগঠন",
+          "printed_start_page": 43,
+          "pdf_start_page": 48,
+          "printed_end_page": 57,
+          "pdf_end_page": 62
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch7",
+          "number": 7,
+          "title": "বাক্য",
+          "printed_start_page": 58,
+          "pdf_start_page": 63,
+          "printed_end_page": 62,
+          "pdf_end_page": 67
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch8",
+          "number": 8,
+          "title": "বিরামচিহ্ন",
+          "printed_start_page": 63,
+          "pdf_start_page": 68,
+          "printed_end_page": 67,
+          "pdf_end_page": 72
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch9",
+          "number": 9,
+          "title": "বানান",
+          "printed_start_page": 68,
+          "pdf_start_page": 73,
+          "printed_end_page": 73,
+          "pdf_end_page": 78
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch10",
+          "number": 10,
+          "title": "শব্দার্থ",
+          "printed_start_page": 74,
+          "pdf_start_page": 79,
+          "printed_end_page": 91,
+          "pdf_end_page": 96
+        },
+        {
+          "chapter_id": "class7-bekoron-en-ch11",
+          "number": 11,
+          "title": "নির্মিতি",
+          "printed_start_page": 92,
+          "pdf_start_page": 97,
+          "printed_end_page": 128,
+          "pdf_end_page": 133
+        }
+      ],
+      "language": "en"
+    },
+    "class7-bgs-bn": {
+      "subject": "bgs",
+      "chapters": [
+        {
+          "chapter_id": "class7-bgs-bn-ch1",
+          "number": 1,
+          "title": "বাংলাদেশের মুক্তিসংগ্রাম ও গণআন্দোলন",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch2",
+          "number": 2,
+          "title": "বাংলাদেশের সংস্কৃতি ও সাংস্কৃতিক বৈচিত্র্য",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 28,
+          "pdf_end_page": 33
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch3",
+          "number": 3,
+          "title": "পরিবারে শিশুর বেড়ে ওঠা",
+          "printed_start_page": 29,
+          "pdf_start_page": 34,
+          "printed_end_page": 34,
+          "pdf_end_page": 39
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch4",
+          "number": 4,
+          "title": "বাংলাদেশের অর্থনীতি",
+          "printed_start_page": 35,
+          "pdf_start_page": 40,
+          "printed_end_page": 44,
+          "pdf_end_page": 49
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch5",
+          "number": 5,
+          "title": "বাংলাদেশ ও বাংলাদেশের নাগরিক",
+          "printed_start_page": 45,
+          "pdf_start_page": 50,
+          "printed_end_page": 52,
+          "pdf_end_page": 57
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch6",
+          "number": 6,
+          "title": "বাংলাদেশের জলবায়ু",
+          "printed_start_page": 53,
+          "pdf_start_page": 58,
+          "printed_end_page": 63,
+          "pdf_end_page": 68
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch7",
+          "number": 7,
+          "title": "বাংলাদেশের জনসংখ্যা পরিচিতি",
+          "printed_start_page": 64,
+          "pdf_start_page": 69,
+          "printed_end_page": 76,
+          "pdf_end_page": 81
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch8",
+          "number": 8,
+          "title": "বাংলাদেশের সামাজিক সমস্যা",
+          "printed_start_page": 77,
+          "pdf_start_page": 82,
+          "printed_end_page": 83,
+          "pdf_end_page": 88
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch9",
+          "number": 9,
+          "title": "বাংলাদেশে প্রবীণ ব্যক্তি ও নারী অধিকার",
+          "printed_start_page": 84,
+          "pdf_start_page": 89,
+          "printed_end_page": 93,
+          "pdf_end_page": 98
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch10",
+          "number": 10,
+          "title": "এশিয়ার কয়েকটি দেশ",
+          "printed_start_page": 94,
+          "pdf_start_page": 99,
+          "printed_end_page": 101,
+          "pdf_end_page": 106
+        },
+        {
+          "chapter_id": "class7-bgs-bn-ch11",
+          "number": 11,
+          "title": "বাংলাদেশ ও আন্তর্জাতিক সহযোগিতা",
+          "printed_start_page": 102,
+          "pdf_start_page": 107,
+          "printed_end_page": 112,
+          "pdf_end_page": 117
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-bgs-en": {
+      "subject": "bgs",
+      "chapters": [
+        {
+          "chapter_id": "class7-bgs-en-ch1",
+          "number": 1,
+          "title": "Struggle for Liberation and Mass Movements of Bangladesh",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch2",
+          "number": 2,
+          "title": "Culture and Cultural Diversity of Bangladesh",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 28,
+          "pdf_end_page": 33
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch3",
+          "number": 3,
+          "title": "Growth of a Child in a Family",
+          "printed_start_page": 29,
+          "pdf_start_page": 34,
+          "printed_end_page": 34,
+          "pdf_end_page": 39
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch4",
+          "number": 4,
+          "title": "Economy of Bangladesh",
+          "printed_start_page": 35,
+          "pdf_start_page": 40,
+          "printed_end_page": 45,
+          "pdf_end_page": 50
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch5",
+          "number": 5,
+          "title": "Bangladesh and Citizen of Bangladesh",
+          "printed_start_page": 46,
+          "pdf_start_page": 51,
+          "printed_end_page": 53,
+          "pdf_end_page": 58
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch6",
+          "number": 6,
+          "title": "Climate of Bangladesh",
+          "printed_start_page": 54,
+          "pdf_start_page": 59,
+          "printed_end_page": 64,
+          "pdf_end_page": 69
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch7",
+          "number": 7,
+          "title": "Introduction to Population of Bangladesh",
+          "printed_start_page": 65,
+          "pdf_start_page": 70,
+          "printed_end_page": 77,
+          "pdf_end_page": 82
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch8",
+          "number": 8,
+          "title": "Social Problems in Bangladesh",
+          "printed_start_page": 78,
+          "pdf_start_page": 83,
+          "printed_end_page": 84,
+          "pdf_end_page": 89
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch9",
+          "number": 9,
+          "title": "Rights of Senior Citizens and Women in Bangladesh",
+          "printed_start_page": 85,
+          "pdf_start_page": 90,
+          "printed_end_page": 94,
+          "pdf_end_page": 99
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch10",
+          "number": 10,
+          "title": "Some Countries in Asia",
+          "printed_start_page": 95,
+          "pdf_start_page": 100,
+          "printed_end_page": 102,
+          "pdf_end_page": 107
+        },
+        {
+          "chapter_id": "class7-bgs-en-ch11",
+          "number": 11,
+          "title": "Bangladesh and International Cooperation",
+          "printed_start_page": 103,
+          "pdf_start_page": 108,
+          "printed_end_page": 112,
+          "pdf_end_page": 117
+        }
+      ],
+      "language": "en"
+    },
+    "class7-buddhist-bn": {
+      "subject": "buddhist",
+      "chapters": [
+        {
+          "chapter_id": "class7-buddhist-bn-ch1",
+          "number": 1,
+          "title": "গৌতম বুদ্ধের নৈতিক শিক্ষা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 10,
+          "pdf_end_page": 15
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch2",
+          "number": 2,
+          "title": "বন্দনা",
+          "printed_start_page": 11,
+          "pdf_start_page": 16,
+          "printed_end_page": 17,
+          "pdf_end_page": 22
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch3",
+          "number": 3,
+          "title": "শীল",
+          "printed_start_page": 18,
+          "pdf_start_page": 23,
+          "printed_end_page": 28,
+          "pdf_end_page": 33
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch4",
+          "number": 4,
+          "title": "দান",
+          "printed_start_page": 29,
+          "pdf_start_page": 34,
+          "printed_end_page": 36,
+          "pdf_end_page": 41
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch5",
+          "number": 5,
+          "title": "সূত্র ও নীতিগাথা",
+          "printed_start_page": 37,
+          "pdf_start_page": 42,
+          "printed_end_page": 49,
+          "pdf_end_page": 54
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch6",
+          "number": 6,
+          "title": "আর্য অষ্টাঙ্গিক মার্গ",
+          "printed_start_page": 50,
+          "pdf_start_page": 55,
+          "printed_end_page": 55,
+          "pdf_end_page": 60
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch7",
+          "number": 7,
+          "title": "ধর্মীয় আচার-অনুষ্ঠান ও উৎসব",
+          "printed_start_page": 56,
+          "pdf_start_page": 61,
+          "printed_end_page": 70,
+          "pdf_end_page": 75
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch8",
+          "number": 8,
+          "title": "চরিতমালা",
+          "printed_start_page": 71,
+          "pdf_start_page": 76,
+          "printed_end_page": 78,
+          "pdf_end_page": 83
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch9",
+          "number": 9,
+          "title": "জাতক",
+          "printed_start_page": 79,
+          "pdf_start_page": 84,
+          "printed_end_page": 91,
+          "pdf_end_page": 96
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch10",
+          "number": 10,
+          "title": "বৌদ্ধ ঐতিহ্য ও দর্শনীয় স্থান",
+          "printed_start_page": 92,
+          "pdf_start_page": 97,
+          "printed_end_page": 101,
+          "pdf_end_page": 106
+        },
+        {
+          "chapter_id": "class7-buddhist-bn-ch11",
+          "number": 11,
+          "title": "বৌদ্ধধর্মে রাজন্যবর্গের অবদান: সম্রাট অশোক",
+          "printed_start_page": 102,
+          "pdf_start_page": 107,
+          "printed_end_page": 108,
+          "pdf_end_page": 113
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-buddhist-en": {
+      "subject": "buddhist",
+      "chapters": [
+        {
+          "chapter_id": "class7-buddhist-en-ch1",
+          "number": 1,
+          "title": "Gautama Buddha's Moral Education",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 12,
+          "pdf_end_page": 17
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch2",
+          "number": 2,
+          "title": "Bandana (worship)",
+          "printed_start_page": 13,
+          "pdf_start_page": 18,
+          "printed_end_page": 20,
+          "pdf_end_page": 25
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch3",
+          "number": 3,
+          "title": "Sila",
+          "printed_start_page": 21,
+          "pdf_start_page": 26,
+          "printed_end_page": 33,
+          "pdf_end_page": 38
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch4",
+          "number": 4,
+          "title": "Dana (gift)",
+          "printed_start_page": 34,
+          "pdf_start_page": 39,
+          "printed_end_page": 42,
+          "pdf_end_page": 47
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch5",
+          "number": 5,
+          "title": "Sutra And NithiGatha",
+          "printed_start_page": 43,
+          "pdf_start_page": 48,
+          "printed_end_page": 58,
+          "pdf_end_page": 63
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch6",
+          "number": 6,
+          "title": "Arya Astangik Marga",
+          "printed_start_page": 59,
+          "pdf_start_page": 64,
+          "printed_end_page": 66,
+          "pdf_end_page": 71
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch7",
+          "number": 7,
+          "title": "Riligious Rituals And Festivals",
+          "printed_start_page": 67,
+          "pdf_start_page": 72,
+          "printed_end_page": 84,
+          "pdf_end_page": 89
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch8",
+          "number": 8,
+          "title": "Biographies",
+          "printed_start_page": 85,
+          "pdf_start_page": 90,
+          "printed_end_page": 96,
+          "pdf_end_page": 101
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch9",
+          "number": 9,
+          "title": "Jataka",
+          "printed_start_page": 97,
+          "pdf_start_page": 102,
+          "printed_end_page": 112,
+          "pdf_end_page": 117
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch10",
+          "number": 10,
+          "title": "Buddhist Heritage And Worth Seeing Places",
+          "printed_start_page": 113,
+          "pdf_start_page": 118,
+          "printed_end_page": 125,
+          "pdf_end_page": 130
+        },
+        {
+          "chapter_id": "class7-buddhist-en-ch11",
+          "number": 11,
+          "title": "Role of Buddhists Kings in Buddhism: Emperor Asoka",
+          "printed_start_page": 126,
+          "pdf_start_page": 131,
+          "printed_end_page": 136,
+          "pdf_end_page": 141
+        }
+      ],
+      "language": "en"
+    },
+    "class7-christian-bn": {
+      "subject": "christian",
+      "chapters": [
+        {
+          "chapter_id": "class7-christian-bn-ch1",
+          "number": 1,
+          "title": "ঈশ্বরের অদ্বিতীয় পুত্র যীশু খ্রীষ্ট",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 8,
+          "pdf_end_page": 13
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch2",
+          "number": 2,
+          "title": "ঈশ্বরের সৃষ্টি উত্তম",
+          "printed_start_page": 9,
+          "pdf_start_page": 14,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch3",
+          "number": 3,
+          "title": "দেহ, মন ও আত্মাসম্পন্ন মানুষ",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 25,
+          "pdf_end_page": 30
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch4",
+          "number": 4,
+          "title": "পাপ",
+          "printed_start_page": 26,
+          "pdf_start_page": 31,
+          "printed_end_page": 34,
+          "pdf_end_page": 39
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch5",
+          "number": 5,
+          "title": "মুক্তিদাতা যীশুর জীবন ও কাজ",
+          "printed_start_page": 35,
+          "pdf_start_page": 40,
+          "printed_end_page": 42,
+          "pdf_end_page": 47
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch6",
+          "number": 6,
+          "title": "ঈশ্বরের আহ্বানে মারীয়ার সাড়াদান",
+          "printed_start_page": 43,
+          "pdf_start_page": 48,
+          "printed_end_page": 51,
+          "pdf_end_page": 56
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch7",
+          "number": 7,
+          "title": "যীশুর আশ্চর্য কাজ ও ঐশরাজ্য",
+          "printed_start_page": 52,
+          "pdf_start_page": 57,
+          "printed_end_page": 59,
+          "pdf_end_page": 64
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch8",
+          "number": 8,
+          "title": "খ্রীষ্টমণ্ডলী এক, পবিত্র ও প্রেরিতিক",
+          "printed_start_page": 60,
+          "pdf_start_page": 65,
+          "printed_end_page": 67,
+          "pdf_end_page": 72
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch9",
+          "number": 9,
+          "title": "ক্ষমা, সহনশীলতা ও দেশপ্রেম",
+          "printed_start_page": 68,
+          "pdf_start_page": 73,
+          "printed_end_page": 78,
+          "pdf_end_page": 83
+        },
+        {
+          "chapter_id": "class7-christian-bn-ch10",
+          "number": 10,
+          "title": "ফাদার চার্লস যোসেফ ইয়াং",
+          "printed_start_page": 79,
+          "pdf_start_page": 84,
+          "printed_end_page": 88,
+          "pdf_end_page": 93
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-christian-en": {
+      "subject": "christian",
+      "chapters": [
+        {
+          "chapter_id": "class7-christian-en-ch1",
+          "number": 1,
+          "title": "Lord Jesus Christ, God's Only Son",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 8,
+          "pdf_end_page": 13
+        },
+        {
+          "chapter_id": "class7-christian-en-ch2",
+          "number": 2,
+          "title": "God's Creation is the Greatest",
+          "printed_start_page": 9,
+          "pdf_start_page": 14,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-christian-en-ch3",
+          "number": 3,
+          "title": "Man - of Body, Mind and Soul",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 28,
+          "pdf_end_page": 33
+        },
+        {
+          "chapter_id": "class7-christian-en-ch4",
+          "number": 4,
+          "title": "Sin",
+          "printed_start_page": 29,
+          "pdf_start_page": 34,
+          "printed_end_page": 38,
+          "pdf_end_page": 43
+        },
+        {
+          "chapter_id": "class7-christian-en-ch5",
+          "number": 5,
+          "title": "Life and Work of Savior Jesus",
+          "printed_start_page": 39,
+          "pdf_start_page": 44,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-christian-en-ch6",
+          "number": 6,
+          "title": "Mary's Response to God's Call",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 56,
+          "pdf_end_page": 61
+        },
+        {
+          "chapter_id": "class7-christian-en-ch7",
+          "number": 7,
+          "title": "Miracle Works of Jesus and the Kingdom of God",
+          "printed_start_page": 57,
+          "pdf_start_page": 62,
+          "printed_end_page": 65,
+          "pdf_end_page": 70
+        },
+        {
+          "chapter_id": "class7-christian-en-ch8",
+          "number": 8,
+          "title": "The Church of Christ is one, Holy and Apostolic",
+          "printed_start_page": 66,
+          "pdf_start_page": 71,
+          "printed_end_page": 73,
+          "pdf_end_page": 78
+        },
+        {
+          "chapter_id": "class7-christian-en-ch9",
+          "number": 9,
+          "title": "Forgiveness, Endurance and Patriotism",
+          "printed_start_page": 74,
+          "pdf_start_page": 79,
+          "printed_end_page": 85,
+          "pdf_end_page": 90
+        },
+        {
+          "chapter_id": "class7-christian-en-ch10",
+          "number": 10,
+          "title": "Father Charles Joseph Young",
+          "printed_start_page": 86,
+          "pdf_start_page": 91,
+          "printed_end_page": 96,
+          "pdf_end_page": 101
+        }
+      ],
+      "language": "en"
+    },
+    "class7-eft-bn": {
+      "subject": "eft",
+      "chapters": [
+        {
+          "chapter_id": "class7-eft-bn-ch1",
+          "number": 1,
+          "title": "Attention, Please",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-eft-bn-ch2",
+          "number": 2,
+          "title": "My Study Guide",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-eft-bn-ch3",
+          "number": 3,
+          "title": "What are Friends for?",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 25,
+          "pdf_end_page": 30
+        },
+        {
+          "chapter_id": "class7-eft-bn-ch4",
+          "number": 4,
+          "title": "People Who Make a Difference",
+          "printed_start_page": 26,
+          "pdf_start_page": 31,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-eft-bn-ch5",
+          "number": 5,
+          "title": "Great Women to Remember",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 54,
+          "pdf_end_page": 59
+        },
+        {
+          "chapter_id": "class7-eft-bn-ch6",
+          "number": 6,
+          "title": "Leisure",
+          "printed_start_page": 55,
+          "pdf_start_page": 60,
+          "printed_end_page": 71,
+          "pdf_end_page": 76
+        },
+        {
+          "chapter_id": "class7-eft-bn-ch7",
+          "number": 7,
+          "title": "Games and Sports",
+          "printed_start_page": 72,
+          "pdf_start_page": 77,
+          "printed_end_page": 85,
+          "pdf_end_page": 90
+        },
+        {
+          "chapter_id": "class7-eft-bn-ch8",
+          "number": 8,
+          "title": "Likes and Dislikes",
+          "printed_start_page": 86,
+          "pdf_start_page": 91,
+          "printed_end_page": 97,
+          "pdf_end_page": 102
+        },
+        {
+          "chapter_id": "class7-eft-bn-ch9",
+          "number": 9,
+          "title": "Climate Change",
+          "printed_start_page": 98,
+          "pdf_start_page": 103,
+          "printed_end_page": 107,
+          "pdf_end_page": 112
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-eft-en": {
+      "subject": "eft",
+      "chapters": [
+        {
+          "chapter_id": "class7-eft-en-ch1",
+          "number": 1,
+          "title": "Attention, Please",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-eft-en-ch2",
+          "number": 2,
+          "title": "My Study Guide",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-eft-en-ch3",
+          "number": 3,
+          "title": "What are Friends for?",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 25,
+          "pdf_end_page": 30
+        },
+        {
+          "chapter_id": "class7-eft-en-ch4",
+          "number": 4,
+          "title": "People Who Make a Difference",
+          "printed_start_page": 26,
+          "pdf_start_page": 31,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-eft-en-ch5",
+          "number": 5,
+          "title": "Great Women to Remember",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 54,
+          "pdf_end_page": 59
+        },
+        {
+          "chapter_id": "class7-eft-en-ch6",
+          "number": 6,
+          "title": "Leisure",
+          "printed_start_page": 55,
+          "pdf_start_page": 60,
+          "printed_end_page": 71,
+          "pdf_end_page": 76
+        },
+        {
+          "chapter_id": "class7-eft-en-ch7",
+          "number": 7,
+          "title": "Games and Sports",
+          "printed_start_page": 72,
+          "pdf_start_page": 77,
+          "printed_end_page": 85,
+          "pdf_end_page": 90
+        },
+        {
+          "chapter_id": "class7-eft-en-ch8",
+          "number": 8,
+          "title": "Likes and Dislikes",
+          "printed_start_page": 86,
+          "pdf_start_page": 91,
+          "printed_end_page": 97,
+          "pdf_end_page": 102
+        },
+        {
+          "chapter_id": "class7-eft-en-ch9",
+          "number": 9,
+          "title": "Climate Change",
+          "printed_start_page": 98,
+          "pdf_start_page": 103,
+          "printed_end_page": 107,
+          "pdf_end_page": 112
+        }
+      ],
+      "language": "en"
+    },
+    "class7-english-grammar-bn": {
+      "subject": "english-grammar",
+      "chapters": [
+        {
+          "chapter_id": "class7-english-grammar-bn-ch1",
+          "number": 1,
+          "title": "Parts of Speech",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 11,
+          "pdf_end_page": 16
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch2",
+          "number": 2,
+          "title": "Modals",
+          "printed_start_page": 12,
+          "pdf_start_page": 17,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch3",
+          "number": 3,
+          "title": "The Tense",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 29,
+          "pdf_end_page": 34
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch4",
+          "number": 4,
+          "title": "Forms of Verbs",
+          "printed_start_page": 30,
+          "pdf_start_page": 35,
+          "printed_end_page": 48,
+          "pdf_end_page": 53
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch5",
+          "number": 5,
+          "title": "More about Adjectives",
+          "printed_start_page": 49,
+          "pdf_start_page": 54,
+          "printed_end_page": 57,
+          "pdf_end_page": 62
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch6",
+          "number": 6,
+          "title": "More about Adverbs",
+          "printed_start_page": 58,
+          "pdf_start_page": 63,
+          "printed_end_page": 64,
+          "pdf_end_page": 69
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch7",
+          "number": 7,
+          "title": "More about Prepositions",
+          "printed_start_page": 65,
+          "pdf_start_page": 70,
+          "printed_end_page": 78,
+          "pdf_end_page": 83
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch8",
+          "number": 8,
+          "title": "Linking Words",
+          "printed_start_page": 79,
+          "pdf_start_page": 84,
+          "printed_end_page": 82,
+          "pdf_end_page": 87
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch9",
+          "number": 9,
+          "title": "Introducing Articles",
+          "printed_start_page": 83,
+          "pdf_start_page": 88,
+          "printed_end_page": 89,
+          "pdf_end_page": 94
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch10",
+          "number": 10,
+          "title": "Possessives",
+          "printed_start_page": 90,
+          "pdf_start_page": 95,
+          "printed_end_page": 94,
+          "pdf_end_page": 99
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch11",
+          "number": 11,
+          "title": "The Sentence",
+          "printed_start_page": 95,
+          "pdf_start_page": 100,
+          "printed_end_page": 112,
+          "pdf_end_page": 117
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch12",
+          "number": 12,
+          "title": "Introductory ‘There’",
+          "printed_start_page": 113,
+          "pdf_start_page": 118,
+          "printed_end_page": 118,
+          "pdf_end_page": 123
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch13",
+          "number": 13,
+          "title": "There isn’t/ There aren’t",
+          "printed_start_page": 119,
+          "pdf_start_page": 124,
+          "printed_end_page": 123,
+          "pdf_end_page": 128
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch14",
+          "number": 14,
+          "title": "Infinitives, Gerunds and Participles",
+          "printed_start_page": 124,
+          "pdf_start_page": 129,
+          "printed_end_page": 129,
+          "pdf_end_page": 134
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch15",
+          "number": 15,
+          "title": "Capitalization and Punctuation",
+          "printed_start_page": 130,
+          "pdf_start_page": 135,
+          "printed_end_page": 135,
+          "pdf_end_page": 140
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch16",
+          "number": 16,
+          "title": "Direct Speech and Indirect Speech",
+          "printed_start_page": 136,
+          "pdf_start_page": 141,
+          "printed_end_page": 147,
+          "pdf_end_page": 152
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch17",
+          "number": 17,
+          "title": "Voice",
+          "printed_start_page": 148,
+          "pdf_start_page": 153,
+          "printed_end_page": 164,
+          "pdf_end_page": 169
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch18",
+          "number": 18,
+          "title": "Writing Paragraphs",
+          "printed_start_page": 166,
+          "pdf_start_page": 171,
+          "printed_end_page": 177,
+          "pdf_end_page": 182
+        },
+        {
+          "chapter_id": "class7-english-grammar-bn-ch19",
+          "number": 19,
+          "title": "Letter Writing",
+          "printed_start_page": 178,
+          "pdf_start_page": 183,
+          "printed_end_page": 190,
+          "pdf_end_page": 195
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-english-grammar-en": {
+      "subject": "english-grammar",
+      "chapters": [
+        {
+          "chapter_id": "class7-english-grammar-en-ch1",
+          "number": 1,
+          "title": "Parts of Speech",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 11,
+          "pdf_end_page": 16
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch2",
+          "number": 2,
+          "title": "Modals",
+          "printed_start_page": 12,
+          "pdf_start_page": 17,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch3",
+          "number": 3,
+          "title": "The Tense",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 29,
+          "pdf_end_page": 34
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch4",
+          "number": 4,
+          "title": "Forms of Verbs",
+          "printed_start_page": 30,
+          "pdf_start_page": 35,
+          "printed_end_page": 48,
+          "pdf_end_page": 53
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch5",
+          "number": 5,
+          "title": "More about Adjectives",
+          "printed_start_page": 49,
+          "pdf_start_page": 54,
+          "printed_end_page": 57,
+          "pdf_end_page": 62
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch6",
+          "number": 6,
+          "title": "More about Adverbs",
+          "printed_start_page": 58,
+          "pdf_start_page": 63,
+          "printed_end_page": 64,
+          "pdf_end_page": 69
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch7",
+          "number": 7,
+          "title": "More about Prepositions",
+          "printed_start_page": 65,
+          "pdf_start_page": 70,
+          "printed_end_page": 78,
+          "pdf_end_page": 83
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch8",
+          "number": 8,
+          "title": "Linking Words",
+          "printed_start_page": 79,
+          "pdf_start_page": 84,
+          "printed_end_page": 82,
+          "pdf_end_page": 87
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch9",
+          "number": 9,
+          "title": "Introducing Articles",
+          "printed_start_page": 83,
+          "pdf_start_page": 88,
+          "printed_end_page": 89,
+          "pdf_end_page": 94
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch10",
+          "number": 10,
+          "title": "Possessives",
+          "printed_start_page": 90,
+          "pdf_start_page": 95,
+          "printed_end_page": 94,
+          "pdf_end_page": 99
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch11",
+          "number": 11,
+          "title": "The Sentence",
+          "printed_start_page": 95,
+          "pdf_start_page": 100,
+          "printed_end_page": 112,
+          "pdf_end_page": 117
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch12",
+          "number": 12,
+          "title": "Introductory ‘There’",
+          "printed_start_page": 113,
+          "pdf_start_page": 118,
+          "printed_end_page": 118,
+          "pdf_end_page": 123
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch13",
+          "number": 13,
+          "title": "There isn’t/ There aren’t",
+          "printed_start_page": 119,
+          "pdf_start_page": 124,
+          "printed_end_page": 123,
+          "pdf_end_page": 128
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch14",
+          "number": 14,
+          "title": "Infinitives, Gerunds and Participles",
+          "printed_start_page": 124,
+          "pdf_start_page": 129,
+          "printed_end_page": 129,
+          "pdf_end_page": 134
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch15",
+          "number": 15,
+          "title": "Capitalization and Punctuation",
+          "printed_start_page": 130,
+          "pdf_start_page": 135,
+          "printed_end_page": 135,
+          "pdf_end_page": 140
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch16",
+          "number": 16,
+          "title": "Direct Speech and Indirect Speech",
+          "printed_start_page": 136,
+          "pdf_start_page": 141,
+          "printed_end_page": 147,
+          "pdf_end_page": 152
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch17",
+          "number": 17,
+          "title": "Voice",
+          "printed_start_page": 148,
+          "pdf_start_page": 153,
+          "printed_end_page": 164,
+          "pdf_end_page": 169
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch18",
+          "number": 18,
+          "title": "Writing Paragraphs",
+          "printed_start_page": 166,
+          "pdf_start_page": 171,
+          "printed_end_page": 177,
+          "pdf_end_page": 182
+        },
+        {
+          "chapter_id": "class7-english-grammar-en-ch19",
+          "number": 19,
+          "title": "Letter Writing",
+          "printed_start_page": 178,
+          "pdf_start_page": 183,
+          "printed_end_page": 190,
+          "pdf_end_page": 195
+        }
+      ],
+      "language": "en"
+    },
+    "class7-hindu-bn": {
+      "subject": "hindu",
+      "chapters": [
+        {
+          "chapter_id": "class7-hindu-bn-ch1",
+          "number": 1,
+          "title": "ঈশ্বরের স্বরূপ",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 8,
+          "pdf_end_page": 13
+        },
+        {
+          "chapter_id": "class7-hindu-bn-ch2",
+          "number": 2,
+          "title": "হিন্দুধর্মের স্বরূপ ও বিশ্বাস",
+          "printed_start_page": 9,
+          "pdf_start_page": 14,
+          "printed_end_page": 17,
+          "pdf_end_page": 22
+        },
+        {
+          "chapter_id": "class7-hindu-bn-ch3",
+          "number": 3,
+          "title": "ধর্মগ্রন্থ",
+          "printed_start_page": 18,
+          "pdf_start_page": 23,
+          "printed_end_page": 26,
+          "pdf_end_page": 31
+        },
+        {
+          "chapter_id": "class7-hindu-bn-ch4",
+          "number": 4,
+          "title": "নিত্যকর্ম ও যোগাসন",
+          "printed_start_page": 27,
+          "pdf_start_page": 32,
+          "printed_end_page": 33,
+          "pdf_end_page": 38
+        },
+        {
+          "chapter_id": "class7-hindu-bn-ch5",
+          "number": 5,
+          "title": "পূজা-পার্বণ",
+          "printed_start_page": 34,
+          "pdf_start_page": 39,
+          "printed_end_page": 40,
+          "pdf_end_page": 45
+        },
+        {
+          "chapter_id": "class7-hindu-bn-ch6",
+          "number": 6,
+          "title": "ধর্মীয় উপাখ্যানে নৈতিক শিক্ষা",
+          "printed_start_page": 41,
+          "pdf_start_page": 46,
+          "printed_end_page": 49,
+          "pdf_end_page": 54
+        },
+        {
+          "chapter_id": "class7-hindu-bn-ch7",
+          "number": 7,
+          "title": "অবতার ও আদর্শ জীবনচরিত",
+          "printed_start_page": 50,
+          "pdf_start_page": 55,
+          "printed_end_page": 68,
+          "pdf_end_page": 73
+        },
+        {
+          "chapter_id": "class7-hindu-bn-ch8",
+          "number": 8,
+          "title": "হিন্দুধর্ম ও নৈতিক মূল্যবোধ",
+          "printed_start_page": 69,
+          "pdf_start_page": 74,
+          "printed_end_page": 79,
+          "pdf_end_page": 84
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-hindu-en": {
+      "subject": "hindu",
+      "chapters": [
+        {
+          "chapter_id": "class7-hindu-en-ch1",
+          "number": 1,
+          "title": "The Nature of God",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-hindu-en-ch2",
+          "number": 2,
+          "title": "The Nature and the Beliefs of Hindu Religion",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 20,
+          "pdf_end_page": 25
+        },
+        {
+          "chapter_id": "class7-hindu-en-ch3",
+          "number": 3,
+          "title": "Religious Scriptures",
+          "printed_start_page": 21,
+          "pdf_start_page": 26,
+          "printed_end_page": 30,
+          "pdf_end_page": 35
+        },
+        {
+          "chapter_id": "class7-hindu-en-ch4",
+          "number": 4,
+          "title": "Nityakarma and Yogasan",
+          "printed_start_page": 31,
+          "pdf_start_page": 36,
+          "printed_end_page": 38,
+          "pdf_end_page": 43
+        },
+        {
+          "chapter_id": "class7-hindu-en-ch5",
+          "number": 5,
+          "title": "Worship-Festivals",
+          "printed_start_page": 39,
+          "pdf_start_page": 44,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-hindu-en-ch6",
+          "number": 6,
+          "title": "Moral teachings in religious stories",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 57,
+          "pdf_end_page": 62
+        },
+        {
+          "chapter_id": "class7-hindu-en-ch7",
+          "number": 7,
+          "title": "Avatar and Ideal Biographies",
+          "printed_start_page": 58,
+          "pdf_start_page": 63,
+          "printed_end_page": 79,
+          "pdf_end_page": 84
+        },
+        {
+          "chapter_id": "class7-hindu-en-ch8",
+          "number": 8,
+          "title": "Hinduism and Moral Values",
+          "printed_start_page": 80,
+          "pdf_start_page": 85,
+          "printed_end_page": 88,
+          "pdf_end_page": 93
+        }
+      ],
+      "language": "en"
+    },
+    "class7-homescience-bn": {
+      "subject": "homescience",
+      "chapters": [
+        {
+          "chapter_id": "class7-homescience-bn-ch1",
+          "number": 1,
+          "title": "গৃহ ব্যবস্থাপনার স্তর ও গৃহসম্পদ",
+          "printed_start_page": 2,
+          "pdf_start_page": 7,
+          "printed_end_page": 11,
+          "pdf_end_page": 16
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch2",
+          "number": 2,
+          "title": "গৃহসামগ্রী ক্রয়",
+          "printed_start_page": 12,
+          "pdf_start_page": 17,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch3",
+          "number": 3,
+          "title": "গৃহকে মনোরম ও আকর্ষণীয় করার নীতি",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 30,
+          "pdf_end_page": 35
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch4",
+          "number": 4,
+          "title": "পরিবার ও সমাজের সদস্য হিসেবে শিশু",
+          "printed_start_page": 32,
+          "pdf_start_page": 37,
+          "printed_end_page": 39,
+          "pdf_end_page": 44
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch5",
+          "number": 5,
+          "title": "শিশুর বিকাশে খেলাধুলা",
+          "printed_start_page": 40,
+          "pdf_start_page": 45,
+          "printed_end_page": 50,
+          "pdf_end_page": 55
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch6",
+          "number": 6,
+          "title": "জাতিসংঘ সনদ অনুযায়ী শিশুর অধিকার",
+          "printed_start_page": 51,
+          "pdf_start_page": 56,
+          "printed_end_page": 58,
+          "pdf_end_page": 63
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch7",
+          "number": 7,
+          "title": "প্রতিবন্ধী শিশু",
+          "printed_start_page": 59,
+          "pdf_start_page": 64,
+          "printed_end_page": 67,
+          "pdf_end_page": 72
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch8",
+          "number": 8,
+          "title": "খাদ্য উপাদান, পরিপাক ও শোষণ",
+          "printed_start_page": 69,
+          "pdf_start_page": 74,
+          "printed_end_page": 83,
+          "pdf_end_page": 88
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch9",
+          "number": 9,
+          "title": "মৌলিক খাদ্যগোষ্ঠী",
+          "printed_start_page": 84,
+          "pdf_start_page": 89,
+          "printed_end_page": 92,
+          "pdf_end_page": 97
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch10",
+          "number": 10,
+          "title": "রোগীর পথ্য ও পথ্য পরিকল্পনা",
+          "printed_start_page": 93,
+          "pdf_start_page": 98,
+          "printed_end_page": 101,
+          "pdf_end_page": 106
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch11",
+          "number": 11,
+          "title": "খাদ্য সংরক্ষণ",
+          "printed_start_page": 102,
+          "pdf_start_page": 107,
+          "printed_end_page": 110,
+          "pdf_end_page": 115
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch12",
+          "number": 12,
+          "title": "বয়ন তন্তুর গুণাগুণ",
+          "printed_start_page": 112,
+          "pdf_start_page": 117,
+          "printed_end_page": 117,
+          "pdf_end_page": 122
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch13",
+          "number": 13,
+          "title": "পোশাকের পরিচ্ছন্নতা",
+          "printed_start_page": 118,
+          "pdf_start_page": 123,
+          "printed_end_page": 130,
+          "pdf_end_page": 135
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch14",
+          "number": 14,
+          "title": "বস্ত্র অলংকরণ",
+          "printed_start_page": 131,
+          "pdf_start_page": 136,
+          "printed_end_page": 139,
+          "pdf_end_page": 144
+        },
+        {
+          "chapter_id": "class7-homescience-bn-ch15",
+          "number": 15,
+          "title": "পোশাকের পারিপাট্য ও ব্যক্তিত্ব",
+          "printed_start_page": 140,
+          "pdf_start_page": 145,
+          "printed_end_page": 144,
+          "pdf_end_page": 149
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-homescience-en": {
+      "subject": "homescience",
+      "chapters": [
+        {
+          "chapter_id": "class7-homescience-en-ch1",
+          "number": 1,
+          "title": "Steps of Home Management and Household Resources",
+          "printed_start_page": 2,
+          "pdf_start_page": 7,
+          "printed_end_page": 15,
+          "pdf_end_page": 20
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch2",
+          "number": 2,
+          "title": "Buying Household Appliances",
+          "printed_start_page": 16,
+          "pdf_start_page": 21,
+          "printed_end_page": 22,
+          "pdf_end_page": 27
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch3",
+          "number": 3,
+          "title": "Principles of Making Home Beautiful and Attractive",
+          "printed_start_page": 23,
+          "pdf_start_page": 28,
+          "printed_end_page": 38,
+          "pdf_end_page": 43
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch4",
+          "number": 4,
+          "title": "Child as a Member of Family and Society",
+          "printed_start_page": 40,
+          "pdf_start_page": 45,
+          "printed_end_page": 49,
+          "pdf_end_page": 54
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch5",
+          "number": 5,
+          "title": "Role of Playing Games in the Development of Children",
+          "printed_start_page": 50,
+          "pdf_start_page": 55,
+          "printed_end_page": 61,
+          "pdf_end_page": 66
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch6",
+          "number": 6,
+          "title": "Child's Rights According to the Declaration of United Nations (UN)",
+          "printed_start_page": 62,
+          "pdf_start_page": 67,
+          "printed_end_page": 70,
+          "pdf_end_page": 75
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch7",
+          "number": 7,
+          "title": "Disabled Children",
+          "printed_start_page": 71,
+          "pdf_start_page": 76,
+          "printed_end_page": 81,
+          "pdf_end_page": 86
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch8",
+          "number": 8,
+          "title": "Nutrients of Food, Digestion and Absorption",
+          "printed_start_page": 83,
+          "pdf_start_page": 88,
+          "printed_end_page": 99,
+          "pdf_end_page": 104
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch9",
+          "number": 9,
+          "title": "Basic Food Groups",
+          "printed_start_page": 100,
+          "pdf_start_page": 105,
+          "printed_end_page": 108,
+          "pdf_end_page": 113
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch10",
+          "number": 10,
+          "title": "Patient's Diet and Plan for the Diet",
+          "printed_start_page": 109,
+          "pdf_start_page": 114,
+          "printed_end_page": 119,
+          "pdf_end_page": 124
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch11",
+          "number": 11,
+          "title": "Preservation of Foods",
+          "printed_start_page": 120,
+          "pdf_start_page": 125,
+          "printed_end_page": 129,
+          "pdf_end_page": 134
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch12",
+          "number": 12,
+          "title": "Qualities of Textile Fibres",
+          "printed_start_page": 131,
+          "pdf_start_page": 136,
+          "printed_end_page": 137,
+          "pdf_end_page": 142
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch13",
+          "number": 13,
+          "title": "Cleanliness of Clothes",
+          "printed_start_page": 138,
+          "pdf_start_page": 143,
+          "printed_end_page": 153,
+          "pdf_end_page": 158
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch14",
+          "number": 14,
+          "title": "Decorating the Clothes",
+          "printed_start_page": 154,
+          "pdf_start_page": 159,
+          "printed_end_page": 165,
+          "pdf_end_page": 170
+        },
+        {
+          "chapter_id": "class7-homescience-en-ch15",
+          "number": 15,
+          "title": "Orderliness in Clothing and Personality",
+          "printed_start_page": 166,
+          "pdf_start_page": 171,
+          "printed_end_page": 172,
+          "pdf_end_page": 177
+        }
+      ],
+      "language": "en"
+    },
+    "class7-ict-bn": {
+      "subject": "ict",
+      "chapters": [
+        {
+          "chapter_id": "class7-ict-bn-ch1",
+          "number": 1,
+          "title": "প্রাত্যহিক জীবনে তথ্য ও যোগাযোগ প্রযুক্তি",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-ict-bn-ch2",
+          "number": 2,
+          "title": "কম্পিউটার-সংশ্লিষ্ট যন্ত্রপাতি",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 36,
+          "pdf_end_page": 41
+        },
+        {
+          "chapter_id": "class7-ict-bn-ch3",
+          "number": 3,
+          "title": "নিরাপদ ও নৈতিক ব্যবহার",
+          "printed_start_page": 37,
+          "pdf_start_page": 42,
+          "printed_end_page": 52,
+          "pdf_end_page": 57
+        },
+        {
+          "chapter_id": "class7-ict-bn-ch4",
+          "number": 4,
+          "title": "ওয়ার্ড প্রসেসিং",
+          "printed_start_page": 53,
+          "pdf_start_page": 58,
+          "printed_end_page": 60,
+          "pdf_end_page": 65
+        },
+        {
+          "chapter_id": "class7-ict-bn-ch5",
+          "number": 5,
+          "title": "শিক্ষায় ইন্টারনেটের ব্যবহার",
+          "printed_start_page": 61,
+          "pdf_start_page": 66,
+          "printed_end_page": 72,
+          "pdf_end_page": 77
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-ict-en": {
+      "subject": "ict",
+      "chapters": [
+        {
+          "chapter_id": "class7-ict-en-ch1",
+          "number": 1,
+          "title": "Information and Communication Technology in daily life",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 17,
+          "pdf_end_page": 22
+        },
+        {
+          "chapter_id": "class7-ict-en-ch2",
+          "number": 2,
+          "title": "Computer Oriented Devices",
+          "printed_start_page": 18,
+          "pdf_start_page": 23,
+          "printed_end_page": 37,
+          "pdf_end_page": 42
+        },
+        {
+          "chapter_id": "class7-ict-en-ch3",
+          "number": 3,
+          "title": "Safe and Ethical Use",
+          "printed_start_page": 38,
+          "pdf_start_page": 43,
+          "printed_end_page": 53,
+          "pdf_end_page": 58
+        },
+        {
+          "chapter_id": "class7-ict-en-ch4",
+          "number": 4,
+          "title": "Word Processing",
+          "printed_start_page": 54,
+          "pdf_start_page": 59,
+          "printed_end_page": 61,
+          "pdf_end_page": 66
+        },
+        {
+          "chapter_id": "class7-ict-en-ch5",
+          "number": 5,
+          "title": "Use of the Internet in Education",
+          "printed_start_page": 62,
+          "pdf_start_page": 67,
+          "printed_end_page": 72,
+          "pdf_end_page": 77
+        }
+      ],
+      "language": "en"
+    },
+    "class7-islam-bn": {
+      "subject": "islam",
+      "chapters": [
+        {
+          "chapter_id": "class7-islam-bn-ch1",
+          "number": 1,
+          "title": "আকাইদ",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 24,
+          "pdf_end_page": 29
+        },
+        {
+          "chapter_id": "class7-islam-bn-ch2",
+          "number": 2,
+          "title": "ইবাদত",
+          "printed_start_page": 25,
+          "pdf_start_page": 30,
+          "printed_end_page": 50,
+          "pdf_end_page": 55
+        },
+        {
+          "chapter_id": "class7-islam-bn-ch3",
+          "number": 3,
+          "title": "কুরআন ও হাদিস শিক্ষা",
+          "printed_start_page": 51,
+          "pdf_start_page": 56,
+          "printed_end_page": 82,
+          "pdf_end_page": 87
+        },
+        {
+          "chapter_id": "class7-islam-bn-ch4",
+          "number": 4,
+          "title": "আখলাক",
+          "printed_start_page": 83,
+          "pdf_start_page": 88,
+          "printed_end_page": 103,
+          "pdf_end_page": 108
+        },
+        {
+          "chapter_id": "class7-islam-bn-ch5",
+          "number": 5,
+          "title": "আদর্শ জীবনচরিত",
+          "printed_start_page": 104,
+          "pdf_start_page": 109,
+          "printed_end_page": 119,
+          "pdf_end_page": 124
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-islam-en": {
+      "subject": "islam",
+      "chapters": [
+        {
+          "chapter_id": "class7-islam-en-ch1",
+          "number": 1,
+          "title": "Aqai'd",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 25,
+          "pdf_end_page": 30
+        },
+        {
+          "chapter_id": "class7-islam-en-ch2",
+          "number": 2,
+          "title": "Ibadat",
+          "printed_start_page": 26,
+          "pdf_start_page": 31,
+          "printed_end_page": 52,
+          "pdf_end_page": 57
+        },
+        {
+          "chapter_id": "class7-islam-en-ch3",
+          "number": 3,
+          "title": "Al-Quran and Hadith Studies",
+          "printed_start_page": 53,
+          "pdf_start_page": 58,
+          "printed_end_page": 81,
+          "pdf_end_page": 86
+        },
+        {
+          "chapter_id": "class7-islam-en-ch4",
+          "number": 4,
+          "title": "Akhlaq",
+          "printed_start_page": 82,
+          "pdf_start_page": 87,
+          "printed_end_page": 103,
+          "pdf_end_page": 108
+        },
+        {
+          "chapter_id": "class7-islam-en-ch5",
+          "number": 5,
+          "title": "Characteristics of an Ideal Life",
+          "printed_start_page": 104,
+          "pdf_start_page": 109,
+          "printed_end_page": 120,
+          "pdf_end_page": 125
+        }
+      ],
+      "language": "en"
+    },
+    "class7-math-bn": {
+      "subject": "math",
+      "chapters": [
+        {
+          "chapter_id": "class7-math-bn-ch1",
+          "number": 1,
+          "title": "মূলদ ও অমূলদ সংখ্যা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 17,
+          "pdf_end_page": 22
+        },
+        {
+          "chapter_id": "class7-math-bn-ch2",
+          "number": 2,
+          "title": "সমানুপাত ও লাভ-ক্ষতি",
+          "printed_start_page": 18,
+          "pdf_start_page": 23,
+          "printed_end_page": 37,
+          "pdf_end_page": 42
+        },
+        {
+          "chapter_id": "class7-math-bn-ch3",
+          "number": 3,
+          "title": "পরিমাপ",
+          "printed_start_page": 38,
+          "pdf_start_page": 43,
+          "printed_end_page": 49,
+          "pdf_end_page": 54
+        },
+        {
+          "chapter_id": "class7-math-bn-ch4",
+          "number": 4,
+          "title": "বীজগণিতীয় রাশির গুণ ও ভাগ",
+          "printed_start_page": 50,
+          "pdf_start_page": 55,
+          "printed_end_page": 68,
+          "pdf_end_page": 73
+        },
+        {
+          "chapter_id": "class7-math-bn-ch5",
+          "number": 5,
+          "title": "বীজগণিতীয় সূত্রাবলি ও প্রয়োগ",
+          "printed_start_page": 69,
+          "pdf_start_page": 74,
+          "printed_end_page": 88,
+          "pdf_end_page": 93
+        },
+        {
+          "chapter_id": "class7-math-bn-ch6",
+          "number": 6,
+          "title": "বীজগণিতীয় ভগ্নাংশ",
+          "printed_start_page": 89,
+          "pdf_start_page": 94,
+          "printed_end_page": 101,
+          "pdf_end_page": 106
+        },
+        {
+          "chapter_id": "class7-math-bn-ch7",
+          "number": 7,
+          "title": "সরল সমীকরণ",
+          "printed_start_page": 102,
+          "pdf_start_page": 107,
+          "printed_end_page": 118,
+          "pdf_end_page": 123
+        },
+        {
+          "chapter_id": "class7-math-bn-ch8",
+          "number": 8,
+          "title": "সমান্তরাল সরলরেখা",
+          "printed_start_page": 119,
+          "pdf_start_page": 124,
+          "printed_end_page": 126,
+          "pdf_end_page": 131
+        },
+        {
+          "chapter_id": "class7-math-bn-ch9",
+          "number": 9,
+          "title": "ত্রিভুজ",
+          "printed_start_page": 127,
+          "pdf_start_page": 132,
+          "printed_end_page": 144,
+          "pdf_end_page": 149
+        },
+        {
+          "chapter_id": "class7-math-bn-ch10",
+          "number": 10,
+          "title": "সর্বসমতা ও সদৃশতা",
+          "printed_start_page": 145,
+          "pdf_start_page": 150,
+          "printed_end_page": 161,
+          "pdf_end_page": 166
+        },
+        {
+          "chapter_id": "class7-math-bn-ch11",
+          "number": 11,
+          "title": "তথ্য ও উপাত্ত",
+          "printed_start_page": 162,
+          "pdf_start_page": 167,
+          "printed_end_page": 169,
+          "pdf_end_page": 174
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-math-en": {
+      "subject": "math",
+      "chapters": [
+        {
+          "chapter_id": "class7-math-en-ch1",
+          "number": 1,
+          "title": "Rational and Irrational Numbers",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 19,
+          "pdf_end_page": 24
+        },
+        {
+          "chapter_id": "class7-math-en-ch2",
+          "number": 2,
+          "title": "Proportion, Profit and Loss",
+          "printed_start_page": 20,
+          "pdf_start_page": 25,
+          "printed_end_page": 42,
+          "pdf_end_page": 47
+        },
+        {
+          "chapter_id": "class7-math-en-ch3",
+          "number": 3,
+          "title": "Measurement",
+          "printed_start_page": 43,
+          "pdf_start_page": 48,
+          "printed_end_page": 55,
+          "pdf_end_page": 60
+        },
+        {
+          "chapter_id": "class7-math-en-ch4",
+          "number": 4,
+          "title": "Multiplication and Division of Algebraic Expressions",
+          "printed_start_page": 56,
+          "pdf_start_page": 61,
+          "printed_end_page": 77,
+          "pdf_end_page": 82
+        },
+        {
+          "chapter_id": "class7-math-en-ch5",
+          "number": 5,
+          "title": "Algebraic Formulae and Applications",
+          "printed_start_page": 78,
+          "pdf_start_page": 83,
+          "printed_end_page": 99,
+          "pdf_end_page": 104
+        },
+        {
+          "chapter_id": "class7-math-en-ch6",
+          "number": 6,
+          "title": "Algebraic Fractions",
+          "printed_start_page": 100,
+          "pdf_start_page": 105,
+          "printed_end_page": 113,
+          "pdf_end_page": 118
+        },
+        {
+          "chapter_id": "class7-math-en-ch7",
+          "number": 7,
+          "title": "Simple Equations",
+          "printed_start_page": 114,
+          "pdf_start_page": 119,
+          "printed_end_page": 132,
+          "pdf_end_page": 137
+        },
+        {
+          "chapter_id": "class7-math-en-ch8",
+          "number": 8,
+          "title": "Parallel Straight Lines",
+          "printed_start_page": 133,
+          "pdf_start_page": 138,
+          "printed_end_page": 141,
+          "pdf_end_page": 146
+        },
+        {
+          "chapter_id": "class7-math-en-ch9",
+          "number": 9,
+          "title": "Triangles",
+          "printed_start_page": 142,
+          "pdf_start_page": 147,
+          "printed_end_page": 160,
+          "pdf_end_page": 165
+        },
+        {
+          "chapter_id": "class7-math-en-ch10",
+          "number": 10,
+          "title": "Congruence and Similarity",
+          "printed_start_page": 161,
+          "pdf_start_page": 166,
+          "printed_end_page": 179,
+          "pdf_end_page": 184
+        },
+        {
+          "chapter_id": "class7-math-en-ch11",
+          "number": 11,
+          "title": "Information and Data",
+          "printed_start_page": 180,
+          "pdf_start_page": 185,
+          "printed_end_page": 187,
+          "pdf_end_page": 192
+        }
+      ],
+      "language": "en"
+    },
+    "class7-music-bn": {
+      "subject": "music",
+      "chapters": [
+        {
+          "chapter_id": "class7-music-bn-ch1",
+          "number": 1,
+          "title": "সংগীতের নীতি",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 5,
+          "pdf_end_page": 10
+        },
+        {
+          "chapter_id": "class7-music-bn-ch2",
+          "number": 2,
+          "title": "ইতিহাস",
+          "printed_start_page": 6,
+          "pdf_start_page": 11,
+          "printed_end_page": 29,
+          "pdf_end_page": 34
+        },
+        {
+          "chapter_id": "class7-music-bn-ch3",
+          "number": 3,
+          "title": "শাস্ত্রীয়সংগীত",
+          "printed_start_page": 30,
+          "pdf_start_page": 35,
+          "printed_end_page": 45,
+          "pdf_end_page": 50
+        },
+        {
+          "chapter_id": "class7-music-bn-ch4",
+          "number": 4,
+          "title": "বাংলাগান",
+          "printed_start_page": 46,
+          "pdf_start_page": 51,
+          "printed_end_page": 88,
+          "pdf_end_page": 93
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-music-en": {
+      "subject": "music",
+      "chapters": [
+        {
+          "chapter_id": "class7-music-en-ch1",
+          "number": 1,
+          "title": "সংগীতের নীতি",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 5,
+          "pdf_end_page": 10
+        },
+        {
+          "chapter_id": "class7-music-en-ch2",
+          "number": 2,
+          "title": "ইতিহাস",
+          "printed_start_page": 6,
+          "pdf_start_page": 11,
+          "printed_end_page": 29,
+          "pdf_end_page": 34
+        },
+        {
+          "chapter_id": "class7-music-en-ch3",
+          "number": 3,
+          "title": "শাস্ত্রীয়সংগীত",
+          "printed_start_page": 30,
+          "pdf_start_page": 35,
+          "printed_end_page": 45,
+          "pdf_end_page": 50
+        },
+        {
+          "chapter_id": "class7-music-en-ch4",
+          "number": 4,
+          "title": "বাংলাগান",
+          "printed_start_page": 46,
+          "pdf_start_page": 51,
+          "printed_end_page": 88,
+          "pdf_end_page": 93
+        }
+      ],
+      "language": "en"
+    },
+    "class7-pali-bn": {
+      "subject": "pali",
+      "chapters": [
+        {
+          "chapter_id": "class7-pali-bn-ch1",
+          "number": 1,
+          "title": "মহাবগ্‌গ",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch2",
+          "number": 2,
+          "title": "জাতকমালা",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 28,
+          "pdf_end_page": 33
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch3",
+          "number": 3,
+          "title": "ধম্মপদট্‌ঠকথা",
+          "printed_start_page": 29,
+          "pdf_start_page": 34,
+          "printed_end_page": 38,
+          "pdf_end_page": 43
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch4",
+          "number": 4,
+          "title": "খুদ্দক পাঠ",
+          "printed_start_page": 39,
+          "pdf_start_page": 44,
+          "printed_end_page": 49,
+          "pdf_end_page": 54
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch5",
+          "number": 5,
+          "title": "ধম্মপদ",
+          "printed_start_page": 50,
+          "pdf_start_page": 55,
+          "printed_end_page": 56,
+          "pdf_end_page": 61
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch6",
+          "number": 6,
+          "title": "চরিয়া পিটক",
+          "printed_start_page": 57,
+          "pdf_start_page": 62,
+          "printed_end_page": 72,
+          "pdf_end_page": 77
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch7",
+          "number": 7,
+          "title": "সন্ধি",
+          "printed_start_page": 73,
+          "pdf_start_page": 78,
+          "printed_end_page": 82,
+          "pdf_end_page": 87
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch8",
+          "number": 8,
+          "title": "শব্দরূপ ও ধাতুরূপ",
+          "printed_start_page": 83,
+          "pdf_start_page": 88,
+          "printed_end_page": 101,
+          "pdf_end_page": 106
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch9",
+          "number": 9,
+          "title": "অসমাপিকা ক্রিয়া",
+          "printed_start_page": 102,
+          "pdf_start_page": 107,
+          "printed_end_page": 106,
+          "pdf_end_page": 111
+        },
+        {
+          "chapter_id": "class7-pali-bn-ch10",
+          "number": 10,
+          "title": "অনুবাদ",
+          "printed_start_page": 107,
+          "pdf_start_page": 112,
+          "printed_end_page": 108,
+          "pdf_end_page": 113
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-pali-en": {
+      "subject": "pali",
+      "chapters": [
+        {
+          "chapter_id": "class7-pali-en-ch1",
+          "number": 1,
+          "title": "মহাবগ্‌গ",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-pali-en-ch2",
+          "number": 2,
+          "title": "জাতকমালা",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 28,
+          "pdf_end_page": 33
+        },
+        {
+          "chapter_id": "class7-pali-en-ch3",
+          "number": 3,
+          "title": "ধম্মপদট্‌ঠকথা",
+          "printed_start_page": 29,
+          "pdf_start_page": 34,
+          "printed_end_page": 38,
+          "pdf_end_page": 43
+        },
+        {
+          "chapter_id": "class7-pali-en-ch4",
+          "number": 4,
+          "title": "খুদ্দক পাঠ",
+          "printed_start_page": 39,
+          "pdf_start_page": 44,
+          "printed_end_page": 49,
+          "pdf_end_page": 54
+        },
+        {
+          "chapter_id": "class7-pali-en-ch5",
+          "number": 5,
+          "title": "ধম্মপদ",
+          "printed_start_page": 50,
+          "pdf_start_page": 55,
+          "printed_end_page": 56,
+          "pdf_end_page": 61
+        },
+        {
+          "chapter_id": "class7-pali-en-ch6",
+          "number": 6,
+          "title": "চরিয়া পিটক",
+          "printed_start_page": 57,
+          "pdf_start_page": 62,
+          "printed_end_page": 72,
+          "pdf_end_page": 77
+        },
+        {
+          "chapter_id": "class7-pali-en-ch7",
+          "number": 7,
+          "title": "সন্ধি",
+          "printed_start_page": 73,
+          "pdf_start_page": 78,
+          "printed_end_page": 82,
+          "pdf_end_page": 87
+        },
+        {
+          "chapter_id": "class7-pali-en-ch8",
+          "number": 8,
+          "title": "শব্দরূপ ও ধাতুরূপ",
+          "printed_start_page": 83,
+          "pdf_start_page": 88,
+          "printed_end_page": 101,
+          "pdf_end_page": 106
+        },
+        {
+          "chapter_id": "class7-pali-en-ch9",
+          "number": 9,
+          "title": "অসমাপিকা ক্রিয়া",
+          "printed_start_page": 102,
+          "pdf_start_page": 107,
+          "printed_end_page": 106,
+          "pdf_end_page": 111
+        },
+        {
+          "chapter_id": "class7-pali-en-ch10",
+          "number": 10,
+          "title": "অনুবাদ",
+          "printed_start_page": 107,
+          "pdf_start_page": 112,
+          "printed_end_page": 108,
+          "pdf_end_page": 113
+        }
+      ],
+      "language": "en"
+    },
+    "class7-physical-bn": {
+      "subject": "physical",
+      "chapters": [
+        {
+          "chapter_id": "class7-physical-bn-ch1",
+          "number": 1,
+          "title": "শরীরচর্চা ও সুস্থজীবন",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 11,
+          "pdf_end_page": 16
+        },
+        {
+          "chapter_id": "class7-physical-bn-ch2",
+          "number": 2,
+          "title": "স্কাউটিং ও গার্ল গাইডিং",
+          "printed_start_page": 12,
+          "pdf_start_page": 17,
+          "printed_end_page": 23,
+          "pdf_end_page": 28
+        },
+        {
+          "chapter_id": "class7-physical-bn-ch3",
+          "number": 3,
+          "title": "স্বাস্থ্যবিজ্ঞান পরিচিতি ও স্বাস্থ্যসেবা",
+          "printed_start_page": 24,
+          "pdf_start_page": 29,
+          "printed_end_page": 30,
+          "pdf_end_page": 35
+        },
+        {
+          "chapter_id": "class7-physical-bn-ch4",
+          "number": 4,
+          "title": "বয়ঃসন্ধিকালে ব্যক্তিগত নিরাপত্তা",
+          "printed_start_page": 31,
+          "pdf_start_page": 36,
+          "printed_end_page": 33,
+          "pdf_end_page": 38
+        },
+        {
+          "chapter_id": "class7-physical-bn-ch5",
+          "number": 5,
+          "title": "জীবনের জন্য খেলাধুলা",
+          "printed_start_page": 34,
+          "pdf_start_page": 39,
+          "printed_end_page": 56,
+          "pdf_end_page": 61
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-physical-en": {
+      "subject": "physical",
+      "chapters": [
+        {
+          "chapter_id": "class7-physical-en-ch1",
+          "number": 1,
+          "title": "Physical Exercise and Healthy Life",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 14,
+          "pdf_end_page": 19
+        },
+        {
+          "chapter_id": "class7-physical-en-ch2",
+          "number": 2,
+          "title": "Scouting and Girl Guiding",
+          "printed_start_page": 15,
+          "pdf_start_page": 20,
+          "printed_end_page": 29,
+          "pdf_end_page": 34
+        },
+        {
+          "chapter_id": "class7-physical-en-ch3",
+          "number": 3,
+          "title": "Introduction to Health Science and Health Service",
+          "printed_start_page": 30,
+          "pdf_start_page": 35,
+          "printed_end_page": 37,
+          "pdf_end_page": 42
+        },
+        {
+          "chapter_id": "class7-physical-en-ch4",
+          "number": 4,
+          "title": "The Personal Safety of Adolescence",
+          "printed_start_page": 38,
+          "pdf_start_page": 43,
+          "printed_end_page": 41,
+          "pdf_end_page": 46
+        },
+        {
+          "chapter_id": "class7-physical-en-ch5",
+          "number": 5,
+          "title": "Sports for Life",
+          "printed_start_page": 42,
+          "pdf_start_page": 47,
+          "printed_end_page": 72,
+          "pdf_end_page": 77
+        }
+      ],
+      "language": "en"
+    },
+    "class7-sanskrit-bn": {
+      "subject": "sanskrit",
+      "chapters": [
+        {
+          "chapter_id": "class7-sanskrit-bn-ch1",
+          "number": 1,
+          "title": "কৃষক-রাজহংসী-কথা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 2,
+          "pdf_end_page": 7
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch2",
+          "number": 2,
+          "title": "কাক-শৃগাল-কথা",
+          "printed_start_page": 3,
+          "pdf_start_page": 8,
+          "printed_end_page": 4,
+          "pdf_end_page": 9
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch3",
+          "number": 3,
+          "title": "মিথ্যাবাদী মেষপালকঃ",
+          "printed_start_page": 5,
+          "pdf_start_page": 10,
+          "printed_end_page": 6,
+          "pdf_end_page": 11
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch4",
+          "number": 4,
+          "title": "হংস-কাক-ব্যাধ-কথা",
+          "printed_start_page": 7,
+          "pdf_start_page": 12,
+          "printed_end_page": 8,
+          "pdf_end_page": 13
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch5",
+          "number": 5,
+          "title": "সিংহ-মূষিক-কথা",
+          "printed_start_page": 9,
+          "pdf_start_page": 14,
+          "printed_end_page": 10,
+          "pdf_end_page": 15
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch6",
+          "number": 6,
+          "title": "ভক্তঃ প্রহ্লাদঃ",
+          "printed_start_page": 11,
+          "pdf_start_page": 16,
+          "printed_end_page": 13,
+          "pdf_end_page": 18
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch7",
+          "number": 7,
+          "title": "শৃগাল-দ্রাক্ষাফল-কথা",
+          "printed_start_page": 14,
+          "pdf_start_page": 19,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch8",
+          "number": 8,
+          "title": "দেবী সরস্বতী",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 18,
+          "pdf_end_page": 23
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch9",
+          "number": 9,
+          "title": "ভগবান শ্রীকৃষ্ণঃ",
+          "printed_start_page": 19,
+          "pdf_start_page": 24,
+          "printed_end_page": 20,
+          "pdf_end_page": 25
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch10",
+          "number": 10,
+          "title": "ঈশ্বরস্তোত্রম্",
+          "printed_start_page": 21,
+          "pdf_start_page": 26,
+          "printed_end_page": 22,
+          "pdf_end_page": 27
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch11",
+          "number": 11,
+          "title": "নীতিশ্লোকাঃ",
+          "printed_start_page": 23,
+          "pdf_start_page": 28,
+          "printed_end_page": 25,
+          "pdf_end_page": 30
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch12",
+          "number": 12,
+          "title": "বর্ণপ্রকরণম্",
+          "printed_start_page": 26,
+          "pdf_start_page": 31,
+          "printed_end_page": 29,
+          "pdf_end_page": 34
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch13",
+          "number": 13,
+          "title": "সন্ধিপ্রকরণম্",
+          "printed_start_page": 30,
+          "pdf_start_page": 35,
+          "printed_end_page": 36,
+          "pdf_end_page": 41
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch14",
+          "number": 14,
+          "title": "লিঙ্গপ্রকরণম্",
+          "printed_start_page": 37,
+          "pdf_start_page": 42,
+          "printed_end_page": 39,
+          "pdf_end_page": 44
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch15",
+          "number": 15,
+          "title": "শব্দরূপঃ",
+          "printed_start_page": 40,
+          "pdf_start_page": 45,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch16",
+          "number": 16,
+          "title": "ধাতুরূপঃ",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 54,
+          "pdf_end_page": 59
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch17",
+          "number": 17,
+          "title": "অব্যয়প্রকরণম্",
+          "printed_start_page": 55,
+          "pdf_start_page": 60,
+          "printed_end_page": 56,
+          "pdf_end_page": 61
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch18",
+          "number": 18,
+          "title": "কারক-বিভক্তিঃ",
+          "printed_start_page": 57,
+          "pdf_start_page": 62,
+          "printed_end_page": 61,
+          "pdf_end_page": 66
+        },
+        {
+          "chapter_id": "class7-sanskrit-bn-ch19",
+          "number": 19,
+          "title": "অভিধানিকা",
+          "printed_start_page": 62,
+          "pdf_start_page": 67,
+          "printed_end_page": 63,
+          "pdf_end_page": 68
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-sanskrit-en": {
+      "subject": "sanskrit",
+      "chapters": [
+        {
+          "chapter_id": "class7-sanskrit-en-ch1",
+          "number": 1,
+          "title": "কৃষক-রাজহংসী-কথা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 2,
+          "pdf_end_page": 7
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch2",
+          "number": 2,
+          "title": "কাক-শৃগাল-কথা",
+          "printed_start_page": 3,
+          "pdf_start_page": 8,
+          "printed_end_page": 4,
+          "pdf_end_page": 9
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch3",
+          "number": 3,
+          "title": "মিথ্যাবাদী মেষপালকঃ",
+          "printed_start_page": 5,
+          "pdf_start_page": 10,
+          "printed_end_page": 6,
+          "pdf_end_page": 11
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch4",
+          "number": 4,
+          "title": "হংস-কাক-ব্যাধ-কথা",
+          "printed_start_page": 7,
+          "pdf_start_page": 12,
+          "printed_end_page": 8,
+          "pdf_end_page": 13
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch5",
+          "number": 5,
+          "title": "সিংহ-মূষিক-কথা",
+          "printed_start_page": 9,
+          "pdf_start_page": 14,
+          "printed_end_page": 10,
+          "pdf_end_page": 15
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch6",
+          "number": 6,
+          "title": "ভক্তঃ প্রহ্লাদঃ",
+          "printed_start_page": 11,
+          "pdf_start_page": 16,
+          "printed_end_page": 13,
+          "pdf_end_page": 18
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch7",
+          "number": 7,
+          "title": "শৃগাল-দ্রাক্ষাফল-কথা",
+          "printed_start_page": 14,
+          "pdf_start_page": 19,
+          "printed_end_page": 16,
+          "pdf_end_page": 21
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch8",
+          "number": 8,
+          "title": "দেবী সরস্বতী",
+          "printed_start_page": 17,
+          "pdf_start_page": 22,
+          "printed_end_page": 18,
+          "pdf_end_page": 23
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch9",
+          "number": 9,
+          "title": "ভগবান শ্রীকৃষ্ণঃ",
+          "printed_start_page": 19,
+          "pdf_start_page": 24,
+          "printed_end_page": 20,
+          "pdf_end_page": 25
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch10",
+          "number": 10,
+          "title": "ঈশ্বরস্তোত্রম্",
+          "printed_start_page": 21,
+          "pdf_start_page": 26,
+          "printed_end_page": 22,
+          "pdf_end_page": 27
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch11",
+          "number": 11,
+          "title": "নীতিশ্লোকাঃ",
+          "printed_start_page": 23,
+          "pdf_start_page": 28,
+          "printed_end_page": 25,
+          "pdf_end_page": 30
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch12",
+          "number": 12,
+          "title": "বর্ণপ্রকরণম্",
+          "printed_start_page": 26,
+          "pdf_start_page": 31,
+          "printed_end_page": 29,
+          "pdf_end_page": 34
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch13",
+          "number": 13,
+          "title": "সন্ধিপ্রকরণম্",
+          "printed_start_page": 30,
+          "pdf_start_page": 35,
+          "printed_end_page": 36,
+          "pdf_end_page": 41
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch14",
+          "number": 14,
+          "title": "লিঙ্গপ্রকরণম্",
+          "printed_start_page": 37,
+          "pdf_start_page": 42,
+          "printed_end_page": 39,
+          "pdf_end_page": 44
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch15",
+          "number": 15,
+          "title": "শব্দরূপঃ",
+          "printed_start_page": 40,
+          "pdf_start_page": 45,
+          "printed_end_page": 47,
+          "pdf_end_page": 52
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch16",
+          "number": 16,
+          "title": "ধাতুরূপঃ",
+          "printed_start_page": 48,
+          "pdf_start_page": 53,
+          "printed_end_page": 54,
+          "pdf_end_page": 59
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch17",
+          "number": 17,
+          "title": "অব্যয়প্রকরণম্",
+          "printed_start_page": 55,
+          "pdf_start_page": 60,
+          "printed_end_page": 56,
+          "pdf_end_page": 61
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch18",
+          "number": 18,
+          "title": "কারক-বিভক্তিঃ",
+          "printed_start_page": 57,
+          "pdf_start_page": 62,
+          "printed_end_page": 61,
+          "pdf_end_page": 66
+        },
+        {
+          "chapter_id": "class7-sanskrit-en-ch19",
+          "number": 19,
+          "title": "অভিধানিকা",
+          "printed_start_page": 62,
+          "pdf_start_page": 67,
+          "printed_end_page": 63,
+          "pdf_end_page": 68
+        }
+      ],
+      "language": "en"
+    },
+    "class7-saptabarna-bn": {
+      "subject": "saptabarna",
+      "chapters": [
+        {
+          "chapter_id": "class7-saptabarna-bn-ch1",
+          "number": 1,
+          "title": "কাবুলিওয়ালা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 8,
+          "pdf_end_page": 13
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch2",
+          "number": 2,
+          "title": "লখার একুশে",
+          "printed_start_page": 9,
+          "pdf_start_page": 14,
+          "printed_end_page": 13,
+          "pdf_end_page": 18
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch3",
+          "number": 3,
+          "title": "মরু-ভাস্কর",
+          "printed_start_page": 14,
+          "pdf_start_page": 19,
+          "printed_end_page": 18,
+          "pdf_end_page": 23
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch4",
+          "number": 4,
+          "title": "শব্দ থেকে কবিতা",
+          "printed_start_page": 19,
+          "pdf_start_page": 24,
+          "printed_end_page": 23,
+          "pdf_end_page": 28
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch5",
+          "number": 5,
+          "title": "পাখি",
+          "printed_start_page": 24,
+          "pdf_start_page": 29,
+          "printed_end_page": 31,
+          "pdf_end_page": 36
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch6",
+          "number": 6,
+          "title": "পিতৃপুরুষের গল্প",
+          "printed_start_page": 32,
+          "pdf_start_page": 37,
+          "printed_end_page": 38,
+          "pdf_end_page": 43
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch7",
+          "number": 7,
+          "title": "ছবির রং",
+          "printed_start_page": 39,
+          "pdf_start_page": 44,
+          "printed_end_page": 43,
+          "pdf_end_page": 48
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch8",
+          "number": 8,
+          "title": "সেই ছেলেটি",
+          "printed_start_page": 44,
+          "pdf_start_page": 49,
+          "printed_end_page": 49,
+          "pdf_end_page": 54
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch9",
+          "number": 9,
+          "title": "বহু জাতিসত্তার দেশ— বাংলাদেশ",
+          "printed_start_page": 50,
+          "pdf_start_page": 55,
+          "printed_end_page": 56,
+          "pdf_end_page": 61
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch10",
+          "number": 10,
+          "title": "নতুন দেশ",
+          "printed_start_page": 57,
+          "pdf_start_page": 62,
+          "printed_end_page": 61,
+          "pdf_end_page": 66
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch11",
+          "number": 11,
+          "title": "কুলি-মজুর",
+          "printed_start_page": 62,
+          "pdf_start_page": 67,
+          "printed_end_page": 65,
+          "pdf_end_page": 70
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch12",
+          "number": 12,
+          "title": "আমার বাড়ি",
+          "printed_start_page": 66,
+          "pdf_start_page": 71,
+          "printed_end_page": 70,
+          "pdf_end_page": 75
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch13",
+          "number": 13,
+          "title": "শ্রাবণে",
+          "printed_start_page": 71,
+          "pdf_start_page": 76,
+          "printed_end_page": 74,
+          "pdf_end_page": 79
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch14",
+          "number": 14,
+          "title": "গরবিনী মা-জননী",
+          "printed_start_page": 75,
+          "pdf_start_page": 80,
+          "printed_end_page": 79,
+          "pdf_end_page": 84
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch15",
+          "number": 15,
+          "title": "সাম্য",
+          "printed_start_page": 80,
+          "pdf_start_page": 85,
+          "printed_end_page": 82,
+          "pdf_end_page": 87
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch16",
+          "number": 16,
+          "title": "মেলা",
+          "printed_start_page": 83,
+          "pdf_start_page": 88,
+          "printed_end_page": 86,
+          "pdf_end_page": 91
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch17",
+          "number": 17,
+          "title": "এই অক্ষরে",
+          "printed_start_page": 87,
+          "pdf_start_page": 92,
+          "printed_end_page": 91,
+          "pdf_end_page": 96
+        },
+        {
+          "chapter_id": "class7-saptabarna-bn-ch18",
+          "number": 18,
+          "title": "সিঁথি",
+          "printed_start_page": 92,
+          "pdf_start_page": 97,
+          "printed_end_page": 96,
+          "pdf_end_page": 101
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-saptabarna-en": {
+      "subject": "saptabarna",
+      "chapters": [
+        {
+          "chapter_id": "class7-saptabarna-en-ch1",
+          "number": 1,
+          "title": "কাবুলিওয়ালা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 8,
+          "pdf_end_page": 13
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch2",
+          "number": 2,
+          "title": "লখার একুশে",
+          "printed_start_page": 9,
+          "pdf_start_page": 14,
+          "printed_end_page": 13,
+          "pdf_end_page": 18
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch3",
+          "number": 3,
+          "title": "মরু-ভাস্কর",
+          "printed_start_page": 14,
+          "pdf_start_page": 19,
+          "printed_end_page": 18,
+          "pdf_end_page": 23
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch4",
+          "number": 4,
+          "title": "শব্দ থেকে কবিতা",
+          "printed_start_page": 19,
+          "pdf_start_page": 24,
+          "printed_end_page": 23,
+          "pdf_end_page": 28
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch5",
+          "number": 5,
+          "title": "পাখি",
+          "printed_start_page": 24,
+          "pdf_start_page": 29,
+          "printed_end_page": 31,
+          "pdf_end_page": 36
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch6",
+          "number": 6,
+          "title": "পিতৃপুরুষের গল্প",
+          "printed_start_page": 32,
+          "pdf_start_page": 37,
+          "printed_end_page": 38,
+          "pdf_end_page": 43
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch7",
+          "number": 7,
+          "title": "ছবির রং",
+          "printed_start_page": 39,
+          "pdf_start_page": 44,
+          "printed_end_page": 43,
+          "pdf_end_page": 48
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch8",
+          "number": 8,
+          "title": "সেই ছেলেটি",
+          "printed_start_page": 44,
+          "pdf_start_page": 49,
+          "printed_end_page": 49,
+          "pdf_end_page": 54
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch9",
+          "number": 9,
+          "title": "বহু জাতিসত্তার দেশ— বাংলাদেশ",
+          "printed_start_page": 50,
+          "pdf_start_page": 55,
+          "printed_end_page": 56,
+          "pdf_end_page": 61
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch10",
+          "number": 10,
+          "title": "নতুন দেশ",
+          "printed_start_page": 57,
+          "pdf_start_page": 62,
+          "printed_end_page": 61,
+          "pdf_end_page": 66
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch11",
+          "number": 11,
+          "title": "কুলি-মজুর",
+          "printed_start_page": 62,
+          "pdf_start_page": 67,
+          "printed_end_page": 65,
+          "pdf_end_page": 70
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch12",
+          "number": 12,
+          "title": "আমার বাড়ি",
+          "printed_start_page": 66,
+          "pdf_start_page": 71,
+          "printed_end_page": 70,
+          "pdf_end_page": 75
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch13",
+          "number": 13,
+          "title": "শ্রাবণে",
+          "printed_start_page": 71,
+          "pdf_start_page": 76,
+          "printed_end_page": 74,
+          "pdf_end_page": 79
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch14",
+          "number": 14,
+          "title": "গরবিনী মা-জননী",
+          "printed_start_page": 75,
+          "pdf_start_page": 80,
+          "printed_end_page": 79,
+          "pdf_end_page": 84
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch15",
+          "number": 15,
+          "title": "সাম্য",
+          "printed_start_page": 80,
+          "pdf_start_page": 85,
+          "printed_end_page": 82,
+          "pdf_end_page": 87
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch16",
+          "number": 16,
+          "title": "মেলা",
+          "printed_start_page": 83,
+          "pdf_start_page": 88,
+          "printed_end_page": 86,
+          "pdf_end_page": 91
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch17",
+          "number": 17,
+          "title": "এই অক্ষরে",
+          "printed_start_page": 87,
+          "pdf_start_page": 92,
+          "printed_end_page": 91,
+          "pdf_end_page": 96
+        },
+        {
+          "chapter_id": "class7-saptabarna-en-ch18",
+          "number": 18,
+          "title": "সিঁথি",
+          "printed_start_page": 92,
+          "pdf_start_page": 97,
+          "printed_end_page": 96,
+          "pdf_end_page": 101
+        }
+      ],
+      "language": "en"
+    },
+    "class7-science-bn": {
+      "subject": "science",
+      "chapters": [
+        {
+          "chapter_id": "class7-science-bn-ch1",
+          "number": 1,
+          "title": "নিম্নশ্রেণির জীব",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 9,
+          "pdf_end_page": 14
+        },
+        {
+          "chapter_id": "class7-science-bn-ch2",
+          "number": 2,
+          "title": "উদ্ভিদ ও প্রাণীর কোষীয় সংগঠন",
+          "printed_start_page": 10,
+          "pdf_start_page": 15,
+          "printed_end_page": 21,
+          "pdf_end_page": 26
+        },
+        {
+          "chapter_id": "class7-science-bn-ch3",
+          "number": 3,
+          "title": "উদ্ভিদের বাহ্যিক বৈশিষ্ট্য",
+          "printed_start_page": 22,
+          "pdf_start_page": 27,
+          "printed_end_page": 31,
+          "pdf_end_page": 36
+        },
+        {
+          "chapter_id": "class7-science-bn-ch4",
+          "number": 4,
+          "title": "শ্বসন",
+          "printed_start_page": 32,
+          "pdf_start_page": 37,
+          "printed_end_page": 40,
+          "pdf_end_page": 45
+        },
+        {
+          "chapter_id": "class7-science-bn-ch5",
+          "number": 5,
+          "title": "পরিপাকতন্ত্র এবং রক্ত সংবহনতন্ত্র",
+          "printed_start_page": 41,
+          "pdf_start_page": 46,
+          "printed_end_page": 54,
+          "pdf_end_page": 59
+        },
+        {
+          "chapter_id": "class7-science-bn-ch6",
+          "number": 6,
+          "title": "পদার্থের গঠন",
+          "printed_start_page": 55,
+          "pdf_start_page": 60,
+          "printed_end_page": 65,
+          "pdf_end_page": 70
+        },
+        {
+          "chapter_id": "class7-science-bn-ch7",
+          "number": 7,
+          "title": "শক্তির ব্যবহার",
+          "printed_start_page": 66,
+          "pdf_start_page": 71,
+          "printed_end_page": 79,
+          "pdf_end_page": 84
+        },
+        {
+          "chapter_id": "class7-science-bn-ch8",
+          "number": 8,
+          "title": "শব্দের কথা",
+          "printed_start_page": 80,
+          "pdf_start_page": 85,
+          "printed_end_page": 89,
+          "pdf_end_page": 94
+        },
+        {
+          "chapter_id": "class7-science-bn-ch9",
+          "number": 9,
+          "title": "তাপ ও তাপমাত্রা",
+          "printed_start_page": 90,
+          "pdf_start_page": 95,
+          "printed_end_page": 100,
+          "pdf_end_page": 105
+        },
+        {
+          "chapter_id": "class7-science-bn-ch10",
+          "number": 10,
+          "title": "বিদ্যুৎ ও চুম্বকের ঘটনা",
+          "printed_start_page": 101,
+          "pdf_start_page": 106,
+          "printed_end_page": 111,
+          "pdf_end_page": 116
+        },
+        {
+          "chapter_id": "class7-science-bn-ch11",
+          "number": 11,
+          "title": "পারিপার্শ্বিক পরিবর্তন ও বিভিন্ন ঘটনা",
+          "printed_start_page": 112,
+          "pdf_start_page": 117,
+          "printed_end_page": 122,
+          "pdf_end_page": 127
+        },
+        {
+          "chapter_id": "class7-science-bn-ch12",
+          "number": 12,
+          "title": "সৌরজগৎ ও আমাদের পৃথিবী",
+          "printed_start_page": 123,
+          "pdf_start_page": 128,
+          "printed_end_page": 134,
+          "pdf_end_page": 139
+        },
+        {
+          "chapter_id": "class7-science-bn-ch13",
+          "number": 13,
+          "title": "প্রাকৃতিক পরিবেশ এবং দূষণ",
+          "printed_start_page": 135,
+          "pdf_start_page": 140,
+          "printed_end_page": 145,
+          "pdf_end_page": 150
+        },
+        {
+          "chapter_id": "class7-science-bn-ch14",
+          "number": 14,
+          "title": "জলবায়ু পরিবর্তন",
+          "printed_start_page": 146,
+          "pdf_start_page": 151,
+          "printed_end_page": 160,
+          "pdf_end_page": 165
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-science-en": {
+      "subject": "science",
+      "chapters": [
+        {
+          "chapter_id": "class7-science-en-ch1",
+          "number": 1,
+          "title": "Lower Organisms",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 11,
+          "pdf_end_page": 16
+        },
+        {
+          "chapter_id": "class7-science-en-ch2",
+          "number": 2,
+          "title": "Cellular Organisation of Plants and Animals",
+          "printed_start_page": 12,
+          "pdf_start_page": 17,
+          "printed_end_page": 24,
+          "pdf_end_page": 29
+        },
+        {
+          "chapter_id": "class7-science-en-ch3",
+          "number": 3,
+          "title": "External Morphology of Plants",
+          "printed_start_page": 25,
+          "pdf_start_page": 30,
+          "printed_end_page": 34,
+          "pdf_end_page": 39
+        },
+        {
+          "chapter_id": "class7-science-en-ch4",
+          "number": 4,
+          "title": "Respiration",
+          "printed_start_page": 35,
+          "pdf_start_page": 40,
+          "printed_end_page": 44,
+          "pdf_end_page": 49
+        },
+        {
+          "chapter_id": "class7-science-en-ch5",
+          "number": 5,
+          "title": "Digestive System and Blood Circulation System",
+          "printed_start_page": 45,
+          "pdf_start_page": 50,
+          "printed_end_page": 59,
+          "pdf_end_page": 64
+        },
+        {
+          "chapter_id": "class7-science-en-ch6",
+          "number": 6,
+          "title": "Structure of Matter",
+          "printed_start_page": 60,
+          "pdf_start_page": 65,
+          "printed_end_page": 72,
+          "pdf_end_page": 77
+        },
+        {
+          "chapter_id": "class7-science-en-ch7",
+          "number": 7,
+          "title": "The Use of Energy",
+          "printed_start_page": 73,
+          "pdf_start_page": 78,
+          "printed_end_page": 87,
+          "pdf_end_page": 92
+        },
+        {
+          "chapter_id": "class7-science-en-ch8",
+          "number": 8,
+          "title": "About Sound",
+          "printed_start_page": 88,
+          "pdf_start_page": 93,
+          "printed_end_page": 98,
+          "pdf_end_page": 103
+        },
+        {
+          "chapter_id": "class7-science-en-ch9",
+          "number": 9,
+          "title": "Heat and Temperature",
+          "printed_start_page": 99,
+          "pdf_start_page": 104,
+          "printed_end_page": 110,
+          "pdf_end_page": 115
+        },
+        {
+          "chapter_id": "class7-science-en-ch10",
+          "number": 10,
+          "title": "Phenomena of Electricity and Magnet",
+          "printed_start_page": 111,
+          "pdf_start_page": 116,
+          "printed_end_page": 121,
+          "pdf_end_page": 126
+        },
+        {
+          "chapter_id": "class7-science-en-ch11",
+          "number": 11,
+          "title": "Change in Surrounding and Various Incidents",
+          "printed_start_page": 122,
+          "pdf_start_page": 127,
+          "printed_end_page": 134,
+          "pdf_end_page": 139
+        },
+        {
+          "chapter_id": "class7-science-en-ch12",
+          "number": 12,
+          "title": "The Solar System and Our Earth",
+          "printed_start_page": 135,
+          "pdf_start_page": 140,
+          "printed_end_page": 148,
+          "pdf_end_page": 153
+        },
+        {
+          "chapter_id": "class7-science-en-ch13",
+          "number": 13,
+          "title": "Environment and Pollution",
+          "printed_start_page": 149,
+          "pdf_start_page": 154,
+          "printed_end_page": 160,
+          "pdf_end_page": 165
+        },
+        {
+          "chapter_id": "class7-science-en-ch14",
+          "number": 14,
+          "title": "Change of Climate",
+          "printed_start_page": 161,
+          "pdf_start_page": 166,
+          "printed_end_page": 175,
+          "pdf_end_page": 180
+        }
+      ],
+      "language": "en"
+    },
+    "class7-worklife-bn": {
+      "subject": "worklife",
+      "chapters": [
+        {
+          "chapter_id": "class7-worklife-bn-ch1",
+          "number": 1,
+          "title": "কর্ম ও মানবিকতা",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 21,
+          "pdf_end_page": 26
+        },
+        {
+          "chapter_id": "class7-worklife-bn-ch2",
+          "number": 2,
+          "title": "পারিবারিক কাজ ও পেশা",
+          "printed_start_page": 22,
+          "pdf_start_page": 27,
+          "printed_end_page": 36,
+          "pdf_end_page": 41
+        },
+        {
+          "chapter_id": "class7-worklife-bn-ch3",
+          "number": 3,
+          "title": "শিক্ষা পরিকল্পনা ও কর্মক্ষেত্রে সফলতা",
+          "printed_start_page": 37,
+          "pdf_start_page": 42,
+          "printed_end_page": 52,
+          "pdf_end_page": 57
+        }
+      ],
+      "language": "bn"
+    },
+    "class7-worklife-en": {
+      "subject": "worklife",
+      "chapters": [
+        {
+          "chapter_id": "class7-worklife-en-ch1",
+          "number": 1,
+          "title": "Work and Humanity",
+          "printed_start_page": 1,
+          "pdf_start_page": 6,
+          "printed_end_page": 23,
+          "pdf_end_page": 28
+        },
+        {
+          "chapter_id": "class7-worklife-en-ch2",
+          "number": 2,
+          "title": "Domestic Work and Profession",
+          "printed_start_page": 24,
+          "pdf_start_page": 29,
+          "printed_end_page": 41,
+          "pdf_end_page": 46
+        },
+        {
+          "chapter_id": "class7-worklife-en-ch3",
+          "number": 3,
+          "title": "Educational Planning and Success at Work",
+          "printed_start_page": 42,
+          "pdf_start_page": 47,
+          "printed_end_page": 64,
+          "pdf_end_page": 69
+        }
+      ],
+      "language": "en"
+    }
+  }
+}
