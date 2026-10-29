@@ -1,0 +1,21 @@
+[
+ {
+  "book_id": "class7-math-bn",
+  "chapter_id": "class7-math-bn-ch9",
+  "difficulty": null,
+  "display_policy": "ai_rewrite",
+  "guide_printed_page": 231,
+  "guide_solution": "গাইডে এই উপপ্রশ্নের সমাধান ছাপা হয়নি — প্রশ্নটি আছে, সমাধান অংশে শুধু ক ও খ-এর সমাধান দেওয়া হয়েছে।",
+  "id": "class7-math-bn-guide-ch9-p231-ex93scr7c",
+  "marks": 4,
+  "pdf_file": "06-Math-Guide.pdf",
+  "pdf_page": 204,
+  "question_text": "একটি ত্রিভুজের দুটি বাহু a=4 cm এবং b=5 cm এবং একটি কোণ ∠B=30°। [রাজউক উত্তরা মডেল কলেজ, ঢাকা] গ. এমন একটি সমকোণী ত্রিভুজ আঁক, যার একটি বাহু b এবং একটি সূক্ষ্মকোণ ∠B সমান হয়। (চিত্রের অঙ্কনের বিবরণ আবশ্যক)",
+  "question_type": "creative",
+  "section": "অনুশীলনী ৯.৩ — শীর্ষস্থানীয় স্কুলসমূহের সৃজনশীল",
+  "source_tag": null,
+  "verification_note": "FLAGGED: গাইডে গ-এর সমাধান ছাপা হয়নি (PDF 204–206 visually checked) — সমাধান উদ্ভাবন করা হয়নি, row-টি gap হিসেবে চিহ্নিত।",
+  "verified_visual": true,
+  "flag_reason": "গাইডে গ-এর সমাধান ছাপা হয়নি (PDF 204–206 visually checked); সমাধান উদ্ভাবন করা হয়নি, row-টি gap হিসেবে চিহ্নিত।"
+ }
+]

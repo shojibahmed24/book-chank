@@ -1,0 +1,790 @@
+[
+ {
+  "id": "class7-math-bn-guide-ch2-p44-ex21-mcq18",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_error_mcq",
+  "pdf_page": 39,
+  "guide_printed_page": 44,
+  "printed_key": "গ",
+  "correct_value": "ঘ (ii ও iii)",
+  "never_auto_score": true,
+  "note": "200dpi tight-crop read (PDF p39 top): dot on গ (i ও iii) confirmed. GUIDE KEY ERROR (stored as printed): statement i is false — extremes (প্রান্তীয়) are the 1st & 4th terms, not 1st & 2nd; ii (1st & 4th extremes) and iii (2nd & 3rd means) are true, so the mathematically correct option is ঘ (ii ও iii). The printed dot on গ is kept as the verbatim key; the AI explanation must flag this discrepancy, not teach গ as correct."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p56-ex22b-mcq17",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_error_mcq",
+  "pdf_page": 50,
+  "guide_printed_page": 56,
+  "printed_key": "খ",
+  "correct_value": "৩৩১/৩% লাভ (ক্ষতি নয়)",
+  "never_auto_score": true,
+  "note": "200dpi tight-crop read (PDF p50 mid): dot on খ (৩৩১/₃% ক্ষতি) confirmed. GUIDE KEY ERROR (stored as printed): cost ১.৫০, sale ২.০০ gives PROFIT ০.৫০, profit% = ০.৫০/১.৫০ × ১০০% = ৩৩১/₃% লাভ — and the guide's own printed ব্যাখ্যা concludes শতকরা লাভ = ৩৩১/₃%. The dotted ক্ষতি option contradicts both the ব্যাখ্যা and computation. The printed dot on খ is kept as the verbatim key; this row must NOT be auto-scored as ক্ষতি, and the AI explanation must flag the discrepancy."
+ },
+ {
+  "id": "class7-math-bn-guide-ch3-p86-mcq26",
+  "chapter_id": "class7-math-bn-ch3",
+  "kind": "guide_error_mcq",
+  "pdf_page": 77,
+  "guide_printed_page": 86,
+  "printed_key": "খ",
+  "correct_value": "ঘ (i, ii ও iii)",
+  "never_auto_score": true,
+  "note": "200dpi crop (p77) confirms filled dot on খ (i ও iii). GUIDE KEY ERROR: i, ii, iii all true (1 sq in ≈ 6.45 sq cm; 1 sq yd ≈ 0.84 sq m; 1 sq cm ≈ 0.155 sq in), so mathematically correct is ঘ — printed key খ stored verbatim, never auto-score."
+ },
+ {
+  "id": "class7-math-bn-guide-ch3-p87-mcq51",
+  "chapter_id": "class7-math-bn-ch3",
+  "kind": "guide_error_mcq",
+  "pdf_page": 78,
+  "guide_printed_page": 87,
+  "printed_key": "ক",
+  "correct_value": null,
+  "never_auto_score": true,
+  "note": "200dpi crop (p78) confirms dotted option ক = ৪০৪৬.২৪. GUIDE KEY NOTE: true 1 acre = 4046.86 sq m, which is NOT among the options (খ = 4024.86); printed key ক stored verbatim as the closest option, never auto-score as exact."
+ },
+ {
+  "id": "class7-math-bn-guide-ch4-p107-mcq13",
+  "chapter_id": "class7-math-bn-ch4",
+  "kind": "guide_error_mcq",
+  "pdf_page": 95,
+  "guide_printed_page": 107,
+  "printed_key": "খ",
+  "correct_value": null,
+  "never_auto_score": true,
+  "note": "GUIDE-ERROR (never auto-score) — 200dpi re-read (PDF p95) + stimulus crop: stimulus x²+15, y²−15, 2x²+5y²−16 is confirmed by Q11 (first×3y² = 3x²y²+45y², dotted ঘ) and Q12 (first−second = x²−y²+30, dotted ক). Q13 = (first−second)+third = 3x²+4y²+14, which is ABSENT from the options; the printed filled dot is on খ = x²+4y²+14 (missing 2x²). Printed key খ stored verbatim; correct value 3x²+4y²+14 noted, never auto-score. খ/গ both print x²+4y²+14 (duplicate)."
+ },
+ {
+  "id": "class7-math-bn-guide-ch5-p125-mcq34",
+  "chapter_id": "class7-math-bn-ch5",
+  "kind": "guide_error_mcq",
+  "pdf_page": 110,
+  "guide_printed_page": 125,
+  "printed_key": "ক",
+  "correct_value": "খ (-3)",
+  "never_auto_score": true,
+  "note": "GUIDE-ERROR (never auto-score) — PDF p110 read. GUIDE-ERROR (never auto-score): ছাপা dot ক (-4) হলো x-এর মান; প্রশ্নে (x+1) চাওয়া হয়েছে, সঠিক মান -3=খ; ছাপা key ভুল, কখনো auto-score নয়"
+ },
+ {
+  "id": "class7-math-bn-guide-ch6-p153-ex61mcq9",
+  "chapter_id": "class7-math-bn-ch6",
+  "kind": "guide_error_mcq",
+  "pdf_page": 135,
+  "guide_printed_page": 153,
+  "printed_key": "খ",
+  "correct_value": null,
+  "never_auto_score": true,
+  "note": "PDF p135 read. 200dpi re-read confirmed. GUIDE-ERROR (never auto-score): ছাপা dot খ (1/(5ab)); stem 3abc/(15a^2b^3c)-এর সঠিক লঘিষ্ঠ রূপ 1/(5ab^2), যা অপশনে নেই; ছাপা key ভুল, কখনো auto-score নয়"
+ },
+ {
+  "id": "class7-math-bn-guide-ch7-p182-ex72mcq10",
+  "chapter_id": "class7-math-bn-ch7",
+  "kind": "guide_error_mcq",
+  "pdf_page": 161,
+  "guide_printed_page": 182,
+  "printed_key": "ঘ",
+  "correct_value": null,
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on ঘ (70টি). GUIDE-ERROR (never auto-score): printed stimulus 2nd sentence says 4x=4y, which contradicts sentence 1 (x=y+35) and cannot yield 70; printed key 70 requires x=2y (i.e. stimulus digit 8, not 4); key stored as printed, never auto-score."
+ },
+ {
+  "id": "class7-math-bn-guide-ch7-p182-ex72mcq11",
+  "chapter_id": "class7-math-bn-ch7",
+  "kind": "guide_error_mcq",
+  "pdf_page": 161,
+  "guide_printed_page": 182,
+  "printed_key": "গ",
+  "correct_value": null,
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on গ (105টি). GUIDE-ERROR (never auto-score): printed stimulus 2nd sentence says 4x=4y, which contradicts sentence 1 (x=y+35) and cannot yield 105; printed key 105 requires x=2y (i.e. stimulus digit 8, not 4); key stored as printed, never auto-score."
+ },
+ {
+  "id": "class7-math-bn-guide-ch8-p200-ex8mcq2",
+  "chapter_id": "class7-math-bn-ch8",
+  "kind": "guide_error_mcq",
+  "pdf_page": 176,
+  "guide_printed_page": 200,
+  "printed_key": "ক",
+  "correct_value": "খ (∵)",
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on ক (∴). GUIDE-ERROR (never auto-score): 'যেহেতু' (since)-এর চিহ্ন ∵ (খ), ∴ হলো 'সুতরাং' (therefore)-এর চিহ্ন; ছাপা key ভুল, কখনো auto-score নয়।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch8-p201-ex8smcq31",
+  "chapter_id": "class7-math-bn-ch8",
+  "kind": "guide_error_mcq",
+  "pdf_page": 177,
+  "guide_printed_page": 201,
+  "printed_key": "ঘ",
+  "correct_value": "খ (শীর্ষবিন্দু)",
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on ঘ (সম বিন্দু). GUIDE-ERROR (never auto-score): দুইটি রশ্মির সাধারণ প্রান্তবিন্দুকে শীর্ষবিন্দু (খ) বলে; ছাপা key ভুল, কখনো auto-score নয়।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p211-ex91smcq59",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_error_mcq",
+  "pdf_page": 185,
+  "guide_printed_page": 211,
+  "printed_key": "গ",
+  "correct_value": "ঘ (i, ii ও iii)",
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on গ (i ও iii)। GUIDE-ERROR (never auto-score): ii গাণিতিকভাবে সত্য — AB+AC>BC হলে AB+AC≥BC-ও সত্য; তাই তিনটি বক্তব্যই সত্য, সঠিক key ঘ (i, ii ও iii); ছাপা key ভুল।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p211-ex91smcq61",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_error_mcq",
+  "pdf_page": 185,
+  "guide_printed_page": 211,
+  "printed_key": "খ",
+  "correct_value": null,
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on খ (i ও iii)। GUIDE-ERROR (never auto-score): ∠B=90° সমকোণী সমদ্বিবাহু ত্রিভুজে ∠A=∠C=45° — ii (∠C=60°) মিথ্যা এবং iii (AB=AC) অসম্ভব (AC অতিভুজ); শুধু i সত্য, 'i মাত্র' option নেই — কোনো option-ই সঠিক নয়, ছাপা key ভুল।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p221-ex92smcq32",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_error_mcq",
+  "pdf_page": 194,
+  "guide_printed_page": 221,
+  "printed_key": "ঘ",
+  "correct_value": null,
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on ঘ (8 সে.মি.)। GUIDE-ERROR (never auto-score): প্রশ্নের একাধিক সঠিক উত্তর আছে — ত্রিভুজ অসমতা (1 < x < 15) অনুযায়ী 2, 3 ও 8 তিনটিই সম্ভব; ছাপা key ঘ বৈধ কিন্তু অনন্য নয়, auto-score নয়।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p242-ex101smcq12",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_error_mcq",
+  "pdf_page": 212,
+  "guide_printed_page": 242,
+  "printed_key": "গ",
+  "correct_value": "ক (≅)",
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on গ (≡)। GUIDE-ERROR (never auto-score): সর্বসমতার চিহ্ন ≅ (ক) — গাইডের নিজের ex101mcq5-এই সর্বসমতা ≅ দিয়ে লেখা হয়েছে; ছাপা key গ (≡, অভেদ চিহ্ন) গাইডের নিজস্ব convention-এর সঙ্গে অসঙ্গত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p242-ex101smcq30",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_error_mcq",
+  "pdf_page": 212,
+  "guide_printed_page": 242,
+  "printed_key": "ঘ",
+  "correct_value": "খ (i ও iii)",
+  "never_auto_score": true,
+  "note": "200dpi crop verified: dot on ঘ (i, ii ও iii)। GUIDE-ERROR (never auto-score): ii মিথ্যা — সাধারণ ত্রিভুজে মধ্যমা শীর্ষকোণের সমদ্বিখণ্ডক হয় না (কেবল সমদ্বিবাহুতে AB=BC হলে); সঠিক খ (i ও iii)।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p249-ex102smcq26",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_error_mcq",
+  "pdf_page": 218,
+  "guide_printed_page": 249,
+  "printed_key": "ক",
+  "correct_value": null,
+  "never_auto_score": true,
+  "note": "PDF p218 read + crop-verified dot ক। GUIDE-ERROR (never auto-score): ছাপা key ক — ∠BAD। চিত্রের মাপ (AC=3, CB=2, AB=4.5, AD=6.75, ∠ABD=90°) থেকে কোসাইন-সূত্রে ∠ABC≈32°, যেখানে ∠BAD≈48°, ∠ABD=90°, ∠ADB≈42°, ∠BAC≈21° — কোনো option-ই ∠ABC-এর সমান নয়; ছাপা key ভুল। PRINTED key সংরক্ষিত, সঠিক মান নেই বলে কোনো সংশোধিত key দেওয়া হয়নি।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p274-ex11mcq2",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_error_mcq",
+  "pdf_page": 240,
+  "guide_printed_page": 274,
+  "printed_key": "খ",
+  "correct_value": "গ (৯)",
+  "never_auto_score": true,
+  "note": "PDF p240 read (crop-verified mark). GUIDE-ERROR: ছাপা key খ (১০); সঠিক গ (৯) — (৬০ − ৫২) + ১ = ৯, গাইডের নিজস্ব নিয়মে (প্রশ্ন ১: ২−৩ → ২)। never-auto-score."
+ },
+ {
+  "id": "class7-math-bn-guide-ch1-p7-cr5a",
+  "chapter_id": "class7-math-bn-ch1",
+  "kind": "guide_note",
+  "pdf_page": 5,
+  "guide_printed_page": 7,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "page image read (folio 7). FLAG: printed sub-part asks ৩৬ though the stem lists ১৮০/৫৬০৫ — recorded verbatim as printed (possible guide misprint); NOT corrected to ১৮০. Recomputed: 6x6=36."
+ },
+ {
+  "id": "class7-math-bn-guide-ch1-p28-ex12b-mcq6",
+  "chapter_id": "class7-math-bn-ch1",
+  "kind": "guide_note",
+  "pdf_page": 25,
+  "guide_printed_page": 28,
+  "printed_key": "গ",
+  "never_auto_score": false,
+  "note": "page image read (folio 28); dot + computation agree: 0.7x0.7=0.49. NOTE: ঘ option also reads ০.৯ at 100dpi (possible duplicate/misprint); key stored from dot + computation."
+ },
+ {
+  "id": "class7-math-bn-guide-ch1-p29-ex12b-mcq46",
+  "chapter_id": "class7-math-bn-ch1",
+  "kind": "guide_note",
+  "pdf_page": 26,
+  "guide_printed_page": 29,
+  "printed_key": "খ",
+  "never_auto_score": false,
+  "note": "page image read (folio 29); dot + computation agree: 1/9=(1/3)^2. NOTE: ক and ঘ both read ¹/₈ at 100dpi (possible duplicate/misprint); key stored from dot + computation."
+ },
+ {
+  "id": "class7-math-bn-guide-ch1-p29-ex12b-mcq48",
+  "chapter_id": "class7-math-bn-ch1",
+  "kind": "guide_note",
+  "pdf_page": 26,
+  "guide_printed_page": 29,
+  "printed_key": "ঘ",
+  "never_auto_score": false,
+  "note": "page image read (folio 29); dot + computation agree: 0.9x0.9=0.81. NOTE: ক and খ both read ০.০৩ at 100dpi (possible duplicate/misprint)."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p44-ex21-mcq30",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 39,
+  "guide_printed_page": 44,
+  "printed_key": "ঘ",
+  "never_auto_score": false,
+  "note": "200dpi tight-crop read (PDF p39 top): stem ৭:১৬ confirmed, dotted option ঘ = √৭:৮ confirmed. GUIDE INCONSISTENCY (stored as printed): the subduplicate of ৭:১৬ is √৭:৪, which is NOT among the options; √৭:৮ is the subduplicate of ৭:৬৪ — likely a stem misprint (৬৪ → ১৬) or an option misprint (৪ → ৮). The 100dpi read of ঘ as √৭:৪ was a misread. Key ঘ follows the printed dot."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p44-ex21-mcq26",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 39,
+  "guide_printed_page": 44,
+  "printed_key": "ঘ",
+  "never_auto_score": false,
+  "note": "200dpi tight-crop read (PDF p39 bot): question asks ৩য় রাশি as printed, dot on ঘ = ১৪ confirmed. NOTE (stored as printed): ১৪ equals the ৪র্থ সমানুপাতী (৭×১৬/৮); the ৩য় সমানুপাতী of ৮, ৭ would be ৪৯/৮, not among the options — the question word is likely a guide slip for ৪র্থ সমানুপাতী. Key ঘ follows dot + 4th-proportional computation."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p56-ex22b-mcq2",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 50,
+  "guide_printed_page": 56,
+  "printed_key": "গ",
+  "never_auto_score": false,
+  "note": "200dpi crop read (PDF p50 top): dot on গ = ১০০ confirmed (১১০০−১০০০=১০০). Options ক and খ are BOTH printed ১১০০ at 200dpi — a guide distractor duplication, key unaffected; stored as printed."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p56-ex22b-mcq19",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 50,
+  "guide_printed_page": 56,
+  "printed_key": "ঘ",
+  "never_auto_score": false,
+  "note": "PDF p50 read; dot on ঘ; computation agrees (০.৫০/১.৫০=১/৩). NOTE: the printed তথ্য/ব্যাখ্যা under this item is mismatched boat-speed text (স্রোতের অনুকূলে বেগ) belonging to another question — NOT stored as grounding."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p57-ex22b-mcq29",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 51,
+  "guide_printed_page": 57,
+  "printed_key": "খ",
+  "never_auto_score": false,
+  "note": "PDF p51 read; dot on খ; inconsistency noted, not silently fixed."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p57-ex22b-mcq30",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 51,
+  "guide_printed_page": 57,
+  "printed_key": "খ",
+  "never_auto_score": false,
+  "note": "PDF p51 read; dot on খ; stem/ব্যাখ্যা discrepancy noted."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p66-mcr3c",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 59,
+  "guide_printed_page": 66,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p59 read; marks ৪ as printed; guide inconsistency noted (stem ৩০ vs solution ২০)."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p51-cr5b",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 45,
+  "guide_printed_page": 51,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p45 read; marks ৪ as printed; conclusion-word slip noted."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p69-cr10c",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 62,
+  "guide_printed_page": 69,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p62 read; marks ৪ as printed; printed timeline inconsistency noted."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p73-ex23b-mcq37",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 66,
+  "guide_printed_page": 73,
+  "printed_key": "গ",
+  "never_auto_score": false,
+  "note": "200dpi crop read (PDF p66 top+mid): dot on গ = ৬৬/৭ confirmed; computation agrees (১৬ ও ১২ দিনে একত্রে ৪৮/৭ = ৬৬/৭ দিন). Option ক corrected to ৯৩/৫ (200dpi tight crop; the 100dpi ৯৭/৭ read was wrong). Options খ/ঘ still appear identical to গ (৬৬/৭) at 200dpi — likely a guide misprint; stored as printed; key unaffected."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p73-ex23b-mcq46",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 66,
+  "guide_printed_page": 73,
+  "printed_key": "গ",
+  "never_auto_score": false,
+  "note": "200dpi tight-crop read (PDF p66 top): dot on গ = ৬৬/৭ confirmed; computation agrees (৪৮/৭ = ৬৬/৭ দিন). Option ক corrected to ৯৩/৫ (200dpi; the 100dpi ৯৬/৭ read was wrong). Options খ/ঘ still appear identical to গ (৬৬/৭) at 200dpi — likely a guide misprint; stored as printed; key unaffected."
+ },
+ {
+  "id": "class7-math-bn-guide-ch2-p74-ex23b-mcq64",
+  "chapter_id": "class7-math-bn-ch2",
+  "kind": "guide_note",
+  "pdf_page": 67,
+  "guide_printed_page": 74,
+  "printed_key": "গ",
+  "never_auto_score": false,
+  "note": "200dpi tight-crop read (PDF p67 mid): printed dot is on গ = ৭১/৫ (NOT ক as read at 100dpi — corrected); option খ corrected to ৭৫/৬ (200dpi; the 100dpi ৭১/৫ read was wrong); ঘ = ৩৬. Value confirmed by the printed ব্যাখ্যা: (১/১২ + ১/১৮) = ৫/৩৬ per hour → time ৩৬/৫ = ৭১/৫ ঘণ্টা. Note: ক and গ both print ৭১/₅, so the question has two options with the correct value; stored key follows the printed dot (গ)."
+ },
+ {
+  "id": "class7-math-bn-guide-ch5-p124-scr11c",
+  "chapter_id": "class7-math-bn-ch5",
+  "kind": "guide_note",
+  "pdf_page": 109,
+  "guide_printed_page": 124,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p109 read. GUIDE-ERROR (never auto-score): ছাপা stem-এ 199, কিন্তু সমাধানের ধারাবাহিক গণনায় 119 হয়; ছাপা 199 ভুল, কখনো auto-score নয়"
+ },
+ {
+  "id": "class7-math-bn-guide-ch5-p135-ct5bcr5b",
+  "chapter_id": "class7-math-bn-ch5",
+  "kind": "guide_note",
+  "pdf_page": 119,
+  "guide_printed_page": 135,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p119 read. GUIDE-ERROR (never auto-score): 200dpi-তে ছাপা 40b নিশ্চিত; গণনা: 25(a+2b)^2-36(2a-5b)^2=(17a-20b)(-7a+40b); ছাপা ১ম উৎপাদকের 40b ভুল, সঠিক 20b; কখনো auto-score নয়"
+ },
+ {
+  "id": "class7-math-bn-guide-ch6-p148-ex61pr12",
+  "chapter_id": "class7-math-bn-ch6",
+  "kind": "guide_note",
+  "pdf_page": 130,
+  "guide_printed_page": 148,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p130 read. 200dpi re-read confirmed. GUIDE NOTE (solution typo, non-MCQ): সমাধানের হর-line-এ ছাপা 'qr', কিন্তু stem (y/pr) ও পরের ধাপগুলোতে 'pr'; চূড়ান্ত উত্তর rx/pqr, qy/pqr অপরিবর্তিত"
+ },
+ {
+  "id": "class7-math-bn-guide-ch7-p172-ex71cr2b",
+  "chapter_id": "class7-math-bn-ch7",
+  "kind": "guide_note",
+  "pdf_page": 151,
+  "guide_printed_page": 172,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p151 read. Guide bracket says '3 দ্বারা' but division is by 8; result x=-2 correct."
+ },
+ {
+  "id": "class7-math-bn-guide-ch7-p174-ex71s-mcq26",
+  "chapter_id": "class7-math-bn-ch7",
+  "kind": "guide_note",
+  "pdf_page": 153,
+  "guide_printed_page": 174,
+  "printed_key": "গ",
+  "never_auto_score": false,
+  "note": "PDF p153 read. Printed explanation shows '2x+y' (y for x misprint); key গ=3 confirmed by computation."
+ },
+ {
+  "id": "class7-math-bn-guide-ch7-p182-ex72mcq9",
+  "chapter_id": "class7-math-bn-ch7",
+  "kind": "guide_note",
+  "pdf_page": 161,
+  "guide_printed_page": 182,
+  "printed_key": "ঘ",
+  "never_auto_score": false,
+  "note": "200dpi crop verified: stimulus 35টি, dot on ঘ (x=y+35). GUIDE NOTE (key not error-flagged): printed 2nd stimulus sentence (4x=4y) is inconsistent with printed Q10/Q11 keys (70/105 require x=2y); Q9 key itself follows from sentence 1 alone and is correct."
+ },
+ {
+  "id": "class7-math-bn-guide-ch7-p182-ex72scr7c",
+  "chapter_id": "class7-math-bn-ch7",
+  "kind": "guide_note",
+  "pdf_page": 161,
+  "guide_printed_page": 182,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p161 read. Guide prints 'কমলালেবুর' for the 120-apple line and '(15x120)' for the orange line — both misprints, values 1800/800/2600 correct."
+ },
+ {
+  "id": "class7-math-bn-guide-ch8-p199-ex8scr5b",
+  "chapter_id": "class7-math-bn-ch8",
+  "kind": "guide_note",
+  "pdf_page": 175,
+  "guide_printed_page": 199,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p174-175 read. GUIDE NOTE: concluding line prints '∠FEG = ∠EFG + ∠EGF = 60°' (crop-verified) — a misprint; sense is all three angles 60° (∠FEG=∠GFE=∠EGF=60°), conclusion EF=FG=GF unaffected."
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p206-ex91pr5",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 180,
+  "guide_printed_page": 206,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p180 read. Note: ছাপা ধাপ (৪)-এর মাঝের বীজগাণিতিক লাইন সংকুচিত/অগোছালো ছাপা, কিন্তু (১)–(৩) থেকে উপসংহার ∠CEO=∠DBO সঠিকভাবে আসে।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p207-ex91mcr3c",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 181,
+  "guide_printed_page": 207,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p181 read. Note: ছাপা ধাপ ১-এর লাইন (AB+BC>AC) উপসংহারের সঙ্গে আলগাভাবে যুক্ত; উপসংহার বৃহত্তম কোণের বিপরীত বাহু বৃহত্তম — এই উপপাদ্য থেকে সঠিকভাবে আসে।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p208-ex91mcr4b",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 182,
+  "guide_printed_page": 208,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "200dpi crop verified: ছাপা ধাপ ২-এ 'AC > BC' লেখা — GUIDE NOTE (non-MCQ): ∠ACB-এর বিপরীত বাহু AB, তাই সঠিক হবে 'AC > AB'; ধাপ ৩ (AC > BC) সঠিক; উপসংহার (AC-ই বৃহত্তম বাহু) অপরিবর্তিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p208-ex91scr5a",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 182,
+  "guide_printed_page": 208,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p182 read. Note: প্রশ্নে 'শর্ত দুটি' চাইলেও সমাধানে চারটি শর্তই দেওয়া হয়েছে (ছাপা অনুযায়ী)।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p211-ex91smcq54",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 185,
+  "guide_printed_page": 211,
+  "printed_key": "ঘ",
+  "never_auto_score": false,
+  "note": "200dpi crop verified: dot on ঘ (90°); school bracket ব্লু বার্ড স্কুল, সিলেট। Stem সংক্ষিপ্ত/অসম্পূর্ণ ছাপা (সমকোণের প্রসঙ্গ অনুক্ত), key ছাপা অনুযায়ী সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p215-ex92pr13",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 188,
+  "guide_printed_page": 215,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p188 read. Note: ছাপা ধাপ ২-এ 'AC > BC' লেখা — GUIDE NOTE (non-MCQ, ex91mcr4b-এর পুনরাবৃত্তি): ∠ACB-এর বিপরীত বাহু AB, তাই সঠিক 'AC > AB'; উপসংহার অপরিবর্তিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p218-ex92scr7b",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 191,
+  "guide_printed_page": 218,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "200dpi crop verified: ছাপা ধাপ ২-এ '∠ABD < ∠BCD' লেখা — GUIDE NOTE (non-MCQ): মুদ্রণ-বিভ্রাট; পরের লাইন '∠ABD > ∠ACB' (যেখানে ∠BCD=∠ACB) ও উপসংহার থেকে সঠিক চিহ্ন '>' নিশ্চিত; সমাধানে '>' সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p221-ex92smcq31",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 194,
+  "guide_printed_page": 221,
+  "printed_key": "গ",
+  "never_auto_score": false,
+  "note": "200dpi crop verified: dot on গ (128°); ছাপা ব্যাখ্যার মাঝের সমীকরণ-শৃঙ্খল অগোছালো, key ছাপা অনুযায়ী সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch9-p221-ex92smcq50",
+  "chapter_id": "class7-math-bn-ch9",
+  "kind": "guide_note",
+  "pdf_page": 194,
+  "guide_printed_page": 221,
+  "printed_key": "খ",
+  "never_auto_score": false,
+  "note": "PDF p194 read. Note: option খ-এ ছাপা '∠BAB' অর্থহীন — '∠BAE'-এর মুদ্রণ-বিভ্রাট বলে প্রতীয়মান (ΔABE-এ ∠BAE+∠AEB=70°); option verbatim সংরক্ষিত, key ছাপা অনুযায়ী খ।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p237-ex101pr3",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 207,
+  "guide_printed_page": 237,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "200dpi crop verified: ছাপা প্রমাণ-ছকে ত্রুটি আছে — ধাপ (২)-এ প্রমাণ্য AD=BC-কেই 'কল্পনা' হিসেবে ধরা হয়েছে (চক্রক যুক্তি) এবং উপপাদ্য 'বাহু-কোণ-বাহু' লেখা হয়েছে; সঠিক যুক্তি: প্রদত্ত ∠BAC=∠ACD (অন্তর্ভুক্ত কোণ) + AB=DC + AC সাধারণ বাহু → বাহু-কোণ-বাহু উপপাদ্য। উপসংহার (AD=BC ইত্যাদি) সঠিক। guide_solution-এ সংশোধিত যুক্তি সংরক্ষিত, ছাপা ত্রুটি note-এ।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p239-ex101cr2c",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 209,
+  "guide_printed_page": 239,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "200dpi crop verified: ছাপা ধাপ (২)-এ '∴ ∠ACB = ∠ABC' — ধাপ (১)-এর পুনরাবৃত্তি, মুদ্রণ-বিভ্রাট; সঠিক '∴ ∠ACB = ∠BAC' (AB=BC-এর বিপরীত কোণ ∠ACB ও ∠BAC), যা থেকেই উপসংহার ∠ABC=∠BAC=∠ACB আসে। guide_solution-এ সংশোধিত ধাপ সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p240-ex101cr4b",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 210,
+  "guide_printed_page": 240,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p210 read. Note: ছাপা ধাপ (২)-এ 'BE ও CD রেখা ∠ABC ও ∠ACB কে সমদ্বিখণ্ডিত করে' ও '1/2 ∠ABC = 1/2 ∠ACB' দাবিটি অপ্রমাণিত/বিভ্রান্তিকর — সমদ্বিখণ্ডকের শর্ত প্রশ্নে দেওয়া নেই; সঠিক যুক্তি: D ∈ AB বলে ∠EBC = ∠ABC এবং E ∈ AC বলে ∠DCB = ∠ACB, তাই সর্বসমতা থেকেই ∠ABC = ∠ACB আসে। guide_solution-এ সংশোধিত যুক্তি সংরক্ষিত, উপসংহার অপরিবর্তিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p244-ex102pr2",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 213,
+  "guide_printed_page": 244,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p213 read. Note: ছাপা উপসংহারের bracket-এ '[BE ও CD রেখা ∠ABC ও ∠ACB কে সমদ্বিখণ্ডিত করে]' লেখা — বিভ্রান্তিকর, সমদ্বিখণ্ডকের শর্ত প্রশ্নে নেই; সঠিক যুক্তি D ∈ AB, E ∈ AC থেকে ∠DBC=∠ABC, ∠BCE=∠ACB। guide_solution-এ সংশোধিত যুক্তি সংরক্ষিত (ex101cr4b-এর মতো একই ছাপা বিভ্রাট)।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p245-ex102pr9",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 214,
+  "guide_printed_page": 245,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p214 read. Note: ছাপা ছকে যাথার্থ্য-কলাম উল্টে গেছে — (২) AB=AD-এর পাশে 'সাধারণ বাহু' ও (৩) AC=AC-এর পাশে 'কল্পনা' লেখা; সঠিক: AB=AD কল্পনা (প্রদত্ত), AC=AC সাধারণ বাহু। সর্বসমতা (অতিভুজ-বাহু) ও উপসংহার সঠিক। guide_solution-এ সংশোধিত যাথার্থ্য সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p247-ex102cr3b",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 216,
+  "guide_printed_page": 247,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p216 read. Note: ছাপা ছকে ধাপের ক্রম অগোছালো ('∴ EB = FC' সর্বসমতার আগে লেখা); উপাদানগুলো (BD=CD, ED=FD, ∠EBD=∠FCD) থেকে বাহু-কোণ-বাহু সর্বসমতা সরাসরি আসে। guide_solution-এ পরিষ্কার ক্রমে সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p248-ex102scr5b",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 217,
+  "guide_printed_page": 248,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p217 read. Note: ছাপা ছকে যাথার্থ্য-কলাম অগোছালো (ভুল সারিতে লেখা); যুক্তি পরিষ্কার ক্রমে সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p248-ex102scr6c",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 217,
+  "guide_printed_page": 248,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p217 read. Note: ছাপা ছকে যাথার্থ্য-কলাম অগোছালো ও সাধারণ বাহু AC=AC-এর সারি অস্পষ্ট; বাহু-বাহু-বাহু যুক্তি পরিষ্কার ক্রমে সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p251-ex103mcq3",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 219,
+  "guide_printed_page": 251,
+  "printed_key": "ঘ",
+  "never_auto_score": false,
+  "note": "PDF p219 read + crop-verified dot ঘ। Note: ছাপা ব্যাখ্যায় '২ সমকোণ বা ৪ সমকোণ' — '২ সরলকোণ'-এর মুদ্রণ-বিভ্রাট বলে প্রতীয়মান (২ সরলকোণ = ৪ সমকোণ); key ঘ সঠিক, ব্যাখ্যা verbatim সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p252-ex103pr5",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 220,
+  "guide_printed_page": 252,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p219 (প্রথম চিত্র) + p220 read. Note: ছাপা ছকে যাথার্থ্য-কলাম অগোছালো; যুক্তি পরিষ্কার ক্রমে সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p252-ex103pr6",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 220,
+  "guide_printed_page": 252,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p220 read. Note: ছাপা ছকে যাথার্থ্য-কলাম অগোছালো; যুক্তি পরিষ্কার ক্রমে সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p254-ex103cr15c",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 222,
+  "guide_printed_page": 254,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p222 read. Note: ছাপা ছকে যাথার্থ্য-কলাম অগোছালো; যুক্তি পরিষ্কার ক্রমে সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p256-ex103cr3b",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 224,
+  "guide_printed_page": 256,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p224 read. Note: ছাপা ধাপে '∠BED = ∠CA' — অসম্পূর্ণ ছাপা; অনুরূপ কোণ হিসেবে সঠিক '∠BED = ∠BCA' সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-p256-ex103scr5c",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "guide_note",
+  "pdf_page": 224,
+  "guide_printed_page": 256,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p224 read. Note: ছাপা শেষ লাইনে 'CE ≮ CE' — মুদ্রণ-বিভ্রাট; সঠিক 'CD ≮ CE' সংরক্ষিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p262-ex11pr11",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 228,
+  "guide_printed_page": 262,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p228 read + crop-verified। Note: ছাপা সাজানো তালিকায় ভুল — ৭০ আছে (মূল উপাত্তে নেই), ৬৩ দুইবার (মূল উপাত্তে একবার), একটি ৯০ ও একটি ৬০ বাদ পড়েছে; guide_solution-এ মূল ৩৪টি মানের সঠিক অধঃক্রম সংরক্ষিত। উপসংহার (বিন্যস্ত উপাত্তের সংজ্ঞা) অপরিবর্তিত।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p268-ex11cr5c",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 234,
+  "guide_printed_page": 268,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p234 read. Note: ছাপা (গ)-এর সঙ্গে (খ)-এর সারণির অসঙ্গতি — (খ)-এর সারণিতে সর্বোচ্চ গণসংখ্যা ৬, শ্রেণি ৪৬−৫০-তে; কিন্তু ছাপা (গ) প্রচুরক ৮৫ (শ্রেণি ৮০−৯০) দাবি করে। ছাপা সমাধান verbatim-এর মতো সংরক্ষিত, অসঙ্গতিটি এখানে লিপিবদ্ধ।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p269-ex11cr6c",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 235,
+  "guide_printed_page": 269,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p234 (stem + (ক)(খ)) + p235 read. Note: ছাপা (গ)-এ আয়তলেখ ও অবিচ্ছিন্ন শ্রেণির সারণি দেওয়া আছে, কিন্তু প্রচুরকের সংখ্যামান মুদ্রিত নেই; প্রচুরক-শ্রেণি (খ)-এর সারণি অনুযায়ী ৮১−৯০ (গণসংখ্যা ৯)।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p269-ex11cr7c",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 235,
+  "guide_printed_page": 269,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p234 (stem + (ক)(খ) + অবিচ্ছিন্ন সারণি) + p235 read. Note: ছাপা সমাধানে অবিচ্ছিন্ন শ্রেণির সারণি দেওয়া আছে; আয়তলেখের চিত্রটি এই পাতাগুলোতে মুদ্রিত নেই।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p269-ex11cr9b",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 235,
+  "guide_printed_page": 269,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p235 read + crop-verified table. Note: ছাপা সারণিতে টালি-গণনার ভুল — উদ্দীপকের ৩০টি মান গুনলে ১৬৫−১৭০ শ্রেণিতে ৬টি (ছাপা ৭টি) এবং ১৭৫−১৮০ শ্রেণিতে ৪টি (ছাপা ৩টি) হয়; মোট ৩০ অপরিবর্তিত। সঠিক সারণি: ৪/৩/২/৫/৬/৪/৪/২। প্রচুরক-শ্রেণি (১৬৫−১৭০) ও প্রচুরক ১৬৭ (প্রায়) উপসংহার অপরিবর্তিত থাকে।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p270-ex11cr11b",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 236,
+  "guide_printed_page": 270,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p236 read + crop-verified stem. Note: ছাপা সারণিতে গণনার ভুল — উদ্দীপকের ৩০টি মান গুনলে ৫০−৫৪ শ্রেণিতে ৯টি (ছাপা ১০টি) এবং ৫৫−৫৯ শ্রেণিতে ৯টি (ছাপা ৮টি) হয়; মোট ৩০ অপরিবর্তিত। সঠিক সারণি: ৩/৬/৯/৯/২/১।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p270-ex11cr13b",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 236,
+  "guide_printed_page": 270,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p236 read + crop-verified stem (৭১ confirmed). Note: ছাপা সারণিতে গণনার ভুল — উদ্দীপকের ৪০টি মান গুনলে ৬১−৭০ শ্রেণিতে ৬টি (ছাপা ৭টি) এবং ৭১−৮০ শ্রেণিতে ১১টি (ছাপা ১০টি) হয়; মোট ৪০ অপরিবর্তিত। সঠিক সারণি: ১/৫/৬/১১/৯/৮।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p271-ex11cr11c",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 237,
+  "guide_printed_page": 271,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p236 (stem + (ক)(খ)) + p237 read. Note: ছাপা সমাধানে আয়তলেখের স্কেল-বর্ণনা ও চিত্র দেওয়া আছে; বর্ণনা-অংশের পৃথক লিখিত পাঠ এই পাতায় মুদ্রিত নেই। আয়তলেখ (খ)-এর ছাপা সারণি অনুসরণ করে আঁকা।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p272-ex11cr19a",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 238,
+  "guide_printed_page": 272,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p238 read. Note: ছাপা সাজানো তালিকায় ৩৪টি মান — উদ্দীপকের ৩৫টি মানের মধ্যে একটি ৯০ বাদ পড়েছে (উদ্দীপকে ৯০ চারবার, ছাপা তালিকায় তিনবার)। সঠিক সাজানো তালিকায় ৯০ চারবার থাকবে।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p273-ex11cr20b",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 239,
+  "guide_printed_page": 273,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p239 read + crop-verified stem and table. Note: ছাপা সারণিতে টালি-গণনার ভুল — উদ্দীপকের ৩০টি মান গুনলে ৭৬−৮০ শ্রেণিতে ৭টি (ছাপা ৬টি) এবং ৮৬−৯০ শ্রেণিতে ২টি (ছাপা ৩টি) হয়; মোট ৩০ অপরিবর্তিত। সঠিক সারণি: ৩/৫/৯/৭/৪/২।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch11-p273-ex11cr20c",
+  "chapter_id": "class7-math-bn-ch11",
+  "kind": "guide_note",
+  "pdf_page": 239,
+  "guide_printed_page": 273,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "PDF p239 read. Note: ছাপা সমাধানে আয়তলেখের স্কেল-বর্ণনা দেওয়া আছে; আয়তলেখের চিত্রটি এই পাতায় মুদ্রিত নেই। আয়তলেখ (খ)-এর ছাপা সারণি অনুসরণ করে আঁকা; (খ)-এর গণনার ভুলের নোট ex11cr20b-তে।"
+ },
+ {
+  "id": "class7-math-bn-guide-ch10-prose-1",
+  "chapter_id": "class7-math-bn-ch10",
+  "kind": "prose_error",
+  "pdf_page": 207,
+  "guide_printed_page": 237,
+  "printed_key": null,
+  "never_auto_score": false,
+  "note": "১০.১-এর ছাপা opener notes-এ “তিনটি কোণ পরস্পর সমান হলে সর্বসম” দাবিটি গাণিতিকভাবে ভুল — তিন কোণ সমান হলে সদৃশ হয়, সর্বসম নয়। Raw text chunks.json-এ verbatim সংরক্ষিত; chunks_corrected.json-এ সর্বসমতার শর্ত থেকে “তিনটি কোণ” অংশটি বাদ দেওয়া হয়েছে।"
+ }
+]
