@@ -27,16 +27,35 @@ class6/
   books.json       # book metadata (id, subject, language, title, file)
   questions.json   # 5,815 verbatim questions (10 fields each)
   questions.sql    # same rows, DB-ready (6 columns, see below)
-  chunks.json      # 1,556 corrected chunks (14 fields each)
-  chunks.sql       # same rows, DB-ready (14 columns)
+  chunks-part*.json  # 1,556 corrected chunks, split into parts (see Part files)
+  chunks-part*.sql   # same rows, DB-ready (14 columns), split into parts
 class7/
-  questions.json   # 8,929 verbatim questions (10 fields each)
+  questions-part*.json  # 8,929 verbatim questions, split into parts (see Part files)
   questions.sql    # same rows, DB-ready (6 columns)
-  chunks.json      # 2,619 corrected chunks (14 fields each)
-  chunks.sql       # same rows, DB-ready (14 columns)
+  chunks-part*.json  # 2,619 corrected chunks, split into parts (see Part files)
+  chunks-part*.sql   # same rows, DB-ready (14 columns), split into parts
   chapters.json    # chapter boundaries: printed + PDF page ranges, 444 chapters
   final-report.md  # per-subject counts, decisions, and limitations
 ```
+
+## Part files
+
+Files larger than ~4 MB are stored as parts, because the upload path
+rejects single files above that size. The content is identical — only split.
+Reassemble in filename order:
+
+- **JSON parts** (`questions-part1.json`, `questions-part2.json`,
+  `chunks-part1a.json`, `chunks-part1b.json`, `chunks-part2a.json`,
+  `chunks-part2b.json`, `chunks-part3.json` where present): each part is a
+  valid JSON array holding a slice of the full list. Concatenate the arrays
+  in filename order to recover the complete file.
+- **SQL parts** (`chunks-part1a.sql`, `chunks-part1b.sql`,
+  `chunks-part2.sql`, …): each part is a complete `INSERT` statement
+  (header + a subset of rows + `ON CONFLICT DO NOTHING` footer). Run the
+  parts in filename order; re-runs are safe.
+- Files that were already small enough are stored whole and are not split:
+  `books.json`, `chapters.json`, `questions.sql`, `class6/questions.json`,
+  `class6/chunks-part2.sql`, `class7/chunks-part3.json`.
 
 ## File formats
 
