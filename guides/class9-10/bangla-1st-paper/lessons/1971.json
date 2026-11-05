@@ -1,0 +1,2741 @@
+{
+ "author_years": "১৯৪৮-২০১২",
+ "book": "Bangla 1st Paper",
+ "class": 10,
+ "guide": "Panjeree 2026",
+ "lesson_title": "১৯৭১",
+ "lesson_author": "হুমায়ূন আহমেদ",
+ "lesson_slug": "1971",
+ "lesson_pages": "544-566",
+ "section": "uponnas",
+ "scan_map": {
+  "note": "uponnas scan 0 = unnumbered section title page (‘উপন্যাস / বাংলা সহপাঠ’); scan n (n>=1) = printed n+543 (verified: scan 1 = opener p.544, scan 23 = bank p.566).",
+  "scan_to_printed_offset": 543,
+  "title_page_scan": 0
+ },
+ "subsection_pages": {
+  "analysis": "545-550",
+  "quiz": "546-550",
+  "quiz-answers": "550",
+  "mcq-bank": "550-551",
+  "creative": "551-552",
+  "descriptive": "553-565",
+  "bank": "566"
+ },
+ "shikhonfol": [
+  {
+   "number": 1,
+   "stars": 0,
+   "text": "উপন্যাসের সংজ্ঞা, বৈশিষ্ট্য ও শ্রেণি সম্পর্কে ধারণা।",
+   "board": "—",
+   "questions": "—"
+  },
+  {
+   "number": 2,
+   "stars": 2,
+   "text": "উপন্যাসের প্রেক্ষাপট হিসেবে মুক্তিযুদ্ধের স্বরূপ চিত্রণ",
+   "board": "—",
+   "questions": "৪(ক), ৮(ক), ৯(ক), ২০(খ), ১০(ক), ১৫(খ), ১১(ক), ১২(খ), ১২(ক)"
+  },
+  {
+   "number": 3,
+   "stars": 2,
+   "text": "গ্রামীণ জীবনের স্বরূপ",
+   "board": "—",
+   "questions": "১(খ), ৪(খ), ৭(ক), ৯(ক), ৯(খ), ২(খ), ১০(ক), ১৫(ক), ১৩(ক), ১৪(ক)"
+  },
+  {
+   "number": 4,
+   "stars": 1,
+   "text": "পাকিস্তানি বাহিনীর নির্মম হত্যাকাণ্ড ও অত্যাচারের স্বরূপ",
+   "board": "—",
+   "questions": "১(খ), ২(ক), ৩(ক), ৪(খ), ৬(খ), ১৬(খ), ১৫(খ), ১৩(খ), ১৪(খ), ১৭(ক)"
+  },
+  {
+   "number": 5,
+   "stars": 2,
+   "text": "মিলিটারির কর্মকাণ্ড ও অবরুদ্ধ গ্রামীণ জনজীবনের স্বরূপ",
+   "board": "—",
+   "questions": "১(খ), ৩(ক), ৪(খ), ৫(খ), ৬(ক), ৭(ক), ১৬(খ), ৮(খ), ১৫(ক), ১৯(ক), ১৪(ক), ১৭(খ)"
+  },
+  {
+   "number": 6,
+   "stars": 1,
+   "text": "পাকিস্তানির জাতিগত বিদ্বেষের স্বরূপ",
+   "board": "—",
+   "questions": "২(খ), ৫(ক), ২০(ক), ১৪(খ), ১১(খ)"
+  },
+  {
+   "number": 7,
+   "stars": 2,
+   "text": "দেশপ্রেমের স্বরূপ",
+   "board": "—",
+   "questions": "২(খ), ৩(খ), ৫(ক), ১৮(খ), ১০(খ), ২১(ক), ১৯(খ), ১১(ক), ১২(খ), ১৭(খ)"
+  },
+  {
+   "number": 8,
+   "stars": 1,
+   "text": "মুক্তিযুদ্ধে সাধারণ মানুষের এবং কৈবর্ত সম্প্রদায়ের ত্যাগের স্বরূপ",
+   "board": "—",
+   "questions": "৩(খ), ৪(খ), ৫(খ), ১৮(খ), ২০(খ), ১৫(খ), ২১(খ), ১৯(ক), ১২(ক)"
+  },
+  {
+   "number": 9,
+   "stars": 2,
+   "text": "মিলিটারির নির্যাতনের প্রতি মানুষের প্রতিক্রিয়ার স্বরূপ",
+   "board": "—",
+   "questions": "১(ক), ২(ক), ২(খ), ৩(খ), ৭(খ), ১৬(খ), ১৮(খ), ২২(ক), ১৯(খ), ১৭(খ)"
+  }
+ ],
+ "descriptive_exam_instruction": "[সহপাঠ উপন্যাস অংশ থেকে] ৪টি বর্ণনামূলক প্রশ্ন থেকে ২টি প্রশ্নের উত্তর দিতে হবে। (printed on the p.566 bank header)",
+ "descriptive_grade_bands": {
+  "A": [
+   81,
+   100
+  ],
+  "B": [
+   61,
+   80
+  ],
+  "C": [
+   41,
+   60
+  ],
+  "D": [
+   0,
+   40
+  ],
+  "note": "100-scale self-assessment box printed on p.566 (অ্যাসেসমেন্ট ছক-১), recorded AS PRINTED — not question marks."
+ },
+ "no_board_questions": "Stated in the book (opener p.544 tutor note + শিখনফল board column all —): the chapter is newly added in the rearranged syllabus, so there are no board-exam questions.",
+ "no_model_test": true,
+ "rows": [
+  {
+   "answer_text": "নেত্রকোনা",
+   "id": "ban1-uponnas-1971-quiz-001",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 546,
+   "question_number": 1,
+   "question_text": "হুমায়ূন আহমেদ কোন জেলায় জন্মগ্রহণ করেন?",
+   "quiz_set": 1,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "writer"
+  },
+  {
+   "answer_text": "রসায়ন",
+   "id": "ban1-uponnas-1971-quiz-002",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 546,
+   "question_number": 2,
+   "question_text": "হুমায়ূন আহমেদ কোন বিষয়ে স্নাতক ডিগ্রি অর্জন করেন?",
+   "quiz_set": 1,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "writer"
+  },
+  {
+   "answer_text": "১৯৯৬ সালে",
+   "id": "ban1-uponnas-1971-quiz-003",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 546,
+   "question_number": 3,
+   "question_text": "হুমায়ূন আহমেদ কত সালে অধ্যাপনা থেকে স্বেচ্ছায় অবসর গ্রহণ করেন?",
+   "quiz_set": 1,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "writer"
+  },
+  {
+   "answer_text": "কোলন ক্যানসার",
+   "id": "ban1-uponnas-1971-quiz-004",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 546,
+   "question_number": 4,
+   "question_text": "হুমায়ূন আহমেদ কোন ব্যাধিতে আক্রান্ত হয়ে মৃত্যুবরণ করেন?",
+   "quiz_set": 1,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "writer"
+  },
+  {
+   "answer_text": "১৯৪৮ সালে",
+   "id": "ban1-uponnas-1971-quiz-005",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 546,
+   "question_number": 5,
+   "question_text": "হুমায়ূন আহমেদ কত সালে জন্মগ্রহণ করেন?",
+   "quiz_set": 1,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "writer"
+  },
+  {
+   "answer_text": "ফয়জার রহমান আহমেদ",
+   "id": "ban1-uponnas-1971-quiz-006",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 546,
+   "question_number": 6,
+   "question_text": "হুমায়ূন আহমেদের বাবার নাম কী?",
+   "quiz_set": 1,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "writer"
+  },
+  {
+   "answer_text": "বগুড়া জিলা স্কুল",
+   "id": "ban1-uponnas-1971-quiz-007",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 546,
+   "question_number": 7,
+   "question_text": "হুমায়ূন আহমেদ কোন স্কুল থেকে মাধ্যমিক পাশ করেন?",
+   "quiz_set": 1,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "writer"
+  },
+  {
+   "answer_text": "প্রায় দুই শতাধিক",
+   "id": "ban1-uponnas-1971-quiz-008",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 546,
+   "question_number": 8,
+   "question_text": "হুমায়ূন আহমেদ কত সংখ্যক গ্রন্থ রচনা করেন?",
+   "quiz_set": 1,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "writer"
+  },
+  {
+   "answer_text": "মুক্তিযুদ্ধের",
+   "id": "ban1-uponnas-1971-quiz-009",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 547,
+   "question_number": 1,
+   "question_text": "‘১৯৭১’ উপন্যাসটি কীসের প্রেক্ষাপটে রচিত?",
+   "quiz_set": 2,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "মেজর এজাজ",
+   "id": "ban1-uponnas-1971-quiz-010",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 547,
+   "question_number": 2,
+   "question_text": "‘১৯৭১’ উপন্যাসটিতে কোন চরিত্রের মাধ্যমে যুদ্ধের পাশবিকতার দিকটি প্রস্ফুটিত হয়েছে?",
+   "quiz_set": 2,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "রফিক",
+   "id": "ban1-uponnas-1971-quiz-011",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 547,
+   "question_number": 3,
+   "question_text": "কোন চরিত্রটি প্রকৃতপক্ষে একজন দেশপ্রেমিক?",
+   "quiz_set": 2,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "প্রেক্ষাপটগত",
+   "id": "ban1-uponnas-1971-quiz-012",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 547,
+   "question_number": 4,
+   "question_text": "কোন দিক থেকে উপন্যাসটির নামকরণ করা হয়েছে?",
+   "quiz_set": 2,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "ঐতিহাসিক",
+   "id": "ban1-uponnas-1971-quiz-013",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 547,
+   "question_number": 5,
+   "question_text": "আঙ্গিকগত দিক থেকে ‘১৯৭১’ কী ধরনের উপন্যাস?",
+   "quiz_set": 2,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "প্রমিত ভাষায়",
+   "id": "ban1-uponnas-1971-quiz-014",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 547,
+   "question_number": 6,
+   "question_text": "উপন্যাসটি কোন ভাষায় রচিত?",
+   "quiz_set": 2,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "আঞ্চলিক ভাষায়",
+   "id": "ban1-uponnas-1971-quiz-015",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 547,
+   "question_number": 7,
+   "question_text": "উপন্যাসটির সংলাপে কোন ভাষা ব্যবহার করা হয়েছে?",
+   "quiz_set": 2,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "অন্তরঙ্গ ভঙ্গিতে",
+   "id": "ban1-uponnas-1971-quiz-016",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 547,
+   "question_number": 8,
+   "question_text": "ঔপন্যাসিক ছোটো ছোটো বাক্যে কোন ভঙ্গিতে উপন্যাসের কাহিনি গেঁথে তুলেছেন?",
+   "quiz_set": 2,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "মেজর এজাজ",
+   "id": "ban1-uponnas-1971-quiz-017",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 548,
+   "question_number": 1,
+   "question_text": "কার মাঝে প্রবল জাতিগত বিদ্বেষ লক্ষ করা যায়?",
+   "quiz_set": 3,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "রফিকের",
+   "id": "ban1-uponnas-1971-quiz-018",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 548,
+   "question_number": 2,
+   "question_text": "মেজর এজাজের সহযোগী হয়ে থাকাটা কার বহিঃআবরণ ছিল?",
+   "quiz_set": 3,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "মুক্তিযোদ্ধাদের",
+   "id": "ban1-uponnas-1971-quiz-019",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 548,
+   "question_number": 3,
+   "question_text": "রফিক শত্রুকে ভুল নির্দেশনা দিয়ে কাদের রক্ষা করেছিলেন?",
+   "quiz_set": 3,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "আজিজ মাস্টার",
+   "id": "ban1-uponnas-1971-quiz-020",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 548,
+   "question_number": 4,
+   "question_text": "কার মধ্যে এক কবিসত্তা রয়েছে?",
+   "quiz_set": 3,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "জয়নাল মিয়া",
+   "id": "ban1-uponnas-1971-quiz-021",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 548,
+   "question_number": 5,
+   "question_text": "নীলগঞ্জের একজন প্রভাবশালী ব্যক্তি কে?",
+   "quiz_set": 3,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "মীর আলি",
+   "id": "ban1-uponnas-1971-quiz-022",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 548,
+   "question_number": 6,
+   "question_text": "কে বার্ধক্য ও অন্ধত্বের অভিশাপে জর্জরিত?",
+   "quiz_set": 3,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "বদিউজ্জামান",
+   "id": "ban1-uponnas-1971-quiz-023",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 548,
+   "question_number": 7,
+   "question_text": "মীর আলির সন্তানের নাম কী?",
+   "quiz_set": 3,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "সফদরউল্লাহ",
+   "id": "ban1-uponnas-1971-quiz-024",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 548,
+   "question_number": 8,
+   "question_text": "গ্রামের একজন সাধারণ মানুষ কে?",
+   "quiz_set": 3,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "কৈবর্তপাড়ায়",
+   "id": "ban1-uponnas-1971-quiz-025",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 550,
+   "question_number": 1,
+   "question_text": "গত বছর কোথায় চিতা বুড়ির ছেলে খুন হয়?",
+   "quiz_set": 4,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "নিজাম পাগল",
+   "id": "ban1-uponnas-1971-quiz-026",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 550,
+   "question_number": 2,
+   "question_text": "নীলগঞ্জ গ্রামের কে সারাদিন বনজঙ্গলে ঘুরে বেড়ায়?",
+   "quiz_set": 4,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "রাসমোহন",
+   "id": "ban1-uponnas-1971-quiz-027",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 550,
+   "question_number": 3,
+   "question_text": "নীলগঞ্জ স্কুলের দারোয়ানের নাম কী?",
+   "quiz_set": 4,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "মেজর এজাজ",
+   "id": "ban1-uponnas-1971-quiz-028",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 550,
+   "question_number": 4,
+   "question_text": "কে নীলগঞ্জ গ্রামে নিষ্ঠুরতার নমুনা দেখাতে চায়?",
+   "quiz_set": 4,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "মীর আলিকে",
+   "id": "ban1-uponnas-1971-quiz-029",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 550,
+   "question_number": 5,
+   "question_text": "কাকে দেখতে মেজরের বাবার মতো লাগে?",
+   "quiz_set": 4,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "আজিজ মাস্টার",
+   "id": "ban1-uponnas-1971-quiz-030",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 550,
+   "question_number": 6,
+   "question_text": "কে একজন কবি?",
+   "quiz_set": 4,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "রফিক",
+   "id": "ban1-uponnas-1971-quiz-031",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 550,
+   "question_number": 7,
+   "question_text": "কে বলাইকে মেজরের হাত থেকে রক্ষা করেন?",
+   "quiz_set": 4,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "answer_text": "অনুফাকে",
+   "id": "ban1-uponnas-1971-quiz-032",
+   "key": null,
+   "key_printed_page": 550,
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": null,
+   "options": null,
+   "printed_page": 550,
+   "question_number": 8,
+   "question_text": "মীর আলি কাকে ভাত রান্না করতে বলেন?",
+   "quiz_set": 4,
+   "section": "uponnas",
+   "section_tag": "quiz",
+   "subsection": "quiz",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-1",
+   "key": "গ",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "আকাশপথ",
+    "খ": "নৌ-পথ",
+    "গ": "রেলপথ",
+    "ঘ": "সড়কপথ"
+   },
+   "printed_page": 550,
+   "question_number": 1,
+   "question_text": "‘নান্দাইল, রোড’ নামটি ‘১৯৭১’ উপন্যাসে কোন ধরনের যোগাযোগের সঙ্গে সম্পর্কিত?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 13,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-2",
+   "key": "খ",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "একদিন ও একরাত",
+    "খ": "দুইরাত ও একদিন",
+    "গ": "দুইরাত ও দুইদিন",
+    "ঘ": "একরাত ও দুইদিন"
+   },
+   "printed_page": 550,
+   "question_number": 2,
+   "question_text": "‘১৯৭১’ উপন্যাসের পুরো ঘটনা সংঘটনে কত সময় লেগেছে?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 57,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-3",
+   "key": "ঘ",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "নীলগঞ্জ গ্রামকে কেন্দ্র করে",
+    "খ": "মধুবন বাজারকে ঘিরে",
+    "গ": "সুইয়াইল বাজারকে ঘিরে",
+    "ঘ": "নীলগঞ্জ গ্রাম ও জাঙ্গলা মাঠকে কেন্দ্র করে"
+   },
+   "printed_page": 550,
+   "question_number": 3,
+   "question_text": "‘১৯৭১’ উপন্যাসের কাহিনি গড়ে উঠেছে—",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 14,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-4",
+   "key": "খ",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "বিবুর",
+    "খ": "নিজাম",
+    "গ": "বলাই",
+    "ঘ": "বদিউজ্জামান"
+   },
+   "printed_page": 550,
+   "question_number": 4,
+   "question_text": "মতি মিয়ার শালার নাম কী?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 13,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-5",
+   "key": "গ",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "চাকুরি স্থায়ী করে দেওয়ার",
+    "খ": "নীলু সেনের বাড়ি দখল করে দেওয়ার",
+    "গ": "জয়নাল মিয়ার মেয়ের সঙ্গে বিয়ে দেওয়ার",
+    "ঘ": "জয়নাল মিয়ার বিষয় সম্পত্তি দখল করে দেওয়ার"
+   },
+   "printed_page": 550,
+   "question_number": 5,
+   "question_text": "নীলগঞ্জ ইস্ট-বেঙ্গল রেজিমেন্টের সৈন্যদের ক্ষতিত অবস্থান জানার জন্য মেজর এজাজ স্কুলের আজিজ মাস্টারকে কী প্রস্তাব দিয়েছিল?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 27,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-6",
+   "key": "ঘ",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "মধুবন বাজার",
+    "খ": "কৈবর্ত পাড়ায়",
+    "গ": "নীলগঞ্জের স্কুলঘরে",
+    "ঘ": "জাঙ্গলা মাঠে"
+   },
+   "printed_page": 550,
+   "question_number": 6,
+   "question_text": "ইস্ট-বেঙ্গল রেজিমেন্টের সৈন্যরা কোথায় আশ্রয় নিয়েছিল বলে পাকিস্তানি বাহিনী শংকা?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 27,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-7",
+   "key": "ক",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "দ্বিতীয়, মিলিটারি দলটিকে দেখে ভয় পেয়ে।",
+    "খ": "ইস্ট-বেঙ্গল রেজিমেন্টের সৈন্যদের খবর দেওয়ার জন্য।",
+    "গ": "ইস্ট-বেঙ্গল রেজিমেন্টের সৈন্যদের খাবার দেওয়ার জন্য।",
+    "ঘ": "উপন্যাসের কাহিনি থেকে ব্যাপারটা নিশ্চিত হওয়া যায় না।"
+   },
+   "printed_page": 550,
+   "question_number": 7,
+   "question_text": "বদিউজ্জামান ঊর্ধ্বশ্বাসে জাঙ্গলা মাঠের দিকে ছুটেছিলো কেন?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 30,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-8",
+   "key": "খ",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "i ও ii",
+    "খ": "ii ও iii",
+    "গ": "i ও iii",
+    "ঘ": "i, ii ও iii"
+   },
+   "printed_page": 550,
+   "question_number": 8,
+   "question_text": "পাকিস্তানি মিলিটারিরা নীলগঞ্জ মসজিদের ইমাম ও স্কুলের আজিজ মাস্টারকে ধরে নিয়ে নির্যাতন করেছিল কেন? i. জয়নাল মিয়ার মেয়েকে তুলে আনার জন্য। ii. এলাকার বাসিন্দাদের মাঝে আতঙ্ক সৃষ্টি করার জন্য। iii. এলাকায় আধিপত্য বিস্তার করার জন্য। নিচের কোনটি সঠিক?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 47,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-9",
+   "key": "ক",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "চিত্রাবুড়ি",
+    "খ": "নিজাম",
+    "গ": "বলাই",
+    "ঘ": "মনা কৈবর্ত"
+   },
+   "printed_page": 550,
+   "question_number": 9,
+   "question_text": "হতদরিদ্র নীলগঞ্জের প্রথম ভিক্ষুক কে?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 15,
+   "stimulus_group": null,
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-10",
+   "key": null,
+   "key_note": "No circled margin key is printed for this item. The guide itself prints a correction note beneath it: ‘বি.দ্র. সঠিক উত্তর হবে সফদরউল্লাহর স্ত্রী ও শ্যালিকা।’ — i.e. the correct answer (wife and sister-in-law) is NOT among the printed options (option ঘ says ‘স্ত্রী ও মেয়ে’). Kept verbatim and flagged; key left null, never guessed.",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "চিত্রাবুড়ি",
+    "খ": "মালা",
+    "গ": "অনুফা ও পরিবানু",
+    "ঘ": "সফদরউল্লাহর স্ত্রী ও মেয়ে"
+   },
+   "printed_page": 551,
+   "question_number": 10,
+   "question_text": "উদ্দীপকের হরিমতি ও সুমতি চরিত্রের সঙ্গে ‘১৯৭১’ উপন্যাসের সাদৃশ্যপূর্ণ চরিত্র হলো—",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 45,
+   "stimulus_group": "sg-ban1-uponnas-1971-mcq-stim-1",
+   "stimulus_text": "হরিমতি ও তার যুবতি মেয়ে সুমতি খান সেনাদের দেখে কাঁথা থেকে কলসি ফেলে দৌড়ে দেয়। আত্মরক্ষার জন্য তারা রাস্তার পাশের একটা স্কুল ঘরে আশ্রয় নেয়। ঘরে ঢুকে দম নেওয়ার আগেই তাঁরা খান সেনাদের বুটের শব্দ শুনতে পায়। খানিকক্ষণ পর মা-মেয়ের আর্তনাদ ওঠে। পরে সব শান্ত হয়ে যায়। খান সেনারা মা-মেয়েকে হত্যা না করে রক্তাক্ত অবস্থায় ফেলে স্কুলঘর ছেড়ে চলে যায়।",
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-11",
+   "key": "ক",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "i ও ii",
+    "খ": "ii ও iii",
+    "গ": "i ও iii",
+    "ঘ": "i, ii ও iii"
+   },
+   "printed_page": 551,
+   "question_number": 11,
+   "question_text": "হরিমতি ও সুমতি চরিত্রের সঙ্গে এরূপ সাদৃশ্যের কারণ— i. তারা উভয়েই স্বাধীনতা যুদ্ধের সমসাময়িক। ii. তারা উভয়েই পাকিস্তানি সেনাবাহিনীর পৈশাচিক নির্যাতনের শিকার। iii. তারা উভয়েই কৃষিজীবী পরিবারের সদস্য। নিচের কোনটি সঠিক?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 44,
+   "stimulus_group": "sg-ban1-uponnas-1971-mcq-stim-1",
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-mcq-bank-12",
+   "key": "খ",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "level": null,
+   "marks": 1,
+   "options": {
+    "ক": "যুদ্ধের কৌশল",
+    "খ": "যুদ্ধের ক্ষয়ক্ষতি",
+    "গ": "যুদ্ধের ভয়াবহতা",
+    "ঘ": "যুদ্ধের মানবিক বিপর্যয়"
+   },
+   "printed_page": 551,
+   "question_number": 12,
+   "question_text": "অনুচ্ছেদের হরিমতি ও সুমতির সম্ভ্রমহানি ‘১৯৭১’ উপন্যাসে উল্লেখিত ঘটনার কোন বাস্তবতাকে তুলে আনে?",
+   "section": "uponnas",
+   "section_tag": "mcq",
+   "source_kind": "exercise",
+   "source_textbook_page": 57,
+   "stimulus_group": "sg-ban1-uponnas-1971-mcq-stim-1",
+   "subsection": "mcq-bank",
+   "verified": true,
+   "verified_by": "native-eye",
+   "mcq_group": "lesson"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-creative-1",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "নীলগঞ্জ গ্রামের অবস্থান জঙ্গলা মাঠের পিছনে।",
+     "essence": null,
+     "level": "jnan",
+     "marks": 1,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-creative-1-ka",
+     "part_label": "ক",
+     "question_text": "নীলগঞ্জ গ্রামের অবস্থান কোথায়?"
+    },
+    {
+     "answer_text": "মেজর এজাজ মিলিটারি নিয়ে নীলগঞ্জ গ্রামে প্রবেশ করে স্থানীয় স্কুলে অবস্থান নেয় এবং স্কুলের শিক্ষক আজিজ মাস্টারকে ডেকে আনে। আজিজ মাস্টার দেখা করতে এলে প্রথমে তার সাথে সে খুব সৌজন্যমূলক ব্যবহার করে। কফি খেতে দেয়। নিজ হাতে সিগারেট ধরিয়ে দেয়। এর মাধ্যমে সে যে একজন অতিসজ্জন মানুষ সেটি তাকে বোঝাতে চেয়েছে এবং এর মাধ্যমে খুব সহজেই মুক্তিবাহিনী-সম্পর্কিত তথ্য আদায় করতে চেষ্টা করেছে।",
+     "essence": "নিজের সম্পর্কে ইতিবাচক ধারণা তৈরি করার জন্য মেজর এজাজ আজিজ মাস্টারের সাথে প্রথম দিকে বিশেষ খাতির করে।",
+     "level": "anudhabon",
+     "marks": 2,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-creative-1-kha",
+     "part_label": "খ",
+     "question_text": "মেজর এজাজ আজিজ মাস্টারকে প্রথম দিকে বিশেষ খাতির করে কেন?"
+    },
+    {
+     "answer_text": "‘১৯৭১’ উপন্যাসে রফিক এদেশীয় হলেও তিনি মেজর এজাজের সহযোগী হিসেবে নীলগঞ্জ গ্রামে প্রবেশ করেন। তিনি মূলত মেজর সাহেবের দোভাষীর কাজ করেন। তবে চোখের সামনে একের পর এক অন্যায় করতে দেখে সে মিলিটারির প্রতি ঘৃণা বোধ করতে থাকেন এবং মনে মনে স্বদেশ ও স্বজাতির প্রতি ভালোবাসা অনুভব করেন। মেজর এজাজের সাথে শেষ পর্যন্ত তার সম্পর্ক ভেঙে যায় এবং মিলিটারির হাতে তিনি নিহত হন। উদ্দীপকের কলিমদ্দি দফাদার পাকিস্তানি মিলিটারিদের সঙ্গী হলেও মনে মনে ঠিকই স্বদেশ ও স্বজাতির প্রতি ভালোবাসা অন্তরে লালন করেন। গোপনে মুক্তিযোদ্ধাদের সাথে যোগাযোগ রাখেন তিনি। মিলিটারিদের কর্মকাণ্ড তিনি আগেই মুক্তিযোদ্ধাদের জানিয়ে দেন। ‘১৯৭১’ উপন্যাসে রফিকও অনেকটা একই রকম ভূমিকায় অবতীর্ণ হন। তিনি বাইরে মিলিটারির সহচর হলেও মনে মনে ঠিকই স্বদেশপ্রেম লালন করেন।",
+     "essence": "মিলিটারিদের সহযোগীরূপে দেশের জন্য কাজ করার দিক দিয়ে কলিমদ্দি দফাদার ‘১৯৭১’ উপন্যাসের রফিক চরিত্রের সাথে সাদৃশ্যপূর্ণ।",
+     "level": "proyog",
+     "marks": 3,
+     "part": "ga",
+     "part_id": "ban1-uponnas-1971-creative-1-ga",
+     "part_label": "গ",
+     "question_text": "উদ্দীপকের কলিমদ্দি দফাদার ‘১৯৭১’ উপন্যাসে কোন চরিত্রের সঙ্গে এবং কেন সাদৃশ্যপূর্ণ? ব্যাখ্যা করো।"
+    },
+    {
+     "answer_text": "‘১৯৭১’ উপন্যাসে রফিক মেজর এজাজের সহচর হিসেবে নীলগঞ্জ গ্রামে প্রবেশ করেন। বাঙালি হওয়ায় এদেশীয় মানুষের সাথে মেজর এজাজের কথোপকথনে দোভাষী হিসেবে কাজ করেন তিনি। তবে মিলিটারির ক্রমাগত অত্যাচার, নির্যাতন ও হত্যাযজ্ঞ দেখে তিনি মনে মনে স্বদেশ ও স্বজাতির প্রতি ভালোবাসা অনুভব করেন। মুক্তিবাহিনীকে রক্ষা করতে কৈবর্তপাড়ায় তল্লাশি করা থেকে পাকিস্তানি বাহিনীকে নিবৃত্ত করেন। ফলে শত চেষ্টা করেও মেজর এজাজের বাহিনী রফিকের গোপন তৎপরতায় মুক্তিযোদ্ধাদের কোনো সন্ধান বের করতে পারে না। উদ্দীপকের কলিমদ্দি দফাদার খান সেনাদের সহযোগী হিসেবে প্রকাশ্যে কাজ করলেও গোপনে মুক্তিবাহিনীর সাথে যোগাযোগ রক্ষা করে চলেন। খান সেনাদের অভিযান সম্পর্কে আগেই মুক্তিযোদ্ধাদের সতর্ক করে দিতেন তিনি। জীবনের ঝুঁকি নিয়ে তাঁর এহেন কর্মকাণ্ড ‘১৯৭১’ রচনায় রফিক চরিত্রের মাঝেও লক্ষ করা যায়। তিনিও একই রকমভাবে প্রকাশ্যে মিলিটারির সঙ্গী হলেও গোপনে স্বদেশপ্রেমী। উদ্দীপকের কলিমদ্দি দফাদার ও ‘১৯৭১’ রচনার রফিক উভয়ই পাকিস্তানি সেনাদের সাথে থেকেও গোপনে দেশের পক্ষে কাজ করেছেন। এত বড়ো ঝুঁকি নিয়ে তাঁরা কাজ করেছেন মূলত স্বদেশপ্রেমের চেতনা থেকে। যেকোনো সময় ধরা পড়ে জীবন বিপন্ন হতে পারে জেনেই তাঁরা এহেন ভূমিকা পালন করেছেন। উপন্যাসে রফিককে শেষ পর্যন্ত সত্যিই জীবন দিয়ে স্বদেশপ্রেমের মূল্য দিতে হয়। তাই বলা যায় যে, ‘প্রকৃত দেশপ্রেমিকেরা লোকচক্ষুর অন্তরালে দেশের জন্য তাদের সবটুকু উৎসর্গ করেন’— মন্তব্যটি যথার্থ।",
+     "essence": "জীবনের ঝুঁকি নিয়ে গোপনে দেশের জন্য কাজ করার দিকটি কলিমদ্দি দফাদার ও রফিকের মধ্যে প্রকাশ পাওয়ায় প্রশ্নোক্ত মন্তব্যটি যথার্থ।",
+     "level": "uchchotoro",
+     "marks": 4,
+     "part": "gha",
+     "part_id": "ban1-uponnas-1971-creative-1-gha",
+     "part_label": "ঘ",
+     "question_text": "“প্রকৃত দেশপ্রেমিকেরা লোকচক্ষুর অন্তরালে দেশের জন্য তাদের সবটুকু উৎসর্গ করেন।”— উদ্দীপক ও ‘১৯৭১’ উপন্যাসের প্রাসঙ্গিক ঘটনা অবলম্বনে মন্তব্যটি মূল্যায়ন করো।"
+    }
+   ],
+   "printed_page": 551,
+   "printed_pages": [
+    551
+   ],
+   "question_number": 1,
+   "section": "uponnas",
+   "section_tag": "creative",
+   "shikhonfol": [
+    7
+   ],
+   "source_note": null,
+   "stimulus_group": "sg-ban1-uponnas-1971-creative-1",
+   "stimulus_text": "এলাকায় ঢোকার পর খান সেনারা কলিমদ্দি দফাদারকে তাদের অভিযানের সঙ্গী করে নেয়। রোজ তিন টাকা বকশিশ এবং ইউনিয়ন বোর্ডের চাকুরি নিরাপদ করার উদ্দেশ্যে সে নিখুঁত অভিনেতার মতো খান সেনাদের প্রতিটি অভিযানে আগে আগে পথ দেখিয়ে নিয়ে যায়। এটা কলিমদ্দির বাইরের রূপ হলেও ভিতরে ভিতরে তিনি একজন খাঁটি দেশপ্রেমিক মানুষ। গোপনে তিনি মুক্তিযোদ্ধাদের সঙ্গে সর্বদা যোগাযোগ রক্ষা করতেন। খান সেনারা নতুন কোনো জায়গায় অভিযানে যাওয়ার সিদ্ধান্ত নিলে তিনি আগেই তা মুক্তিযোদ্ধাদের জানিয়ে দিতেন। তার এরূপ ভূমিকার কারণে মুক্তিবাহিনী খান সেনাদের একটি দলকে অতর্কিতে আক্রমণ করে ক্ষতবিক্ষত করে দেয়। শুরুতে মানুষ ভুল বুঝলেও এ ঘটনার পর এলাকায় কলিমদ্দি মুক্তিযোদ্ধা হিসেবে স্বীকৃতি পায়।",
+   "subsection": "creative",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-creative-2",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "নীলগঞ্জের নীলু সেন ও জয়নাল মিয়ার বাড়িতে ট্রানজিস্টার আছে।",
+     "essence": null,
+     "level": "jnan",
+     "marks": 1,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-creative-2-ka",
+     "part_label": "ক",
+     "question_text": "নীলগঞ্জের কার বাড়িতে ট্রানজিস্টার আছে?"
+    },
+    {
+     "answer_text": "নীলগঞ্জ গ্রামে আসার পর মেজর এজাজ স্থানীয় স্কুল শিক্ষক আজিজ মাস্টারকে ডেকে এনে কথিত ইস্ট-বেঙ্গল রেজিমেন্টের দল সম্পর্কে তথ্য জানতে চায়। কেননা তার মতে, মুক্তিবাহিনীর ওই দলটি পাকিস্তানি মিলিটারিদের উপর হামলা করে তাদের দুইজন অফিসারকে তুলে নিয়ে গেছে। ওই দুইজন অফিসারের মধ্যে মেজর এজাজের প্রিয় বন্ধু মেজর বখতিয়ারও আছে। নিজেদের দলের অফিসার ও প্রিয় বন্ধুকে হারানোর কারণে মেজর এজাজ ইস্ট-বেঙ্গল রেজিমেন্টের কথিত দলটির প্রতি ক্ষুব্ধ হয়েছিলেন।",
+     "essence": "প্রিয় বন্ধু ও নিজ দলের অফিসারকে তুলে নিয়ে যাওয়ায় মেজর এজাজ ইস্ট-বেঙ্গল রেজিমেন্টের কথিত দলটির প্রতি এতটা ক্ষুব্ধ হয়েছিলেন।",
+     "level": "anudhabon",
+     "marks": 2,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-creative-2-kha",
+     "part_label": "খ",
+     "question_text": "মেজর এজাজ ইস্ট-বেঙ্গল রেজিমেন্টের কথিত দলটির প্রতি এতটা ক্ষুব্ধ হয়েছিলেন কেন?"
+    },
+    {
+     "answer_text": "‘১৯৭১’ উপন্যাসে মেজর এজাজ নীলগঞ্জ গ্রামে ঢুকেই ইস্ট-বেঙ্গল রেজিমেন্টের দল তথা মুক্তিবাহিনী সম্পর্কে তথ্য জানতে স্থানীয় স্কুল মাস্টার আজিজুর রহমান মল্লিককে ডেকে আনে এবং জিজ্ঞাসাবাদ করে। তিনি কোনো তথ্য দিতে না পারায় তার উপর চলে নির্মম নির্যাতন। এমনকি তাকে উলঙ্গ করে তার পুরুষাঙ্গে ইটের টুকরা বেঁধে শাস্তি দেওয়ার কথা বলে মেজর এজাজ। সবশেষে উলঙ্গ অবস্থায় জয়নাল মিয়ার মেয়ে মালার সামনে নেওয়ার কথা বললে আজিজ মাস্টার মৃত্যুদণ্ড মেনে নেন। উদ্দীপকে মিথ্যা চুরির অপরাধে কেরামত আলিকে ধরে নিয়ে পঞ্চায়েতের লোক নির্মম নির্যাতন করে। চুরির দায় স্বীকার করে তাকে এলাকা ছেড়ে যাওয়ার কথা বলা হয়; অন্যথায় তাকে মেরে ফেলা হবে। জীবন বিপন্ন জেনেও মান-সম্মানের কথা ভেবে সে মৃত্যুকেই বেছে নেয়। ভিন্ন ঘটনা হলেও ‘১৯৭১’ উপন্যাসে আজিজ মাস্টারের অবস্থাও প্রায় একই রকমের হয়। তিনিও অপমানের চেয়ে মৃত্যুকেই শ্রেয় হিসেবে মেনে নেন।",
+     "essence": "আত্মসম্মান রক্ষার দিক দিয়ে কেরামত আলির সঙ্গে আজিজ মাস্টারের মিল রয়েছে।",
+     "level": "proyog",
+     "marks": 3,
+     "part": "ga",
+     "part_id": "ban1-uponnas-1971-creative-2-ga",
+     "part_label": "গ",
+     "question_text": "উদ্দীপকের কেরামত আলির সংশ্লিষ্ট ঘটনার সঙ্গে ‘১৯৭১’ উপন্যাসের কোন চরিত্রের মিল রয়েছে? বর্ণনা করো।"
+    },
+    {
+     "answer_text": "‘১৯৭১’ উপন্যাসে আজিজ মাস্টারকে ধরে এনে মেজর এজাজ চরম নির্যাতন করে এবং মুক্তিবাহিনী সম্পর্কে তথ্য জানতে চায়। তিনি যতই এ ব্যাপারে না-জানার কথা বলেন ততই অত্যাচার-নির্যাতনের মাত্রা বাড়তে থাকে। এক পর্যায়ে তাকে উলঙ্গ করে নির্যাতন করা হয়। তাতেও কাজ না হলে জয়নাল মিয়ার মেয়ে মালার সামনে উলঙ্গ অবস্থায় নেওয়ার কথা বলা হলে আজিজ মাস্টার চরম অপমানের পরিবর্তে মৃত্যুকে বেছে নেন। উদ্দীপকের কেরামত আলিকে মিথ্যা চুরির দায়ে ধরে এনে পঞ্চায়েতের লোকজন নির্মম নির্যাতন করে। সে এ ব্যাপারে কিছু না-জানার কথা বললে নির্যাতন আরও বাড়তে থাকে। চুরির ব্যাপারে স্বীকৃতি না দিলে তাকে মেরে ফেলা হবে বলা হলেও সে মিথ্যার কাছে মাথা নত করেনি; মৃত্যুকেই বেছে নেয়। ‘১৯৭১’ উপন্যাসে আজিজ মাস্টারের উপরও একইভাবে স্বীকারোক্তি আদায়ের নামে নির্মম নির্যাতন চলে এবং শেষ পর্যন্ত তিনি স্বেচ্ছায় মৃত্যুকে বেছে নেন। তুলনামূলক আলোচনায় দেখা যাচ্ছে যে, কেরামত আলি এবং আজিজ মাস্টার মিথ্যার কাছে মাথা নত করেননি। চরম অপমান ও লাঞ্ছনা স্বীকার করা অথবা মৃত্যু— এমন অবস্থায় তারা দুইজনই মৃত্যুকে বেছে নিয়ে চরম ব্যক্তিত্বের পরিচয় দিয়েছেন এবং মৃত্যুকেই শ্রেয়জ্ঞান করেছেন। তাই বলা যায় যে, ‘মহৎ মানুষেরা জীবনের চেয়েও সম্মান ও ব্যক্তিত্বকে অধিক মূল্যবান মনে করে’— মন্তব্যটি যথার্থ।",
+     "essence": "উদ্দীপকের কেরামত আলি এবং উপন্যাসের আজিজ মাস্টার উভয়ই মৃত্যুকে বেছে নেওয়ায় প্রশ্নোক্ত উক্তিটি যথার্থ।",
+     "level": "uchchotoro",
+     "marks": 4,
+     "part": "gha",
+     "part_id": "ban1-uponnas-1971-creative-2-gha",
+     "part_label": "ঘ",
+     "question_text": "“মহৎ মানুষেরা জীবনের চেয়েও সম্মান ও ব্যক্তিত্বকে অধিক মূল্যবান মনে করে।”— উদ্দীপক ও ‘১৯৭১’ উপন্যাস অবলম্বনে এই মন্তব্যের প্রাসঙ্গিকতা নিরূপণ করো।"
+    }
+   ],
+   "printed_page": 552,
+   "printed_pages": [
+    552
+   ],
+   "question_number": 2,
+   "section": "uponnas",
+   "section_tag": "creative",
+   "shikhonfol": [
+    9
+   ],
+   "source_note": null,
+   "stimulus_group": "sg-ban1-uponnas-1971-creative-2",
+   "stimulus_text": "মিথ্যা চুরির অপরাধে কেরামত আলিকে ধরে নিয়ে যায় পঞ্চায়েতের লোকজন। তারা গঞ্জের হাটে প্রতিরাতের চুরির তথ্য জানতে চায় কেরামত আলির কাছ থেকে। নিরপরাধ কেরামত আলি এর কিছুই জানে না বলে কোনো তথ্যও দিতে পারে না। ফলে তাকে বেধড়ক মারধরের শিকার হতে হয়। এরূপ পরিস্থিতিতে পঞ্চায়েত প্রধান কেরামত আলিকে চুরির দায় স্বীকার করে এলাকা ছেড়ে চলে যেতে বলে। অন্যথায় তাকে মেরে ফেলা হবে বলে হুমকিও দেওয়া হয়। জীবন বিপন্ন জেনেও কেবল মান-সম্মানের কথা বিবেচনা করে কেরামত আলি মিথ্যা চুরির দায় স্বীকার করে না। ফলে তাকে করুণভাবে মৃত্যুবরণ করতে হয়।",
+   "subsection": "creative",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-1",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "marks_note": "Margin marks as printed: ক=৩, খ=৭ (p.553). Recorded as printed; the collection brief said descriptive marks were not printed — the margin figures contradict that, flagged for the coordinator (see verification_notes).",
+   "parts": [
+    {
+     "answer_text": "পাকিস্তানি মিলিটারিদের পশুসুলভ আচরণ সফদরউল্লাহর মানসিক পরিবর্তনের প্রধান কারণ। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ নামক এক গণ্ডগ্রামে মিলিটারি প্রবেশের পর নানা রকম অনাকাঙ্ক্ষিত ঘটনা ঘটতে থাকে। ইতঃপূর্বে এই গ্রামের মানুষজন মিলিটারি সম্পর্কে যা জানত, সবই অন্য মানুষের কাছ থেকে শোনা গল্পের মতো। পাকিস্তানি মিলিটারিরা মুসলমান হওয়ায় তাদের সম্পর্কে অনেক ইতিবাচক কথা গ্রামবাসী বিশ্বাস করত, যেমন: তারা মুসলমানদের কোনো ক্ষতি করে না, কালিমা জিজ্ঞেস করে, মুসলমান মেয়েদের গায়ে হাত দেওয়ার তো সম্ভাবনাই নেই ইত্যাদি। জয়নাল মিয়ার সাথে কথা বলে তাই সফদরউল্লাহ আশ্বস্ত হয় যে গ্রামে মিলিটারি এলেও তার পরিবারের নারী সদস্যদের অন্য কোথাও স্থানান্তর করার প্রয়োজন নেই। কিন্তু তার বিশ্বাস ভঙ্গ হতে সময় লাগেনি। মিলিটারি সুবাদারের হাতে তার স্ত্রী ও শ্যালিকা নির্যাতনের শিকার হলে তা তার মনে ব্যাপক আঘাত হানে। ফলে সে মিলিটারিদের প্রতি চরম ঘৃণা বোধ করে এবং দা হাতে নিয়ে নির্যাতনকারী মিলিটারিকে হত্যা করতে বেরিয়ে যায়।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-1-ka",
+     "part_label": "ক",
+     "question_text": "সফদরউল্লাহর মানসিক পরিবর্তনের প্রধান কারণ ব্যাখ্যা করো।",
+     "shikhonfol": [
+      9
+     ]
+    },
+    {
+     "answer_text": "বিংশ শতাব্দীর শেষার্ধে বাংলা সাহিত্যে সবচেয়ে বেশি জনপ্রিয় কথাসাহিত্যিক হিসেবে যিনি নিজের অবস্থানকে সুদৃঢ় তুলে ধরতে সক্ষম হয়েছিলেন, তাঁর নাম হুমায়ূন আহমেদ। এই গুণী কথাসাহিত্যিক ছিলেন কালির সামান্য আঁচড়েই মানুষ ও জনজীবনের আলেখ্য তুলে ধরতে সিদ্ধহস্ত। ‘১৯৭১’ শীর্ষক উপন্যাসও এর ব্যতিক্রম নয়। এ উপন্যাসে তিনি সুনিপুণ হাতে নীলগঞ্জ গ্রামের জনজীবনের পরিচয় তুলে ধরেছেন। লেখকের বর্ণনা মতে, জঙ্গলা মাঠের পিছনে নীলগঞ্জ গ্রাম। দরিদ্র, শ্রীহীন ত্রিশ-চল্লিশ ঘরের একটি বিচ্ছিন্ন জনপদ। বিস্তীর্ণ জলাভূমি গ্রামটিকে কাস্তের মতো দুইদিকে ঘিরে আছে। এখানকার লোকজন প্রধানত কৃষিকাজ করে জীবিকানির্বাহ করে। এখানকার জমি যথেষ্ট পরিমাণে উর্বর নয় কিংবা এরা ভালো চাষি নয়। তবে শীতকালে এরা প্রচুর রবিশস্য ফলায়। বর্ষা আসে চাষ করে তরমুজ ও বাঙ্গি। গ্রামের অধিকাংশ ঘরই খড়ের ছাউনি। সম্প্রতি কয়েকটি টিনের ঘর হয়েছে। বর্তমানে গ্রামের সবচেয়ে সম্পদশালী ব্যক্তি হলো জয়নাল মিয়া। টাকাপয়সা বেশ থাকলেও লোকটি মেরুদণ্ডহীন। গ্রামে বিদেশি বা বাইরের লোক আছে দুইজন। একজন নীলগঞ্জ মসজিদের ইমাম সাহেব এবং দ্বিতীয়জন হলেন নীলগঞ্জ প্রাইমারি স্কুলের শিক্ষক আজিজ মাস্টার। ইমাম সাহেব মসজিদেই থাকেন এবং আজিজ মাস্টার থাকেন জয়নাল মিয়ার বাড়িতে। দুইজনের খাবারদাবারের ব্যবস্থা হয় প্রধানত জয়নাল মিয়ার বাড়ি থেকে। ইমাম সাহেবের খাবার অবশ্য গ্রামের আরও কয়েক বাড়ি থেকেও আসে। নীলগঞ্জের যে দিকটায় জলাভূমি, একদল কৈবর্ত থাকে সেদিকে। মাছ ধরার সিজনে জলমহালে মাছ ধরতে যায়। নীলগঞ্জের কেউ এদের ঘাঁটায় না। এমনকি এরা খুনখারাপি করলেও নীলগঞ্জের মাতব্বররা কিছুই না জানার ভান করে। কৈবর্তপাড়ার চিতা বুড়ি সন্তান হারিয়ে বিচারের আশায় এখানে সেখানে ঘুরলেও কোনো প্রতিকার পায় না। গ্রামের একমাত্র ভিক্ষুক সে। এদের বাইরে একজন পাগলও আছে এ গ্রামে— মতি মিয়ার শ্যালক নিজাম। ছোটাছুটি করা এবং বনের ভিতরে বসে থাকা ছাড়া সে কোনো উপদ্রব করে না। সবশেষে বলা যায় যে, নীলগঞ্জের জনজীবন বাংলার আর দশটা সাধারণ গ্রামের জনজীবনের মতোই। সহজ, স্বাভাবিক ও কৃত্রিমতাবর্জিত জীবনযাপনে অভ্যস্ত এ গ্রামের লোকজন।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-1-kha",
+     "part_label": "খ",
+     "question_text": "‘১৯৭১’ উপন্যাসে প্রতিফলিত নীলগঞ্জের জনজীবনের পরিচয় দাও।",
+     "shikhonfol": [
+      3,
+      4,
+      5
+     ]
+    }
+   ],
+   "printed_page": 553,
+   "printed_pages": [
+    553
+   ],
+   "question_number": 1,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "exercise",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-2",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "‘মৃত্যুর মুখোমুখি দাঁড়ালে অনেকেই এরকম করবে’— মেজর সাহেবের কথার উত্তরে রফিক উক্তিটি করেছিলেন। মেজর এজাজ নীলগঞ্জ গ্রামে এসে একটা আতঙ্কজনক পরিবেশ সৃষ্টি করতে তৎপর হয়। স্থানীয় প্রাইমারি স্কুলে ক্যাম্প করার পরপরই স্কুল মাস্টার আজিজ মাস্টারকে স্কুলঘরে বন্দি করে রাখে। কথা আদায়ের নামে সে পাশবিক অত্যাচার করে। মেজর এজাজ তার সহযোগী বাঙালি যুবক রফিককে নির্দেশ দেয়, সে যেন আজিজ মাস্টারের পুরুষাঙ্গে ইটের টুকরা ঝুলিয়ে উলঙ্গ অবস্থায় পুরো গ্রাম ঘুরিয়ে আনে। আজিজ মাস্টারকে লজ্জাজনক শাস্তি অথবা মৃত্যু— দুইটির মাঝে একটি বেছে নিতে বললে তিনি লজ্জাজনক শাস্তি বেছে নেন। বাঙালি মাস্টারর মৃত্যু এড়িয়ে যেতে চাওয়ায় সমগ্র বাঙালি জাতিকেই সে কুকুরের চেয়েও নিকৃষ্ট বলে। এ রকম কঠিন পরিস্থিতিতে মানুষ যেকোনো রকম আচরণই যে করতে পারে এবং তা যে অস্বাভাবিক নয়— এ কথা বোঝাতেই রফিক প্রশ্নোক্ত উক্তিটি করেন।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-2-ka",
+     "part_label": "ক",
+     "question_text": "‘মৃত্যুর মুখোমুখি দাঁড়ালে অনেকেই এরকম করবে।’— এ উক্তিটি কার? উক্তিটি করার কারণ কী ছিল? বুঝিয়ে লেখো।",
+     "shikhonfol": [
+      4,
+      9
+     ]
+    },
+    {
+     "answer_text": "আধুনিক বাংলা সাহিত্যের অন্যতম জনপ্রিয় কথাসাহিত্যিক হুমায়ূন আহমেদ আমাদের মুক্তিযুদ্ধ নিয়ে ‘১৯৭১’ শীর্ষক উপন্যাস রচনা করে তাঁর সাহিত্যিক খ্যাতির ধারাবাহিকতার স্বাক্ষর রেখেছেন। এ উপন্যাসে পাকিস্তানি মিলিটারি বাহিনীর কমান্ডার মেজর এজাজ ও তার সহযোগী হিসেবে কাজ করা এদেশীয় যুবক রফিকের কথোপকথন এবং কর্মকাণ্ডের মাধ্যমে তাদের মধ্যকার সম্পর্কের জটিল ধাঁধা উন্মোচিত হয়েছে। রফিক মেজর এজাজের সহযোগী হিসেবে মিলিটারি দলের সাথে নীলগঞ্জ গ্রামে প্রবেশ করে। তিনি অনেকটা দোভাষীর কাজ করেন। প্রথম দেখায় তাকে মেজর এজাজের খানসামা বলে মনে হলেও উপন্যাসের কাহিনি যতই এগিয়েছে তাদের উভয়ের সরল সম্পর্কে জটিলতা ততই প্রতিভাত হয়েছে। নিজ দেশের মানুষের প্রতি অকারণে ঘৃণ্য আচরণ ও হত্যাকাণ্ডে মেজর এজাজের পাশে ছায়ার মতো সর্বদা অবস্থান করলেও মন থেকে এসব মেনে নিতে পারেননি রফিক। ন্যায়বিচার করার নামে মনা ও তার ভাইকে হত্যার নির্দেশ দিয়ে মেজর মূলত গ্রামের মানুষকে আতঙ্কিত করে তুলতে চেয়েছে। মনাকে অপরাধী হিসেবে শাস্তি দেওয়ার বিষয়টি মানলেও তার নির্দোষ ছোটো ভাইকে শাস্তি দেওয়া মানতে পারেননি রফিক। অবশ্য মেজর এজাজ যুদ্ধকালীন বাস্তবতার দোহাই দিয়ে ‘এই সময়ে কিছু অন্যায় হবেই’ বলে নিজের নিষ্ঠুরতাকে বৈধতা দিতে চায়। এরপর নীলু সেনকে নিজ বাড়িতে হত্যা, সফদরউল্লাহর স্ত্রী ও শ্যালিকার উপর মিলিটারির নির্যাতন, মসজিদের ইমাম সাহেব ও আজিজ মাস্টারকে স্কুলঘরে বন্দি করে নির্যাতন, বারবার অদৃশ্য মুক্তিবাহিনীর প্রসঙ্গ টেনে এনে সমগ্র গ্রামবাসীকে শত্রুজ্ঞান করা এবং পুরো বাঙালি জাতিকে চরম অবজ্ঞা করে কথা বলায় রফিক মানসিকভাবে মেজর এজাজের থেকে আলাদা হয়ে গিয়েছিলেন। অবশ্য তার এরূপ মনোভাব মেজর এজাজ ঠিকই বুঝতে পারে এবং রফিককে মৃত্যুর মুখোমুখি দাঁড় করিয়ে দেয়। রফিকের জীবনাবসান ঘটে একজন অদৃশ্য মুক্তিযোদ্ধা হিসেবে। রফিকের মৃত্যুই মূলত উপন্যাসের শেষ পর্যায়ে ঠেকে, অর্থাৎ বাঙালি আর পাকিস্তানি যে আদতে কেউ কারো নয়, তার ফয়সালা হয়ে যায়। উপরের আলোচনায় দেখা যাচ্ছে, পাশাপাশি গায়ে গা ঘেঁষে চলা মেজর এজাজ ও রফিক যে আদতে পরস্পর বিরোধী রক্তের মানুষ তা উপন্যাসের শেষে পরিষ্কার হয়েছে। মেজর এজাজ ও রফিকের সম্পর্কের টানাপোড়েনই ‘১৯৭১’ উপন্যাসের গতিপথ নির্ধারণ করেছে।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-2-kha",
+     "part_label": "খ",
+     "question_text": "রফিক ও মেজরের সম্পর্কের টানাপোড়েন কীভাবে কাহিনির গতিপথকে প্রভাবিত করেছে? তাদের মধ্যকার সংঘাতের কারণ ব্যাখ্যা করো।",
+     "shikhonfol": [
+      7,
+      9,
+      5
+     ]
+    }
+   ],
+   "printed_page": 553,
+   "printed_pages": [
+    553,
+    554
+   ],
+   "question_number": 2,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "exercise",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-3",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "পাকিস্তানি মিলিটারিদের গুলি খেয়ে মৃত্যুবরণ করার মাধ্যমে আজিজ মাস্টারের উপর করা নির্যাতন পরিণতি পেয়েছে। নীলগঞ্জ গ্রামে মিলিটারি প্রবেশের কিছুক্ষণ পরেই মেজর এজাজ আজিজ মাস্টারকে ডেকে পাঠায়। আজিজ মাস্টার তার সাথে দেখা করতে এলে নানা রকম কথাবার্তার এক পর্যায়ে মেজর এজাজ তাঁকে স্কুলঘরে বন্দি করে রাখে। তাঁর সাথে মসজিদের ইমাম সাহেবকেও বন্দি করা হয়। এরপর শুরু হয় মুক্তিবাহিনী সম্পর্কে তথ্য আদায়ের নামে নির্মম নির্যাতন। জয়নাল মিয়ার মেয়ে মালার প্রতি আজিজ মাস্টারের দুর্বলতার কথা জানতে পেরে তাকে উলঙ্গ করে পুরুষাঙ্গে ইটের টুকরা বেঁধে মালার সামনে হাজির করতে চায় মেজর সাহেব। মাস্টার প্রথম দিকে মৃত্যুভয়ে এহেন চরম অপমানজনক শাস্তি মেনে নিলেও এক পর্যায়ে মৃত্যুকেই নিজের পরিণতি হিসেবে মেনে নেন। এরপর মেজর সাহেবের নির্দেশে মিলিটারিদের গুলিতে তিনি মৃত্যুবরণ করেন।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-3-ka",
+     "part_label": "ক",
+     "question_text": "আজিজ মাস্টারের শেষ পরিণতি কী হয়েছিল? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      4,
+      5
+     ]
+    },
+    {
+     "answer_text": "রফিক চরিত্রটি জনপ্রিয় কথাসাহিত্যিক হুমায়ূন আহমেদ রচিত ‘১৯৭১’ শীর্ষক উপন্যাসের অন্যতম প্রধান চরিত্র। উপন্যাসের গতিপথ নির্ধারণে তাঁর ভূমিকা অনস্বীকার্য। আপাতদৃষ্টিতে রফিক চরিত্রকে দ্বিমুখী মনে হলেও উপন্যাসের শেষে এসে তিনি নিজেকে স্বদেশের জন্য নিবেদিতপ্রাণ একজন বীর সৈনিক হিসেবে উপস্থাপন করতে সক্ষম হয়েছেন। নীলগঞ্জ গ্রামে রফিকের প্রবেশ অত্যন্ত নাটকীয়; মিলিটারি বাহিনীর সাথে, কমান্ডার মেজর এজাজের সহচর হিসেবে। মেজর এজাজ যেহেতু যথেষ্ট পরিমাণে বাংলায় কথা বলতে পারে না; তাই তার দোভাষীর ভূমিকায় দেখা যায় রফিককে। নীলগঞ্জের লোকজনের সাথে মেজর এজাজের যেসব কথাবার্তা হয় সকলই রফিকের মাধ্যমে। ফলে শুরু থেকে উপন্যাসের কাহিনি পরিণতির দিকে ধাবিত হওয়ার আগ পর্যন্ত যে রফিককে দেখা যায়, তাতে পাকিস্তানি মিলিটারির দোসর মনে করার যথেষ্ট কারণ রয়েছে। তবে আজিজ মাস্টার ও ইমাম সাহেবকে কথা বলার ক্ষেত্রে বারবার সতর্ক করে দেওয়া তাঁর চারিত্রিক বৈশিষ্ট্যের প্রকাশ বলেই মনে হয়। কাহিনি এগিয়ে যাওয়ার সাথে সাথে রফিকও ধীরে ধীরে তাঁর চরিত্রের রহস্যময় দিকগুলো প্রকাশ করেছেন। এক্ষেত্রে মেজর এজাজের বর্বর আচরণই অনুঘটক হিসেবে কাজ করেছে। তিনি মেজর এজাজের সাথে চলতে চলতেই দেখলেন, পাকিস্তানি মিলিটারিরা এ দেশের মানুষকে তাদের মতো মানুষ বলে গণ্য করে না। ‘তোমার দেশ’ বলে রফিকের সাথে কথা বললে রফিক এটিকে বিশেষভাবে দৃষ্টিগোচর করে উদ্যত হলে মেজর তীক্ষ্ণদৃষ্টিতে তাঁর দিকে তাকিয়ে থাকে। উভয়ই যেন উভয়কে নতুন করে চেনার পথে যাত্রা শুরু করে এখান থেকে। রফিক লক্ষ করেন, মেজর এজাজ কারণে-অকারণে চরম নিষ্ঠুরতা দেখায় মূলত গ্রামের মানুষকে আতঙ্কিত করে তুলতে। মিলিটারিদের অত্যাচার, নির্যাতন, নারীদের উপর ঝাঁপিয়ে পড়া, দোষী-নির্দোষ নির্বিচারে যাকে-তাকে হত্যা করার এসব দৃশ্য যে সারা দেশেই পাকিস্তানিরা করে যাচ্ছে, তা আর বুঝতে বাকি থাকে না তাঁর। তিনিও ধীরে ধীরে খোলস থেকে বেরিয়ে আসতে উদ্যত হন। একপর্যায়ে মেজর এজাজও বুঝে যায় যে, তার জন্য রফিকের প্রয়োজনীয়তা ফুরিয়ে গেছে। সামনে দাঁড়িয়ে থেকে মিলিটারিদের দিয়ে গুলি করিয়ে তাঁকে হত্যা করে। পুরো উপন্যাস জুড়ে রফিকের কার্যকলাপ বেশির ভাগ সময়ই পাঠককে দ্বিধাগ্রস্ত করে। তবে বাঙালি ও বাংলাদেশের উপর ক্রমাগত নিষ্ঠুরতা চালানো পাকিস্তানি মিলিটারি তাঁর চোখ খুলে দিয়েছে। হাসতে হাসতে দেশমাতৃকার বীরসন্তান হিসেবে মৃত্যুকে বেছে নিয়ে তিনি নিজেকে অনন্য উচ্চতায় পৌঁছে দিয়েছেন।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-3-kha",
+     "part_label": "খ",
+     "question_text": "রফিক চরিত্রটি তোমার কাছে কি দ্বিমুখী চরিত্র মনে হয়? তোমার উত্তরের পক্ষে কারণ দেখাও।",
+     "shikhonfol": [
+      7,
+      8,
+      4
+     ]
+    }
+   ],
+   "printed_page": 554,
+   "printed_pages": [
+    554
+   ],
+   "question_number": 3,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "exercise",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-4",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "মীর আলিকে দেখে নিজের অন্ধ বাবার কথা মনে পড়ায় তাকে মেজর এজাজ সালাম দেয়। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামে যে পাকিস্তানি মিলিটারিদের দল এসে ক্যাম্প করেছে তাদের কমান্ডার হলো মেজর এজাজ। সে একদিন তার সহচর বাঙালি যুবক রফিককে নিয়ে গ্রামে ঘুরতে বের হয়। সে সরেজমিনে সবকিছু পর্যবেক্ষণ করতে চায়। পথিমধ্যে বৃদ্ধ মীর আলিকে সে দেখতে পায় বাড়ির বাইরে টুলের উপর বসে থাকতে। রফিকের মাধ্যমে সে জানতে পারে যে লোকটি অন্ধ। বাড়ির বাইরে বসা অন্ধ বৃদ্ধ লোকটিকে বসে থাকতে দেখে তার নিজের বাবার কথা মনে পড়ে। রেশোয়া গ্রামে তার বৃদ্ধ অন্ধ বাবাও এমনিভাবে বাড়ির বাইরে বসে থাকে। সেকথা মনে হতেই সে মীর আলিকে সালাম দেয়।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-4-ka",
+     "part_label": "ক",
+     "question_text": "মীর আলিকে মেজর এজাজ কেন সালাম দিলেন? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      2
+     ]
+    },
+    {
+     "answer_text": "পাঠকসমাজে বিপুল জনপ্রিয় সাহিত্যিক হুমায়ূন আহমেদের লেখায় বারবার উঠে এসেছে দেশ, দেশের মানুষ, ইতিহাস-ঐতিহ্য প্রভৃতি। ‘১৯৭১’ তাঁর লেখা মুক্তিযুদ্ধভিত্তিক রচনাবলির মধ্যে অন্যতম। এ উপন্যাসের শুরুতে নীলগঞ্জ গ্রামের যে বর্ণনা পাওয়া যায়, তাতে গ্রামটিকে আবহমান বাংলার আর দশটা সাধারণ গ্রামের মতোই মনে হয়। তবে গ্রামে পাকিস্তানি মিলিটারি প্রবেশ করার পর থেকে ধীরে ধীরে যুদ্ধক্ষেত্রে পরিণত হয়। নীলগঞ্জ গ্রামের বর্ণনা দিতে গিয়ে লেখক একে দরিদ্র, শ্রীহীন, ত্রিশ-চল্লিশ ঘরের একটি বিচ্ছিন্ন জনপদ বলেছেন। বিস্তীর্ণ জলাভূমি গ্রামটিকে কাস্তের মতো দুইদিকে ঘিরে আছে। কৃষিকাজ করেই মূলত এখানকার লোকজনের জীবিকার সংস্থান হয়। গ্রামের অধিকাংশ ঘরই খড়ের ছাউনি। সম্প্রতি কয়েকটি টিনের ঘর হয়েছে। বদিউজ্জামানের মতো হাতেগোনা দুই-একজন কাজের জন্য গ্রামের বাইরে যায়। গ্রামে একটি মসজিদ ও একটি প্রাইমারি স্কুল রয়েছে। এলাকার বাইরের মানুষ বলতে মসজিদের ইমাম সাহেব ও স্কুল মাস্টার আজিজুর রহমান মল্লিক। গ্রামের সাধারণ জনগণের বাইরে নীলগঞ্জের জলাভূমিটার পাশে একদল কৈবর্ত বসবাস করে। গ্রামের সঙ্গে অবশ্য তাদের খুব একটা সংযোগ নেই। মাছ ধরার সিজনে এরা জলমহালে মাছ ধরতে যায়। আবার ফিরে আসে। এ রকম একটা গণ্ডগ্রামে মিলিটারি প্রবেশ করার পরই নিস্তরঙ্গ গ্রামটিতে ভিন্ন ধরনের কাণ্ডকারখানা ঘটতে থাকে। মসজিদের ইমাম সাহেব ও আজিজ মাস্টারকে বন্দি করে মেজর এজাজের নেতৃত্বে নির্যাতন শুরু করা হয়। আতঙ্কের পরিবেশ তৈরি করতে চিতা বুড়ির ছেলে হত্যার বিচারের নামে মনা ও তার ছোটোভাইকে ইমাম ও মাস্টারের সামনে গুলি করে হত্যা করা হয়। মিলিটারিরা হত্যা করে সেনবাড়ির একমাত্র উত্তরাধিকারী নীলু সেনকেও। সফদরউল্লাহর বাড়িতে ঢুকে তার স্ত্রী ও শ্যালিকার উপর পৈশাচিক নির্যাতন চালায় মিলিটারিরা। অথচ এদের কারো সাথে মুক্তিবাহিনী বা মুক্তিযুদ্ধের কোনো সম্পর্কই ছিল না। উপরের আলোচনায় দেখা যাচ্ছে যে, নীলগঞ্জ গ্রামের সাথে মুক্তিযুদ্ধের কোনো সম্পর্ক না থাকলেও মেজর এজাজের নেতৃত্বে থাকা মিলিটারি দলটি তাদের কার্যকলাপের মাধ্যমে গ্রামটিকে যুদ্ধক্ষেত্রে পরিণত করেছে। ফলে উপন্যাসের নীলগঞ্জ গ্রাম আর সাধারণ একটি গ্রাম হয়ে থাকেনি— মুক্তিযুদ্ধের একটি জ্বলজ্যান্ত ছবি হয়ে উঠেছে।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-4-kha",
+     "part_label": "খ",
+     "question_text": "নিস্তরঙ্গ গ্রামীণ জীবনে যুদ্ধের বর্বরতা ‘১৯৭১’ উপন্যাসে কীভাবে রূপায়িত হয়েছে তা বিশ্লেষণ করো।",
+     "shikhonfol": [
+      3,
+      5,
+      8
+     ]
+    }
+   ],
+   "printed_page": 555,
+   "printed_pages": [
+    555
+   ],
+   "question_number": 4,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "exercise",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-5",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "নিজেকে ন্যায়বিচারক হিসেবে দেখানোর পাশাপাশি গ্রামবাসীর মাঝে আতঙ্ক ছড়িয়ে দিতে মেজর এজাজ খুনের বিচার করতে আগ্রহী হয়েছিলেন। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামে মিলিটারি প্রবেশ করার পর স্থানীয় মসজিদের ইমাম ও স্কুল মাস্টারকে ডেকে এনে নির্যাতন করে মেজর এজাজ। তার প্রথম উদ্দেশ্য ছিল যেকোনো উপায়ে গ্রামের মানুষকে ভড়কে দেওয়া। এ কাজে সে সামনে নিয়ে আসে মুক্তিবাহিনীর হাতে তার বন্ধু মেজর বখতিয়ারের বন্দি হওয়ার কাহিনি, যার সাথে নীলগঞ্জ গ্রামের মানুষের কোনো সম্পর্ক নেই। তখনই তার সামনে এলে যায় চিতা বুড়ির ছেলে হত্যার প্রসঙ্গটি। কৈবর্তপাড়ার ঘটনায় অন্যরা সাধারণত নাক গলায় না— এই সুবাদে সে নিজেকে ন্যায়বিচারক হিসেবে দেখাতে খুনের দায়ে মনা কৈবর্তকে নির্মমভাবে প্রকাশ্য দিবালোকে গুলি করে হত্যা করে। ন্যায়বিচার প্রতিষ্ঠার অন্তরালে মূলত সে গ্রামবাসীর মনে চরম আতঙ্ক ঢুকিয়ে দিতে চেয়েছে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-5-ka",
+     "part_label": "ক",
+     "question_text": "খুনের বিচার করতে মেজর এজাজ এতটা আগ্রহী হয়েছিলেন কেন?",
+     "shikhonfol": [
+      6
+     ]
+    },
+    {
+     "answer_text": "স্বাধীনতা-উত্তর বাংলা কথাসাহিত্যে সবচেয়ে জনপ্রিয় শিল্পী হুমায়ূন আহমেদ। মুক্তিযুদ্ধভিত্তিক ‘১৯৭১’ শীর্ষক উপন্যাসে তিনি গ্রামীণ পটভূমিতে ১৯৭১ সালের মহান মুক্তিযুদ্ধের একটি আলেখ্য রচনা করেছেন। অন্য আর দশটি সাধারণ অজগ্রামের মতোই ‘১৯৭১’ উপন্যাসের নীলগঞ্জ গ্রাম। নীলগঞ্জের মানুষের জীবনযাত্রায় রাজনীতির কোনো ছোঁয়া না লাগলেও পাকিস্তানি মিলিটারি প্রবেশ করার পর ধীরে ধীরে গ্রামটি যেন একখণ্ড যুদ্ধের ময়দানে পরিণত হয়। ত্রিশ-চল্লিশটি পরিবারের একটি বিচ্ছিন্ন জনপদ নীলগঞ্জ। বিস্তীর্ণ জলাভূমি গ্রামটি কাস্তের মতো দুইদিকে ঘিরে আছে। এখানকার প্রায় সকলেই কৃষিকাজ করে। শীতকালে প্রচুর রবিশস্য ফলে এখানে। গ্রামের ঘরবাড়িও অতি সাধারণ। এ রকম একটি গ্রামে একদিন ভোর হতে না হতেই মেজর এজাজের নেতৃত্বে মিলিটারি প্রবেশ করে। প্রথমেই তাদের হাতে লাঞ্ছিত ও নির্যাতিত হন ইমাম সাহেব ও আজিজ মাস্টার। ন্যায়বিচার প্রতিষ্ঠার প্রহসন করে মনা কৈবর্ত এবং তার ছোটো ভাইকে ইমাম ও আজিজ মাস্টারের সামনে গুলি করে হত্যা করে। এর মাধ্যমে পুরো গ্রামে একটা অদৃশ্য আতঙ্ক ছড়িয়ে দিতে চায় সে। মাস্টারকে উলঙ্গ করে নির্যাতন করা, নীলু সেনকে হত্যা করা, সফদরউল্লাহর স্ত্রী ও শ্যালিকার উপর পাশবিক নির্যাতন করা ইত্যাদির মাধ্যমে মিলিটারিরা পুরো গ্রামটিকেই যুদ্ধক্ষেত্রে পরিণত করে। উপরের আলোচনায় নীলগঞ্জ গ্রামের যে চিত্র আমরা দেখতে পাই এমনটি আসলে মুক্তিযুদ্ধকালীন সমগ্র বাংলায় চিত্রিত হয়েছে। বাঙালি তরুণ রফিকের ভূমিকায় অবতীর্ণ হয়েছেন বাংলাদেশের অনেক তরুণ। তাই বলা যায়, নীলগঞ্জ আসলে মুক্তিযুদ্ধকালীন বাংলাদেশের প্রতিচ্ছবি।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-5-kha",
+     "part_label": "খ",
+     "question_text": "‘নীলগঞ্জ আসলে মুক্তিযুদ্ধকালীন বাংলাদেশের প্রতিচ্ছবি।’— ব্যাখ্যা করো।",
+     "shikhonfol": [
+      5,
+      8
+     ]
+    }
+   ],
+   "printed_page": 555,
+   "printed_pages": [
+    555
+   ],
+   "question_number": 5,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "exercise",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-6",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "বদিউজ্জামান মিলিটারিদের ভয়ে জঙ্গলা মাঠের ভিতরে একটি বড়ো গর্তে কোমর পানিতে লুকিয়েছিল। মিলিটারি আগমনের পর একেবারেই নিবৃত্তপথ, শান্ত-সমাহিত নীলগঞ্জ গ্রামের চেহারা দ্রুতই পাল্টে যেতে লাগল। গ্রামের প্রায় সকলেই কৃষিকাজ করলেও বদিউজ্জামানের মধুবন বাজারে মনিহারি দোকান আছে। সে প্রতিদিন সকালে বাড়ি থেকে বের হয়ে দোকানদারি শেষে সন্ধ্যায় দীর্ঘপথ পাড়ি দিয়ে বাড়ি ফেরে। মিলিটারি দল আসতে দেখে পথিমধ্যে সে থমকে দাঁড়ায় আজ। সে মধুবন বাজারে যাওয়ার জন্য রওনা দিলেও আবার ফেরার পথ ধরে। মিলিটারির কবল থেকে বাঁচতে সে জঙ্গলা মাঠের ভিতরে ঢুকে যায়। একটি বড়ো গর্তে কোমর পানিতে লুকিয়ে থাকে। কাশি আসতে চাইলে সে প্রাণপণে ঠেকিয়ে রাখতে চায়। শেয়াল দেখতে পায় এক জোড়া। পচা গন্ধ আসে পানি থেকে। তবুও ঝোপের আড়ালে লুকিয়ে থাকে সে। নীলগঞ্জ থেকে আসা গুলির শব্দও শুনতে পায়। দীর্ঘ সময় ধরে এভাবেই সে পানির ভিতরে বসে থাকে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-6-ka",
+     "part_label": "ক",
+     "question_text": "বদিউজ্জামান কাদের ভয়ে এবং কোথায় লুকিয়েছিল? তার অবস্থা সংক্ষেপে বর্ণনা করো।",
+     "shikhonfol": [
+      2
+     ]
+    },
+    {
+     "answer_text": "বাংলাদেশের সবচেয়ে জনপ্রিয় কথাসাহিত্যিক হুমায়ূন আহমেদ তাঁর ‘১৯৭১’ শীর্ষক উপন্যাসে ১৯৭১ সালের মহান মুক্তিযুদ্ধের পটভূমিতে নীলগঞ্জ গ্রামের জনজীবন ও যুদ্ধকালীন বাস্তবতা তুলে ধরতে প্রয়াসী হয়েছেন। এ উপন্যাসের অন্যতম চরিত্র আজিজ মাস্টার। পাকিস্তানি বাহিনীর নির্যাতনের রকম-বহর অত্যন্ত লজ্জাজনক হওয়ায় একপর্যায়ে তিনি নিজেই অপমানের বিপরীতে নিজের মৃত্যুকে বেছে নেন। ‘১৯৭১’ উপন্যাসে আজিজ মাস্টার নীলগঞ্জ গ্রামের কেউ নন। মসজিদের ইমাম সাহেবের মতো তিনিও বাইরের লোক। থাকেন জয়নাল মিয়ার বাড়িতে। মেজর এজাজ স্কুলের দপ্তরির মাধ্যমে মাস্টার সাহেবকে ডেকে পাঠায়। সে মুক্তিবাহিনীর সদস্যদের সম্পর্কে তথ্য জানতে চায় কিন্তু আজিজ মাস্টার কোনো তথ্যই দিতে পারেন না। মেজর এজাজ অবশ্য তার কোনো কথা বিশ্বাস করে না। একপর্যায়ে তাকে বন্দি করে নির্যাতন চালায়। কথায় কথায় মেজর এজাজ জানতে পারে যে, জয়নাল মিয়ার মেয়ে মালার প্রতি আজিজ মাস্টারের দুর্বলতা রয়েছে। তখন সে জয়নাল মিয়ার মেয়ে মালার সামনে উলঙ্গ করে পুরুষাঙ্গে ইটের টুকরা বেঁধে ঘুরিয়ে আনার কথা বলে। তখন এজাজের সঙ্গী রফিককে বলে, সে যেন আজিজ মাস্টারকে উলঙ্গ করে এবং তার পুরুষাঙ্গে একটা ইটের টুকরা বেঁধে গ্রামে ঘুরিয়ে আনে। মেজর এজাজের এ সিদ্ধান্ত আজিজ মাস্টার মন থেকে মানতে না পারলেও তিনি ছিলেন নিরুপায়। জীবন বাঁচানোর দায়ে তিনি নিজেই নিজের পরনের প্যান্ট খুলে ফেলেন। এর আগেই মেজর এজাজ চিতা বুড়ির ছেলেকে হত্যার দায়ে ছোটো ভাইসহ মনা কৈবর্তকে গুলি করে হত্যা করে। সেই ভয়ংকর দৃশ্য সামনে থেকে দেখতে হয় আজিজ মাস্টারকে। সময় যতই গড়ায় মেজর এজাজের শাস্তি দেওয়ার নতুন নতুন পদ্ধতি বের হতে থাকে। এবার সে জয়নাল মিয়াকে ধরে এনে তার সামনে মাস্টার সাহেবকে উলঙ্গ অবস্থায় হাজির করে এবং আজিজ মাস্টার যে তার মেয়েকে ভালোবাসে তা জানিয়ে দেয়। রফিককে আবার নির্দেশ দেয়, সে যেন আজিজ মাস্টারকে উলঙ্গ অবস্থায় জয়নাল মিয়ার মেয়ে মালার সামনে নিয়ে ঘুরিয়ে আনে। এমতাবস্থায় আজিজ মাস্টারের ধৈর্যের বাঁধ ভেঙে যায় এবং লজ্জাজনক শাস্তির বিপরীতে মৃত্যুকে মেনে নেন তিনি। মেজর এজাজের নির্দেশে তাঁকে হত্যা করা হয়। অর্থাৎ যখন একের পর এক শাস্তির ধরন পরিবর্তিত হতে লাগল এবং তা চূড়ান্ত সীমায় পৌঁছে গেল তখন আজিজ মাস্টার অপমানের তুলনায় মৃত্যুকেই শ্রেয় মনে করে তা মেনে নিতে প্রস্তুত হন। তার এ আচরণে প্রমাণিত হয়েছে যে, ‘অপমানের চেয়ে মানুষ মৃত্যুকেই শ্রেয় মনে করে।’",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-6-kha",
+     "part_label": "খ",
+     "question_text": "‘অপমানের চেয়ে মানুষ মৃত্যুকেই শ্রেয় মনে করে।’— আজিজ মাস্টারের উদাহরণ ব্যবহার করে বাক্যটির সত্যতা যাচাই করো।",
+     "shikhonfol": [
+      4
+     ]
+    }
+   ],
+   "printed_page": 556,
+   "printed_pages": [
+    556
+   ],
+   "question_number": 6,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "exercise",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-7",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "অনুফা মীর আলির বড়ো ছেলে বদিউজ্জামানের স্ত্রী। গ্রামে মিলিটারির আতঙ্ক ছড়িয়ে পড়ায় ভীত-সন্ত্রস্ত পরিবেশেও বারবার খাবার খেতে চাওয়ায় সে মীর আলির উপর বিরক্ত হয়। গ্রামে মিলিটারি আসার পর নীলগঞ্জের মানুষের জীবনে তার ব্যাপক প্রভাব পড়ে। মসজিদের ইমাম ও স্কুলের শিক্ষক আজিজ মাস্টারের উপর নির্যাতন করে মিলিটারিরা। বিচারের নামে মনা কৈবর্তকে হত্যা করে। নীলু সেনকে তার বাড়িতেই হত্যা করা হয়। সফদরউল্লাহর স্ত্রী ও তার ছোটো বোনদের উপর পাশবিক নির্যাতন করে মিলিটারিরা। এমন ভীতিকর অবস্থায় বদিউজ্জামানও বাড়িতে ফেরেনি। তাই অনুফা অনেক বেলা হয়ে গেলেও রান্না করেনি। এদিকে খাবারের জন্য মীর আলি কাঁদে। বারবার তাড়া দেয় অনুফাকে। ফলে অনুফা তার শ্বশুর মীর আলির উপর অত্যন্ত বিরক্ত হয়।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-7-ka",
+     "part_label": "ক",
+     "question_text": "অনুফা কে? সে কেন মীর আলির উপর বিরক্ত হয়?",
+     "shikhonfol": [
+      3,
+      5
+     ]
+    },
+    {
+     "answer_text": "বাংলা সাহিত্যের জনপ্রিয় কথাসাহিত্যিকদের অন্যতম হুমায়ূন আহমেদ। দেশবিভাগ-পরবর্তী সময়ে তিনি বাঙালি পাঠককে বইমুখী রাখতে অসামান্য অবদান রেখেছেন। ‘১৯৭১’ উপন্যাসটি তাঁর কৃতিত্বের অন্যতম স্বাক্ষর। ১৯৭১ সালের মহান মুক্তিযুদ্ধের পটভূমিতে রচিত উপন্যাসে তিনি দেখিয়েছেন কীভাবে নীলগঞ্জের মতো একটি গণ্ডগ্রামও পাকিস্তানি মিলিটারিদের অত্যাচার-নির্যাতনের কারণে মুক্তিযুদ্ধের সাথে এক টুকরা রণাঙ্গনে পরিণত হয়েছে। ‘১৯৭১’ উপন্যাসের আজিজ মাস্টার, সফদরউল্লাহ ও রফিক চরিত্রের উদাহরণে প্রক্রিয়াটি ব্যাখ্যা করা হলো— আজিজ মাস্টার: আজিজ মাস্টার হলেন নীলগঞ্জ গ্রামের প্রাইমারি স্কুলের শিক্ষক। স্কুল মাস্টারির পাশাপাশি তিনি কবিতা লেখেন। তাঁর কবিতাগুলো মূলত জয়নাল মিয়ার কিশোরী কন্যা মালাকে নিয়ে। মিলিটারি কমান্ডার মেজর এজাজ ডেকে এনে জিজ্ঞাসাবাদের নামে অমানবিক অত্যাচার-নির্যাতন করে। মালার প্রতি তার দুর্বলতার কথা জানতে পেরে উলঙ্গ অবস্থায় তাকে মালার সামনে নিতে চায় মেজর এজাজ। তখন তিনি নিজেই শাস্তি হিসেবে মৃত্যুকে বেছে নেন। সফদরউল্লাহ: সফদরউল্লাহ ‘১৯৭১’ উপন্যাসের একটি অপ্রধান চরিত্র। একদিন মিলিটারিরা তার বাড়িতে এসে তাকে না পেয়ে তার স্ত্রী ও শ্যালিকার উপর পাশবিক নির্যাতন চালায়। এতে সে মিলিটারির প্রতি চরম ক্ষুব্ধ হয়। দা হাতে নিয়ে দায়ী মিলিটারিকে খুঁজতে থাকে প্রতিশোধ নেওয়ার জন্য। রফিক: রফিক এ উপন্যাসে একটি গুরুত্বপূর্ণ চরিত্র। মিলিটারি কমান্ডার মেজর এজাজের সহযোগী হিসেবে নীলগঞ্জ গ্রামে প্রবেশ করলেও এক পর্যায়ে তিনি নিজেকে একজন প্রকৃত স্বদেশপ্রেমী হিসেবে উপস্থাপন করেছেন। শুরুতে মেজর এজাজের দোভাষী হিসেবে কাজ করলেও চোখের সামনে অহেতুক অত্যাচার-নির্যাতন ও হত্যাকাণ্ড দেখে তিনি মনে মনে সিদ্ধান্ত নিয়ে ফেলেন— এসব অন্যায়, তাই পরিত্যাজ্য। ফলে মেজর এজাজের সাথে শুরু হয় তাঁর কথার যুদ্ধ। শেষ পর্যন্ত স্বজাতির প্রতি ভালোবাসার মূল্য তাঁকে নিজের জীবন দিয়ে চুকাতে হয়েছে। দেখা যাচ্ছে, আজিজ মাস্টার, সফদরউল্লাহ, রফিক— এরা কেউই মুক্তিযুদ্ধের সাথে প্রত্যক্ষভাবে জড়িত ছিলেন না। মেজর এজাজ কল্পিত শত্রু তথা মুক্তিবাহিনী খোঁজার নামে একে একে সবাইকে প্রতিপক্ষ বানিয়ে চরম নির্যাতনের মাধ্যমে তাদের মুক্তিযুদ্ধের অংশ বানিয়ে দেয়। তাই বলা যায় যে, ‘অকারণ নিপীড়নই একটি যুদ্ধকে জনগণের মুক্তিযুদ্ধে উপনীত করেছিল।’",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-7-kha",
+     "part_label": "খ",
+     "question_text": "‘অকারণ নিপীড়নই একটি যুদ্ধকে জনগণের মুক্তিযুদ্ধে উপনীত করেছিল।’— ‘১৯৭১’ উপন্যাস থেকে অন্তত তিনটি চরিত্রের উদাহরণ দিয়ে প্রক্রিয়াটি ব্যাখ্যা করো।",
+     "shikhonfol": [
+      9
+     ]
+    }
+   ],
+   "printed_page": 556,
+   "printed_pages": [
+    556
+   ],
+   "question_number": 7,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "exercise",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-8",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "নীলগঞ্জের সেন বংশ বর্তমানে হতদরিদ্র হওয়ায় তাদের বাড়িতে ডাকাত আসার কথা নয়। ‘১৯৭১’ উপন্যাসে ভোরের দিকে হালকা আলোতে চিতা বুড়ি দেখে সেনবাড়ির সামনে দাঁড়িয়ে কিছু লোক টর্চ লাইট ফেলছে। বুড়ি ভাবে তারা হয়তো-বা ডাকাত। কিন্তু সেনদের এখন যে অর্থনৈতিক পরিস্থিতি তাতে ডাকাত আসার কথা নয়। নীলগঞ্জ গ্রামে সেনবাড়ির প্রতিষ্ঠাতা সুসং দুর্গাপুরের মহারাজের নায়েব চন্দ্রকান্ত সেন। সেনবাড়িটি দুই বিঘা জমির উপর বিস্তীর্ণ। পূর্বে চন্দ্রকান্ত সেনের অনেক ধনসম্পদ ছিল। তবে বর্তমানে তাঁর উত্তরাধিকারীরা এই সম্পদের সন্ধান জানে না। সেনবাড়িতে বর্তমানে কেবল একটি প্রকাণ্ড দালান আছে। এ বাড়িতে ইট ছাড়া মূল্যবান কিছুই নেই। বংশের একমাত্র উত্তরাধিকারী নীলু সেন বাড়িটিতে বসবাস করেন। মূলত সেনদের বর্তমানে কোনো অর্থসম্পদ না থাকায় ডাকাতের আসার কথা নয়।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-8-ka",
+     "part_label": "ক",
+     "question_text": "সেন বাড়িতে ডাকাত আসার কথা নয় কেন? বুঝিয়ে লেখো।",
+     "shikhonfol": [
+      2
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদ (১৯৪৮-২০১২)। সহজসরল ভাষা, গভীর জীবনবোধ, রহস্যময়তা এবং মানবিকতার মিশ্রণে তিনি এক নতুন ধারার সৃজনা করেছেন, যা বাংলা সাহিত্যকে সমৃদ্ধ করেছে। তাঁর অন্যতম সৃষ্টি ‘১৯৭১’ উপন্যাস। গ্রামের সাধারণ মানুষের সাবলীল পথচলার ক্ষেত্রে যুদ্ধ কীভাবে বাধা সৃষ্টি করে, তা সুনিপুণভাবে তিনি এ উপন্যাসে উপস্থাপন করেছেন। ‘১৯৭১’ উপন্যাসের নীলগঞ্জ গ্রাম একটি প্রত্যন্ত অঞ্চল। এই গ্রামের মানুষের জীবনযাত্রা খুবই সাধারণ। গ্রামের মানুষ যে যার কাজকর্ম নিয়ে ব্যস্ত থাকে। অনুফা সংসার নিয়ে ব্যস্ত থাকে। চিতা বুড়ি নিজের মতো একা একা থাকে। গ্রামের বদিউজ্জামান ব্যবসার সাথে জড়িত। এ অঞ্চলে কৈবর্তপাড়া আছে। তারা মাছ ধরে জীবিকানির্বাহ করে। গ্রামে দুইজন অস্থায়ী লোক বসবাস করে। একজন মসজিদের ইমাম; তিনি মসজিদে থাকেন। অন্যজন স্কুল মাস্টার, তিনি জয়নাল মিয়ার বাড়িতে থাকেন। এ দুইজন অস্থায়ী বাসিন্দাও নীলগঞ্জ গ্রামে স্বচ্ছন্দময় জীবনযাপন করেন। গল্পের মোড় ঘুরে যায় যখন একদিন রাতের অন্ধকারে নীলগঞ্জ গ্রামে ঢোকে পাকিস্তানি বাহিনী। তাদের আগমন গ্রামের সাবলীল জীবনযাত্রাকে ব্যাপকভাবে ক্ষতিগ্রস্ত করে। বৃদ্ধ মীর আলি চোখে দেখতে না পেলেও কানে শুনতে পান কেউ গ্রামে ঢুকছে। ইমাম সাহেব মিলিটারি দেখে বারবার দোয়াদরুদ পড়তে থাকেন। গ্রামের সাধারণ মানুষ পাকিস্তানি বাহিনীর আগমনের কথা শুনে হতবাক হয়ে পড়ে। কারণ এ গ্রামে আগে কখনো মিলিটারি আসেনি। উপন্যাসে দেখা যায় পাকিস্তানি বাহিনী নীলগঞ্জ গ্রামে এসেই তাণ্ডব চালাতে শুরু করে। তারা ইমাম ও মাস্টারকে স্কুলঘরে নিয়ে অমানবিক অত্যাচার করে। ইমামকে মারধর এবং মাস্টারকে সম্ভ্রমহানি করে। গ্রামের চিতা বুড়ির ছেলে হত্যার বিচার করতে গিয়ে মনা এবং তার এগারো বছরের ভাইকে মেজর নিষ্ঠুরভাবে হত্যা করে। সফদরউল্লাহর পরিবারের উপর পাকিস্তানি বাহিনীর নির্মম অত্যাচার তাকে মানসিক ভারসাম্যহীন করে তোলে। গ্রামে একজন সহজসরল বদিউজ্জামানের জীবনে নেমে আসে ভয়াবহ আতঙ্ক। গ্রামের কৈবর্তরা মাছ ধরে জীবিকানির্বাহ করত। পাকিস্তানি বাহিনীর প্রবেশে তাদের জীবনে নেমে আসে অন্ধকার। মুক্তিবাহিনীকে আশ্রয় দেওয়ার সন্দেহে কৈবর্তপাড়ায় তারা গণহত্যা শুরু করে। আগুন জ্বালিয়ে পুরো কৈবর্তপাড়া খালি করে ফেলে পাকিস্তানি বাহিনী। তাই বলা যায়, হুমায়ূন আহমেদ অত্যন্ত মর্মস্পর্শী ভাষায় দেখিয়েছেন যে, যুদ্ধ নীলগঞ্জের মতো একটি গ্রামের স্বাভাবিক জীবনকে সম্পূর্ণরূপে বদলে দিয়েছে। গ্রামের মানুষের মনে একদিকে যেমন আতঙ্ক ও নিরাপত্তাহীনতার সৃষ্টি হয়, অন্যদিকে তাদের মধ্যে প্রতিরোধের এক নতুন স্পৃহাও জন্ম নেয়।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-8-kha",
+     "part_label": "খ",
+     "question_text": "পাকিস্তানি বাহিনীর আগমন নীলগঞ্জের স্বাভাবিক জীবনযাত্রাকে কীভাবে প্রভাবিত করে? ‘১৯৭১’ উপন্যাসের আলোকে তার স্বরূপ বর্ণনা করো।",
+     "shikhonfol": [
+      5
+     ]
+    }
+   ],
+   "printed_page": 557,
+   "printed_pages": [
+    557
+   ],
+   "question_number": 8,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-9",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "বাংলাদেশের প্রকৃতি বৈচিত্র্যময়। বাংলাদেশের মুক্তিযুদ্ধে প্রকৃতি মুক্তিবাহিনী ও সাধারণ মানুষের আশ্রয়স্থল হিসেবে কাজ করেছিল। হুমায়ূন আহমেদের ‘১৯৭১’ উপন্যাসে দেখানো হয়েছে নীলগঞ্জ গ্রামের পরিবেশ ও জনজীবন। বাংলাদেশের অন্য গ্রামের মতো এ গ্রামও সাধারণ। এখানকার প্রাকৃতিক বৈচিত্র্যও একই রকম। উপন্যাসে দেখানো হয়েছে মুক্তিবাহিনীরা ঘন জঙ্গলে আশ্রয় নিয়েছে ফলে পাকিস্তানিরা তাদের ধরতে পারেনি। প্রকৃতপক্ষে মুক্তিযুদ্ধের সময় অনেক মুক্তিবাহিনী ঝোপঝাড়ে লুকিয়ে থেকে যুদ্ধ করত। পূর্ব পাকিস্তানের গ্রামাঞ্চলে অনেক ডোবা, জঙ্গল ও পুকুর ছিল। সাধারণ মানুষ প্রত্যয়ে অনেক সময় উপন্যাসে বদিউজ্জামানের মতো পুকুরে কেবল নাক ভাসিয়ে ডুব দিয়ে লুকিয়ে থাকত। গ্রামের রাস্তাঘাট সরু ও কর্দমাক্ত হওয়ায় অনেক সময় সেনাবাহিনীরা প্রবেশ করতে পারত না। এছাড়া উপন্যাসে বলা আছে কালবৈশাখী ঝড়ের কথা। ঝড়ের কারণে সেনাবাহিনীরা অপারেশন করতে ব্যর্থ হত, ফলে মুক্তিযোদ্ধারা নিরাপদ আশ্রয়ে সরে যেতে পারত। ‘১৯৭১’ উপন্যাসে লেখক মুক্তিযুদ্ধে ঋতু ও পরিবেশের প্রভাব বেশ সার্থকভাবেই রূপায়ণ করেছেন।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-9-ka",
+     "part_label": "ক",
+     "question_text": "মুক্তিযুদ্ধে বাংলাদেশের প্রাকৃতিক বৈচিত্র্যের প্রভাব ‘১৯৭১’ উপন্যাসের আলোকে সংক্ষেপে বর্ণনা করো।",
+     "shikhonfol": [
+      2,
+      3
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদের সুনিপুণ সাহিত্যশৈলীর দিকটি উন্মোচিত হয়েছে ‘১৯৭১’ উপন্যাসে। ‘১৯৭১’ শীর্ষক উপন্যাসে তিনি তুলে ধরেছেন মুক্তিযুদ্ধকালীন পাকিস্তানি বাহিনী ও সাধারণ মানুষের দৃষ্টিভঙ্গি। এই উপন্যাসে তিনি মিলিটারি সম্পর্কে সাধারণ মানুষের ভ্রান্ত ধারণা তুলে ধরেছেন। আলোচ্য উপন্যাসে পাকিস্তানি মিলিটারিরা মুসলিম ধর্মের হওয়ায় তাদের সম্পর্কে গ্রামবাসীর প্রথমদিকে ইতিবাচক ধারণা ছিল। তবে মিলিটারিদের বিভিন্ন কর্মকাণ্ডের কারণে গ্রামবাসীর এই বিশ্বাস ভাঙতে বেশি সময় লাগে না। অচিরেই তারা বুঝে যায় মিলিটারিদের কাছে বাঙালি জাতির হিন্দু-মুসলমান সবাই একই। তারা মূলত বাঙালিবিদ্বেষী। ‘১৯৭১’ উপন্যাসে গ্রামের লোক হানাদার বাহিনী সম্পর্কে লোক মুখে নানা গল্প শোনে। অনেকেই তাদের সঙ্গে যুক্ত হয় রাজাকার হিসেবে। মেজর এজাজ মীর আলিকে সালাম দেওয়ায় এবং কেবল হিন্দুদের গুলি করে মারায় গ্রামবাসীর ধর্মভিত্তিক বিশ্বাস আরও প্রকট হয়। জয়নাল মিয়া সফদরউল্লাহসহ বাকি লোকদের আশ্বস্ত করে যে, মিলিটারিরা মুসলমানদের কোনো ক্ষতি করে না, ভালো ব্যবহার করে, মেয়েদের সম্ভ্রমহানি করে না। তাই গ্রামের লোকদের ভয়ের কোনো কারণ নেই। তবে তাদের এই বিশ্বাস অতি অল্প সময়ের মধ্যে বালির বাঁধের মতো ভাঙতে সময় নেয়নি। মিলিটারি সুবাদারের হাতে সফদরউল্লাহর স্ত্রী ও শ্যালিকা নির্যাতনের শিকার হলে সকলের ধারণা বদলে যায়। ইমাম সাহেবকে মুক্তিযোদ্ধাদের তথ্য পাওয়ার জন্য মেরে রক্তাক্ত করলে সাধারণ মানুষের পাকিস্তানিদের উপর থেকে সম্পূর্ণ বিশ্বাস উঠে যায়। কারণ পাকিস্তানিরা মসজিদের ইমামকেও প্রহার করতে বাদ দেয় না। ওজুর পানি দেয় না নামাজ পড়তে। এছাড়া আজিজ মাস্টারকে নৃশংসভাবে সম্ভ্রমহানি ও হত্যা করে। জয়নাল মিয়াকে ধরে এনে তার মেয়েদের নিয়ে ভয়ভীতি দেখায়। অথচ আজিজ মাস্টার, ইমাম সাহেব, জয়নাল, নিজাম, সফদরউল্লাহর স্ত্রী এবং শ্যালিকা সকলেই জাতিতে মুসলিম ছিল। তবুও তারা কেউ মিলিটারির আগ্রাসী থাবা থেকে বাঁচতে পারেনি। মিলিটারিদের কাছে ধর্মীয় সহানুভূতির কোনো স্থান ছিল না। সকল বাঙালিদেরই তারা ঘৃণা করত এই বিষয় গ্রামবাসী দ্রুতই বুঝতে পারে। সবশেষে বলা যায় যে, পাকিস্তানি হানাদার বাহিনীর নিজস্ব কোনো বিবেক-বিবেচনা, ধর্মবোধ ছিল না। তারা নিজেদের সৃষ্টি করা বিপর্যয়ের মধ্য দিয়ে হিন্দু-মুসলিম সকল বাঙালির জীবন অতিষ্ঠ করে তুলেছিল।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-9-kha",
+     "part_label": "খ",
+     "question_text": "‘মিলিটারিরা মুসলমানদের ক্ষতি করে না’— গ্রামবাসীর এহেন বিশ্বাস যে কতটা ভ্রান্ত ছিল; তার পরিচয় ‘১৯৭১’ উপন্যাসের আলোকে বিশ্লেষণ করো।",
+     "shikhonfol": [
+      3
+     ]
+    }
+   ],
+   "printed_page": 557,
+   "printed_pages": [
+    557,
+    558
+   ],
+   "question_number": 9,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-10",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "জয়নাল মিয়া নীলগঞ্জ গ্রামের সবচেয়ে সম্পদশালী ব্যক্তি। এ কারণে গ্রামের মানুষ জয়নালকে সম্মান করত। ‘১৯৭১’ উপন্যাসে হুমায়ূন আহমেদ নীলগঞ্জ গ্রামের জনজীবনের চিত্র সুনিপুণভাবে ফুটিয়ে তুলেছেন। নীলগঞ্জ গ্রামে ব্যবসায়ী, শিক্ষক, ইমাম, কৃষক, জেলে নানান পেশার মানুষ বাস করে। তাদের মধ্যে কেউ অভাবী, কেউ সম্পদশালী। তবে নীলগঞ্জ গ্রামের সবচেয়ে সম্পদশালী ব্যক্তি জয়নাল মিয়া। মধুবন বাজারে তার দুইটি দোকান আছে। কিন্তু জয়নাল মিয়া ব্যক্তি হিসেবে মেরুদণ্ডহীন। সে অন্যের মন রেখে কথা বলে। গ্রাম্য সালিশ-বিচারের সময় যে যা বলে, সে সবকিছুকে সমর্থন করে। তার এই সমর্থনের কারণে বিচার প্রক্রিয়া জটিল হয়ে যায়। কিন্তু তা সত্ত্বেও তার প্রচুর ধনসম্পদ আছে বলে সবাই তাঁকে সমীহ করে। অর্থাৎ প্রচুর ধনসম্পদ থাকার কারণেই মেরুদণ্ডহীন হওয়া সত্ত্বেও নীলগঞ্জ গ্রামের মানুষ জয়নালকে সম্মান করত।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-10-ka",
+     "part_label": "ক",
+     "question_text": "জয়নাল মিয়া কে? নীলগঞ্জ গ্রামের মানুষ জয়নালকে সম্মান করত কেন? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      2,
+      3
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদের ‘১৯৭১’ উপন্যাসের রফিক চরিত্রটি অত্যন্ত গুরুত্বপূর্ণ জটিল চরিত্র। তাঁকে লেখক মুক্তিযোদ্ধাদের প্রতীক হিসেবে উপস্থাপন করেছেন। তিনি পাকিস্তানি সেনাবাহিনীর সহযোগী হিসেবে নীলগঞ্জ গ্রামে আসেন। এই গ্রামে তিনি আগে কখনো না আসলেও পাকিস্তানি বাহিনীকে এই গ্রামে বিভিন্ন কর্মকাণ্ডে সাহায্য করেন, যা ছিল অত্যন্ত কৌতূহলের বিষয়। স্কুলে ক্যাম্প স্থাপনের পর তিনি গ্রামের ইমাম সাহেবকে স্কুলে ডেকে নিয়ে আসেন। ইমামকে এই গ্রাম সম্পর্কে বিভিন্ন প্রশ্ন করেন। আবার তিনি আজিজ মাস্টারকে বিভিন্ন প্রশ্ন করেন এবং মেজর এজাজকে আজিজের কাছ থেকে তথ্য পেতে সাহায্য করেন। তিনি গ্রামের নীলু সেনের বাড়ি যেতে পাকিস্তানি বাহিনীকে সাহায্য করেন। যদিও এই বিষয়গুলোর মধ্যে রহস্য লুকিয়ে ছিল কারণ রফিক ছিলেন প্রকৃতপক্ষে একজন মুক্তিযোদ্ধা, যা তাঁর বিভিন্ন কর্মকাণ্ডের মাধ্যমে ফুটে উঠেছে। রফিক মিলিটারির সহযোগী হয়ে গ্রামে মিলিটারিদের নিয়ে আসলেও তিনি বিভিন্ন কৌশল অবলম্বন করে গ্রামে মুক্তিকামী মানুষদের সাহায্য করেন। পাকিস্তানি বাহিনীর নির্মম অত্যাচার থেকে গ্রামের মানুষকে বিভিন্নভাবে রক্ষা করেন। গ্রামের ইমাম ও স্কুল মাস্টারকে যখন মেজর এজাজ গ্রামের মুক্তিবাহিনী সম্পর্কে জিজ্ঞাসাবাদ করে রফিক তখন তাদেরকে গ্রামের অস্থায়ী বাসিন্দা বলে তাদেরকে ছেড়ে দিতে বলেন। গ্রামের বলাই পাকিস্তানি বাহিনীর ভয়ে মন্দিরে আত্মগোপনে থাকে রফিক তা জানা সত্ত্বেও মেজরকে বলেননি। মনার এগারো বছর বয়সি ভাইকে হত্যা করতে বাধা দেন রফিক। রফিক গ্রামের নিজামকে রহস্যময় জঙ্গলার দিকে যেতে দেখে আনন্দিত হন। কিন্তু মেজর এজাজ নিজাম সম্পর্কে রফিককে জিজ্ঞেস করলে তিনি নিজামকে পাগল বলে বিষয়টিকে এড়িয়ে যাওয়ার চেষ্টা করেন। মীর আলিকে বৃদ্ধ বলে মেজরের নিষ্ঠুরতা থেকে রক্ষা করার চেষ্টা করেন। কৈবর্তপাড়ায় পাকিস্তানি বাহিনী তল্লাশি করতে চাইলে রফিক কৌশলে তাতেও বাধা দেন। রফিক চতুরতার সঙ্গে এই বিষয়গুলো মোকাবিলা করেন। এই বিষয়গুলো বিবেচনা করলে রফিককে একজন প্রকৃত মুক্তিযোদ্ধা হিসেবে বিবেচনা করা যায়।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-10-kha",
+     "part_label": "খ",
+     "question_text": "‘রফিক মেজর এজাজের সহযোগী হয়েও মুক্তিযুদ্ধে ব্যাপক অবদান রেখেছেন।’— মন্তব্যটি ‘১৯৭১’ উপন্যাসের আলোকে বিশ্লেষণ করো।",
+     "shikhonfol": [
+      7
+     ]
+    }
+   ],
+   "printed_page": 558,
+   "printed_pages": [
+    558
+   ],
+   "question_number": 10,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-11",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "‘১৯৭১’ উপন্যাসে মেজর এজাজ আহমেদ এবং তাঁর সহযোগী রফিকের সম্পর্ক মুক্তিযুদ্ধের সময়ের জটিল পরিস্থিতি এবং মনস্তাত্ত্বিক টানাপোড়েনকে তুলে ধরে। রফিক ছিলেন একজন মুক্তিযোদ্ধা। রফিকের দেশপ্রেমের কারণে মেজর এজাজ তাঁকে চিনতে পারেনি। উপন্যাসের সবচেয়ে জটিল চরিত্র রফিক। রফিক মেজর এজাজের সহযোগী হিসেবে নীলগঞ্জ গ্রামে আসেন। মেজর এজাজের নির্দেশে গ্রামে স্থানীয় মুক্তিবাহিনী সম্পর্কে জানতে তিনিও কৌতূহলী হয়ে ওঠেন কিন্তু তিনি মেজরের বিভিন্ন পদক্ষেপে বাধা দিতে থাকেন। রফিকের সমালোচনা ও বাধা দেওয়ায় মেজর এজাজের মনে প্রশ্ন জাগিয়ে তোলে। মেজর এজাজ বুঝতে পারে তার সহযোগী একজন মুক্তিবাহিনীর সদস্য। মেজর তাই রফিককে জলাভূমিতে পাঠায় এবং দুইজন মিলিটারিকে নির্দেশ দেয় রফিককে গুলি করার জন্য। রফিক মৃত্যু নিশ্চিত জেনেও রক্তিম সূর্যের মতো জলাভূমিতে দাঁড়িয়ে থাকেন। রফিকের পরিবর্তন মেজরকে দুশ্চিন্তায় ফেলে। তার মনে হয় এ যেন এক অন্য রফিক। এ রফিককে সে আগে কখনো দেখেনি। এ রফিক যেন ১৯৭১ এর মুক্তিযুদ্ধের ধারক ও বাহক। তাই বলা যায়, ১৯৭১ উপন্যাসের রফিক একজন দেশপ্রেমিক ও বিচক্ষণ ব্যক্তিত্ব। তাঁর মুক্তিযোদ্ধা ও গ্রামবাসীদের রক্ষার কৌশল ছিল খুবই বুদ্ধিদীপ্ত, যা ছিল মেজর এজাজের কাছে অপ্রত্যাশিত।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-11-ka",
+     "part_label": "ক",
+     "question_text": "মেজর এজাজ আহমেদ তার সহযোগী রফিককে চিনতে পারল না কেন? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      2,
+      7
+     ]
+    },
+    {
+     "answer_text": "যে উদ্দেশ্য নিয়ে পাকিস্তান সৃষ্টি হয়েছিল, তার সম্ভাবনা শুরুতেই হোঁচট খায় ভাষার প্রশ্নে। এরপর ভাষাগত পার্থক্যের পথ ধরে দেশটির আঞ্চলিক দূরত্ব এগোতে থাকে নানাবিধ বৈষম্যের দিকে। রাজনৈতিক দ্বন্দ্ব, অর্থনৈতিক এককেন্দ্রিকতা, সাংস্কৃতিক বৈচিত্র্য পাকিস্তান রাষ্ট্রকে আরও বিপন্ন করে তোলে। পশ্চিম পাকিস্তানের দৃষ্টিভঙ্গি দিনে দিনে আত্মগরিমায় রূপ নিতে থাকে। বাঙালিদের দেখতে থাকে নীচ হিসেবে। পশ্চিম পাকিস্তানিদের মধ্যে জাতিগত উদাসীনতা মাথাচাড়া দিয়ে ওঠে। নিপীড়িত পূর্বাঞ্চল যখন নিজেদের অস্তিত্ব রক্ষায় ঘুরে দাঁড়াতে যায়, তখন সে টের পায়, তাকে পশ্চিম পাকিস্তানের শোষণ-বৈষম্যের মতোই আরেকটি উপাদান পদানত করে রেখেছে। তার নাম জাতিগত বিদ্বেষ। যার চূড়ান্ত পরিণতি একাত্তরের মুক্তিযুদ্ধ। ‘১৯৭১’ উপন্যাসের লেখক তারই একটি স্বরূপ তুলে ধরেছেন নীলগঞ্জে আগত পাকিস্তানি বাহিনীর মধ্য দিয়ে। ‘১৯৭১’ উপন্যাসে লেখক নীলগঞ্জ নামক একটি সাধারণ গ্রামের মধ্য দিয়ে মুক্তিযুদ্ধকে দেখাতে চেয়েছেন। সেখানে পাকিস্তানি বাহিনীর একটি ক্ষুদ্র দল এসে যুদ্ধের বিভীষিকা ছড়িয়ে দেয়। দলটির অধিনায়ক মেজর এজাজ। লেখক মেজর এজাজকে এখানে উপস্থিত করেছেন পশ্চিম পাকিস্তানের শাসকদের একজন প্রতিনিধি হিসেবে। তাঁর ভাষা, চিন্তা, কর্মকাণ্ডের মধ্য দিয়ে পাকিস্তানি শাসকগোষ্ঠীর সামগ্রিক চেতনার বহিঃপ্রকাশ ঘটিয়েছেন। রফিকের সাথে মেজর এজাজের কথোপকথনে ফুটে ওঠে তাঁর গোষ্ঠীগত চেতনার স্বরূপ। এজাজ এ দেশের মানুষদের ভীরু, কাপুরুষ, বেইমান হিসেবে বিশেষিত করে। এ দেশের মুসলমানরা তাঁর চোখে পুরোপুরি মুসলমান নয়। ধর্মীয় সমতার ধারণা এখানে ভেঙে পড়ে। সে এ অঞ্চলের মুসলমানদের চিহ্নিত করে আধা-হিন্দু হিসেবে। হিন্দুদের প্রতি রয়েছে তাঁর জাতিগত বিদ্বেষ। হিন্দুদের মূর্তি নিয়ে তাঁর মন্তব্যে বারে বারে তা চিহ্নিত হয়। এ অঞ্চলের নারীদের প্রতি তাঁর বিশেষ দৃষ্টিভঙ্গি তীক্ষ্ণভাবে প্রকাশ পায়। উপন্যাসের কাহিনির অগ্রগতির সাথে এ দেশের মানুষকে মানুষ মনে করাই তাঁর জন্য দুরূহ হয়ে ওঠে। এ অঞ্চলের মানুষের মান-সম্মান থাকা তাঁর বিশ্বাসের বাইরে মনে হয়। সে মূলত এ দেশের মানুষদের বিশ্বাসেরই যোগ্য মনে করে না। ইমাম সাহেব, আজিজ মাস্টার, জয়নালের মতো নীলগঞ্জের সবচেয়ে সম্মানিত ব্যক্তিরা তাঁর কাছে ক্রীতদাসে পরিণত হয়। এমনকি তাঁদের সাহায্যে নিবেদিত রাজাকাররা ভালো মুসলমান হিসেবে বিবেচিত হলেও ওঠা-বসা কিংবা মেলামেশার ক্ষেত্রে এ দেশের অধিবাসী হিসেবে নীচ দৃষ্টিভঙ্গির আওতায়ই থেকে যায়। এর সবকিছুর পিছনে যুদ্ধের বাহ্যিক আয়োজনের সাথে কাজ করে পাকিস্তানিদের জাতিগত অহংকার। সবশেষে বলা যায়, ‘১৯৭১’ উপন্যাসের নীলগঞ্জের মধ্য দিয়েই দেখা যায় পুরো পূর্ব পাকিস্তান তথা বাংলাদেশকে। আর মেজর এজাজের চিন্তা ও কর্মকাণ্ডের মধ্য দিয়ে প্রকাশ পায় পশ্চিম পাকিস্তানি শাসকগোষ্ঠীর সামগ্রিক চেতনা। অর্থনৈতিক, রাজনৈতিক, সাংস্কৃতিক বৈষম্যের বাইরে জাতিগত বিদ্বেষের একটি স্বরূপ ফুটে ওঠে উপন্যাসে, এজাজসহ পাকিস্তানের সেনাবাহিনীর কর্মকাণ্ড ও চিন্তার মধ্যে।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-11-kha",
+     "part_label": "খ",
+     "question_text": "পাকিস্তানি শাসনামলে জাতিগত বিদ্বেষের যে চিত্র তুলে ধরা হয়েছে ‘১৯৭১’ উপন্যাসের মধ্য দিয়ে, তার স্বরূপ ব্যাখ্যা করো।",
+     "shikhonfol": [
+      6,
+      2
+     ]
+    }
+   ],
+   "printed_page": 558,
+   "printed_pages": [
+    558,
+    559
+   ],
+   "question_number": 11,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-12",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "আজিজ মাস্টারকে উলঙ্গ করে সারা গ্রাম ঘোরাতে চাইলে তিনি তাতে রাজি হন এবং যেকোনো উপায়ে নিজের প্রাণ বাঁচাতে চান। তখন তাঁর এ কর্মকাণ্ড সম্পর্কে রফিক মেজর এজাজ আহমেদের কাছে উক্ত উক্তিটি করেন। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামে নিরপরাধ সাধারণ মানুষের উপর পাকিস্তানি মিলিটারিদের নির্মম নির্যাতনের চিত্র উপস্থাপন করা হয়েছে। উপন্যাসটিতে আজিজ মাস্টার মেজর এজাজের অমানবিক অত্যাচারের শিকার হন। মেজর এজাজ তাঁকে নানা রকম প্রশ্ন করে, কিন্তু মাস্টার সেগুলোর উত্তর দিতে না পারায় মেজর তাঁকে শাস্তি দেওয়ার সিদ্ধান্ত নেয়। সে আজিজ মাস্টারকে উলঙ্গ করে তাঁর পুরুষাঙ্গে ইট বেঁধে সারা গ্রাম ঘোরাতে বলে। নিরুপায় আজিজ মাস্টার জীবন বাঁচানোর সর্বশেষ উপায় হিসেবে এভাবে অপমানিত হওয়াকে বেছে নেন। আজিজ মাস্টারের এরূপ আচরণে মেজর বিদ্রূপ করে বলে যে, বাঙালিদের কোনো আত্মসম্মানবোধ নেই। তার এ কথায় রফিক অপমানিত বোধ করেন। কারণ তিনি নিজেও একজন বাঙালি। রফিক তখন প্রতিবাদ করে বলেন, মৃত্যুর মুখোমুখি দাঁড়ালে মানুষ যেকোনো কিছু করতে পারে। এসময় কে কী আচরণ করবে তা আগে থেকে বলার কোনো উপায় নেই। মৃত্যুর মুখোমুখি হলে মেজর নিজেও কাপুরুষের মতো আচরণ করতে পারে। এভাবে রফিক মেজরের মুখের উপর অপমানের জবাব দেন। মৃত্যুর ভয়াবহতার কাছে যে আত্মসম্মানবোধ তুচ্ছ, সে বিষয়টি মেজরকে বোঝানোর জন্যই রফিক প্রশ্নোক্ত উক্তিটি করেছেন।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-12-ka",
+     "part_label": "ক",
+     "question_text": "‘মৃত্যু একটি ভয়াবহ ব্যাপার। মৃত্যুর সামনে দাঁড়িয়ে কে কী করবে তা আগে থেকে বলা সম্ভব নয়।’— উক্তিটি কার এবং কোন প্রসঙ্গে করা হয়েছে? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      2,
+      8
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদ (১৯৪৮-২০১২) বাংলা সাহিত্যের একজন অনন্য প্রতিভা। গল্প, উপন্যাস, নাটক ও চলচ্চিত্রে তাঁর অবদান অসাধারণ। তিনি বাংলা সাহিত্যে নতুন ধারার সূচনা করেছেন। মুক্তিযুদ্ধকে ঘিরে তিনি অসংখ্য গল্প এবং উপন্যাস রচনা করেছেন। ‘১৯৭১’ উপন্যাসে তিনি মুক্তিযুদ্ধের ঘটনাগুলো চমৎকারভাবে তুলে ধরেছেন। দেশপ্রেম একটি অদম্য ও অন্তর্নিহিত অনুভূতি, যা সময় ও পরিস্থিতির প্রেক্ষিতে মানুষের আচরণ এবং সিদ্ধান্তে প্রভাব ফেলে। হুমায়ূন আহমেদের ‘১৯৭১’ উপন্যাসের রফিক এমন একজন ব্যক্তিত্বের প্রতিচ্ছবি, যার মধ্যে দেশপ্রেমের চেতনা গভীরভাবে নিহিত ছিল, যা তাঁর কর্মকাণ্ডে ধীরে ধীরে প্রকট হয়ে উঠেছে। রফিক মিলিটারিদের সাথে নীলগঞ্জে আসেন। তাদের সহযোগী হলেও গ্রামের অপরিচিত মানুষদের রক্ষা করতে তিনি ঝুঁকি নেন। তাঁর আত্মার সম্পর্ক তৈরি হয় গ্রামের সাধারণ মানুষের সাথে। গ্রামের বৃদ্ধ মীর আলি যেন তাঁর পরিচিত কেউ। মেজর এজাজ মীর আলিকে সালাম দিয়ে কথা বলতে চাইলে রফিক বাধা দেন। মীর আলি বৃদ্ধ তাই তাঁকে ছেড়ে দিতে বলেন। গ্রামের যুবক বলাইয়ের সাথেও রফিকের সুন্দর সম্পর্ক তৈরি হয়। রফিক বলাইকে কখনো দেখেননি কিন্তু বলাইকে বারবার সচেতন করার জন্য তিনি উদ্বিগ্ন হয়ে ওঠেন। মন্দিরে আত্মগোপনে থাকা বলাইকে মেজরের হাত থেকে রক্ষা করেন। নীলগঞ্জ গ্রামে নিজাম পাগলকে গ্রামের জঙ্গলার দিকে ছুটে যেতে দেখে রফিক খুব আনন্দিত হন। গ্রামের দুইজন অস্থায়ী বাসিন্দা ইমাম সাহেব এবং আজিজ মাস্টারকে মেজর এজাজের অত্যাচার থেকে রক্ষা করার চেষ্টা করেন। তিনি মাস্টার ও ইমাম সাহেবকে কৌশল অবলম্বন করে এজাজের নিষ্ঠুরতার হাত থেকে রক্ষা করার চেষ্টা করেন। মাস্টারের অসম্মান এবং ইমাম সাহেবকে মারধর রফিককে বিচলিত করে তোলে। রফিক পাকিস্তানি বাহিনীকে কৈবর্তপাড়ায় তল্লাশি চালাতে নিষেধ করেন। কৈবর্তরা খুবই নিরীহ তাদের এই পাড়ায় কিছুই নেই, সেখানে গিয়ে কোনো লাভ নেই, এ বিষয়গুলো এজাজকে বলে কৈবর্তপাড়াকে সাময়িকভাবে তিনি রক্ষা করেন। রফিক এজাজের সহযোগী হয়ে নীলগঞ্জ গ্রামে আসলেও এজাজের নিষ্ঠুর কর্মে তিনি মুক্তি দেখিয়ে বাধা দেন। রফিকের মুক্তি শুনে মেজর এজাজ রফিককে সন্দেহ করা শুরু করে। এজাজের সন্দেহ রফিককে আরও বেশি দেশপ্রেমী ও আত্মত্যাগী করে তোলে। মেজর এজাজ রফিককে বিলের পানিতে নামতে বলে পাকিস্তানি মিলিটারিকে গুলি করার নির্দেশ দেয়। মেজর এজাজ তখন দেখতে পায় অন্য এক রফিককে যার মধ্যে ফুটে উঠেছে দেশপ্রেমিকের প্রতিচ্ছবি। রফিক মৃত্যুর কাছে থেকেও দেশের জন্য লড়াই করেছেন। শত্রুর মুখোমুখি দাঁড়ানোর দৃঢ়তা তাঁর দেশপ্রেমের এক উজ্জ্বল উদাহরণ। তাই বলা যায়, হুমায়ূন আহমেদের ‘১৯৭১’ উপন্যাসের রফিক চরিত্র দেশপ্রেমের জীবন্ত উদাহরণ। রফিকের মাধ্যমে প্রমাণিত হয় যে সত্যিকারের দেশপ্রেম কখনোই আড়ালে থাকে না, এটি মানুষের কর্ম ও আদর্শে প্রকাশ পায়। মুক্তিযুদ্ধে স্বতঃস্ফূর্তভাবে দেশের জন্য জীবন উৎসর্গকারীদের অন্যতম দৃষ্টান্ত ‘১৯৭১’ উপন্যাসের রফিক চরিত্র।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-12-kha",
+     "part_label": "খ",
+     "question_text": "‘দেশপ্রেমের চেতনা লুকিয়ে রাখা যায় না, তা প্রকাশ পায়।’— ‘১৯৭১’ উপন্যাসের রফিক চরিত্র সম্পর্কে মন্তব্যটির যথার্থতা ব্যাখ্যা করো।",
+     "shikhonfol": [
+      7
+     ]
+    }
+   ],
+   "printed_page": 559,
+   "printed_pages": [
+    559,
+    560
+   ],
+   "question_number": 12,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-13",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "গ্রামে মিলিটারি আসার পর চিতা বুড়ির সবার আগে কৈবর্তপাড়ায় খবর দেওয়ার কথা মনে হয়। বুড়ির ছেলে খুন হওয়ার পর থেকে সে কৈবর্তপাড়ায় না থাকলেও বিপদের সময় তাঁর নিজ গোত্রের মানুষের কথা মনে পড়েছে। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামে যখন মিলিটারি আসে, তখন মিলিটারিদের দেখে গ্রামের বিভিন্ন মানুষের মনোভাব লেখক সুনিপুণভাবে বর্ণনা করেছেন। সেসময় চিতা বুড়ি নীলু সেনের বাড়ির কালীমন্দিরে বসে কালীমূর্তির সাথে আপন মনে কথা বলছিল। তারপর সে কালীমূর্তিকে জোড়া পাঁঠার আশ্বাস দিয়ে ঘুমাতে যায়। কিন্তু মিলিটারিদের গ্রামে ঢোকার শব্দে বুড়ির ঘুম ভেঙে যায়। বুড়ি ভয় পেয়ে ভাবে হয়তো ডাকাত এসেছে। সে অন্ধকারের মধ্যে দেখে তারা দল বেঁধে যাচ্ছে। সেই সাথে বিভিন্ন জায়গায় টর্চের আলো ফেলতে ফেলতে স্কুলঘরের দিকে আগাচ্ছে। তখন বুড়ি আজিজ মাস্টারকে খবর দেওয়ার কথা ভাবলেও পঙ্কিলতেই ভাবে যে, সবার আগে খবর দেওয়া দরকার কৈবর্তপাড়ায়, কৈবর্তরা বুড়ির ছেলের খুনের বিচার না করায় তাদের উপর বুড়ির ক্ষোভ ছিল। এমনকি তারা বুড়িকে তাদের পাড়ায়ও থাকতে দেয়নি। তবুও বুড়ি সবার আগে নিজ গোত্রের মানুষদের এই আসন্ন বিপদের কথা জানানোর কথা ভাবে। প্রকৃতপক্ষে, মানুষ কখনো তাঁর শিকড় ভুলতে পারে না। এ কারণেই শত রাগ-অভিমান সত্ত্বেও বিপদের সময় চিতা বুড়ির প্রথমে নিজ গোত্রের মানুষের কথা মনে পড়ে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-13-ka",
+     "part_label": "ক",
+     "question_text": "‘বিপদের সময় নিজ গোত্রের মানুষের কথাই প্রথম মনে পড়ে।’— বলতে কী বোঝানো হয়েছে?",
+     "shikhonfol": [
+      3
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদ রচিত ‘১৯৭১’ উপন্যাসে কৈবর্তপাড়ায় মুক্তিবাহিনীর কয়েকজন আহত সৈন্য আশ্রয় নিয়েছিল এমন ধারণায় পাকিস্তানি বাহিনী কৈবর্তপাড়া জ্বালিয়ে দেয়। সেই আগুনের লালচে আভায় দেখা যায় রফিকের দুগ্ধ মুখ। চিতা বুড়ি অবাক হয়ে তাকিয়ে থাকে। অন্যদিকে মীর আলি আগুন দেখতে পেয়ে চিৎকার করে। গ্রামের মানুষ বের হয়ে আসে। লেখক এমন বর্ণনার মধ্য দিয়ে ইঙ্গিতে পুরো বাংলাদেশকেই তুলে ধরেছেন। উপন্যাসে যে আগুন কৈবর্তপাড়ায় জ্বলছে, তার আঁচেই যেন পুড়ছিল বাংলাদেশ। এই আগুনই নীলগঞ্জের মতো বাংলাদেশকে পুড়িয়ে ভস্ম করে তুলেছিল। মেজর এজাজের সম্মুখে সন্ত্রস্ত জয়নাল মিয়া জঙ্গলায় আশ্রয় নেওয়া মুক্তিযোদ্ধাদের সাথে কৈবর্তপাড়ার সম্পৃক্ততার কথা প্রকাশ করে। এমতাবস্থায় মেজর এজাজ কৈবর্তপাড়া জ্বালিয়ে দেওয়ার নির্দেশ দেয়। যদিও কৈবর্তরা তাঁর পুরোই নিরপরাধ অনন্ত সরল মানুষ। কৈবর্তপাড়া যখন জ্বলছিল, লেখকের বর্ণনায় তখন এক নাটকীয়তার উপস্থিতি লক্ষ করা যায়। লেখক কৈবর্তপাড়ার আগুনের মধ্য দিয়ে যেন পুরো বাংলাদেশকে দেখাতে চেয়েছেন। সেই আগুনের আভায় রফিকের দুগ্ধ বস্তুবাদের মাধ্যমে দেখাতে চেয়েছেন নিকটবর্তী প্রতিরোধের সংকেত। মুক্তিযুদ্ধটা ছিল বাংলাদেশ বা তৎকালীন পূর্ব পাকিস্তানের উপর চাপিয়ে দেওয়া এক অন্যায় যুদ্ধ। এ অঞ্চলের সাধারণ মানুষের স্বাভাবিক জীবনযাত্রায় আতঙ্ক নিয়ে আসে পাকিস্তানি হানাদার বাহিনী। তাদের জুলুম, নির্যাতন, হত্যা নিপীড়নের শিকার হয় এ দেশের নিরীহ মানুষ। পাকিস্তানি বাহিনী এ অঞ্চলে যে আগুন জ্বালায়, তার পরিণতি হয় ভয়াবহ। সমগ্র বাংলাদেশকেই তারা যুদ্ধক্ষেত্রে পরিণত করে। বাংলাদেশের সমগ্র মানুষকে করে তোলে প্রতিপক্ষ। বৃহৎ পরিসরের এই ঘটনাকেই লেখক দেখিয়েছেন নীলগঞ্জের প্রতীকে। পুরো বাংলাদেশই যেন হয়ে উঠেছে কৈবর্তপাড়া। নীলগঞ্জে পাকিস্তানি বাহিনীর নির্যাতন, হত্যা ও তাণ্ডবের পর কৈবর্তপাড়া জ্বালিয়ে দেওয়ার ফলস্বরূপ নীলগঞ্জে পাকিস্তানি বাহিনীর সম্ভাব্য প্রতিরোধের মুখোমুখি হওয়ার ইঙ্গিত পাওয়া যায়। রফিক দৃঢ়ভাবে ঘোষণা করেন সেই বার্তা। মেজর এজাজের এ দেশ থেকে জীবিত ফিরে যেতে পারার যে অনিশ্চয়তার ঘোষণা রফিক মৃত্যুর পূর্ব মুহূর্তে দিয়ে যান, সেখানেই লুকিয়ে আছে নীলগঞ্জ তথা বাংলাদেশের প্রতিরোধ যুদ্ধে জড়িয়ে যাওয়ার সংকেত।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-13-kha",
+     "part_label": "খ",
+     "question_text": "‘কৈবর্তপাড়ায় আগুন ছড়িয়ে পড়েছে। মুক্তিযুদ্ধের সময় এ আগুন শুধু কৈবর্তপাড়ায় নয়, সারা বাংলাদেশজুড়ে ছড়িয়েছে।’— কথাটি তোমার নিজের ভাষায় বিশ্লেষণ করো।",
+     "shikhonfol": [
+      4
+     ]
+    }
+   ],
+   "printed_page": 560,
+   "printed_pages": [
+    560
+   ],
+   "question_number": 13,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-14",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "হুমায়ূন আহমেদের ‘১৯৭১’ উপন্যাসের বলাই একজন সাধারণ গ্রাম্য যুবক। সে নীলগঞ্জ গ্রামের নীলু সেনের ভাগিনা। বলাই ও পাকিস্তানি মিলিটারির সহযোগী রফিকের সম্পর্ক ছিল খুবই রহস্যময়। রফিক পাকিস্তানি মিলিটারির সহযোগী হয়েও স্থানীয় বলাইকে পাকিস্তানি মিলিটারির হাত থেকে রক্ষা করেন। বলাইয়ের মামা নীলু সেন পাকিস্তানি মিলিটারির হাতে নিহত হন। মিলিটারি গ্রামে এসেছে বুঝতে পেরেই বলাই বাড়ি থেকে পালিয়ে যায়। রফিক বলাইয়ের বাড়িতে গিয়ে বলাইকে ডাকেন কিন্তু বলাইয়ের কোনো সাড়াশব্দ নেই। বলাই কালীমন্দিরে গিয়ে মূর্তির পিছনে লুকিয়ে থাকে। রফিক জানতেন বলাই মন্দিরে আত্মগোপনে আছে তাই রফিক মেজর এজাজকে মন্দিরে ঢুকতে নিরুৎসাহিত করেন। মেজর এজাজ রফিকের চতুরতা বুঝতে পারে এবং মন্দিরের পিছনে কেউ লুকিয়ে আছে বুঝতে পারে। তাই রফিক বিভিন্নভাবে প্রসঙ্গ পরিবর্তন করার চেষ্টা করেন। তাই বলা যায়, ‘১৯৭১’ উপন্যাসে রফিক এবং বলাইয়ের গভীর সংযোগের প্রতিফলন স্পষ্ট হয়েছে। রফিকের সাহসিকতা এবং দৃঢ়তার কারণে বলাই প্রাণে রক্ষা পায়। তাঁদের সম্পর্ক ছিল সম্মান, বিশ্বাস এবং স্বজাতির প্রতি ভালোবাসায় পূর্ণ। এই সম্পর্ক মুক্তিযুদ্ধের সময় সাধারণ মানুষের পারস্পরিক বন্ধন এবং সহযোগিতার উদাহরণ হিসেবে কাজ করে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-14-ka",
+     "part_label": "ক",
+     "question_text": "বলাই কে? বলাইয়ের সাথে রফিকের সম্পর্ক কেমন ছিল? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      3,
+      5
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদ রচিত মুক্তিযুদ্ধভিত্তিক ‘১৯৭১’ উপন্যাসে মেজর এজাজকে চিত্রিত করা হয়েছে নিপুণ বর্ণনায়। নীলগঞ্জে তাঁর ভূমিকা তাঁর পূর্ণ ব্যক্তিসত্তার প্রকাশ নয়। একটা গোষ্ঠীগত চিন্তা তাঁকে প্রভাবিত করেছে। নীলগঞ্জে তাঁর বাহিনীর কর্তৃত্ব স্থাপন করতে গিয়ে তাঁকে জড়িয়ে যেতে হয় এক অন্যায় যুদ্ধে। একটি দখলদার বাহিনীর প্রতিনিধি এজাজকে ঔপন্যাসিক নির্মোহ দৃষ্টিতে চিত্রিত করেছেন। পেশাগত জীবনে রেশোয়া গ্রামের এক অন্ধ পিতার সন্তান এজাজ, যার মীর আলিকে দেখে পিতার অসহায়ত্ব মনে পড়ে, তাঁর ব্যক্তিসত্তাকে নেতিবাচক দৃষ্টিতে দেখা যায় না। কিন্তু নীলগঞ্জে তাঁর নির্দেশে যখন থেকে ইমাম সাহেব ও আজিজ মাস্টারকে বন্দি করে নির্যাতন করা শুরু হয় তখন থেকে ধীরে ধীরে এজাজের নেতিবাচক দিকগুলো গাঢ় হতে শুরু করে। তাঁর মধ্যে ব্যক্তি এজাজের থেকেও স্পষ্ট হয়ে ওঠে মিলিটারি বাহিনীর নেতা মেজর এজাজের চরিত্র। ইমাম সাহেব, আজিজ মাস্টার, জয়নাল মিয়ার মতো নীলগঞ্জের সম্মানিত ব্যক্তিবর্গ তাঁর শত্রুতার শিকার হন। নীলু সেন, কৈবর্ত বালক বিরুকে অকারণে হত্যা কিংবা মনাকে তাঁর অপরাধের কারণে হত্যা, কোনোটিই তাঁর স্বাভাবিক অবস্থান আর ধরে রাখতে পারে না। তাঁর কর্তৃত্ববাদী অন্যায় কর্মকাণ্ডের মধ্য দিয়ে নীলগঞ্জবাসীর প্রত্যক্ষ শত্রুতে পরিণত হয়। তাঁর জাতিবিদ্বেষ নীলগঞ্জকে এক যুদ্ধক্ষেত্রে পরিণত করেছে। মেজর এজাজকে নিরপেক্ষ দৃষ্টিতে পর্যবেক্ষণ করলে দেখা যায় তাঁর কর্মকাণ্ডে ফুটে উঠেছে পাকিস্তানি শাসকগোষ্ঠীর পূর্ণ প্রতিফলন। যেখানে ব্যক্তি এজাজ গৌণ হয়ে মিলিটারি এজাজ মুখ্য হয়ে নীলগঞ্জকে একটি যুদ্ধের মুখোমুখি ঠেলে দেয়। উপন্যাসে নীলগঞ্জবাসীর যুদ্ধে কোনো সম্পৃক্ততা থাকা না থাকার সম্ভাব্যতা চেয়েও বড়ো হয়ে ওঠে মিলিটারিদের আগ্রাসন, যার পরিণতিতে মেজর কর্তৃক সৃষ্ট একটি অন্যায় যুদ্ধকে মোকাবিলা করতে গিয়ে নীলগঞ্জবাসীকেও জড়িয়ে যেতে হয় মুক্তিযুদ্ধে।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-14-kha",
+     "part_label": "খ",
+     "question_text": "‘এজাজ যতই এগিয়েছে, ততই জড়িয়েছে অন্যায় যুদ্ধে।’— মন্তব্যটি ‘১৯৭১’ উপন্যাসের মেজর এজাজের চিন্তা ও কর্ম বিশ্লেষণের মাধ্যমে মূল্যায়ন করো।",
+     "shikhonfol": [
+      4,
+      6
+     ]
+    }
+   ],
+   "printed_page": 560,
+   "printed_pages": [
+    560,
+    561
+   ],
+   "question_number": 14,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-15",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামের বৃদ্ধ মীর আলি। তিনি শারীরিক অবস্থার কারণে অসহায় হয়ে পড়েন। নীলগঞ্জ গ্রামের বৃদ্ধ মীর আলি। তাঁর বয়স প্রায় সত্তর। তিনি চোখে দেখতে পান না। তাঁর মতে, বুড়ো হওয়ার অনেক যন্ত্রণার সবচেয়ে বড়ো যন্ত্রণা রাত-দুপুরে বাইরে যাওয়া। তিনি তাঁর বড়ো ছেলে এবং ছেলের বউয়ের উপর নির্ভরশীল হয়ে পড়েন। ছেলের বউ মাঝে মাঝে তাঁর উপর বিরক্তবোধ করে। তাঁর তখন মনে হয় অনুফা ভালো না। আবার মাঝে মাঝে তাঁর জন্য মীর আলির মমতা হয়, যখন সে মীর আলির যত্ন করে। নীলগঞ্জ গ্রামে পাকিস্তানি বাহিনীর তাণ্ডব শুরু হলে বৃদ্ধ মীর আলি অসহায় হয়ে পড়েন। তাঁর ছেলে বদিউজ্জামান দোকান থেকে ফিরে আসে না। বৈশাখী ঝড়ের তাণ্ডবে ঘরের টিন উড়ে চলে যায়। অন্যদিকে অনুফা রান্না করা বন্ধ করে দেয়। ক্ষুধার যন্ত্রণা মীর আলি সহ্য করতে পারেন না। তাই তিনি বলেন, যুদ্ধ হলেও মানুষের ক্ষুধা-তৃষ্ণা তো চলে যায়নি। একদিকে অনিশ্চিত জীবন, অন্যদিকে ক্ষুধার যন্ত্রণা যেন পাকিস্তানি হানাদার বাহিনীর অত্যাচারকেও ছাপিয়ে যায়। তাই বলা যায়, মীর আলির অসহায়ত্ব যুদ্ধের ভয়াবহতাকেও ছাপিয়ে যায়।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-15-ka",
+     "part_label": "ক",
+     "question_text": "মীর আলির অসহায়ত্ব কীভাবে যুদ্ধকে ছাপিয়ে যায়? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      3,
+      5,
+      8
+     ]
+    },
+    {
+     "answer_text": "পশ্চিম পাকিস্তানের শাসকগোষ্ঠী এ অঞ্চলটিকে রাজনৈতিক, অর্থনৈতিক ও সাংস্কৃতিকভাবে দমিয়ে রাখতে গিয়ে একটা যুদ্ধ অনিবার্য করে তোলে। যদিও যুদ্ধটা ছিল পশ্চিম শাসকগোষ্ঠী কর্তৃক পূর্বাঞ্চলের উপর চাপিয়ে দেওয়া এক অন্যায় যুদ্ধ। ১৯৭১ সালের মুক্তিযুদ্ধ প্রাথমিকভাবে জনযুদ্ধ বা মুক্তিযুদ্ধ ছিল না। এর প্রথম পর্যায়কে গণহত্যা হিসেবে দেখা যায়। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামের মধ্য দিয়ে এরই একটি প্রতিচ্ছবি ফুটে উঠেছে। ‘১৯৭১’ উপন্যাসের নীলগঞ্জ এক প্রত্যন্ত গ্রাম। গ্রামের পাশের জঙ্গলায় মুক্তিযোদ্ধারা দুজন পাকিস্তানি অফিসার আটক করে নিয়ে লুকিয়ে আছে এমন অভিযোগে পাকিস্তানি বাহিনীর একটি দল সেই গ্রামে আসে। দলটি গ্রামে প্রবেশ করেই প্রথমে ভীতিসঞ্চার করতে চায়। পাকিস্তানি বাহিনীর প্রতি অনুরাগ-বিরাগ কিছুই প্রকাশ পায় না উপন্যাসের শুরুতে। তবে মানুষের মনে সৃষ্ট আতঙ্ককে বিরাগ হিসেবেই ধরা যায়। প্রাথমিক এই বিরাগ নীলগঞ্জের মানুষদের পাকিস্তানি বাহিনীর শত্রু হিসেবে প্রতিষ্ঠা করে না। কিন্তু পাকিস্তানি বাহিনীর কর্মকাণ্ড পুরো নীলগঞ্জকেই তাঁর শত্রু হিসেবে সাব্যস্ত করে। পাকিস্তানি বাহিনী নীলগঞ্জে প্রবেশ করেই স্থানীয় ইমাম এবং মাস্টারকে আটক করে নেয়। এই শ্রেণির মানুষেরা গ্রামে মান্যজন হিসেবেই বিবেচিত হন। তাঁরা ইমাম ও আজিজ মাস্টারের উপর অমানবিক নির্যাতন করে। অকারণেই হত্যা করে নীলু সেনকে। তাঁর ধর্মীয় পরিচয়ই ছিল হত্যার কারণ। কৈবর্ত যুবক মনাকে তাঁর অপরাধের জন্য শাস্তিস্বরূপ মৃত্যুদণ্ড দেওয়ার মাধ্যমে ন্যায়বিচার করেনি বরং ত্রাস সৃষ্টি করে। সফদরউল্লাহর পরিবারের নারীদের ধর্ষণ করে। কৈবর্তপাড়া পুড়িয়ে দেয়। নীলগঞ্জ গ্রামে পাকিস্তানি বাহিনীর এমন সামরিক আগ্রাসনে ফুটে ওঠে পুরো পশ্চিম পাকিস্তানি বাহিনীর আগ্রাসনের এক সাধারণ প্রতিচ্ছবি। তারা রাজনৈতিক ব্যর্থতাকে সামরিকভাবে মোকাবিলা করে। নীলগঞ্জের মতো সাধারণ একটি জনপদে পাকিস্তানি বাহিনী ত্রাস সৃষ্টি করতে গিয়ে সকল নিরীহ মানুষকেই শত্রু হিসেবে গণ্য করে। সেখানে তাদের কর্মকাণ্ড অর্থাৎ অত্যাচার, নির্যাতন, হত্যা পুরো নীলগঞ্জকেই শত্রুতে রূপান্তর করে। এর মধ্য দিয়ে ফুটে ওঠে পুরো পূর্বাঞ্চলের এক সাধারণ চিত্র। সামরিক কায়দায় মোকাবিলা করতে গিয়ে পশ্চিম পাকিস্তানি শাসকগোষ্ঠী নিরীহ মানুষের উপর ত্রাসের রাজত্ব কায়েমের মধ্য দিয়ে ‘১৯৭১’ উপন্যাসের নীলগঞ্জের মতো পুরো ভূখণ্ডকেই শত্রু বানিয়ে ফেলে। মুক্তিযুদ্ধ তখন অনিবার্য হয়ে ওঠে।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-15-kha",
+     "part_label": "খ",
+     "question_text": "পাকিস্তানি বাহিনী রাজনৈতিক অবস্থাকে সামরিক কায়দায় মোকাবিলা করতে গিয়ে একটি নির্দিষ্ট ভূখণ্ডকে কীভাবে শত্রু বানিয়ে ফেলে তা ‘১৯৭১’ উপন্যাসের আলোকে বিশ্লেষণ করো।",
+     "shikhonfol": [
+      2,
+      4
+     ]
+    }
+   ],
+   "printed_page": 561,
+   "printed_pages": [
+    561
+   ],
+   "question_number": 15,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-16",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "মেজর এজাজ পাকিস্তানি বাহিনী সম্পর্কে গ্রামের মানুষের মনে আতঙ্ক সৃষ্টি করার ইচ্ছা স্পষ্ট করার জন্য প্রশ্নোক্ত কথাটি বলে। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামের চিতা বুড়ির ছেলে কৈবর্ত পাড়ায় খুন হয়। চিতা বুড়ি মেজর এজাজকে খুনের বিষয়ে বিচার দেয়। সে চিতা বুড়ির ছেলে হত্যার বিচার করার সুযোগটি সাগ্রহে গ্রহণ করে। প্রথমেই সে কৈবর্তপাড়ার মনা এবং তাঁর ছোটো ভাইকে ধরে নিয়ে আসে। সে খুনের অপরাধ স্বীকার করে নেয়। এরই সূত্র ধরে মেজর এজাজ তাকে গুলি করে হত্যা করার মতো এক নিষ্ঠুর সিদ্ধান্ত নেয়। তাঁর নির্দেশে মনা এবং তাঁর ছোটো ভাইকে বিলের পানিতে দাঁড় করানো হয়। মনার এগারো বছর বয়সি ভাইটির জন্য রফিকের মায়া হয়। রফিক ছোটো ভাইটিকে হত্যা করার বিরোধিতা করেন। এতে মেজর এজাজ আরও অত্যাচারী কণ্ঠে বলে, এ অঞ্চলে সে নিষ্ঠুরতার একটা নমুনা দেখাতে চায়। মেজর এজাজ মনে করে তাঁর নিষ্ঠুরতা গ্রামের মানুষ দেখলে তারা পাকিস্তানি বাহিনীর বিরোধিতা করার সাহস পাবে না। তাই সে গ্রামে নিষ্ঠুরতার একটি নমুনা দেখাতে তৎপর হয়ে পড়ে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-16-ka",
+     "part_label": "ক",
+     "question_text": "‘আমি নিষ্ঠুরতার নমুনা দেখাতে চাই।’— মেজর এজাজ কেন এ কথা বলেছিল? ‘১৯৭১’ উপন্যাসের আলোকে ব্যাখ্যা করো।",
+     "shikhonfol": [
+      4
+     ]
+    },
+    {
+     "answer_text": "বাংলা সাহিত্যের জনপ্রিয় কথাসাহিত্যিক হুমায়ূন আহমেদ। তিনি নান্দনিক লেখনীর মাধ্যমে সমাজের বিভিন্ন শ্রেণি-পেশার মানুষের জীবনবাস্তবতা নিখুঁতভাবে ফুটিয়ে তুলেছেন। ‘১৯৭১’ শীর্ষক উপন্যাসও এর ব্যতিক্রম নয়। এই উপন্যাসে লেখক বিভিন্ন চরিত্র ও ঘটনাপ্রবাহের মাধ্যমে মুক্তিযুদ্ধে নিপীড়িত সাধারণ মানুষের জীবন-যন্ত্রণাকে ফুটিয়ে তুলেছেন। ‘১৯৭১’ উপন্যাসে দেখা যায় নীলগঞ্জ গ্রামের সাধারণ জীবনযাপন করা মানুষেরা বিভিন্নভাবে পাকিস্তানি মিলিটারি বাহিনী দ্বারা নির্যাতন ও নিপীড়নের শিকার হয়। উপন্যাসের প্রথম দিকে দেখানো হয় অন্ধ মীর আলিকে। ছেলের পরিবারে সে খুব সাধারণ জীবনযাপন করত। কিন্তু মিলিটারি আসার পর থেকেই তাঁর জীবনপ্রবাহ হঠাৎ করে বদলে যায়। তাঁর ছেলে বদি মিলিটারির ভয়ে পালিয়ে থাকায় তাঁর খোঁজ পাওয়া যায় না। ছেলের মৃত্যুর আশঙ্কা, গ্রামে বিচরণশীল মিলিটারির তাণ্ডব, ক্ষুধার যন্ত্রণা তাঁর জীবনকে বিপর্যস্ত করে তোলে। নীলগঞ্জের ইমাম সাহেব অন্য অঞ্চল থেকে এসে এখানে ইমামতি করেন। পাকিস্তানিরা আসার পর তাঁকে স্কুলঘরে নিয়ে মুক্তিবাহিনীর তথ্য জানতে আটকে রেখে নির্যাতন করা হয়। তিনি বিপর্যস্ত নির্মম পরিস্থিতির শিকার হন। চোখের সামনে চেনা মানুষদের মৃত্যু তাঁর মাঝে ভীতি সঞ্চার করে। গ্রামের আজিজ মাস্টার সাধারণ একজন প্রাইমারি স্কুল শিক্ষক। অন্য এলাকা থেকে এখানে এসে জীবিকানির্বাহ করে থাকেন। তাঁকেও মিলিটারিরা আটকে রেখে তথ্য বের করতে মানসিক নির্যাতন ও সম্ভ্রমহানি করে। আজিজ মাস্টার এতটাই যন্ত্রণা পেয়েছিলেন যে লজ্জা ও মৃত্যুর মধ্যে তিনি মৃত্যুকে বরণ করেন। উপন্যাসের সফদরউল্লাহ গ্রামের সাধারণ কৃষক। পরিবার নিয়ে সাধারণ জীবনযাপন করছিল। কিন্তু মিলিটারিরা তাঁর স্ত্রী ও শ্যালিকাকে নির্যাতন করলে তাঁর জীবনে অসহনীয় ঝড় ওঠে। সে হাতে দা নিয়ে ঘুরে বেড়ায় শত্রুর সন্ধানে। পরিশেষে বলা যায় যে, ‘১৯৭১’ উপন্যাসের মূল উপজীব্য হলো পাকিস্তানিরা কীভাবে সাধারণ মানুষের উপর অত্যাচার ও নিপীড়ন চালিয়েছিল। পাকিস্তানি সৈন্য ও তাঁর দোসরদের অগ্নিসংযোগ, হত্যা, ধর্ষণ নীলগঞ্জ গ্রামের সাধারণ মানুষদের জনজীবন অতিষ্ঠ করে তুলেছিল।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-16-kha",
+     "part_label": "খ",
+     "question_text": "‘‘১৯৭১’ উপন্যাসের মূল উপজীব্য হলো মুক্তিযুদ্ধে নিপীড়িত সাধারণ মানুষের জীবন-যন্ত্রণা।’— আলোচনা করো।",
+     "shikhonfol": [
+      4,
+      5,
+      9
+     ]
+    }
+   ],
+   "printed_page": 561,
+   "printed_pages": [
+    561,
+    562
+   ],
+   "question_number": 16,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-17",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "মেজর এজাজ নীলগঞ্জ গ্রামের মানুষকে ভয় দেখিয়ে দমিয়ে রাখার প্রসঙ্গে রফিককে প্রশ্নোক্ত উক্তিটি করেছেন। ‘১৯৭১’ উপন্যাসের নিষ্ঠুরতম চরিত্রটি হলো মেজর এজাজ আহমেদ। সে মানুষকে ভয় দেখিয়ে আনন্দ পায়। ভয় দেখানোর মাধ্যমে সে সবাইকে নিজের পায়ের নিচে রাখতে চায়। নিজের একচ্ছত্র আধিপত্য বিস্তারের জন্য সে মনার সাথে সাথে তাঁর ১১ বছর বয়সি নিষ্পাপ ছোটোভাই বিরুকেও হত্যা করে। ভাবে যে, তাঁর এ নিষ্ঠুরতা দেখে গ্রামবাসীরা ভয় পাবে এবং তাঁর সব কথা শুনে চলবে। মেজরের ভাষ্যমতে, এ ঘটনা দেখার পর তারা মিলিটারির নাম শুনলে ভয়ে কাপড় নষ্ট করে দেবে, গর্ভবতী মেয়েদের গর্ভপাত হয়ে যাবে। নৃশংসতা প্রদর্শনের মাধ্যমে সে আজিজ মাস্টার, ইমাম সাহেব ও জয়নাল মিয়ার কাছ থেকে মুক্তিযোদ্ধাদের তথ্য আদায়ের চেষ্টা করে। তাঁর এ কর্মকাণ্ড অমানবিক ও বিকৃত মানসিকতার পরিচয় দেয়। মানুষকে ভয় পাইয়ে দমিয়ে রাখার জন্য যতটা নিচে নামা সম্ভব, মেজর এজাজ ততটাই নিচে নেমেছে। প্রশ্নোক্ত উক্তিটির মাধ্যমে মূলত মেজর এজাজের নিষ্ঠুরতা, বিকৃত মানসিকতা এবং ভয় দেখিয়ে মানুষকে পায়ের নিচে রাখার আকাঙ্ক্ষা বহিঃপ্রকাশ ঘটেছে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-17-ka",
+     "part_label": "ক",
+     "question_text": "‘মানুষকে ভয় পাইয়ে দেওয়ার মানে একটা আলাদা আনন্দ আছে।’— উক্তিটি ব্যাখ্যা করো।",
+     "shikhonfol": [
+      4
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদ (১৯৪৮-২০১২) বাংলাদেশের কিংবদন্তি কথাসাহিত্যিক। তাঁর লেখায় সমকালীন সামাজিক ও রাজনৈতিক বিভিন্ন সমস্যা ও বাস্তবতা অত্যন্ত দক্ষতার সাথে উপস্থাপন করেছেন। যার অন্যতম দৃষ্টান্ত ‘১৯৭১’ উপন্যাস। তিনি এই উপন্যাসে যুদ্ধকালীন মানবিক বিপর্যয়ের সুন্দর উদাহরণ ফুটিয়ে তুলেছেন বৃদ্ধ মীর আলি এবং সফদরউল্লাহর মাধ্যমে। ‘১৯৭১’ উপন্যাসে মুক্তিযুদ্ধের সময় যখন গ্রামে পাকিস্তানি বাহিনী ঢুকে তখন অন্ধ মীর আলি বুঝতে পারেন। গ্রামে যখন পাকিস্তানি বাহিনীর বর্বরতা শুরু হয়, তখন তাঁর কষ্টের তীব্রতা আরও বেড়ে যায়। পাকিস্তানি বাহিনীর আতঙ্কে স্বামী ঘরে না ফেরায় অনুফা রান্না করতে যায় না। ফলে বৃদ্ধ মীর আলি ক্ষুধার যন্ত্রণায় অতিষ্ঠ হয়ে ওঠেন। এমন সময় ঝড় এসে তাদের ঘরের চালা উড়িয়ে নিয়ে যায়, যা তাঁর জীবনকে অনিশ্চয়তার দিকে নিয়ে যায়। গ্রামের চারদিকে যখন পাকিস্তানি বাহিনীর তাণ্ডব শুরু হয়, তাঁর বড়ো ছেলে বাজারে গিয়ে আর ফিরে আসে না— যুদ্ধকালীন এসব বিষয় মীর আলিকে বিপর্যস্ত করে তোলে। ‘১৯৭১’ উপন্যাসের অন্যতম নির্যাতিত চরিত্র সফদরউল্লাহ। মুক্তিযুদ্ধের সময় তাঁর মানসিক পরিবর্তনের দিকটি ছিল উল্লেখযোগ্য। তিনি নীলগঞ্জ গ্রামের বাসিন্দা। গ্রামে পাকিস্তানি বাহিনী প্রবেশ করায় সে আতঙ্কিত হয়ে জয়নাল মিয়ার সাথে আলোচনা করতে যায় যে, তাঁর পরিবারের লোকদের অন্য জায়গায় পাঠিয়ে দেবে কি না। কিন্তু জয়নাল মিয়া তাঁকে আশ্বাস দেয় যে, পাকিস্তানি বাহিনী মুসলমানদের ক্ষতি করে না। এরই মধ্যে ঝড়ের সময় একজন মিলিটারি এবং তিনজন রাজাকার সফদরউল্লাহর চালা ঘরে এসে ওঠে। এসময় বাড়িতে ছিল সফদরউল্লাহর স্ত্রী এবং শ্যালিকা। পাকিস্তানি সুবাদার ও রাজাকাররা তাদের নির্যাতন করে এবং সম্ভ্রমহানি করে। এরপর থেকে সফদরউল্লাহ মানসিকভাবে ভারসাম্য হারিয়ে ফেলে। পাকিস্তানি বাহিনীর পশুসুলভ অত্যাচার তাঁর জীবনে বিপর্যয় নিয়ে আসে। সে দা হাতে নিয়ে রাজাকার এবং পাকিস্তানি বাহিনীকে খুঁজতে থাকে। পরিশেষে বলা যায়, ‘১৯৭১’ উপন্যাসের বৃদ্ধ মীর আলির অনিশ্চিত জীবনযাপন, ক্ষুধার যন্ত্রণা এবং সফদরউল্লাহ পরিবারকে অসম্মান করার মধ্য দিয়ে যে মানবিক বিপর্যয়ের ছবি লেখক তুলে ধরেছেন তা মুক্তিযুদ্ধের সময় পুরো বাংলাদেশের ধারক। তাই বলা যায়, মুক্তিযুদ্ধকালীন মানবিক অত্যাচারের এক অনন্য দৃষ্টান্ত উপন্যাসের এই দুই চরিত্র।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-17-kha",
+     "part_label": "খ",
+     "question_text": "‘১৯৭১’ উপন্যাসের মীর আলি এবং সফদরউল্লাহ যুদ্ধকালীন মানবিক বিপর্যয়ের প্রতীক।’— বক্তব্যটি পর্যালোচনা করো।",
+     "shikhonfol": [
+      5,
+      9
+     ]
+    }
+   ],
+   "printed_page": 562,
+   "printed_pages": [
+    562
+   ],
+   "question_number": 17,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-18",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "নিজেকে ও পরিবারকে পাকিস্তানিদের কবল থেকে রক্ষা করার জন্য জয়নাল মিয়া মেজর এজাজকে মুক্তিবাহিনী সম্পর্কে তথ্য দিয়েছিলেন। ‘১৯৭১’ উপন্যাসে মেজর এজাজ মুক্তিবাহিনী সম্পর্কে খবর নেওয়ার জন্য গ্রামের বিভিন্ন শ্রেণি-পেশার লোকদের স্কুলঘরে ডেকে এনে নির্যাতন ও জেরা করত। সে ইমাম সাহেব ও আজিজ মাস্টারের কাছে মুক্তিবাহিনী সম্পর্কে সঠিক তথ্য না পেয়ে জয়নাল মিয়াকে স্কুলঘরে নিয়ে আসে এবং তাঁর মেয়ের ব্যাপারে কথা বলে। এতেই জয়নাল মিয়া ঘাবড়ে যায়। কারণ এরই মধ্যে সফদরউল্লাহর স্ত্রী ও শ্যালিকাকে রাজাকার ও পাকিস্তানি সৈন্যরা মিলে ধর্ষণ করেছে। এছাড়া আজিজ মাস্টারকেও সে বিবস্ত্র অবস্থায় দেখে ভীত হয়ে পড়ে। পাকিস্তানিদের যাতে নির্যাতিত ও সম্ভ্রমহানি হওয়ায় মাস্টার মৃত্যুকে বেছে নেয়। এসব দেখে একদিকে প্রাণভয়, অন্যদিকে নিজের মেয়ের সম্মান রক্ষার্থে জয়নাল মিয়া দিগভ্রান্ত হয়ে যায়। ফলে নিজেকে ও পরিবারকে রক্ষা করতে জয়নাল মিয়া মুক্তিবাহিনীর তথ্য বলে দেয়।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-18-ka",
+     "part_label": "ক",
+     "question_text": "জয়নাল মিয়া মেজর এজাজকে মুক্তিবাহিনী সম্পর্কে তথ্য দিয়েছিলেন কেন? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      5
+     ]
+    },
+    {
+     "answer_text": "জীবন ও সমাজ সম্পর্কে সূক্ষ্ম দৃষ্টিসম্পন্ন হুমায়ূন আহমেদের (১৯৪৮-২০১২) হাতে মুক্তিযুদ্ধ বিষয়ক বিভিন্ন উপন্যাস রচিত হয়। তার মধ্যে অন্যতম ‘১৯৭১’ উপন্যাস। ছোটো গ্রাম নীলগঞ্জের সহজ সরল জনবসতির উপর মুক্তিযুদ্ধে পাকিস্তান হানাদার বাহিনীর অত্যাচার এবং তার পরিণতি নিপুণভাবে উপস্থাপিত হয়েছে ‘১৯৭১’ উপন্যাসে। ‘১৯৭১’ উপন্যাসে আলোচিত নীলগঞ্জ গ্রামটি প্রত্যন্ত অঞ্চলে অবস্থিত। এই গ্রামে জঙ্গল ও জলাভূমি রয়েছে। এ অঞ্চলের অধিকাংশ মানুষ কৃষিকাজে নিয়োজিত। স্থানীয় একটি বাজারে মোটামুটি নিত্য প্রয়োজনীয় সবকিছুই পাওয়া যায়। এ অঞ্চলে শিক্ষার তেমন প্রসার নেই। একটিমাত্র স্কুল গ্রামে। সেখানে একজন শিক্ষক। সাধারণ নীলগঞ্জ গ্রামটি একসময়ে মুক্তিযুদ্ধের অংশ হয়ে ওঠে। এই অঞ্চলে মুক্তিযোদ্ধারা আশ্রয় নিয়েছে এই সংবাদের উপর ভিত্তি করে পাকিস্তানিরা গ্রামে আসে। গ্রামে এসেই রাজাকারদের সহযোগিতা নিয়ে এ অঞ্চলের মানুষের উপর নির্মম অত্যাচার চালায় পাকিস্তানি বাহিনী। তারা গ্রামের মানুষকে অকারণে হত্যা করে, নারীদের সম্ভ্রমহানি করে এবং অগ্নিকাণ্ড ঘটায়। নীলগঞ্জ গ্রামের এক পাশে কৈবর্তরা বসবাস করে। তারা জলাভূমিতে আত্মগোপনে থাকা মুক্তিযোদ্ধাদের সহযোগিতা করে যুদ্ধে পরোক্ষভাবে অংশগ্রহণ করে। তাই পাকিস্তানি বাহিনী কৈবর্তপাড়ায় গণহত্যা চালায় এবং আগুন দিয়ে জ্বালিয়ে দেয়। কৈবর্তপাড়ার আগুন জ্বলতে থাকে প্রত্যেক মুক্তিকামীদের মনে। কৈবর্তপাড়ার এ ধ্বংসলীলা এ অঞ্চলকে যুদ্ধের অংশ করে তোলে। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামের ঘটনাপ্রবাহ থেকে বোঝা যায় বাংলাদেশের স্বাধীনতা যুদ্ধ গ্রাম-গঞ্জ পর্যন্ত বিস্তৃত হয়েছিল। পাকিস্তানি বাহিনীর অত্যাচার, নির্যাতন, হত্যা, ধর্ষণ, অগ্নিকাণ্ডসহ সমস্ত ব্যাপারই অঞ্চলটিকে যুদ্ধক্ষেত্রে রূপান্তর করে।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-18-kha",
+     "part_label": "খ",
+     "question_text": "নীলগঞ্জের মতো প্রান্তিক একটি গ্রাম কীভাবে মুক্তিযুদ্ধের অংশ হয়ে ওঠে? ‘১৯৭১’ উপন্যাসের আলোকে আলোচনা করো।",
+     "shikhonfol": [
+      7,
+      8,
+      9
+     ]
+    }
+   ],
+   "printed_page": 563,
+   "printed_pages": [
+    563
+   ],
+   "question_number": 18,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-19",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "পরিবারের সব দায়িত্ব পালন, পরিবারের সদস্যদের দেখাশোনা করা এবং অন্ধ বাবার প্রতি বিশেষ যত্ন নেওয়ার মাধ্যমে পরিবারের প্রতি বদিউজ্জামানের মমত্ববোধ প্রকাশ পায়। ‘১৯৭১’ উপন্যাসের নীলগঞ্জ গ্রামের একজন ব্যবসায়ী হলো বদিউজ্জামান। নীলগঞ্জ থেকে সাত মাইল দূরে মধুবন বাজারে তার একটি মনিহারি দোকান আছে। সম্পদশালী না হলেও মোটামুটি স্বচ্ছলভাবে পরিবারকে নিয়ে তাঁর দিন কেটে যায়। বদিউজ্জামানের পরিবারে রয়েছে তাঁর বৃদ্ধ বাবা মীর আলি, স্ত্রী অনুফা এবং তিন বছর বয়সি কন্যা পরিবানু। প্রতিদিন সাত মাইল রাস্তা হেঁটে আসা সত্ত্বেও রাতের বেলা অন্ধ মীর আলির মূত্রত্যাগ করতে বাইরে যাওয়ার প্রয়োজন হলে সে তাঁকে নিয়ে বাইরে যায়। বাবার জন্য চা, গুড় নিয়ে আসে যাতে তাঁর কাশির উপশম হয়। শীতকালে বাবার জন্য নতুন লেপ বানিয়ে দেয়। বদিউজ্জামান স্ত্রী ও কন্যারও যথেষ্ট খেয়াল রাখে। আজেবাজে খরচ না করে সঞ্চিত অর্থ দিয়ে নতুন টিনের ঘর বানায়। বদিউজ্জামানের পরিবারের প্রতি মমত্ববোধের সবচেয়ে বড়ো দৃষ্টান্ত হলো, গ্রামে মিলিটারি আসার পর সে মধুবন বাজারে যাওয়ার জন্য রওনা হলেও মাঝপথে পরিবারের কথা ভেবে আবার নীলগঞ্জ ফিরে যাওয়ার সিদ্ধান্ত নেয়। বিপদে পরিবারের পাশে দাঁড়াতে গিয়ে সে জঙ্গলা মাঠে আটকে পড়ে এবং তাঁর প্রাণ সংশয় দেখা দেয়। বদিউজ্জামান নিরাপদ স্থানে না গিয়ে পরিবারের কাছে ফিরে আসতে গিয়ে মৃত্যুর মুখোমুখি হয়, যা পরিবারের প্রতি তাঁর গভীর মমত্ববোধ ও দায়িত্বশীলতার পরিচয় বহন করে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-19-ka",
+     "part_label": "ক",
+     "question_text": "বদিউজ্জামানের মধ্যে কীভাবে পরিবারের প্রতি মমত্ববোধ প্রকাশ পায়? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      5,
+      8
+     ]
+    },
+    {
+     "answer_text": "‘১৯৭১’ উপন্যাসের অন্যতম গুরুত্বপূর্ণ চরিত্র রফিক। পাকিস্তানি সেনা ও গ্রামবাসীর মধ্যে যোগাযোগের সেতু হিসেবে তাঁর উপস্থিতি লক্ষ করা যায়। তবে নীলগঞ্জের নিপীড়িত মানুষের প্রতি তাঁর পক্ষপাতিত্ব প্রকাশ পেতে থাকে ঘটনার ধারাবাহিকতায়। তাঁর চরিত্রের এমন অবস্থান তাঁকে একদিকে নীলগঞ্জসহ মুক্তিকামী মানুষের প্রতিনিধি করে তোলে, বিপরীতে করে তোলে পাকিস্তানি বাহিনীর বিরাগভাজন। প্রাথমিকভাবে নীলগঞ্জের সাধারণ মানুষের কেউ কেউ রফিককে পাকিস্তানি বাহিনীরই একজন হিসেবে চিহ্নিত করে। ইমাম সাহেব, আজিজ মাস্টার, জয়নাল, মীর আলিসহ সকলেই তাঁকে পাকিস্তানি বাহিনীর মতোই আতঙ্কের চোখে দেখে। গ্রামবাসীর সাথে তাঁর নির্মোহ কথোপকথন এবং পাকিস্তানি বাহিনীর নির্দেশ পালনে সদাপ্রস্তুত ভূমিকাই তাঁকে বাঙালিদের কাছে অপরিচিত করে তোলে। উপন্যাসের অগ্রগতির সাথে সাথে তাঁর চরিত্রের বিস্ময়কর দিকটি উন্মোচিত হতে থাকে। ফলে দেখা যায়, তিনি পাকিস্তানি বাহিনীর সহচর হলেও তাদের কর্মকাণ্ডের প্রতি তাঁর পূর্ণ সমর্থন নেই। তিনি হুকুম পালন করেন অনিচ্ছায়। কখনো কখনো তাদের নির্দেশ না পালনের মতো দুঃসাহসও তাঁর মধ্যে দেখা যায়, যা পাকিস্তানি বাহিনীর অধিনায়ক মেজর এজাজের মধ্যে অস্বস্তি তৈরি করে। রফিকের মধ্যে মানবিক সত্তার প্রকাশ প্রথম দেখা যায় কৈবর্ত সন্তান মনা ও তাঁর ভাই বিরুকে হত্যার সময়। কালীমূর্তির পিছনে লুকিয়ে থাকা বলাইকে রক্ষা করা তাঁর চরিত্রের ইতিবাচক দিকটি ফুটিয়ে তোলে। আজিজ মাস্টারের সম্মান তাঁর নিজের সম্মান হিসেবেই বিবেচিত হয়। মেজর এজাজের বাঙালিদের প্রতি কুরুচিপূর্ণ মন্তব্যের প্রতিবাদ তাঁকে এ দেশেরই একজন করে তোলে। ঝড়ের মধ্যে নিজাম পাগলকে জঙ্গলায় ঢুকতে দেখলে তাঁর মধ্যে চাপা আনন্দ হয়। উপন্যাসটি পরিণতির দিকে এগোতে এগোতে রফিককে নিপীড়িত মানুষের পক্ষের লোক হিসেবেই সাব্যস্ত করে তুলেছে। কৈবর্তপাড়ায় আশ্রয় নেওয়া আহত মুক্তিযোদ্ধাদের রক্ষার জন্য তিনি পাকিস্তানি বাহিনীকে সেখানে তল্লাশি করা থেকে বিরত রাখেন। কাহিনির ধারাবাহিকতায় মেজর এজাজের সাথে তাঁর কথোপকথন আরও দৃঢ় হতে থাকে। একসময় মেজর এজাজের কাছে তাঁর স্বরূপ উন্মোচিত হয়। রফিক তখন আর পাকিস্তানি বাহিনীর সহচর থাকেন না। তিনি তখন নীলগঞ্জসহ সমগ্র মুক্তিকামী মানুষের প্রতিনিধি। ফলে তাঁর নিশ্চিত মৃত্যুও তাঁকে বিচলিত না করিয়ে মেজরের মুখোমুখি দাঁড় করায় এক আত্মবিশ্বাসী রফিক হিসেবে। ফলে উপন্যাসের প্রথম ভাগে দেখা রফিক এবং বিলের পানিতে মৃত্যুর মুখোমুখি দাঁড়ানো রফিক আর এক থাকে না। পাকিস্তানি বাহিনীর সহচর থেকে তিনি তখন মুক্তিকামী মানুষের প্রতিনিধি।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-19-kha",
+     "part_label": "খ",
+     "question_text": "রফিকের পাকিস্তানি বাহিনীর সহচর থেকে মুক্তিকামী মানুষের প্রতিনিধি হয়ে ওঠার প্রক্রিয়াটি ব্যাখ্যা করো।",
+     "shikhonfol": [
+      7,
+      9
+     ]
+    }
+   ],
+   "printed_page": 563,
+   "printed_pages": [
+    563,
+    564
+   ],
+   "question_number": 19,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-20",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "প্রশ্নোক্ত উক্তিটি দ্বারা নীলগঞ্জবাসীর পাকিস্তানি মিলিটারি সম্পর্কে ধর্মভেদে হত্যা করার ভ্রান্ত ধারণাটি প্রস্ফুটিত হয়েছে। আজিজ মাস্টারকে পাকিস্তানি মিলিটারি আটকে রাখার পর তাঁকে এগিয়ে দেওয়া ছদ্ম-সাজসজ্জার গ্রামবাসীর মধ্যে চাপা উদ্বেগ ছড়িয়ে পড়ে। এই সময় যদি তাদের আশ্বস্ত করে যে খাঁটি মুসলমানদের ভয় নেই। সে নান্দাইল রোড থেকে শুনে এসেছে পাকিস্তানিরা চার কলমা ধরে, কাপড় খুলে দেখে সুন্নত আছে কি না। সুন্নত না থাকলে দুম করে গুলি করে মেরে ফেলে। পাকিস্তানি মিলিটারি সম্পর্কে গ্রামবাসীর ধারণা ছিল লোকমুখে শোনা গল্পের মাধ্যমে। তারা বিশ্বাস করত পাকিস্তানিরা যেহেতু মুসলমান তাই তারা অন্য মুসলমানদের ক্ষতি করে না। গায়ে হাত তোলে না, নির্যাতন করে না। যেহেতু মুসলমানদের সুন্নতে খাতনা করা হয়; সেহেতু খাতনা দেখিয়ে নীলগঞ্জ গ্রামের মুসলিমরা জানে বেঁচে যেতে পারবে পাকিস্তানি মিলিটারিদের হাত থেকে। অর্থাৎ, মুসলমান ছাড়া বাকিদের পাকিস্তানি বাহিনী হত্যা করে গ্রামবাসীর এই ধারণা মনে পোষণ করার বিষয়টি প্রশ্নোক্ত উক্তিতে ফুটে উঠেছে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-20-ka",
+     "part_label": "ক",
+     "question_text": "‘সুন্নত না থাকলেই দুম’— কী সম্পর্কে এ কথা বলা হয়েছে বুঝিয়ে লেখো।",
+     "shikhonfol": [
+      5
+     ]
+    },
+    {
+     "answer_text": "বাংলা সাহিত্যের ইতিহাসে হুমায়ূন আহমেদ (১৯৪৮-২০১২) কালজয়ী ব্যক্তিত্ব। তাঁর মুক্তিযুদ্ধ বিষয়ক অন্যতম উপন্যাস ‘১৯৭১’। এই উপন্যাসে তিনি মুক্তিযুদ্ধের মানবিক, সামাজিক এবং রাজনৈতিক দিকগুলো অত্যন্ত সংবেদনশীলভাবে উপস্থাপন করেছেন। উপন্যাসটি সংক্ষিপ্ত হলেও এতে নিহিত রয়েছে গভীর মানবিক দিক, যা মুক্তিযুদ্ধের প্রতারককে কেন্দ্র করে আবর্তিত। যুদ্ধ বলতে বোঝায় দুই বা ততোধিক পক্ষের মধ্যে সংঘটিত একটি সশস্ত্র সংঘর্ষ বা রাজনৈতিক, সামাজিক, অর্থনৈতিক বা ধর্মীয় কারণে হয়ে থাকে। প্রতিদ্বন্দ্বীদের মধ্যে একটি পক্ষ সামরিকভাবে শক্তিশালী হতে পারে এবং অন্যপক্ষ তুলনামূলক দুর্বল হলেও গোপন আক্রমণ বা আধুনিক পদ্ধতি অবলম্বন করে। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামে যুদ্ধের ভিন্ন চিত্র পরিলক্ষিত হয়। নীলগঞ্জ গ্রামের সাধারণ মানুষের উপর একতরফা অত্যাচার করা হয়। প্রত্যন্ত অঞ্চলে নীলগঞ্জ গ্রামের মানুষের জীবন ছিল সহজসরল। পাকিস্তানি বাহিনীর নিষ্ঠুরতা সম্পর্কে তাদের কোনো ধারণা ছিল না। তাই তাদের কোনো ধরনের যুদ্ধ প্রস্তুতিও ছিল না। পাকিস্তানি বাহিনী গ্রামের সাধারণ মানুষের জীবনকে যুদ্ধময় করে তোলে। তারা গ্রামের ইমাম এবং মাস্টারকে বন্দি করে রাখে। গ্রামের জনসাধারণের মনে বিভিন্ন আতঙ্ক সৃষ্টি করে। নারীদের সম্ভ্রমহানি করে এবং মানুষদের হত্যা করে। গ্রামের কৈবর্তপাড়ায় গণহত্যা চালায় এবং সেখানে আগুন জ্বালিয়ে দেয়। পাকিস্তানি বাহিনী এককভাবে এই গ্রামে যুদ্ধ করে। জনসাধারণের মধ্যে তাদেরকে প্রতিরোধ করার মতো কোনো অস্ত্র বা মানসিক প্রস্তুতি ছিল না। তাই এটিকে প্রাথমিকভাবে যুদ্ধের কাহিনি বলা যায়। এখানে অপর পক্ষের যুদ্ধে অংশগ্রহণ অনুপস্থিত ছিল। সাধারণ মানুষ যুদ্ধ সম্পর্কে বোঝার আগেই তাদের জীবন যন্ত্রণাময় হয়ে ওঠে, তারা মানসিকভাবে ভেঙে পড়ে। যুদ্ধে তাদের প্রত্যক্ষ কোনো অবদান ছিল না। তাই বলা যায়, হুমায়ূন আহমেদের ‘১৯৭১’ উপন্যাসটি মুক্তিযুদ্ধের প্রেক্ষাপটে রচিত হলেও এটি মুক্তিযোদ্ধাদের সরাসরি বীরত্বগাঁথা বা যুদ্ধের গল্প নয় বরং এখানে সাধারণ মানুষের জীবনযুদ্ধ, তাদের আবেগ, হতাশা, ভয় এবং আশা উঠে এসেছে। তাই এটি প্রাথমিকভাবে যুদ্ধের কাহিনি, মুক্তিযুদ্ধের নয়।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-20-kha",
+     "part_label": "খ",
+     "question_text": "‘এটি প্রাথমিকভাবে যুদ্ধের কাহিনি, মুক্তিযুদ্ধের নয়।’— মন্তব্যটির যৌক্তিকতা ‘১৯৭১’ উপন্যাসের আলোকে উপস্থাপন করো।",
+     "shikhonfol": [
+      8
+     ]
+    }
+   ],
+   "printed_page": 564,
+   "printed_pages": [
+    564
+   ],
+   "question_number": 20,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-21",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "কৈবর্তপাড়ায় ৬-৭ জন আহত মুক্তিযোদ্ধা লুকিয়ে ছিল বলে রফিক মিলিটারিদের কৈবর্তপাড়ায় তল্লাশি করা থেকে নিবৃত্ত করেছিলেন। ‘১৯৭১’ উপন্যাসের সবচেয়ে জটিল চরিত্র হলো রফিক। তাঁর কর্মকাণ্ড দেখে কখনো মনে হয় তিনি মিলিটারিদের সহযোগী, আবার কখনো মনে হয় তিনি মুক্তিযোদ্ধাদের সমর্থনকারী। তিনি মেজর এজাজের সাথে গ্রামের বিভিন্ন স্থানে ঘুরে বেড়ান, নানা রকম খবর সরবরাহ করেন, আবার উল্টো দিকে তিনি মেজরের শাস্তি থেকে ইমাম সাহেব, আজিজ মাস্টার, বিবু, বলাই প্রমুখকে বাঁচানোর চেষ্টা করেন। মেজর যখন কৈবর্তপাড়ায় তল্লাশি করতে চায়, তখন রফিক তাঁকে বাধা দেন। আশ্বস্ত করেন যে, সেখানে কোনো মুক্তিযোদ্ধা নেই। কিন্তু তাঁর গতিবিধি দেখে বোঝা যায় যে, কৈবর্তপাড়ায় আহত মুক্তিযোদ্ধাদের লুকিয়ে থাকার বিষয়টি সম্পর্কে তিনি অবগত ছিলেন। এক্ষেত্রে হুমায়ূন আহমেদ তাঁর উপন্যাসে বিষয়টি স্পষ্ট করেননি। কিন্তু তাঁর চিত্রায়ণ রচনাশৈলীর মাধ্যমে উপলব্ধি করতে বাধ্য করেছেন যে, রফিক আসলে কৈবর্তপাড়ায় মুক্তিযোদ্ধাদের আশ্রয় নেওয়ার সংবাদটি জানতেন। তাদেরকে পাকিস্তানি মিলিটারির কবল থেকে রক্ষা করার জন্যই তিনি মেজর এজাজকে সেখানে তল্লাশি করতে বাধা দিয়েছিলেন। রফিক বাইরে থেকে মিলিটারিদের সহযোগিতার কাজ করলেও মনে মনে তিনি মুক্তিযুদ্ধ এবং বাংলাদেশের স্বাধীনতার পক্ষের লোক ছিল। তাই আহত মুক্তিযোদ্ধাদের বাঁচানোর জন্য তিনি মিলিটারিদের কৈবর্তপাড়ায় তল্লাশি করা থেকে নিবৃত্ত করেছিলেন।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-21-ka",
+     "part_label": "ক",
+     "question_text": "রফিক কেন মিলিটারিদের কৈবর্তপাড়ায় তল্লাশি করা থেকে নিবৃত্ত করেছিলেন?",
+     "shikhonfol": [
+      7
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদ রচিত মুক্তিযুদ্ধভিত্তিক ‘১৯৭১’ উপন্যাসের কৈবর্তপাড়ার মানুষেরা আহত মুক্তিযোদ্ধাদের আশ্রয় দিয়েছিল। জঙ্গলায় লুকিয়ে থাকা সেসব মুক্তিযোদ্ধাদের কাছে তারা খাবার সরবরাহ করত। ফলে মিলিটারিরা কৈবর্তপাড়া জ্বালিয়ে দেয়। মুক্তিযুদ্ধে তাদের এমন সহযোগী ভূমিকা ও আত্মত্যাগের কারণে তাদের মুক্তিকামী মানুষের প্রতিনিধি বলা যায়। ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামের এক প্রান্তে বসবাস করে কৈবর্ত বা জেলে সম্প্রদায়ের লোক। তাদের জীবনধারা নীলগঞ্জের সাধারণ অধিবাসীদের থেকে স্বতন্ত্র। তারা বছরের উল্লেখযোগ্য একটা সময় জলমহালে মাছ ধরে কাটায়। তাদের মধ্যে গোত্রীয় ঐক্য দৃঢ়। তাদের চরিত্রের মধ্যে রয়েছে সহজাত বেপরোয়া ভাব। তাদের আগে-পিছে কিছুতেই নীলগঞ্জবাসীর আগ্রহ দেখা যায় না। উপন্যাসে দেখা যায়, নীলগঞ্জের পাশের জঙ্গলায় মুক্তিবাহিনী লুকিয়ে আছে এমন ধারণা নিয়ে গ্রামে মিলিটারি আসে। মিলিটারির অত্যাচারের বিভীষিকায় জয়নাল মিয়া স্বীকার করেন মুক্তিবাহিনীর কথা। জয়নাল মিয়ার ভাষ্যমতে মুক্তিযোদ্ধারা গ্রামের পাশের জঙ্গলায় আশ্রয় নেয়। কৈবর্তরা জঙ্গলায় মুক্তিযোদ্ধাদের খাবারসহ অন্যান্য প্রয়োজনীয় সামগ্রী সরবরাহ করে। আহত মুক্তিযোদ্ধাদের আশ্রয় দেয় তাদের পাড়ায়। নীলগঞ্জের পাশের জঙ্গলায় আশ্রয় নেওয়া মুক্তিযোদ্ধাদের সহযোগিতা করা এবং আহতদের নিজেদের পাড়ায় আশ্রয় দেওয়ার মধ্য দিয়ে কৈবর্তরা মুক্তিযুদ্ধের অংশ হয়ে ওঠে। গ্রামের মানুষের সাথে তাদের সংযোগ কম থাকলেও মুক্তিযোদ্ধারা তাদের কাছেই সাহায্য পান। তাদের সন্তানরা শহিদ হন পাকিস্তানি বাহিনীর বর্বরতায়। মুক্তিযোদ্ধাদের সাথে সংযোগের কারণে তাদের গৃহহারা হতে হয়। তাদের সমস্ত পাড়া জ্বালিয়ে দেয় হানাদার বাহিনী। এভাবে তাদের অবদান ও আত্মত্যাগের মধ্য দিয়ে ফুটে ওঠে মুক্তিকামী মানুষের প্রতিচ্ছবি।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-21-kha",
+     "part_label": "খ",
+     "question_text": "‘কৈবর্তরা আসলে মুক্তিযুদ্ধকালীন মুক্তিকামী মানুষের প্রতিচ্ছবি।’— ‘১৯৭১’ উপন্যাসের আলোকে ব্যাখ্যা করো।",
+     "shikhonfol": [
+      8,
+      9
+     ]
+    }
+   ],
+   "printed_page": 564,
+   "printed_pages": [
+    564,
+    565
+   ],
+   "question_number": 21,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  },
+  {
+   "book": "Bangla 1st Paper",
+   "class": 10,
+   "guide": "Panjeree 2026",
+   "id": "ban1-uponnas-1971-descriptive-22",
+   "lesson_author": "হুমায়ূন আহমেদ",
+   "lesson_pages": "544-566",
+   "lesson_title": "১৯৭১",
+   "marks": 10,
+   "parts": [
+    {
+     "answer_text": "মেজর এজাজ তাঁর সহচর রফিকের কথা শোনার পর তাঁর কপালে বিন্দু বিন্দু ঘাম জমতে লাগল। মেজর এজাজ নীলগঞ্জ গ্রামে আসার সময় পথঘাট চেনা ও বাঙালিদের সাথে যোগাযোগ করার সুবিধার্থে রফিককে সাথে নিয়ে নীলগঞ্জ গ্রামে আসে। এখানে এসে মেজর এজাজ নিরপরাধ মানুষকে নির্যাতন শুরু করে, যাতে কৌশলে বাধা দেন রফিক। পরবর্তীকালে রফিকের বিভিন্ন কর্মকাণ্ডে মেজর এজাজের মনে হয় রফিক মুক্তিবাহিনীর সাথে জড়িত; কৈবর্তপাড়া থেকে মুক্তিযোদ্ধাদের সরে যাওয়ার সুযোগ করে দেওয়া এবং খবর পৌঁছে দেওয়ার পিছনে রফিকের ভূমিকা আছে। তাই মেজর এজাজ সিদ্ধান্ত নেয় রফিককে হত্যা করার। হত্যার পূর্ব মুহূর্তে রফিক তীক্ষ্ণস্বরে মেজর এজাজকে সতর্ক করে দেন যে, তাঁর কর্মকাণ্ডের কারণে সে জীবিত অবস্থায় এই ভূখণ্ড থেকে ফিরে যেতে পারবে না। তাই রফিকের কথায় নিজের ভবিষ্যৎ পরিস্থিতি অনুমান করে মেজর এজাজের কপালে বিন্দু বিন্দু ঘাম জমে।",
+     "essence": null,
+     "level": null,
+     "marks": 3,
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-descriptive-22-ka",
+     "part_label": "ক",
+     "question_text": "মেজর এজাজের কপালে বিন্দু বিন্দু ঘাম জমতে লাগল কেন? ব্যাখ্যা করো।",
+     "shikhonfol": [
+      9
+     ]
+    },
+    {
+     "answer_text": "হুমায়ূন আহমেদ (১৯৪৮-২০১২) বাংলা সাহিত্যের ইতিহাসে এক বিস্ময়কর প্রতিভা। তাঁর নিপুণ জীবনাভিজ্ঞতা, রাজনীতি সচেতনতা ও মনস্তত্ত্ব ফুটে উঠেছে ‘১৯৭১’ উপন্যাসে। তিনি উপন্যাসে উল্লিখিত গ্রামের দুইজন অস্থায়ী বাসিন্দার মাধ্যমে মুক্তিযুদ্ধের এক বিচিত্র দিক তুলে ধরেছেন, যেখানে সাহস, ত্যাগ এবং মানবতা জীবন্ত হয়ে উঠেছে। ‘১৯৭১’ উপন্যাসে আলোচিত নীলগঞ্জ গ্রামের দুইজন অস্থায়ী বাসিন্দা হলেন মসজিদের ইমাম সাহেব এবং স্কুলের মাস্টার আজিজ রহমান মল্লিক। ইমাম সাহেব নীলগঞ্জ গ্রামের মসজিদের ইমাম। ‘১৯৭১’ উপন্যাসে তিনি ধর্মীয় মূল্যবোধের প্রতীক। নীলগঞ্জ গ্রামে পাকিস্তানি সেনাবাহিনী ঢুকলে ইমাম সাহেব নিজেকে এক অদ্ভুত দ্বিধার মধ্যে আবিষ্কার করেন। তিনি কেন এই প্রত্যন্ত অঞ্চলে ইমামতি করতে এসেছেন তা ছিল রহস্যময়। তিনি মসজিদেই থাকতেন। বাসিন্দাদের গ্রামের বাড়িতে তাঁর খাওয়ার ব্যবস্থা হয়। তিনি এই গ্রামে বিয়ে করে স্থায়ীভাবে থাকার ইচ্ছা প্রকাশ করেন। নীলগঞ্জ গ্রামে অন্য আর একজন অস্থায়ী বাসিন্দা আজিজ রহমান মল্লিক। তাঁর বয়স আটত্রিশ। তিনি ছিলেন এই গ্রামের স্কুলের একমাত্র শিক্ষক। তাঁর নানা রকম অসুখবিসুখ ছিল। শীতকালে তাঁর হাঁপানি বেড়ে যায়, গরম কালে কিছুটা ভালো থাকেন। আজিজ মাস্টার একজন কবি। গ্রামের ধনী ব্যক্তি জয়নাল মিয়ার বড়ো মেয়েকে দেখলে তাঁর অনুরকম আবেগের সৃষ্টি হয়। তিনি ‘মালা রানী’ নামে একটি দীর্ঘ কবিতা রচনা করেন। ‘১৯৭১’ উপন্যাসের নীলগঞ্জ গ্রামে হঠাৎ একদিন পাকিস্তানি বাহিনী আসে মুক্তিকামী মানুষের খোঁজে। পাকিস্তানি বাহিনী গ্রামে এসে গ্রামের স্কুলে ক্যাম্প স্থাপন করে। এরপর থেকে সহজসরল গ্রামের মানুষ পাকিস্তানি বাহিনীর নির্মম অত্যাচারের শিকার হয়। তাদের মধ্যে অন্যতম হলেন ইমাম সাহেব এবং আজিজ মাস্টার। পাকিস্তানিরা ইমাম সাহেবকে স্কুলে ডেকে পাঠায়। তিনি ভয়ে দোয়াদরুদ পড়তে থাকেন। তাঁর কাছ থেকে মেজর এজাজ এলাকার বিভিন্ন তথ্য জানতে চায়। তিনি কোনো উত্তর দিতে পারেননি। তাই মেজর এজাজ রেগে তাঁকে স্কুলের কক্ষে বন্দি করে রাখে এবং মারধর করে। এভাবে ইমাম সাহেবের সাধারণ জীবন যুদ্ধময় হয়ে ওঠে। নীলগঞ্জ গ্রামে পাকিস্তানি বাহিনী আসার আগে আজিজ মাস্টারের জীবন ছিল প্রেমময়। পাকিস্তানি বাহিনীর আগমনে তাঁর জীবন যন্ত্রণাদগ্ধ হয়। মেজর এজাজ স্কুলে এসে স্কুলের দারোয়ানকে দিয়ে তাঁকে ডেকে নিয়ে আসে। সে মাস্টারকে গ্রামের মুক্তিবাহিনী এবং হিন্দুদের সংখ্যা সম্পর্কে জিজ্ঞাসা করে। পাকিস্তানের জাতিসত্তা সম্পর্কে তাঁর ভাবনা জানতে চায়। মাস্টার তাঁকে কোনো তথ্য দিতে ব্যর্থ হলে সে তাঁকে স্কুলের একটি কক্ষে বন্দি করে রাখে। মেজর এজাজের বর্বরতার শিকার হন তিনি। সে মাস্টারের সম্ভ্রমহানি করে, তাঁকে বিবস্ত্র করে। পাকিস্তানি বাহিনীর নির্মমতার শিকার হয়ে তিনি মৃত্যুকে বেছে নেন। তাই বলা যায়, ‘১৯৭১’ উপন্যাসে নীলগঞ্জ গ্রামের দুইজন অস্থায়ী ব্যক্তি জীবন সহজসরল থাকলেও মুক্তিযুদ্ধে তাদের জীবন হয়ে ওঠে দুর্বিষহ। মেজর এজাজ এই দুইজন ব্যক্তিকে নির্যাতন করে গ্রামে নিষ্ঠুরতার নমুনা আঁকেন। তারাই যেন হয়ে ওঠেন বিধ্বস্ত যুদ্ধক্ষেত্র।",
+     "essence": null,
+     "level": null,
+     "marks": 7,
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-descriptive-22-kha",
+     "part_label": "খ",
+     "question_text": "‘১৯৭১’ উপন্যাসে প্রতিফলিত নীলগঞ্জের দুইজন অস্থায়ী বাসিন্দা কারা? মুক্তিযুদ্ধে তাদের সম্পৃক্ততা বর্ণনা করো।",
+     "shikhonfol": [
+      3
+     ]
+    }
+   ],
+   "printed_page": 565,
+   "printed_pages": [
+    565
+   ],
+   "question_number": 22,
+   "section": "uponnas",
+   "section_tag": "descriptive",
+   "source_kind": "master-trainer",
+   "subsection": "descriptive",
+   "verified": true,
+   "verified_by": "native-eye"
+  }
+ ],
+ "sets": [],
+ "chunks": [
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    544
+   ],
+   "source_part": "summary",
+   "text": "‘১৯৭১’ উপন্যাসটিতে উনিশশো একাত্তর সালের মুক্তিযুদ্ধে বাঙালিদের যে নির্মমতা ও পাশবিকতার শিকার হতে হয়েছিল তার স্বরূপ তুলে ধরা হয়েছে। উপন্যাসটিতে একদিকে পাকিস্তানি, অত্যাচারী ও নির্মম চরিত্র মেজর এজাজের মাধ্যমে যুদ্ধের পাশবিকতার দিকটি প্রস্ফুটিত হয়েছে, অন্যদিকে মাস্টার আজিজ, ইমাম সাহেব, নীলু সেন, মনা, সফদরউল্লাহ প্রমুখ ব্যক্তিত্ব দ্বারা নিপীড়িত ও নিরপরাধ, নির্যাতিত বাঙালির প্রতিচ্ছবি ফুটে উঠেছে। উপন্যাসটিতে মূলত মুক্তিযুদ্ধকালীন পূর্ব পাকিস্তানের বিধ্বস্ত ও জ্বলন্ত বাস্তবতা ফুটিয়ে তোলা হয়েছে। সাধারণ নিরপরাধ মানুষের অত্যাচারিত হওয়ার চরম বাস্তবতা রূপায়ণ করাই ছিল উপন্যাসিকের মৌল উদ্দেশ্য। রক্তাক্ত ইতিহাসের নমুনা উপস্থাপনই ছিল ঔপন্যাসিকের লক্ষ্য। ১৯৭১ সালের যুদ্ধজনিত কারণে অবরুদ্ধ জীবন, প্রাকৃতিক দুর্যোগ, সাধারণ মানুষকে বন্দি করে নির্যাতন, ধর্ষণ, আগ্নেয়াস্ত্রের রাজত্ব কায়েম, নির্বিচারে হত্যা, জাতিগত বিদ্বেষ ইত্যাদি বিষয় উপন্যাসটিতে সার্থকভাবে প্রস্ফুটিত হয়েছে।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    545
+   ],
+   "source_part": "supporting",
+   "text": "সহায়ক তথ্যকণিকা — হুমায়ূন আহমেদের বিশেষত্ব: বাংলাদেশের গ্রামীণ ও নাগরিক জীবনের সাথে হুমায়ূন আহমেদের অন্তরঙ্গ পরিচয় ছিল। বিশ শতকের সত্তর ও আশির দশকের নাগরিক মধ্যবিত্ত জীবনের চিত্র অঙ্কনে তিনি যে নৈপুণ্য দেখিয়েছেন, তাঁর তুলনা বিরল। তাঁর সামান্য সিদ্ধি এসেছে মূলত ছোটো আকারের উপন্যাসে বা নভেলায়। হুমায়ূন আহমেদের শিল্পকর্ম মনে রাখার কৌশল: চলচ্চিত্র: 'ঘেঁটুপুত্র কমলা এক শ্রাবণ মেঘের দিনে শঙ্খনীল কারাগারের শ্যামল ছায়ায় বসে আগুনের পরশমণি পেয়েছিল।' উপন্যাস: 'প্রিয়তমেষু, আমি তোমার অয়োময়। আজ নন্দিত নরকে বসে নীল অপরাজিতার জয়জয়ন্তীতে আমি এলোমেলো (এলেবেলে) ভাবছি।'"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    545
+   ],
+   "source_part": "supporting",
+   "text": "উপন্যাসের ঘটনা ও বিষয়বস্তুর খুঁটিনাটি: মিলিটারি গ্রামে প্রবেশ করে ভোরবেলা। মিলিটারিদের গ্রামে প্রথম প্রবেশ করতে দেখেন নীলগঞ্জ গ্রামের ইমাম সাহেব। মিলিটারিরা নীলগঞ্জ গ্রামে প্রবেশ করে গ্রামের প্রাইমারি স্কুলে অবস্থান করে। এখানে তারা আসে মুক্তিযোদ্ধাদের সম্পর্কে তথ্য জানতে ও বন্দি মেজর বখতিয়ারকে উদ্ধার করতে। আজিজ মাস্টার নীলগঞ্জ প্রাইমারি স্কুলের শিক্ষক। তিনগাঁও থেকে এখানে এসে শিক্ষকতা করেন। শিক্ষকতার পাশাপাশি তিনি জয়নাল মিয়ার বড়ো মেয়ে মালাকে নিয়ে কবিতা লিখতেন। এই গ্রামের সবচেয়ে বেশি শিক্ষিত আজিজ মাস্টার। মুক্তিবাহিনীর তথ্য নিতে পাকিস্তানি মিলিটারিরা স্কুলঘরে ডাকে — আজিজ মাস্টার, ইমাম ও জয়নাল মিয়াকে। পাকিস্তানি সেনাবাহিনীর মেজর — এজাজ আহমেদ। তাঁর নেতৃত্বে নীলগঞ্জে বিভিন্ন মানুষকে হত্যা, নির্যাতন ও বাড়িঘরে আগুন দেওয়া হয়। তিনি জাতিগতভাবে বাঙালিদের ঘৃণা করতেন। পাকিস্তানি মিলিটারিরা হত্যা করে — মনা ও তার ভাই বিবু, নীলু সেন, আজিজ মাস্টার ও রফিককে। রফিক প্রথমদিকে পাকিস্তানি বাহিনীর সহচর হলেও পরে অসীম সাহস ও মানবিক গুণাবলির আদর্শ চরিত্র হয়ে ওঠেন। মুক্তিযোদ্ধাদের সরে যাওয়ার সুযোগ করে দেওয়া, বিবু-নিজামকে মারতে বাধা দেওয়া, বলাইকে বাঁচানো, আজিজ মাস্টারকে সম্মানহানি থেকে বাঁচাতে চাওয়ায় তাঁর জটিল চরিত্রের প্রকাশ ঘটে। পরবর্তীকালে শেষে নিজের মৃত্যুকে আলিঙ্গন ও মেজর এজাজকে সতর্ক করার মধ্য দিয়ে এই ভূখণ্ডের মুক্তির প্রতিনিধি হয়ে ওঠেন। স্ত্রী ও শ্যালিকার সম্মানহানি ঘটেছে — সফদরউল্লাহর। তিনজন রাজাকার ও পাকিস্তানি সুবেদারকে হত্যা করতে সফদরউল্লাহ দা হাতে ঘুরে বেড়ায়। উপন্যাসে অন্যান্য চরিত্রগুলো খুব বড়ো ভূমিকা না থাকলেও এরা উপন্যাসের কাহিনি গড়ে তুলতে সাহায্য করেছে। চরিত্রগুলো হলো — মীর আলি, অনুফা, বদিউজ্জামান, মতি মিয়া, বলাই, নীলু সেন, নিজাম, ইমাম প্রভৃতি।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    545
+   ],
+   "source_part": "supporting",
+   "text": "কঠিন শব্দের অর্থ ও ব্যাখ্যা। ক. পাঠ্যবইয়ের শব্দার্থ ও টীকা [পাঠ্যবই পৃষ্ঠা ৫৭–৫৮ দেখো]। খ. পাঠ সহায়ক আরও কিছু শব্দার্থ: অধিনায়ক — নেতা, সেনাপতি। মাইল — দূরত্ব বা দৈর্ঘ্যের একক বিশেষ, ১৭৬০ গজ। গৃহপ্রবেশ — নবনির্মিত গৃহে প্রথম প্রবেশকালে পালনীয় আচার-অনুষ্ঠান। দুর্গম — যাওয়া কষ্টসাধ্য এমন। দুর্দিন — দুঃসময়, বিপদের দিন। হতদরিদ্র — অতি দরিদ্র, দুর্দশাগ্রস্ত। ক্ষণ — অতি অল্পকাল। জুম্মাঘর — যে মসজিদে শুক্রবারের জুম্মার নামাজ ও খুতবা পাঠ করা হয়। অনিদ্রা — নিদ্রাহীনতা, ঘুমের অভাব। শ্রান্তি — পরিশ্রমজাত ক্লান্তি, বিশ্রাম। বন্দ — দৈর্ঘ্য-প্রস্থের সমষ্টির পরিমাণ, অংশ। রবিশস্য — রবিখন্দ, শীতকালীন ফসল। লেশমাত্র — একটুও, নামমাত্র। ফ্যালফ্যাল — অসহায় চাহনির ভাব। নির্বিরোধী — বিবাদশূন্য।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    546
+   ],
+   "source_part": "supporting",
+   "text": "বানান সতর্কতা। পাঠ্য উপন্যাসের বানান সতর্কতা: বর্ণহীন, জলচৌকি, কৈবর্ত, অরণ্য, ধারণা, গোত্র, সন্ন্যাসী, কৌতূহলী, মৃত্যু, লজ্জা, বর্ণহীন [ছাপায় দুইবার], ওয়াক্ত, অস্থির, স্পষ্ট, বিস্তীর্ণ, রেজিমেন্ট, নীলগঞ্জ, ভূষণা। পাঠ সহায়ক বানান সতর্কতা: যন্ত্রণা, তীক্ষ্ণ, শ্মশ্রু, ক্ষুধা-প্রতীক্ষা, ব্যাটারি, কাঁটাতার, অত্যাজ, উপদ্রব, ভুলুন্ঠন, সালিশ, ধীমাংসা, অত্যাজ [তালিকায় দুইবার ছাপা অনুযায়ী], মহিমা, আশ্বাস, গোত্র, সর্পভ্রম, মুদ্রস্বরে, ঝাঁকুনি, ঝাঁজালো, ইদানীং, ক্লান্তি, ফ্যালফ্যাল, বিরাম, নির্বিরোধী, হতভম্ব, স্মৃতিশক্তি, স্বতঃস্ফূর্তভাবে, সাড়ম্বরে, অভিভূত, ভেঁতুল, নৃশংসতা, নিস্পৃহ, ঘৃণা, উৎফুল্ল, ভুঁকো, শান্তস্বরে, কাশিম, পিঁড়ি, মিলিটারি।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    546
+   ],
+   "source_part": "supporting",
+   "text": "লেখক-সম্পর্কিত তথ্য: জন্ম — হুমায়ূন আহমেদ ১৯৪৮ সালের ১৩ই নভেম্বর, নেত্রকোনা জেলার মোহনগঞ্জে জন্মগ্রহণ করেন। পিতা-মাতা — তাঁর বাবা ফয়জার রহমান আহমেদ এবং মায়ের নাম আয়েশা ফয়েজ। শিক্ষা ও পেশা — ১৯৬৫ সালে বগুড়া জিলা স্কুল থেকে মাধ্যমিক এবং ১৯৬৭ সালে ঢাকা কলেজ থেকে উচ্চ মাধ্যমিক পাশ করেন। এরপর ১৯৭০ সালে ঢাকা বিশ্ববিদ্যালয় থেকে রসায়ন বিভাগ থেকে বিএসসি (অনার্স) এবং ১৯৭২ সালে এমএসসি ডিগ্রি অর্জন করেন। এছাড়াও যুক্তরাষ্ট্রের নর্থ ডেকোটা স্টেট ইউনিভার্সিটি থেকে তিনি পিএইচডি ডিগ্রি অর্জন করেন। তাঁর কর্মজীবন শুরু হয়েছিল বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ে। ১৯৭৩ সাল থেকে তিনি ঢাকা বিশ্ববিদ্যালয়ের রসায়ন বিভাগে শিক্ষকতা শুরু করেন। কিন্তু সাহিত্যচর্চার জন্য তিনি ১৯৯৬ সালে অধ্যাপনা থেকে স্বেচ্ছায় অবসর গ্রহণ করেন। সাহিত্য পরিচয় — তিনি কথা-সাহিত্যিক, নাট্যকার, চলচ্চিত্র নির্মাতা হিসেবে বিপুল খ্যাতি অর্জন করেন। তিনি প্রায় দুই শতাধিক গ্রন্থ রচনা করেন। উপন্যাস — ছোটো আকারের উপন্যাস বা নভেলায়: 'নন্দিত নরকে', 'শঙ্খনীল কারাগার', 'অচিনপুর', 'ফেরা', 'এই বসন্তে', 'প্রিয়তমেষু', 'যখন গিয়েছে ডুবে পঞ্চমীর চাঁদ', 'গৌরীপুর জংশন', 'চাঁদের আলোয় কয়েকজন যুবক', '১৯৭১', 'অনিল বাগচীর একদিন', 'আগুনের পরশমণি', 'আমার আছে জল', 'কৃষ্ণপক্ষ', 'জনম জনম', 'দৈরথ', 'নবনী', 'দি', 'শূন্য' ইত্যাদি উল্লেখযোগ্য। 'কবি', 'জোছনা ও জননীর গল্প', 'মধ্যাহ্ন', 'মাতাল হাওয়া', 'লীলাবতী', 'বাদশা নামদার' প্রভৃতি তুলনামূলক বৃহৎ পটভূমিতে রচিত উপন্যাস। এছাড়া তিনি জনপ্রিয় চরিত্র হিমু, মিসির আলি ও শুভ্রকে কেন্দ্র করে অনেকগুলো কাহিনি রচনা করেছেন; লিখেছেন বেশকিছু বৈজ্ঞানিক কল্পকাহিনি তথা সায়েন্স ফিকশন। চলচ্চিত্র পরিচালনা — 'শঙ্খনীল কারাগার', 'শ্রাবণ মেঘের দিন', 'শ্যামল ছায়া', 'ঘেঁটুপুত্র কমলা', 'আগুনের পরশমণি' প্রভৃতি। পুরস্কার ও সম্মাননা — একুশে পুরস্কারসহ অসংখ্য পুরস্কার লাভ করেন। মৃত্যু — কোলন ক্যানসারে আক্রান্ত হয়ে ২০১২ সালের ১৯শে জুলাই তারিখে তিনি মৃত্যুবরণ করেন।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    547
+   ],
+   "source_part": "analysis",
+   "text": "উপন্যাস বিশ্লেষণ: ক. উৎস পরিচিতি: '১৯৭১' উপন্যাসটি ১৯৭১ সালের মুক্তিযুদ্ধের পটভূমিতে রচিত। তাই এটিকে একটি মুক্তিযুদ্ধভিত্তিক উপন্যাস বলা হয়। এখানে প্রান্তিক এক গ্রামে পাকিস্তানি মিলিটারির সাধারণ মানুষের উপর চালানো নির্যাতনের কাহিনি ফুটে উঠেছে। খ. পাঠের উদ্দেশ্য: মুক্তিযুদ্ধের ইতিহাস, সাধারণ মানুষের উপর চালানো নির্যাতন ও ত্যাগের পরিচয় — শিক্ষার্থীরা এই উপন্যাস থেকে জানতে পারবে। গ. উপন্যাসের মূলবক্তব্য: বাংলাদেশের প্রত্যন্ত এক গ্রাম নীলগঞ্জ। গ্রামের শিক্ষাব্যবস্থা ভঙ্গুর। এই গ্রামে মানুষের জীবন স্বাভাবিকভাবেই চলছিল। তবে হঠাৎ ১৯৭১ সালের ১লা মে গ্রামটিতে প্রবেশ করে একদল পাকিস্তানি মিলিটারি। তাঁদের আগমনেই গ্রামের স্বাভাবিক জীবনের ছন্দপতন ঘটে। অন্ধকারে তাঁরা টর্চ জ্বেলে জ্বেলে গ্রামে প্রবেশ করে। তাঁরা স্কুলঘরে অবস্থান নেয়। এই দলের নেতৃত্বে আছে মেজর এজাজ। নীলগঞ্জে লুকিয়ে আছে একদল মুক্তিবাহিনী, এমনকি তাঁদের সাথে দুজন অপহৃত পাকিস্তানি সেনা সদস্যও আছে — এই তথ্যের ভিত্তিতে পাকিস্তানি মিলিটারি গ্রামটি দখলে নেয়। তাঁদের উদ্দেশ্য অপহৃত সেনা সদস্যদের উদ্ধার করা এবং মুক্তিবাহিনীর লোকদের হত্যা করা। অপহৃত দুই সেনা সদস্যের একজন মেজর এজাজের বন্ধু মেজর বখতিয়ার। তাঁদের উদ্ধার করতে, মুক্তিযোদ্ধাদের অবস্থান জানা জরুরি। তাই মেজর এজাজ গ্রামের দুই অস্থায়ী বাসিন্দা ইমাম সাহেব এবং আজিজ মাস্টারকে ডেকে নিয়ে জিজ্ঞাসাবাদ করে এবং বন্দি করে রাখে। তাঁদের দুইজনের কেউই মেজর এজাজকে তথ্য দিতে পারে না, কারণ মুক্তিযোদ্ধাদের সম্পর্কে কোনো তথ্যই তাঁদের জানা নেই। ফলে মেজর এজাজ নির্মমভাবে তাঁদের নির্যাতন করে। স্কুলঘরে তাঁদের বন্দি করে রাখে। বন্দি অবস্থায় মানসিকভাবে ভেঙে পড়েন মসজিদের ইমাম সাহেব। উপন্যাসটিতে দেখা যায়, গ্রামবাসীর প্রথম পর্যায়ের ধারণা ছিল মুসলিম হলে পাকিস্তানিরা কোনো ক্ষতি করে না। কিন্তু তাঁদের এই ধারণা যে ভুল তা মসজিদের ইমাম সাহেব, সফদরউল্লাহর স্ত্রী-শ্যালিকা, আজিজ মাস্টার প্রমুখের পরিণতি লক্ষ করলেই বোঝা যায়। উপন্যাসের পাকিস্তানি মিলিটারির মেজর এজাজ বাঙালি মুসলমানকে প্রকৃত মুসলমান হিসেবে স্বীকৃতি দিতে চান না, যা তাঁর প্রবল বাঙালি জাতিবিদ্বেষী মনোভাব। পাকিস্তানিরা নীলগঞ্জ গ্রামে তাঁদের প্রভাব বজায় রাখতে নির্মম হত্যাকাণ্ড চালায়। যেখানে-সেখানে নির্বিচারে গুলি চালায়। ফলে গ্রামীণ জনজীবন হয়ে পড়ে কোণঠাসা-অবরুদ্ধ। উপন্যাসের রহস্যময় চরিত্র রফিক মেজর এজাজের সহযোগীর ভূমিকা পালন করলেও প্রকৃতপক্ষে তিনি ছিলেন মুক্তিযুদ্ধের পক্ষের শক্তি। মেজর এজাজকে গ্রামের মানুষদের নির্যাতন করার ব্যাপারে তিনি নীরবে বাধা দিয়েছেন। কৈবর্তপাড়ায় মুক্তিযোদ্ধা খোঁজার জন্য তল্লাশি করতেও তিনি নিবৃত্ত করেছেন। এমনকি মূর্তির পিছনে লুকিয়ে থাকা বলাইয়ের সন্ধান জানলেও মেজর এজাজকে তিনি তা বুঝতে দেননি। যদি উপন্যাসের শেষ দিকে মেজর এজাজের কর্মকাণ্ডের বিরোধিতা করায় রফিকের উপর মেজরের সন্দেহ হয় এবং তিনি যে মুক্তিযোদ্ধাদের বাঁচাতে অবদান রেখেছেন তা মেজর এজাজ বুঝে ফেলে। ফলে রফিককে প্রাণত্যাগ করতে হয়। উপন্যাসটিতে মূলত নীলগঞ্জের অবরুদ্ধ জীবন বাস্তবতা ফুটে উঠেছে, যা মুক্তিযুদ্ধকালীন সাধারণ জনজীবনের বাস্তবচিত্রের রূপায়ণ। নীলগঞ্জ যেন পুরো বাংলাদেশের চিত্র। উপন্যাসটিতে যে যুদ্ধ প্রস্ফুটিত হয়েছে তা মূলত একপাক্ষিক আগ্রাসনমূলক যুদ্ধ। পাকিস্তানিরা এই যুদ্ধ বাঙালিদের উপর চাপিয়ে দিয়েছে। নীলগঞ্জবাসীরা নিরস্ত্র মানুষ। তাঁদের কাছে অস্ত্র নেই। গোলা-বারুদ নেই। যুদ্ধের কোনো মনোভাব তাঁদের ছিল না, তাঁরা পাকিস্তানিদের ভয়ে শুরু থেকেই ছিল আতঙ্কিত।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    547
+   ],
+   "source_part": "analysis",
+   "text": "উপন্যাস বিশ্লেষণ (অবশিষ্ট): ঘ. গুরুত্বপূর্ণ চরিত্র: মেজর এজাজ, রফিক, আজিজ মাস্টার, ইমাম সাহেব, জয়নাল মিয়া। ঙ. নামকরণ: উপন্যাসটির নামকরণ করা হয়েছে প্রেক্ষাপটগত দিক থেকে। ১৯৭১ সালের মুক্তিযুদ্ধকালীন নিপীড়িত, নির্যাতিত, বিধ্বস্ত ও অবরুদ্ধ জনজীবন এই উপন্যাসে ফুটে উঠেছে। তৎকালীন সামাজিক-রাজনৈতিক বাস্তবতা এই উপন্যাসের মৌল ভাবনা, আর এর বহিঃপ্রকাশ হলো সাধারণ মানুষকে নির্যাতন, হত্যা, সম্মানহানি করা। মুক্তিযুদ্ধের প্রাথমিক অবস্থায় সারা দেশে পাকিস্তানি সামরিক বাহিনী যে তাণ্ডব ও অত্যাচার করে, বর্বরতার পরিচয় দিয়েছিল তা এই উপন্যাসের কাহিনির মূল চালিকাশক্তি। চ. রূপশ্রেণি: আঙ্গিকগত দিক থেকে এই উপন্যাসটি ঐতিহাসিক উপন্যাস। মুক্তিযুদ্ধের ইতিহাস রূপায়িত হওয়ায় উপন্যাসটিকে মুক্তিযুদ্ধভিত্তিক উপন্যাসও বলা হয়। ছ. ভাষা ও গদ্যরীতি: উপন্যাসটি প্রমিত ভাষায় রচিত। সংলাপে আঞ্চলিক ভাষার ব্যবহার করা হয়েছে। উপন্যাসের বর্ণনারীতি, ভাষাভঙ্গি, পরিবেশ চিত্রণ বেশ আকর্ষণীয়। ছোটো ছোটো বাক্যে অন্তরঙ্গ ভঙ্গিতে উপন্যাসের কাহিনি গেঁথে তুলেছেন ঔপন্যাসিক।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    548
+   ],
+   "source_part": "analysis",
+   "text": "চরিত্র বিশ্লেষণ: ১. মেজর এজাজ: এ উপন্যাসের অন্যতম প্রধান চরিত্র মেজর এজাজ। চরিত্রটির মাধ্যমে ঔপন্যাসিক পাকিস্তানি মিলিটারির নির্মম ও জঘন্যতম রূপটি ফুটিয়ে তুলেছেন। মুক্তিযুদ্ধে নির্যাতন ও নিপীড়নকারী এই চরিত্রটি ঔপন্যাসিক অত্যন্ত কাছ থেকে দেখিয়েছেন। ভোর রাতে সে পাকিস্তানি সৈন্যবাহিনী নিয়ে নীলগঞ্জ গ্রামে প্রবেশ করে। গ্রামের ইমাম সাহেব এবং আজিজ মাস্টারকে বন্দি করে জবাবদিহিতার নামে নির্যাতন শুরু করে। পর্যায়ক্রমে তাঁর নেতৃত্বে পাকিস্তানি সেনারা গ্রামে হত্যাকাণ্ড এবং বর্বর ও পাশবিক কর্মকাণ্ড চালায়। এজাজের মাঝে প্রবল জাতিগত বিদ্বেষ লক্ষ করা যায়, যা ধর্মীয় মেলবন্ধনকেও স্পর্শ করেনি। এজাজের কাছে এ অঞ্চলের মানুষ মুসলমান হিসেবে স্বীকৃত হয়নি। হিন্দু-মুসলমান সকলকেই বাঙালি হিসেবে দেখেছে, আর চালিয়েছে পাশবিক নির্যাতন। এজাজের মাঝে বন্ধু মেজর বখতিয়ারকে খুঁজে বের করার প্রয়াস ছাপিয়ে নীলগঞ্জবাসীদের নির্যাতনের প্রয়াসটি ব্যাপক হয়ে উঠেছে। সে নীলগঞ্জবাসীর মনে এক ধরনের ভয়-আতঙ্ক তৈরি করতে চায়। ২. রফিক: উপন্যাসের সব থেকে রহস্যময় চরিত্র রফিক। এই রফিক কোন অঞ্চলের মানুষ নীলগঞ্জবাসী তা জানত না। পাকিস্তানি মেজর এজাজের সহযোগী হয়ে গ্রামে প্রবেশ করলেও তিনি ছিলেন মূলত একজন দেশপ্রেমিক ও মুক্তিযুদ্ধের পক্ষের শক্তি। চরিত্রটি বহির্মুখী [ছাপায় ব্লিমুখী-সদৃশ অস্পষ্ট] হলেও তাঁর অন্তর্নিহিত প্রেরণা ছিল মুক্তিযুদ্ধ। মেজর এজাজের সহযোগী হয়ে থাকাটা ছিল তাঁর বহিঃআবরণ। পাকিস্তানিদের পথ দেখিয়ে গ্রামে নিয়ে এলেও তিনি কৈবর্তপাড়ায় (যেখানে মুক্তিযোদ্ধারা লুকিয়েছিল) তাঁদের তল্লাশি চালানো থেকে নিবৃত্ত করেছেন। কৌশলে তিনি বলাই, পাগল নিজামকে রক্ষা করেছেন। মাস্টার আজিজের সম্মানহানির বিষয়ে বিরোধিতা করেছেন। মেজর এজাজের কর্মকাণ্ডের বিরোধিতা একমাত্র তিনিই করেছেন। রফিক মুক্তিযুদ্ধের সব থেকে ঝুঁকিপূর্ণ কাজে অবদান রেখেছেন। শত্রু শিবিরের ভিতরে থেকে তিনি শত্রুকে দুর্বল করেছেন। শত্রুকে ভুল নির্দেশনা দিয়ে কৈবর্তপাড়ায় লুকিয়ে থাকা মুক্তিযোদ্ধাদের রক্ষা করেছেন। ৩. আজিজ মাস্টার: নীলগঞ্জের বাসিন্দা নন কিন্তু পাকিস্তানি বাহিনীর কাছে গুরুত্ব বহন করে আজিজ মাস্টার। পাকিস্তানি বাহিনী নীলগঞ্জ স্কুল দখল করেই তাঁকে ডেকে পাঠায়। শিক্ষক হওয়ায় স্থানীয়দের মধ্যে তিনি মান্যজন হিসেবেই বিবেচিত। তাঁর মধ্যে রয়েছে এক কবিসত্তা। কিশোরী একটি মেয়ের প্রতি তাঁর অনুরাগ প্রকাশ পায়। তাঁর কাছে রেডিও থাকা, স্বাধীন বাংলা বেতারকেন্দ্রের প্রোগ্রাম শোনা, পাকিস্তানের রাজনীতি সম্পর্কে ধারণা থাকা প্রভৃতি তাঁকে মিলিটারিদের সন্দেহের আওতায় নিয়ে আসে। পাকিস্তানি বাহিনী তাঁর সাথে মুক্তিবাহিনীর সম্পৃক্ততার সম্ভাবনায় তাঁর উপর বর্বর নির্যাতন চালায়। উপন্যাসের পরিণতির দিকে মানসিক নির্যাতন, লাঞ্ছনা ও অপমানের থেকে তিনি মৃত্যুকেই শ্রেয় মনে করেন। ৪. ইমাম সাহেব: উপন্যাসে ইমাম সাহেবকে তুলনামূলক কম গুরুত্বপূর্ণ মনে হলেও গ্রামে ইমাম হিসেবে তাঁর গুরুত্ব পাকিস্তানি বাহিনী উপলব্ধি করতে পারে। গ্রামে মিলিটারি প্রবেশ তিনিই প্রথম প্রত্যক্ষ করেন। মিলিটারিরা তাঁকে জিজ্ঞাসাবাদের জন্য নিয়ে গিয়ে যে নির্যাতন চালায়, তাতে ইমাম হিসেবে তাঁর সম্মান ও সামাজিক অবস্থান গভীরভাবে ক্ষুণ্ণ হয়। ইমাম সাহেব নীলগঞ্জের অস্থায়ী বাসিন্দা। জাঙ্গলা মুক্তিবাহিনীর অবস্থান সম্পর্কে তিনি অবগত না হওয়ার পরেও তাঁকে ভয়াবহ অত্যাচারের মুখোমুখি হতে হয়, যা তাঁকে শারীরিক ও মানসিকভাবে বিপর্যস্ত করে তোলে।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    548
+   ],
+   "source_part": "analysis",
+   "text": "চরিত্র বিশ্লেষণ (অবশিষ্ট): ৫. জয়নাল মিয়া: জয়নাল মিয়া নীলগঞ্জের একজন প্রভাবশালী ব্যক্তি। বুদ্ধিবৃত্তিকভাবে দুর্বল হলেও অর্থসম্পদের জন্য গ্রামবাসী তাঁকে মান্য করে। তাঁর বাড়িতে আশ্রয় পান ইমাম সাহেব ও আজিজ মাস্টার। গ্রামে মিলিটারি প্রবেশ করলে গ্রামের বাসিন্দারা তাঁকে ঘিরেই পরবর্তী করণীয় ঠিক করতে চায়। পাকিস্তানি সৈন্যরা তাঁকেও জিজ্ঞাসাবাদের জন্য নিয়ে যায়। তাঁর মেয়ে সম্পর্কে মিলিটারির কৌতূহল এবং ইমাম সাহেব ও আজিজ মাস্টারের উপর নির্যাতনের বিভীষিকা তাঁকে কৈবর্তপাড়ায় আশ্রয় নেওয়া মুক্তিবাহিনী সম্পর্কে তথ্য প্রদানে বাধ্য করে। ৬. মীর আলি: অন্ধ মীর আলি বার্ধক্য ও অন্ধত্বের অভিশাপে জর্জরিত। গ্রামে মিলিটারিদের সরবতা তাঁর ক্ষুধা ও ব্যক্তিগত অসহায়ত্বকে ছাপিয়ে যেতে পারেনি। কিছুই দেখতে না পারা মীর আলি কৈবর্তপাড়ার আগুন দেখতে পাওয়ার মধ্য দিয়ে ঔপন্যাসিক মুক্তিযুদ্ধকে বিশেষত্ব দিয়েছেন। ৭. বদিউজ্জামান: মীর আলির সন্তান বদিউজ্জামান এক নিরীহ ব্যবসায়ী। স্ত্রী, কন্যা, বৃদ্ধ পিতা নিয়ে তাঁর সরল জীবন। গ্রামে মিলিটারির আগমন ঘটলে সে দোকানে না গিয়ে বাড়ি ফিরতে গিয়ে পাকিস্তানি বাহিনীর কারণে নিজের জীবনকে অনিশ্চয়তার মধ্যে ফেলে দেয়, যা তাঁর প্রবল দায়িত্ববোধের পরিচয় দেয়। ৮. সফদরউল্লাহ: গ্রামের একজন সাধারণ মানুষ। জয়নাল মিয়ার কথায় সে আশ্বস্ত হয় যে মুসলমান হওয়ার কারণে পাকিস্তানি বাহিনী তাঁদের নির্যাতনের বাইরে রাখবে। কিন্তু তাঁর নিজের স্ত্রী ও শ্যালিকার উপর মিলিটারিদের নির্যাতন তাঁকে মানসিকভাবে বিপর্যস্ত ও প্রতিশোধপরায়ণ করে তোলে।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    549
+   ],
+   "source_part": "analysis",
+   "text": "জটিল প্রসঙ্গের ব্যাখ্যা: ১. স্থানীয় লোকদের খুব অহংকার একে নিয়ে। বুরাইল বাজার নীলগঞ্জ গ্রামের সবচেয়ে বড়ো বাজার। বাজারটি দেখতে অন্য সব গ্রামের মতো হলেও এ বাজারে কিছু বিশেষত্ব রয়েছে। নিত্য প্রয়োজনীয় সব জিনিসপত্র এ বাজারে সহজে পাওয়া যায়। তাই স্থানীয় লোকেরা খুবই গর্ব করে এ বাজার নিয়ে। ২. থানাওয়ালার কাছে গেলে আমারে দেহের মধ্যে পুঁইয়া খুঁইব কইছে। কৈবর্তপাড়ায় চিত্রা বুড়ির ছেলে খুন হলে নীলগঞ্জ গ্রামের মাতব্বররা তাঁর কোনো বিচার করেনি। তাই বুড়ি নীলু সেনের কাছে আসে তাঁর ছেলে হত্যার বিচারের জন্য। নীলু সেন তাঁকে থানা-পুলিশের কাছে যেতে বলেন। বুড়ি কৈবর্তদের ভয়ে থানা-পুলিশের কাছে যায়নি কারণ কৈবর্তরা বলেছে থানা-পুলিশের কাছে গেলে বুড়িকেও মেরে ফেলবে। ৩. পাগলদের সাপে কাটে না। সব গ্রামের মতো নীলগঞ্জ গ্রামেও একটি পাগল আছে। নীলগঞ্জ গ্রামের নিজাম পাগল সারাদিন বনজঙ্গলে ঘুরে বেড়ায়। দুপুরের রোদ খুব বেড়ে গেলে নিজাম পাগল মধুবন জঙ্গলে ঢুকে পড়ে। কিন্তু তাঁকে কখনো কোনো বিপদের সম্মুখীন হতে হয় না। তাই লেখক 'পাগলদের সাপে কাটে না' — এ প্রবাদটি সত্য বলে ধারণা করেন। ৪. বিপদের সময় নিজ গোত্রের মানুষের কথাই প্রথম মনে পড়ে। নীলগঞ্জ গ্রামে সেনাবাহিনী ঢুকতে দেখে চিত্রা বুড়ির কাছে বিষয়টি অস্বাভাবিক মনে হয়। সে গ্রামের আজিজ মাস্টারকে খবর দিতে চায়। আবার সে ভাবে সবার আগে কৈবর্তপাড়ায় খবর দেওয়া প্রয়োজন। কৈবর্তপাড়ায় তাঁর ছেলে খুন হলেও বিপদের দিনে তাঁর নিজ গোত্রের মানুষের কথাই মনে পড়ে। ৫. এখানে আছোটা কী? নেহায়েতই গণ্ডগ্রাম। নীলগঞ্জ গ্রামে মিলিটারি ঢুকতে দেখে ইমাম সাহেব খুব অবাক হলেন। গ্রামটি একটি প্রত্যন্ত অঞ্চলে অবস্থিত। এ গ্রামে মানুষ সাধারণভাবে জীবনযাপন করে। ইমাম সাহেব ভাবতে থাকেন নান্দাইল রোডে মিলিটারি আসেনি, সোনাহাটিতেও আসেনি, তাই এই হতদরিদ্র গ্রামে আসার সম্ভাবনাও নেই। ৬. অস্ত্রপাতি তো থাকবেই। এরা কি বিয়া করতে আইছে? স্কুলের দারোয়ান রাসমোহন গ্রামের জয়নাল মিয়ার কাছে মিলিটারির বর্ণনা দেয়। মিলিটারি অনেক জোয়ান এবং তাঁদের হাতে অস্ত্রপাতি আছে। জয়নাল মিয়া রাসমোহনের কাছে মিলিটারির বর্ণনা শুনে তাঁর উপর বিরক্ত হয়ে বলেন মিলিটারির হাতে অস্ত্রপাতি তো থাকবেই।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    549
+   ],
+   "source_part": "analysis",
+   "text": "জটিল প্রসঙ্গের ব্যাখ্যা: ৭. মুসলমানদের জন্য ভয়ের কিছু নাই। বদিউজ্জামান গ্রামে মিলিটারি এসেছে শুনে সর্বনাশ বলে বসে পড়ে। জয়নাল মিয়া বিরক্ত হয়ে বলে সর্বনাশের কিছু নাই। পাকিস্তানি বাহিনী মুসলমানদের কিছুই করে না। শুধু চার কালিমা জিজ্ঞেস করে তবে পাক্কা মুসলমান হওয়া লাগে। লোকমুখে শুনে সে বদিউজ্জামানকে বলে মুসলমানের জন্য ভয়ের কিছু নাই। ৮. আমরা কসাইরে নই, আমরা সৈনিক। মেজর এজাজ বলে, পাকিস্তানি মিলিটারির নামে আজগুবি সব কথা বলা হয়েছে। পাকিস্তানি বাহিনী কুড়াল দিয়ে কুপিয়ে দুইজন মুক্তিবাহিনীকে হত্যা করেছে। সে আজিজ মাস্টারকে বলে, আমরা কসাইরে হলে সেটা করতাম কিন্তু আমরা তো সৈনিক। আমরা গুলি করে মারব, কুড়াল দিয়ে মারব না। ৯. নীলগঞ্জে এরকম ভাগ্য কয়জনের আছে। মীর আলি ভাবতে থাকেন বড়ো ছেলের বউ অনুফা তাঁদের ঘরে আসার পর থেকে তাঁদের আর আগের মতো কষ্ট করতে হয় না। অনুফা এ বাড়িতে আসার পর তাঁরা একবেলাও না খেয়ে থাকেননি। তাই তিনি বলেন নীলগঞ্জে এরকম ভাগ্য কয়জনের আছে। ১০. আমি নিষ্ঠুরতার একটা নমুনা দেখাতে চাই। মেজর এজাজ নীলগঞ্জ গ্রামে নিষ্ঠুরতার নমুনা দেখাতে চায়। তাই সে মনার এগারো বছরের ভাইকে মাস্টার এবং ইমামের সামনে নির্মমভাবে হত্যা করতে চায়। নীলগঞ্জ গ্রামের মানুষ যেন মিলিটারির নাম শুনলে ভয় পায় তাই মেজর এজাজ এ কথা বলে। ১১. অত্যাচারী রাজারা ইতিহাসে বীরশ্রেষ্ঠ হিসেবে সম্মানিত হন। মেজর এজাজ তাঁর নিষ্ঠুর কর্মকাণ্ডের যৌক্তিকতা উপস্থাপন করার জন্য তাঁর সহযোগী রফিককে এ কথা বলে। মেজর বলে এসব অত্যাচারের কথা কেউ মনে রাখে না। সে উদাহরণ হিসেবে বলে আলেকজান্ডারের নৃশংসতার কথা কেউ মনে রাখেনি। ইতিহাসে সবাই তাঁকে আলেকজান্ডার দি গ্রেট হিসেবে জানে। ১২. মানুষকে ভয় পাইয়ে দেবার একটা আলাদা আনন্দ আছে। পাকিস্তানি বাহিনীর ভয়ে নীলগঞ্জ গ্রামের মানুষ আতঙ্কিত হয়ে ওঠে। তাঁদের ভয়ে কেউ বাইরে যাওয়ার সাহস পায় না। চারদিকে ঝাড়বৃষ্টি। কোথাও কোনো জনমানুষ নেই। গ্রামের মানুষের ভয় পাওয়ার বিষয়টি মেজর খুব উপভোগ করে। তাই উপহাস করে বলে মানুষকে ভয় পাইয়ে দেবার একটা আলাদা আনন্দ আছে।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    549
+   ],
+   "source_part": "analysis",
+   "text": "জটিল প্রসঙ্গের ব্যাখ্যা: ১৩. মিলিটারি আসায় অত্যন্ত খুশি হয়েছে। মেজর এজাজ নিজাম পাগলকে সন্দেহ করে। মেজর ভাবে সে জাঙ্গলা মাঠে গিয়েছে মুক্তিবাহিনীকে খবর দিতে। রফিক তাঁর সন্দেহ দূর করার জন্য বলেন নিজাম আসলে পাগল। রফিকের সাথে তাঁর কথা হয়েছে। তাঁর মতে মিলিটারি আসলে সাধারণ মানুষের মনে ভয় সৃষ্টি হওয়ার কথা কিন্তু নিজাম পাগল অত্যন্ত খুশি হয়। এই যুক্তি দিয়ে তিনি মেজরের কাছে নিজামকে পাগল বলে প্রমাণ করেন। ১৪. তুমি দেখি দারুণ প্রেমিক মানুষ। আজিজ মাস্টার একজন কবি। তিনি চমৎকার কবিতা লেখেন। মেজর এজাজ তাঁকে জিজ্ঞেস করে তাঁর রাজনৈতিক কোনো কবিতা আছে কি না। কিন্তু তিনি শুধু মালাকে নিয়েই কবিতা লেখেন। তাই মেজর এজাজ তাঁকে বলে, তুমি দেখি দারুণ প্রেমিক মানুষ। ১৫. মানুষকে এভাবে লজ্জা দেওয়ার কোনো অর্থ হয় না। মেজর এজাজ আজিজ মাস্টারের উপর তাঁর পশুসুলভ অত্যাচার শুরু করে। রফিককে নির্দেশ দেয় মাস্টারের সম্মানহানি করার জন্য। বিষয়টি রফিককে মর্মাহত করে। তাই রফিক বলেন, মানুষকে এভাবে লজ্জা দেওয়ার কোনো অর্থ হয় না। ১৬. কোনো কোনো সময় মানুষের ইন্দ্রিয় অস্বাভাবিক তীক্ষ্ণ হয়ে ওঠে। পাকিস্তানি বাহিনী এবং রাজাকারের নিষ্ঠুরতার শিকার হয় সফদরউল্লাহর পরিবারের সদস্যরা। ফলে সে মানসিক ভারসাম্য হারিয়ে দা হাতে নিয়ে অন্ধকারের মধ্যে পাকিস্তানি বাহিনী এবং রাজাকারকে খুঁজতে থাকে। তাঁর এ মানসিকতা বোঝাতে লেখক এ কথা বলেন। ১৭. তাই বলে মানুষের ক্ষুধা-তৃষ্ণা তো চলে যায়নি। নীলগঞ্জ গ্রামের চারদিকে যুদ্ধের ভয়াবহতা শুরু হয়েছে। বদিউজ্জামান বাড়ি ফিরছেন না। তাই তাঁর স্ত্রী অনুফা রান্না করা থেকে বিরত থাকে। চারদিকে মিলিটারির তাণ্ডব এবং জীবনের অনিশ্চয়তা থাকা সত্ত্বেও বৃদ্ধ মীর আলি ক্ষুধার যন্ত্রণা ভোগেন। মীর আলি অনুফাকে ভাত রান্না করতে বলেন কিন্তু অনুফা তাতে বিরত হয়। তখন মীর আলি বলেন, যুদ্ধ হচ্ছে তাই বলে মানুষের ক্ষুধা-তৃষ্ণা তো চলে যায়নি।"
+  },
+  {
+   "lesson": "1971",
+   "printed_pages": [
+    550
+   ],
+   "source_part": "analysis",
+   "text": "জটিল প্রসঙ্গের ব্যাখ্যা: ১৮. তুমি কি জানো আমি তোমাকে বিশ্বাস করি না। রফিকের বিভিন্ন কর্মকাণ্ডে মেজর এজাজ তাঁকে সন্দেহ করতে শুরু করে। রফিক মেজরের নিষ্ঠুর অত্যাচারে কৌশলে বাধা দেন। রফিক বলাইকে মেজরের হাত থেকে রক্ষা করেন, কৈবর্তপাড়ায় তল্লাশি করতে বাধা দেন। মীর আলিকে ক্ষুধা [ছাপা অনুযায়ী; অর্থ অস্পষ্ট] এবং নিজামকে পাগল বলে ছেড়ে দিতে বলেন। রফিকের এসব কৌশল বুঝতে পেরে মেজর এজাজ রফিককে অবিশ্বাস করতে শুরু করে। ১৯. মেজর এজাজের কপালে বিন্দু বিন্দু ঘাম জমতে লাগল। মেজর এজাজের কপালের বিন্দু বিন্দু ঘাম তাঁর দুশ্চিন্তার প্রতীক। এ গ্রামে তাঁর সহযোগী ছিলেন রফিক। সে শেষ পর্যায়ে দেখতে পায় রফিক মুক্তিযুদ্ধের পক্ষের শক্তি। তাই তাঁর মনে আতঙ্কের সৃষ্টি হয়। রফিক মৃত্যুর আগে বলেন, মেজর সাহেব আপনি জীবিত অবস্থায় এ দেশ থেকে যেতে পারবেন না। রফিকের এ কথা শুনে এজাজের মনে হলো তাঁর সম্পর্কে রফিক সব তথ্য দিয়ে দিয়েছে। তাঁর জীবন অনিশ্চয়তার মধ্যে পড়ে যায়। তাই তাঁর কপালে বিন্দু বিন্দু ঘাম জমতে থাকে।"
+  }
+ ],
+ "counts": {
+  "analysis_chunks": 14,
+  "quiz": 32,
+  "mcq_bank": 12,
+  "creative": 2,
+  "descriptive": 22,
+  "bank_held": 10,
+  "model_mcq": 0,
+  "model_creative": 0
+ },
+ "held": [
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-1",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-1-ka",
+     "question_text": "পাকিস্তানিদের সম্পর্কে নীলগঞ্জ গ্রামের মানুষের প্রাথমিক ধারণা কেমন ছিল? ব্যাখ্যা করো।"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-1-kha",
+     "question_text": "মেজর এজাজের বর্বরতা ‘১৯৭১’ উপন্যাসে কীভাবে রূপায়িত হয়েছে তা বিশ্লেষণ করো।"
+    }
+   ],
+   "question_number": 1,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-2",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-2-ka",
+     "question_text": "বদিউজ্জামান গলা সমান পানিতে লুকিয়ে ছিল কেন?"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-2-kha",
+     "question_text": "মুক্তিযুদ্ধের প্রথমদিকে এটিকে একপক্ষীয় যুদ্ধ বলা যায় কি না? ‘১৯৭১’ উপন্যাসের আলোকে বিশ্লেষণ করো।"
+    }
+   ],
+   "question_number": 2,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-3",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-3-ka",
+     "question_text": "‘১৯৭১’ উপন্যাসের আলোকে মুক্তিযুদ্ধ কীভাবে জনযুদ্ধ বা গণযুদ্ধে পরিণত হয়েছিল? আলোচনা করো।"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-3-kha",
+     "question_text": "‘মেজর এজাজের বর্তমান চরিত্র-সহজাত নয়, একটি প্রক্রিয়ার মধ্যদিয়ে সৃষ্টি।’— বক্তব্যটির সত্যতা নিরূপণ করো।"
+    }
+   ],
+   "question_number": 3,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-4",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-4-ka",
+     "question_text": "বলাইয়ের বারবার জায়গা পরিবর্তন করার কারণ ব্যাখ্যা করো।"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-4-kha",
+     "question_text": "বিদের পানিতে রক্তিম অভয় রফিককে দেখে মেজর এজাজের কপালে বিন্দু বিন্দু ঘাম তাদের আশু বিপর্যয়ের সংকেত তুলে ধরে কি না তা ‘১৯৭১’ উপন্যাসের আলোকে বিশ্লেষণ করো।"
+    }
+   ],
+   "question_number": 4,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-5",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-5-ka",
+     "question_text": "বাঙালি নারীদের সম্পর্কে পাকিস্তানিদের দৃষ্টিভঙ্গি কেমন ছিল? ব্যাখ্যা করো।"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-5-kha",
+     "question_text": "রফিক কি ‘১৯৭১’ উপন্যাসের অন্যতম বিকশিত চরিত্র? তোমার উত্তরের যৌক্তিকতা প্রমাণ করো।"
+    }
+   ],
+   "question_number": 5,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-6",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-6-ka",
+     "question_text": "আজিজ মাস্টার শাস্তি হিসেবে পরে মৃত্যুদণ্ড চেয়েছিলেন কেন? ব্যাখ্যা করো।"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-6-kha",
+     "question_text": "‘মেজর এজাজ নেতিবাচক চরিত্র হলেও সে এই উপন্যাসের নায়ক।’— মন্তব্যটির সত্যতা নিরূপণ করো।"
+    }
+   ],
+   "question_number": 6,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-7",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-7-ka",
+     "question_text": "মুক্তিযুদ্ধে বাংলাদেশের প্রাকৃতিক বৈচিত্র্যের প্রভাব ‘১৯৭১’ উপন্যাসের আলোকে সংক্ষেপে বর্ণনা করো।"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-7-kha",
+     "question_text": "‘মিলিটারিরা মুসলমানদের ক্ষতি করে না’— গ্রামবাসীর এহেন বিশ্বাস যে কতটা ভ্রান্ত ছিল; তার পরিচয় ‘১৯৭১’ উপন্যাসের আলোকে বিশ্লেষণ করো।"
+    }
+   ],
+   "question_number": 7,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-8",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-8-ka",
+     "question_text": "মেজর এজাজের কপালে বিন্দু বিন্দু ঘাম জমতে লাগল কেন? ব্যাখ্যা করো।"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-8-kha",
+     "question_text": "‘১৯৭১’ উপন্যাসে প্রতিফলিত নীলগঞ্জের দুইজন অস্থায়ী বাসিন্দা কারা? মুক্তিযুদ্ধে তাদের সম্পৃক্ততা বর্ণনা করো।"
+    }
+   ],
+   "question_number": 8,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-9",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-9-ka",
+     "question_text": "রফিক কেন মিলিটারিদের কৈবর্তপাড়ায় তল্লাশি করা থেকে নিবৃত্ত করেছিলেন?"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-9-kha",
+     "question_text": "‘কৈবর্তরা আসলে মুক্তিযুদ্ধকালীন মুক্তিকামী মানুষের প্রতিচ্ছবি।’— ‘১৯৭১’ উপন্যাসের আলোকে ব্যাখ্যা করো।"
+    }
+   ],
+   "question_number": 9,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  },
+  {
+   "ai_answerable": true,
+   "answer": null,
+   "id": "ban1-uponnas-1971-bank-10",
+   "parts": [
+    {
+     "part": "ka",
+     "part_id": "ban1-uponnas-1971-bank-10-ka",
+     "question_text": "বলাই কে? বলাইয়ের সাথে রফিকের সম্পর্ক কেমন ছিল? ব্যাখ্যা করো।"
+    },
+    {
+     "part": "kha",
+     "part_id": "ban1-uponnas-1971-bank-10-kha",
+     "question_text": "‘এজাজ যতই এগিয়েছে, ততই জড়িয়েছে অনায় যুদ্ধে।’— মন্তব্যটি ‘১৯৭১’ উপন্যাসের মেজর এজাজের চিন্তা ও কর্ম বিশ্লেষণের মাধ্যমে মূল্যায়ন করো।"
+    }
+   ],
+   "question_number": 10,
+   "reason": "Bank group (প্রশ্নব্যাংক, p.566): question present, answer NOT printed in the guide — held per user rule; ai_answerable=true, answer NULL, verified=false, excluded from usable rows/counts/quiz/scoring.",
+   "subsection": "bank",
+   "verified": false
+  }
+ ],
+ "verified": true,
+ "verified_by": "native-eye",
+ "verification_notes": "All usable rows eye-read against native-resolution renders (uponnas scans natively ~175 ppi; rendered at zoom 2 ≈ 144 ppi display, margin keys re-read from enlarged crops). Quiz = 4 sets × 8 short-answer rows (options/key null), answers from the p.550 key table. MCQ bank = ONE global sequence 1-12 (Q1-9 exercise, Q10-12 one shared stimulus on p.551); keys from circled margin marks re-read via crops: 1গ 2খ 3ঘ 4খ 5গ 6ঘ 7ক 8খ 9ক 11ক 12খ. Q10 has NO circled key and carries the guide's own correction note (‘বি.দ্র. সঠিক উত্তর হবে সফদরউল্লাহর স্ত্রী ও শ্যালিকা।’) — the correct answer is not among the options, so key=null with key_note, kept verbatim, never guessed. DEVIATIONS FROM THE BRIEF, FLAGGED: (1) The book DOES print 2 worked creative (সৃজনশীল) groups with full answers + essences on pp.551-552 (ক=1 খ=2 গ=3 ঘ=4, শিখনফল-৭ and -৯) although the plan said the novel has no creative section — they are collected as subsection 'creative' so verified content is not dropped; the coordinator may drop them if the no-creative rule is meant to override the book. (2) The main descriptive section (pp.553-565) has 22 answered items, NOT just the 10-item bank: Q1-7 exercise, Q8-22 master-trainer; every item carries margin marks ক=৩, খ=৭ (total 10) on every page checked (pp.553-562, 564-565) — recorded as printed, contradicting the brief's 'descriptive marks NULL / not printed' rule; the coordinator should rule whether to keep 3/7 or null them. The 10 bank items (p.566) carry no margin marks and no answers, so they are held-only with marks NULL per the bank rule. Long descriptive/creative answers were transcribed in a single careful eye-pass from the rendered pages; small-print শিখনফল digits were read from the question headers (Q1/Q2 verified by enlarged crop). Bank/photo held entries do not block verified=true: every usable row passed the eye gate.\nAnalysis fix-up 2026-11-02: appended 13 per-section chunks eye-read at native resolution from printed pp.545-550 (supporting: সহায়ক তথ্যকণিকা, ঘটনা ও বিষয়বস্তুর খুঁটিনাটি, কঠিন শব্দের অর্থ, বানান সতর্কতা, লেখক-সম্পর্কিত তথ্য; analysis: উপন্যাস বিশ্লেষণ ২ ভাগে, চরিত্র বিশ্লেষণ ১-৪ ও ৫-৮, জটিল প্রসঙ্গ ১-৬, ৭-১২, ১৩-১৭ ও ১৮-১৯); existing summary chunk kept. Rows/held/sets unchanged (rows 68, held 10, sets 0). Verbatim flags in chunk text: বানান তালিকায় 'বর্ণহীন' ও 'অত্যাজ' দুইবার ছাপা অনুযায়ী; রফিক চরিত্রে 'বহির্মুখী' (ছাপায় ব্লিমুখী-সদৃশ অস্পষ্ট); জটিল ১৮-এ 'মীর আলিকে ক্ষুধা' ছাপা অনুযায়ী, অর্থ অস্পষ্ট। NOTE: printed page = uponnas PDF page + 543 (verified from page headers; file scan_map offset 543 with title-page scan 0)."
+}
