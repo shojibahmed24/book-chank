@@ -1,0 +1,2336 @@
+{
+ "ict-special-model-01-short-1": {
+  "pointer": "৪১ পৃষ্ঠার ১০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-010",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-01-short-2": {
+  "pointer": "১১১ পৃষ্ঠার ৬০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-060",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-01-short-3": {
+  "pointer": "৪২ পৃষ্ঠার ২৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-024",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-01-short-4": {
+  "pointer": "১০৯ পৃষ্ঠার ৩৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-035",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-01-short-5": {
+  "pointer": "১৫১ পৃষ্ঠার ২৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-028",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-01-short-6": {
+  "pointer": "১৮২ পৃষ্ঠার ৫২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-052",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-01-short-7": {
+  "pointer": "১৪৮ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-01-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-004",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-02-short-1": {
+  "pointer": "৪২ পৃষ্ঠার ২৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-028",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-02-short-2": {
+  "pointer": "১১০ পৃষ্ঠার ৪৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-045",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-02-short-3": {
+  "pointer": "১৪৯ পৃষ্ঠার ১২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-012",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-02-short-4": {
+  "pointer": "১৭৯ পৃষ্ঠার ৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-008",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-02-short-5": {
+  "pointer": "৪৫ পৃষ্ঠার ৬৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-066",
+  "target_page": 45,
+  "pointer_page": 45,
+  "pointer_number": 68,
+  "target_number": 66,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 45 = target page 45; pointer number 68 vs target number 66.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (237 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-02-short-6": {
+  "pointer": "১০৬ পৃষ্ঠার ২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-002",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-02-short-7": {
+  "pointer": "১৫১ পৃষ্ঠার ৩২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-032",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-02-short-8": {
+  "pointer": "১৮০ পৃষ্ঠার ২১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-021",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-03-short-1": {
+  "pointer": "১০৭ পৃষ্ঠার ১১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-011",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-03-short-2": {
+  "pointer": "১৫১ পৃষ্ঠার ৩৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-034",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-03-short-3": {
+  "pointer": "৪৫ পৃষ্ঠার ৬৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-067",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-03-short-4": {
+  "pointer": "১৪৯ পৃষ্ঠার ১০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-010",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-03-short-5": {
+  "pointer": "১৮০ পৃষ্ঠার ১৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-019",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-03-short-6": {
+  "pointer": "১০৮ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-030",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-03-short-7": {
+  "pointer": "৪৩ পৃষ্ঠার ৩১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-031",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-03-short-8": {
+  "pointer": "১৮৩ পৃষ্ঠার ৬৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-066",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-04-short-1": {
+  "pointer": "১০৮ পৃষ্ঠার ২৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-029",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-04-short-2": {
+  "pointer": "১৪৯ পৃষ্ঠার ১১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-011",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-04-short-3": {
+  "pointer": "৪৩ পৃষ্ঠার ৩৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-035",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-04-short-4": {
+  "pointer": "১৮৩ পৃষ্ঠার ৬৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-069",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-04-short-5": {
+  "pointer": "৪১ পৃষ্ঠার ৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-006",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-04-short-6": {
+  "pointer": "১০৬ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-04-short-7": {
+  "pointer": "১৫১ পৃষ্ঠার ৩৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-033",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-04-short-8": {
+  "pointer": "১৮০ পৃষ্ঠার ১৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-016",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-05-short-1": {
+  "pointer": "৪১ পৃষ্ঠার ১২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-012",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-05-short-2": {
+  "pointer": "১০৬ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-003",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-05-short-3": {
+  "pointer": "১৫১ পৃষ্ঠার ৩১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-031",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-05-short-4": {
+  "pointer": "১৪৯ পৃষ্ঠার ৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-004",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-05-short-5": {
+  "pointer": "১৮০ পৃষ্ঠার ২০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-020",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-05-short-6": {
+  "pointer": "১৭৯ পৃষ্ঠার ৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-009",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-05-short-7": {
+  "pointer": "১০৯ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-033",
+  "target_page": 109,
+  "pointer_page": 109,
+  "pointer_number": 30,
+  "target_number": 33,
+  "prior_status": "near-page-minus-1",
+  "superseded_near_target_row_id": "ict-ch4-short-030",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact+scan",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch4-short-030 (number-matched only) is a DIFFERENT question; content match selects ict-ch4-short-033. pointer page 109 = target page 109; pointer number 30 vs target number 33.",
+  "verification": "500-dpi read of printed p.109 (scan 108): Q33 present on p.109; page starts at Q32, so pointer number 30 is not on p.109; near target 030 (p.108) is a different question. Evidence: p109-band1-top.jpg (header 109, Q32/Q37), p109-band2-uppermid.jpg (Q33, Q38, Q39)."
+ },
+ "ict-special-model-05-short-8": {
+  "pointer": "৪২ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-06-short-1": {
+  "pointer": "১০৯ পৃষ্ঠার ৩৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-034",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-06-short-2": {
+  "pointer": "১৫১ পৃষ্ঠার ২৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-026",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-06-short-3": {
+  "pointer": "৪২ পৃষ্ঠার ২৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-026",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-06-short-4": {
+  "pointer": "১৮১ পৃষ্ঠার ৩৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-035",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-06-short-5": {
+  "pointer": "১৫০ পৃষ্ঠার ২২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-022",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-06-short-6": {
+  "pointer": "৪৪ পৃষ্ঠার ৫১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-051",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-06-short-7": {
+  "pointer": "১৮২ পৃষ্ঠার ৪৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-049",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-06-short-8": {
+  "pointer": "১১১ পৃষ্ঠার ৫৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-059",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-07-short-1": {
+  "pointer": "৪৫ পৃষ্ঠার ৫৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-059",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-07-short-2": {
+  "pointer": "৪১ পৃষ্ঠার ১৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-013",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-07-short-3": {
+  "pointer": "১১১ পৃষ্ঠার ৬২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-062",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-07-short-4": {
+  "pointer": "১০৭ পৃষ্ঠার ৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-006",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-07-short-5": {
+  "pointer": "১৫১ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-07-short-6": {
+  "pointer": "১৪৮ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-003",
+  "target_page": 149,
+  "pointer_page": 148,
+  "pointer_number": 3,
+  "target_number": 3,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch5-short-qa-003",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch5-short-qa-003. pointer page 148 vs target page 149; pointer number 3 = target number 3.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (794 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-07-short-7": {
+  "pointer": "১৮২ পৃষ্ঠার ৬১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-061",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-07-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-003",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-08-short-1": {
+  "pointer": "১৭৯ পৃষ্ঠার ৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-005",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-08-short-2": {
+  "pointer": "১৮১ পৃষ্ঠার ৩৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-034",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-08-short-3": {
+  "pointer": "১৪৯ পৃষ্ঠার ১৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-013",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-08-short-4": {
+  "pointer": "১৫১ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-030",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-08-short-5": {
+  "pointer": "১০৭ পৃষ্ঠার ১৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-014",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-08-short-6": {
+  "pointer": "১১০ পৃষ্ঠার ৫৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-053",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-08-short-7": {
+  "pointer": "৪২ পৃষ্ঠার ২৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-029",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-08-short-8": {
+  "pointer": "৪৫ পৃষ্ঠার ৭৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-057",
+  "target_page": 45,
+  "pointer_page": 45,
+  "pointer_number": 77,
+  "target_number": 57,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 45 = target page 45; pointer number 77 vs target number 57.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (145 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-09-short-1": {
+  "pointer": "১৫১ পৃষ্ঠার ২৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-029",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-09-short-2": {
+  "pointer": "১৪৯ পৃষ্ঠার ৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-005",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-09-short-3": {
+  "pointer": "১৮২ পৃষ্ঠার ৬০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-060",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-09-short-4": {
+  "pointer": "১৭৯ পৃষ্ঠার ৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-006",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-09-short-5": {
+  "pointer": "১১১ পৃষ্ঠার ৬৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-064",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-09-short-6": {
+  "pointer": "১০৮ পৃষ্ঠার ২০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-020",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-09-short-7": {
+  "pointer": "৪৫ পৃষ্ঠার ৬৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-064",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-09-short-8": {
+  "pointer": "৪১ পৃষ্ঠার ১৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-017",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-10-short-1": {
+  "pointer": "৪০ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-003",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-10-short-2": {
+  "pointer": "৪০ পৃষ্ঠার ৪০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-040",
+  "target_page": 43,
+  "pointer_page": 40,
+  "pointer_number": 40,
+  "target_number": 40,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 40 vs target page 43; pointer number 40 = target number 40.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (217 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-10-short-3": {
+  "pointer": "১১০ পৃষ্ঠার ৭২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-052",
+  "target_page": 110,
+  "pointer_page": 110,
+  "pointer_number": 72,
+  "target_number": 52,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 110 = target page 110; pointer number 72 vs target number 52.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (201 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-10-short-4": {
+  "pointer": "১০৭ পৃষ্ঠার ১৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-013",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-10-short-5": {
+  "pointer": "১৫০ পৃষ্ঠার ২৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-015",
+  "target_page": 150,
+  "pointer_page": 150,
+  "pointer_number": 25,
+  "target_number": 15,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch5-short-qa-025",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch5-short-qa-025 (number-matched only) is a DIFFERENT question; content match selects ict-ch5-short-qa-015. pointer page 150 = target page 150; pointer number 25 vs target number 15.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (258 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-10-short-6": {
+  "pointer": "১৫০ পৃষ্ঠার ২৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-024",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-10-short-7": {
+  "pointer": "১৮৩ পৃষ্ঠার ৭০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-070",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-10-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-007",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-11-short-1": {
+  "pointer": "৪২ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-030",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-11-short-2": {
+  "pointer": "১০৭ পৃষ্ঠার ৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-007",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-11-short-3": {
+  "pointer": "১৫০ পৃষ্ঠার ১৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-018",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-11-short-4": {
+  "pointer": "১১০ পৃষ্ঠার ৫২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-052",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-11-short-5": {
+  "pointer": "১৫০ পৃষ্ঠার ২৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-025",
+  "target_page": 151,
+  "pointer_page": 150,
+  "pointer_number": 25,
+  "target_number": 25,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch5-short-qa-025",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch5-short-qa-025. pointer page 150 vs target page 151; pointer number 25 = target number 25.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (484 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-11-short-6": {
+  "pointer": "৪৫ পৃষ্ঠার ৬৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-063",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-11-short-7": {
+  "pointer": "১৭৯ পৃষ্ঠার ১১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-011",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-11-short-8": {
+  "pointer": "১৮২ পৃষ্ঠার ৬২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-062",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-12-short-1": {
+  "pointer": "৪০ পৃষ্ঠার ৩৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-036",
+  "target_page": 43,
+  "pointer_page": 40,
+  "pointer_number": 36,
+  "target_number": 36,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 40 vs target page 43; pointer number 36 = target number 36. Text identical except quote glyphs (curly vs straight) around one word.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (137 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-12-short-2": {
+  "pointer": "৪১ পৃষ্ঠার ১১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-011",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-12-short-3": {
+  "pointer": "১১১ পৃষ্ঠার ৬১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-061",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-12-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-12-short-5": {
+  "pointer": "১৫০ পৃষ্ঠার ১৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-019",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-12-short-6": {
+  "pointer": "১৪৯ পৃষ্ঠার ১৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-014",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-12-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ৭৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-073",
+  "target_page": 183,
+  "pointer_page": 180,
+  "pointer_number": 73,
+  "target_number": 73,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 180 vs target page 183; pointer number 73 = target number 73.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (290 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-12-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ১৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-013",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-13-short-1": {
+  "pointer": "১৮৩ পৃষ্ঠার ৬৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-063",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-13-short-2": {
+  "pointer": "১৫০ পৃষ্ঠার ২০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-020",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-13-short-3": {
+  "pointer": "১০৯ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-033",
+  "target_page": 109,
+  "pointer_page": 109,
+  "pointer_number": 30,
+  "target_number": 33,
+  "prior_status": "near-page-minus-1",
+  "superseded_near_target_row_id": "ict-ch4-short-030",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact+scan",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch4-short-030 (number-matched only) is a DIFFERENT question; content match selects ict-ch4-short-033. pointer page 109 = target page 109; pointer number 30 vs target number 33.",
+  "verification": "Same 500-dpi p.109 read as model-05-short-7: Q33 present on p.109; pointer number 30 is not on p.109. Evidence: p109-band1-top.jpg, p109-band2-uppermid.jpg."
+ },
+ "ict-special-model-13-short-4": {
+  "pointer": "১৭৯ পৃষ্ঠার ১০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-010",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-13-short-5": {
+  "pointer": "১১১ পৃষ্ঠার ৬২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-062",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-13-short-6": {
+  "pointer": "৪১ পৃষ্ঠার ৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-005",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-13-short-7": {
+  "pointer": "১৮১ পৃষ্ঠার ৩৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-037",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-13-short-8": {
+  "pointer": "৪২ পৃষ্ঠার ২৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-025",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-14-short-1": {
+  "pointer": "৪৩ পৃষ্ঠার ৫৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-058",
+  "target_page": 45,
+  "pointer_page": 43,
+  "pointer_number": 58,
+  "target_number": 58,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 43 vs target page 45; pointer number 58 = target number 58.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (300 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-14-short-2": {
+  "pointer": "৪২ পৃষ্ঠার ১৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-019",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-14-short-3": {
+  "pointer": "১১১ পৃষ্ঠার ৬৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-063",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-14-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-14-short-5": {
+  "pointer": "১৪৮ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-14-short-6": {
+  "pointer": "১৫০ পৃষ্ঠার ২২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-022",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-14-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ১৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-017",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-14-short-8": {
+  "pointer": "১৭৩ পৃষ্ঠার ৩৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-064",
+  "target_page": 183,
+  "pointer_page": 173,
+  "pointer_number": 38,
+  "target_number": 64,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 173 vs target page 183; pointer number 38 vs target number 64.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (101 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-15-short-1": {
+  "pointer": "১১১ পৃষ্ঠার ২৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-059",
+  "target_page": 111,
+  "pointer_page": 111,
+  "pointer_number": 29,
+  "target_number": 59,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 111 = target page 111; pointer number 29 vs target number 59.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (245 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-15-short-2": {
+  "pointer": "১০৮ পৃষ্ঠার ১৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-024",
+  "target_page": 108,
+  "pointer_page": 108,
+  "pointer_number": 17,
+  "target_number": 24,
+  "prior_status": "near-page-minus-1",
+  "superseded_near_target_row_id": "ict-ch4-short-017",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch4-short-017 (number-matched only) is a DIFFERENT question; content match selects ict-ch4-short-024. pointer page 108 = target page 108; pointer number 17 vs target number 24.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (119 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-15-short-3": {
+  "pointer": "১৫১ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-030",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-15-short-4": {
+  "pointer": "১৮০ পৃষ্ঠার ৬৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-067",
+  "target_page": 183,
+  "pointer_page": 180,
+  "pointer_number": 67,
+  "target_number": 67,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 180 vs target page 183; pointer number 67 = target number 67.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (242 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-15-short-5": {
+  "pointer": "১৮১ পৃষ্ঠার ৩৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-038",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-15-short-6": {
+  "pointer": "১৮০ পৃষ্ঠার ১৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-018",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-15-short-7": {
+  "pointer": "৪২ পৃষ্ঠার ২০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-020",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-15-short-8": {
+  "pointer": "৪৪ পৃষ্ঠার ৫০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-050",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-16-short-1": {
+  "pointer": "৪২ পৃষ্ঠার ৬০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-060",
+  "target_page": 45,
+  "pointer_page": 42,
+  "pointer_number": 60,
+  "target_number": 60,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 42 vs target page 45; pointer number 60 = target number 60.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (236 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-16-short-2": {
+  "pointer": "৪০ পৃষ্ঠার ২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-002",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-16-short-3": {
+  "pointer": "১০৭ পৃষ্ঠার ১৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-013",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-16-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-031",
+  "target_page": 108,
+  "pointer_page": 108,
+  "pointer_number": 3,
+  "target_number": 31,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 108 = target page 108; pointer number 3 vs target number 31.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (222 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-16-short-5": {
+  "pointer": "১১১ পৃষ্ঠার ৬০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-060",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-16-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ৩২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-032",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-16-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ২২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-022",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-16-short-8": {
+  "pointer": "১৮২ পৃষ্ঠার ৬৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-056",
+  "target_page": 182,
+  "pointer_page": 182,
+  "pointer_number": 65,
+  "target_number": 56,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch6-short-qa-065",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch6-short-qa-065 (number-matched only) is a DIFFERENT question; content match selects ict-ch6-short-qa-056. pointer page 182 = target page 182; pointer number 65 vs target number 56.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (200 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-17-short-1": {
+  "pointer": "৪১ পৃষ্ঠার ৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-007",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-17-short-2": {
+  "pointer": "৪৩ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-037",
+  "target_page": 43,
+  "pointer_page": 43,
+  "pointer_number": 3,
+  "target_number": 37,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 43 = target page 43; pointer number 3 vs target number 37. Text identical except quote glyphs (curly vs straight) around one word; pointer number 3 is a dropped-digit form of 37 (same pattern as model-21-short-3, proven by model-paper read).",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (174 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-17-short-3": {
+  "pointer": "১১১ পৃষ্ঠার ৫৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-057",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-17-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ২৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-028",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-17-short-5": {
+  "pointer": "১৫১ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-17-short-6": {
+  "pointer": "১৮২ পৃষ্ঠার ৭৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-057",
+  "target_page": 182,
+  "pointer_page": 182,
+  "pointer_number": 78,
+  "target_number": 57,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 182 = target page 182; pointer number 78 vs target number 57.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (158 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-17-short-7": {
+  "pointer": "১৮১ পৃষ্ঠার ৪১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-041",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-17-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-18-short-1": {
+  "pointer": "৪৪ পৃষ্ঠার ৪৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-049",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-18-short-2": {
+  "pointer": "৪১ পৃষ্ঠার ৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-008",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-18-short-3": {
+  "pointer": "১০৮ পৃষ্ঠার ১৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-019",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-18-short-4": {
+  "pointer": "১১১ পৃষ্ঠার ৫৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-055",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-18-short-5": {
+  "pointer": "১৫১ পৃষ্ঠার ৩২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-032",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-18-short-6": {
+  "pointer": "১৪৯ পৃষ্ঠার ১২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-012",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-18-short-7": {
+  "pointer": "১৮১ পৃষ্ঠার ৩৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-036",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-18-short-8": {
+  "pointer": "১৮২ পৃষ্ঠার ৪৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-048",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-19-short-1": {
+  "pointer": "৪২ পৃষ্ঠার ২২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-022",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-19-short-2": {
+  "pointer": "৪৩ পৃষ্ঠার ৩৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-039",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-19-short-3": {
+  "pointer": "১১১ পৃষ্ঠার ৫৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-056",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-19-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ২১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-021",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-19-short-5": {
+  "pointer": "১৫০ পৃষ্ঠার ১৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-015",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-19-short-6": {
+  "pointer": "১৮৩ পৃষ্ঠার ৬৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-068",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-19-short-7": {
+  "pointer": "১৮১ পৃষ্ঠার ৪৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-045",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-19-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-002",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-20-short-1": {
+  "pointer": "১০৭ পৃষ্ঠার ১৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-016",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-20-short-2": {
+  "pointer": "১০৯ পৃষ্ঠার ৩৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-035",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-20-short-3": {
+  "pointer": "১১০ পৃষ্ঠার ৫৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-054",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-20-short-4": {
+  "pointer": "১৫০ পৃষ্ঠার ২৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-025",
+  "target_page": 151,
+  "pointer_page": 150,
+  "pointer_number": 25,
+  "target_number": 25,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch5-short-qa-025",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch5-short-qa-025. pointer page 150 vs target page 151; pointer number 25 = target number 25.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (484 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-20-short-5": {
+  "pointer": "১৭৯ পৃষ্ঠার ১৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-014",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-20-short-6": {
+  "pointer": "১৮২ পৃষ্ঠার ৫৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-058",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-20-short-7": {
+  "pointer": "৪১ পৃষ্ঠার ১২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-012",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-20-short-8": {
+  "pointer": "৪২ পৃষ্ঠার ৬২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-062",
+  "target_page": 45,
+  "pointer_page": 42,
+  "pointer_number": 62,
+  "target_number": 62,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 42 vs target page 45; pointer number 62 = target number 62.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (174 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-21-short-1": {
+  "pointer": "৪৩ পৃষ্ঠার ৩৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-033",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-21-short-2": {
+  "pointer": "৪০ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-21-short-3": {
+  "pointer": "৪৫ পৃষ্ঠার ৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-065",
+  "target_page": 45,
+  "pointer_page": 45,
+  "pointer_number": 6,
+  "target_number": 65,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content+model-paper-scan",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 45 = target page 45; pointer number 6 vs target number 65. Special-file text has পর্যায়; model paper (500 dpi) and bank both have পর্দায় — special-file transcription error, not a content difference.",
+  "verification": "500-dpi read of model-21 paper (scan 291, printed 294): paper short-3 text matches bank target exactly (word: পর্দায়); special-file transcription পর্যায় is an error. Pointer number 6 is a dropped-digit form of 65. Evidence: model21-band3-lowermid.jpg."
+ },
+ "ict-special-model-21-short-4": {
+  "pointer": "১১০ পৃষ্ঠার ৫০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-050",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-21-short-5": {
+  "pointer": "১০৮ পৃষ্ঠার ২৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-023",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-21-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ২৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-026",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-21-short-7": {
+  "pointer": "১৮২ পৃষ্ঠার ৫৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-053",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-21-short-8": {
+  "pointer": "১৮১ পৃষ্ঠার ৩৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-033",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-22-short-1": {
+  "pointer": "৪৪ পৃষ্ঠার ৫৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-053",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-22-short-2": {
+  "pointer": "৪৩ পৃষ্ঠার ৩২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-032",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-22-short-3": {
+  "pointer": "১০৭ পৃষ্ঠার ১৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-015",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-22-short-4": {
+  "pointer": "১১০ পৃষ্ঠার ৫৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-053",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-22-short-5": {
+  "pointer": "১৫১ পৃষ্ঠার ৩৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-033",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-22-short-6": {
+  "pointer": "১৪৮ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-003",
+  "target_page": 149,
+  "pointer_page": 148,
+  "pointer_number": 3,
+  "target_number": 3,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch5-short-qa-003",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch5-short-qa-003. pointer page 148 vs target page 149; pointer number 3 = target number 3.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (794 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-22-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ২০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-020",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-22-short-8": {
+  "pointer": "১৮২ পৃষ্ঠার ৫১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-051",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-23-short-1": {
+  "pointer": "৪৩ পৃষ্ঠার ৩৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-038",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-23-short-2": {
+  "pointer": "৪৪ পৃষ্ঠার ৫২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-052",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-23-short-3": {
+  "pointer": "১১০ পৃষ্ঠার ৪৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-049",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-23-short-4": {
+  "pointer": "১০৭ পৃষ্ঠার ১৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-014",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-23-short-5": {
+  "pointer": "১৪৯ পৃষ্ঠার ১০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-010",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-23-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ২৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-028",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-23-short-7": {
+  "pointer": "১৮২ পৃষ্ঠার ৫৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-054",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-23-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ১২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-012",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-24-short-1": {
+  "pointer": "৪৪ পৃষ্ঠার ৪৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-045",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-24-short-2": {
+  "pointer": "৪২ পৃষ্ঠার ২১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-021",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-24-short-3": {
+  "pointer": "১০৭ পৃষ্ঠার ১৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-014",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-24-short-4": {
+  "pointer": "১১০ পৃষ্ঠার ৪৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-044",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-24-short-5": {
+  "pointer": "১৪৮ পৃষ্ঠার ৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-005",
+  "target_page": 149,
+  "pointer_page": 148,
+  "pointer_number": 5,
+  "target_number": 5,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch5-short-qa-005",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-variant",
+  "match_similarity": 0.938,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch5-short-qa-005. pointer page 148 vs target page 149; pointer number 5 = target number 5. Spelling variant only: ইন্টারঅ্যাকটিভ (special) vs ইন্টারেক্টিভ (bank).",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 0.938); target is answer-bearing (345 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-24-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ২৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-029",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-24-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ১৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-015",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-24-short-8": {
+  "pointer": "১৮২ পৃষ্ঠার ৫৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-059",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-25-short-1": {
+  "pointer": "১৫০ পৃষ্ঠার ২৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-024",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-25-short-2": {
+  "pointer": "১৮২ পৃষ্ঠার ৫৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-059",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-25-short-3": {
+  "pointer": "১৮২ পৃষ্ঠার ২৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-055",
+  "target_page": 182,
+  "pointer_page": 182,
+  "pointer_number": 24,
+  "target_number": 55,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 182 = target page 182; pointer number 24 vs target number 55.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (247 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-25-short-4": {
+  "pointer": "১৮০ পৃষ্ঠার ২৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-024",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-25-short-5": {
+  "pointer": "১১০ পৃষ্ঠার ৪৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-045",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-25-short-6": {
+  "pointer": "১০৭ পৃষ্ঠার ১১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-011",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-25-short-7": {
+  "pointer": "৪১ পৃষ্ঠার ১৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-014",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-25-short-8": {
+  "pointer": "৪০ পৃষ্ঠার ৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-004",
+  "target_page": 41,
+  "pointer_page": 40,
+  "pointer_number": 4,
+  "target_number": 4,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch2-short-qa-004",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch2-short-qa-004. pointer page 40 vs target page 41; pointer number 4 = target number 4.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (178 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-26-short-1": {
+  "pointer": "৪১ পৃষ্ঠার ৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-009",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-26-short-2": {
+  "pointer": "৪২ পৃষ্ঠার ২০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-020",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-26-short-3": {
+  "pointer": "৪৪ পৃষ্ঠার ৫৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-054",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-26-short-4": {
+  "pointer": "১০৭ পৃষ্ঠার ১০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-010",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-26-short-5": {
+  "pointer": "১০৯ পৃষ্ঠার ৪২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-042",
+  "target_page": 110,
+  "pointer_page": 109,
+  "pointer_number": 42,
+  "target_number": 42,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch4-short-042",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-variant",
+  "match_similarity": 0.948,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch4-short-042. pointer page 109 vs target page 110; pointer number 42 = target number 42. Wording variants only: দেবার vs দেওয়ার; পৃষ্ঠা নম্বর vs পৃষ্ঠার নম্বর.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 0.948); target is answer-bearing (488 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-26-short-6": {
+  "pointer": "১৫০ পৃষ্ঠার ২০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-020",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-26-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ২৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-025",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-26-short-8": {
+  "pointer": "১৮১ পৃষ্ঠার ৪৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-044",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-27-short-1": {
+  "pointer": "৪৫ পৃষ্ঠার ৬১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-061",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-27-short-2": {
+  "pointer": "৪২ পৃষ্ঠার ১৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-018",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-27-short-3": {
+  "pointer": "১১০ পৃষ্ঠার ৪০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-043",
+  "target_page": 110,
+  "pointer_page": 110,
+  "pointer_number": 40,
+  "target_number": 43,
+  "prior_status": "near-page-minus-1",
+  "superseded_near_target_row_id": "ict-ch4-short-040",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch4-short-040 (number-matched only) is a DIFFERENT question; content match selects ict-ch4-short-043. pointer page 110 = target page 110; pointer number 40 vs target number 43.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (227 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-27-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ২০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-020",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-27-short-5": {
+  "pointer": "১৫০ পৃষ্ঠার ১৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-018",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-27-short-6": {
+  "pointer": "১৪৯ পৃষ্ঠার ১৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-013",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-27-short-7": {
+  "pointer": "১৮৩ পৃষ্ঠার ৭০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-070",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-27-short-8": {
+  "pointer": "১৮০ পৃষ্ঠার ২৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-026",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-28-short-1": {
+  "pointer": "৪০ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-003",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-28-short-2": {
+  "pointer": "৪৪ পৃষ্ঠার ৮৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-046",
+  "target_page": 44,
+  "pointer_page": 44,
+  "pointer_number": 86,
+  "target_number": 46,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 44 = target page 44; pointer number 86 vs target number 46.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (167 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-28-short-3": {
+  "pointer": "১০৮ পৃষ্ঠার ২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-002",
+  "target_page": 106,
+  "pointer_page": 108,
+  "pointer_number": 2,
+  "target_number": 2,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 108 vs target page 106; pointer number 2 = target number 2.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (164 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-28-short-4": {
+  "pointer": "১০৯ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-039",
+  "target_page": 109,
+  "pointer_page": 109,
+  "pointer_number": 30,
+  "target_number": 39,
+  "prior_status": "near-page-minus-1",
+  "superseded_near_target_row_id": "ict-ch4-short-030",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact+scan",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch4-short-030 (number-matched only) is a DIFFERENT question; content match selects ict-ch4-short-039. pointer page 109 = target page 109; pointer number 30 vs target number 39.",
+  "verification": "500-dpi read of printed p.109 (scan 108): Q39 present on p.109; same pointer string as model-05/13-short but different question text, hence different target. Evidence: p109-band2-uppermid.jpg (Q39)."
+ },
+ "ict-special-model-28-short-5": {
+  "pointer": "১৪৯ পৃষ্ঠার ৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-004",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-28-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ২৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-029",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-28-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ২৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-028",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-28-short-8": {
+  "pointer": "১৮০ পৃষ্ঠার ৭১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-071",
+  "target_page": 183,
+  "pointer_page": 180,
+  "pointer_number": 71,
+  "target_number": 71,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 180 vs target page 183; pointer number 71 = target number 71.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (140 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-29-short-1": {
+  "pointer": "৪৪ পৃষ্ঠার ৪৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-047",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-29-short-2": {
+  "pointer": "৪৪ পৃষ্ঠার ৫৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-055",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-29-short-3": {
+  "pointer": "১০৯ পৃষ্ঠার ৩৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-033",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-29-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-001",
+  "target_page": 106,
+  "pointer_page": 108,
+  "pointer_number": 1,
+  "target_number": 1,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 108 vs target page 106; pointer number 1 = target number 1.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (203 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-29-short-5": {
+  "pointer": "১৪৯ পৃষ্ঠার ১১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-011",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-29-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-030",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-29-short-7": {
+  "pointer": "১৮১ পৃষ্ঠার ৪৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-047",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-29-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-004",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-30-short-1": {
+  "pointer": "৪২ পৃষ্ঠার ৫৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-056",
+  "target_page": 45,
+  "pointer_page": 42,
+  "pointer_number": 56,
+  "target_number": 56,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 42 vs target page 45; pointer number 56 = target number 56.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (306 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-30-short-2": {
+  "pointer": "৪১ পৃষ্ঠার ১৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-016",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-30-short-3": {
+  "pointer": "১০৭ পৃষ্ঠার ৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-006",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-30-short-4": {
+  "pointer": "১০৯ পৃষ্ঠার ৩২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-032",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-30-short-5": {
+  "pointer": "১৫১ পৃষ্ঠার ৩২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-032",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-30-short-6": {
+  "pointer": "১৪৯ পৃষ্ঠার ৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-005",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-30-short-7": {
+  "pointer": "১৮১ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-030",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-30-short-8": {
+  "pointer": "১৮২ পৃষ্ঠার ৬২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-062",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-31-short-1": {
+  "pointer": "৪৩ পৃষ্ঠার ৩৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-034",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-31-short-2": {
+  "pointer": "৪৫ পৃষ্ঠার ৬৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-064",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-31-short-3": {
+  "pointer": "১০৮ পৃষ্ঠার ২৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-025",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-31-short-4": {
+  "pointer": "১১০ পৃষ্ঠার ৫১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-051",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-31-short-5": {
+  "pointer": "১৫০ পৃষ্ঠার ১৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-019",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-31-short-6": {
+  "pointer": "১৮২ পৃষ্ঠার ৬০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-060",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-31-short-7": {
+  "pointer": "১৮১ পৃষ্ঠার ৩৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-035",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-31-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-006",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-32-short-1": {
+  "pointer": "৪১ পৃষ্ঠার ১২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-012",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-32-short-2": {
+  "pointer": "৪৩ পৃষ্ঠার ৪৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-043",
+  "target_page": 44,
+  "pointer_page": 43,
+  "pointer_number": 44,
+  "target_number": 43,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch2-short-qa-044",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch2-short-qa-044 (number-matched only) is a DIFFERENT question; content match selects ict-ch2-short-qa-043. pointer page 43 vs target page 44; pointer number 44 vs target number 43.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (296 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-32-short-3": {
+  "pointer": "১১০ পৃষ্ঠার ৪৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-048",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-32-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-003",
+  "target_page": 106,
+  "pointer_page": 108,
+  "pointer_number": 3,
+  "target_number": 3,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 108 vs target page 106; pointer number 3 = target number 3.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (199 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-32-short-5": {
+  "pointer": "১৪৮ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-32-short-6": {
+  "pointer": "১৭৯ পৃষ্ঠার ১০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-010",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-32-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-32-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-005",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-33-short-1": {
+  "pointer": "৪১ পৃষ্ঠার ৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-005",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-33-short-2": {
+  "pointer": "৪৩ পৃষ্ঠার ৩৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-036",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-33-short-3": {
+  "pointer": "১০৮ পৃষ্ঠার ৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-004",
+  "target_page": 106,
+  "pointer_page": 108,
+  "pointer_number": 4,
+  "target_number": 4,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 108 vs target page 106; pointer number 4 = target number 4.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (347 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-33-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-030",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-33-short-5": {
+  "pointer": "১১১ পৃষ্ঠার ৫৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-058",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-33-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-33-short-7": {
+  "pointer": "১৭৯ পৃষ্ঠার ৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-008",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-33-short-8": {
+  "pointer": "১৮৩ পৃষ্ঠার ৭৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-075",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-34-short-1": {
+  "pointer": "৪৪ পৃষ্ঠার ৪৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-044",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-34-short-2": {
+  "pointer": "৪১ পৃষ্ঠার ৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-006",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-34-short-3": {
+  "pointer": "১১১ পৃষ্ঠার ৬২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-062",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-34-short-4": {
+  "pointer": "১০৭ পৃষ্ঠার ৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-007",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-34-short-5": {
+  "pointer": "১৫০ পৃষ্ঠার ২২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-022",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-34-short-6": {
+  "pointer": "১৮৩ পৃষ্ঠার ৭৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-073",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-34-short-7": {
+  "pointer": "১৮২ পৃষ্ঠার ৪৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-049",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-34-short-8": {
+  "pointer": "১৮০ পৃষ্ঠার ১৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-019",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-35-short-1": {
+  "pointer": "১৮০ পৃষ্ঠার ১৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-016",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-35-short-2": {
+  "pointer": "১৮২ পৃষ্ঠার ৫২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-052",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-35-short-3": {
+  "pointer": "১৪৯ পৃষ্ঠার ১০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-010",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-35-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-005",
+  "target_page": 107,
+  "pointer_page": 108,
+  "pointer_number": 5,
+  "target_number": 5,
+  "prior_status": "near-page-minus-1",
+  "superseded_near_target_row_id": "ict-ch4-short-005",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch4-short-005. pointer page 108 vs target page 107; pointer number 5 = target number 5.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (576 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-35-short-5": {
+  "pointer": "১৮০ পৃষ্ঠার ৬৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-069",
+  "target_page": 183,
+  "pointer_page": 180,
+  "pointer_number": 69,
+  "target_number": 69,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 180 vs target page 183; pointer number 69 = target number 69.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (167 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-35-short-6": {
+  "pointer": "১১০ পৃষ্ঠার ৫২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-052",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-35-short-7": {
+  "pointer": "৪১ পৃষ্ঠার ১২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-012",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-35-short-8": {
+  "pointer": "৪৩ পৃষ্ঠার ৩১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-031",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-36-short-1": {
+  "pointer": "৪৪ পৃষ্ঠার ৪৮ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-048",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-36-short-2": {
+  "pointer": "৪১ পৃষ্ঠার ১১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-011",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-36-short-3": {
+  "pointer": "১১১ পৃষ্ঠার ৫৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-059",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-36-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ২৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-026",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-36-short-5": {
+  "pointer": "১৪৯ পৃষ্ঠার ১২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-012",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-36-short-6": {
+  "pointer": "১৫০ পৃষ্ঠার ১৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-019",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-36-short-7": {
+  "pointer": "১৮২ পৃষ্ঠার ৬১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-061",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-36-short-8": {
+  "pointer": "১৮২ পৃষ্ঠার ৫৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-055",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-37-short-1": {
+  "pointer": "৪১ পৃষ্ঠার ১৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-013",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-37-short-2": {
+  "pointer": "৪৩ পৃষ্ঠার ৪০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-040",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-37-short-3": {
+  "pointer": "১০৮ পৃষ্ঠার ২২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-022",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-37-short-4": {
+  "pointer": "১১১ পৃষ্ঠার ৬১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-061",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-37-short-5": {
+  "pointer": "১৪৮ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-37-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ২৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-026",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-37-short-7": {
+  "pointer": "১৮৩ পৃষ্ঠার ৬২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-066",
+  "target_page": 183,
+  "pointer_page": 183,
+  "pointer_number": 62,
+  "target_number": 66,
+  "prior_status": "near-page-minus-1",
+  "superseded_near_target_row_id": "ict-ch6-short-qa-062",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch6-short-qa-062 (number-matched only) is a DIFFERENT question; content match selects ict-ch6-short-qa-066. pointer page 183 = target page 183; pointer number 62 vs target number 66.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (180 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-37-short-8": {
+  "pointer": "১৭৯ পৃষ্ঠার ৯ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-009",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-38-short-1": {
+  "pointer": "৪৫ পৃষ্ঠার ৫১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-059",
+  "target_page": 45,
+  "pointer_page": 45,
+  "pointer_number": 51,
+  "target_number": 59,
+  "prior_status": "near-page-minus-1",
+  "superseded_near_target_row_id": "ict-ch2-short-qa-051",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch2-short-qa-051 (number-matched only) is a DIFFERENT question; content match selects ict-ch2-short-qa-059. pointer page 45 = target page 45; pointer number 51 vs target number 59.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (232 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-38-short-2": {
+  "pointer": "৪১ পৃষ্ঠার ১৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-017",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-38-short-3": {
+  "pointer": "৪৪ পৃষ্ঠার ৫১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-051",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-38-short-4": {
+  "pointer": "১০৮ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-38-short-5": {
+  "pointer": "১০৮ পৃষ্ঠার ৩৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-027",
+  "target_page": 108,
+  "pointer_page": 108,
+  "pointer_number": 33,
+  "target_number": 27,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch4-short-033",
+  "relation_to_prior_near": "override",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Prior near target ict-ch4-short-033 (number-matched only) is a DIFFERENT question; content match selects ict-ch4-short-027. pointer page 108 = target page 108; pointer number 33 vs target number 27.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (233 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-38-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ৩৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-034",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-38-short-7": {
+  "pointer": "১৭৯ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-003",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-38-short-8": {
+  "pointer": "১৮১ পৃষ্ঠার ৩৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-037",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-39-short-1": {
+  "pointer": "৪৩ পৃষ্ঠার ৪২ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-042",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-39-short-2": {
+  "pointer": "৪১ পৃষ্ঠার ১৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-015",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-39-short-3": {
+  "pointer": "১১১ পৃষ্ঠার ৫৬ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-056",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-39-short-4": {
+  "pointer": "১০৭ পৃষ্ঠার ১৫ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-015",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-39-short-5": {
+  "pointer": "১৫১ পৃষ্ঠার ৩০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-030",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-39-short-6": {
+  "pointer": "১৪৯ পৃষ্ঠার ৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-004",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-39-short-7": {
+  "pointer": "১৮০ পৃষ্ঠার ২৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-023",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-39-short-8": {
+  "pointer": "১৮৩ পৃষ্ঠার ৭০ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-070",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-40-short-1": {
+  "pointer": "৪০ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-40-short-2": {
+  "pointer": "৪২ পৃষ্ঠার ৬১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch2-short-qa-067",
+  "target_page": 45,
+  "pointer_page": 42,
+  "pointer_number": 61,
+  "target_number": 67,
+  "prior_status": "unmatched",
+  "superseded_near_target_row_id": null,
+  "relation_to_prior_near": "unmatched-resolved",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "pointer page 42 vs target page 45; pointer number 61 vs target number 67.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (274 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-40-short-3": {
+  "pointer": "১০৬ পৃষ্ঠার ১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-001",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-40-short-4": {
+  "pointer": "১১১ পৃষ্ঠার ৬১ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch4-short-061",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-40-short-5": {
+  "pointer": "১৪৮ পৃষ্ঠার ৩ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-003",
+  "target_page": 149,
+  "pointer_page": 148,
+  "pointer_number": 3,
+  "target_number": 3,
+  "prior_status": "near-page-plus-1",
+  "superseded_near_target_row_id": "ict-ch5-short-qa-003",
+  "relation_to_prior_near": "confirm",
+  "match_method": "content-exact",
+  "match_similarity": 1.0,
+  "discrepancy_note": "Content match CONFIRMS prior near target ict-ch5-short-qa-003. pointer page 148 vs target page 149; pointer number 3 = target number 3.",
+  "verification": "Content match, unique best candidate among 242 bank short rows (difflib similarity 1.000); target is answer-bearing (794 chars) and is not itself a pointer row."
+ },
+ "ict-special-model-40-short-6": {
+  "pointer": "১৫১ পৃষ্ঠার ২৭ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch5-short-qa-027",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-40-short-7": {
+  "pointer": "১৮৩ পৃষ্ঠার ৭৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-074",
+  "near_target_row_id": null,
+  "status": "resolved"
+ },
+ "ict-special-model-40-short-8": {
+  "pointer": "১৮১ পৃষ্ঠার ৪৪ নং প্রশ্ন ও উত্তর",
+  "target_row_id": "ict-ch6-short-qa-044",
+  "near_target_row_id": null,
+  "status": "resolved"
+ }
+}
