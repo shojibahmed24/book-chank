@@ -1,0 +1,163 @@
+{
+ "counts": {
+  "by_reason": {
+   "generic-discussion": 1,
+   "pooled-unidentified": 8,
+   "relabeled-solitude": 1,
+   "self-contained-dialogue": 34,
+   "self-contained-matching": 60,
+   "self-contained-rearranging": 12,
+   "self-contained-writing": 3,
+   "split-assigned": 578,
+   "verified": 3291,
+   "visual-held": 7
+  },
+  "skipped": 125,
+  "total": 3995,
+  "written": 3870
+ },
+ "outcome": "committed",
+ "skipped_non_null_post": [],
+ "starter_differs": [
+  {
+   "id": "eng1-p356-poem-q1i",
+   "new_sha256": "83959d7b1f36727fda806a1851bb63933c25b4477bcef1083ff44aaee83166ef",
+   "old_sha256": "5b4f5a32e22874b14c345187821b6579fef3f144b26cf5eb096ac5bde3d764d7"
+  },
+  {
+   "id": "eng1-p356-poem-q1ii",
+   "new_sha256": "83959d7b1f36727fda806a1851bb63933c25b4477bcef1083ff44aaee83166ef",
+   "old_sha256": "5b4f5a32e22874b14c345187821b6579fef3f144b26cf5eb096ac5bde3d764d7"
+  },
+  {
+   "id": "eng1-p356-poem-q2",
+   "new_sha256": "83959d7b1f36727fda806a1851bb63933c25b4477bcef1083ff44aaee83166ef",
+   "old_sha256": "5b4f5a32e22874b14c345187821b6579fef3f144b26cf5eb096ac5bde3d764d7"
+  },
+  {
+   "id": "eng1-p356-poem-q3",
+   "new_sha256": "83959d7b1f36727fda806a1851bb63933c25b4477bcef1083ff44aaee83166ef",
+   "old_sha256": "5b4f5a32e22874b14c345187821b6579fef3f144b26cf5eb096ac5bde3d764d7"
+  },
+  {
+   "id": "eng1-p356-poem-q4",
+   "new_sha256": "83959d7b1f36727fda806a1851bb63933c25b4477bcef1083ff44aaee83166ef",
+   "old_sha256": "5b4f5a32e22874b14c345187821b6579fef3f144b26cf5eb096ac5bde3d764d7"
+  },
+  {
+   "id": "eng1-p442-poem-a",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-b",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-c",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-d",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-e",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-f",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-g",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-h",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-i",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-j",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-k",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-l",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-m",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-n",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-o",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-p",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p442-poem-q",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p443-poem-r",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p443-poem-s",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  },
+  {
+   "id": "eng1-p443-poem-t",
+   "new_sha256": "c9555c6f8375f8c8715b593801a07721826d1cca21bed981cf7de59cd06d3fd5",
+   "old_sha256": "cba64538605ea5c9d940a5a9e90069bbe3b76354115a9c9525c0ed7905192627"
+  }
+ ],
+ "verified_samples": {
+  "relabeled-solitude": [
+   "eng1-p122-poem-q8g"
+  ],
+  "split-assigned": [
+   "eng1-p161-poem-q8a",
+   "eng1-p161-poem-q8b",
+   "eng1-p161-poem-q8c"
+  ],
+  "verified": [
+   "eng1-p017-short-a1",
+   "eng1-p017-short-a2",
+   "eng1-p017-short-a3"
+  ]
+ }
+}
