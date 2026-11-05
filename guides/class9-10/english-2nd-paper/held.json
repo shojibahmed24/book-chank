@@ -1,0 +1,226 @@
+[
+ {
+  "id": "eng2-p682-writing-email-q11-t103",
+  "section": "writing-email",
+  "test_id": "paper2-103",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p684-writing-application-q11-t105",
+  "section": "writing-application",
+  "test_id": "paper2-105",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p684-writing-composition-q12-t105",
+  "section": "writing-composition",
+  "test_id": "paper2-105",
+  "marks": 20,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p686-writing-paragraph-q10-t106",
+  "section": "writing-paragraph",
+  "test_id": "paper2-106",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p687-writing-paragraph-q10-t107",
+  "section": "writing-paragraph",
+  "test_id": "paper2-107",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p687-writing-composition-q12-t107",
+  "section": "writing-composition",
+  "test_id": "paper2-107",
+  "marks": 20,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p688-writing-application-q11-t108",
+  "section": "writing-application",
+  "test_id": "paper2-108",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p690-writing-paragraph-q10-t109",
+  "section": "writing-paragraph",
+  "test_id": "paper2-109",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p691-writing-paragraph-q10-t110",
+  "section": "writing-paragraph",
+  "test_id": "paper2-110",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p691-writing-composition-q12-t110",
+  "section": "writing-composition",
+  "test_id": "paper2-110",
+  "marks": 20,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p695-writing-paragraph-q10-t112",
+  "section": "writing-paragraph",
+  "test_id": "paper2-112",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p695-writing-composition-q12-t112",
+  "section": "writing-composition",
+  "test_id": "paper2-112",
+  "marks": 20,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p695-verbs-q3j-t113",
+  "section": "verbs",
+  "test_id": "paper2-113",
+  "marks": 1,
+  "reason": "key omits (j) answer — printed key ends at '(j)' with no following word; not guessed"
+ },
+ {
+  "id": "eng2-p694-writing-paragraph-q10-t113",
+  "section": "writing-paragraph",
+  "test_id": "paper2-113",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p694-writing-composition-q12-t113",
+  "section": "writing-composition",
+  "test_id": "paper2-113",
+  "marks": 20,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p696-writing-email-q11-t114",
+  "section": "writing-email",
+  "test_id": "paper2-114",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p699-writing-composition-q12-t116",
+  "section": "writing-composition",
+  "test_id": "paper2-116",
+  "marks": 20,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p700-writing-paragraph-q10-t117",
+  "section": "writing-paragraph",
+  "test_id": "paper2-117",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p700-writing-application-q11-t117",
+  "section": "writing-application",
+  "test_id": "paper2-117",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p700-writing-composition-q12-t117",
+  "section": "writing-composition",
+  "test_id": "paper2-117",
+  "marks": 20,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p624-transform-q4h-t60",
+  "section": "transform",
+  "test_id": "paper2-60",
+  "marks": 1,
+  "reason": "No key in the test-60 key block matches this item: key-block (h) content-matches Q4(i) and key-block (i) ('By doing it, time should not be wasted by the examinee.') matches no Q4 item. Never guessed."
+ },
+ {
+  "id": "eng2-p640-writing-application-q11-t72",
+  "section": "writing-application",
+  "test_id": "paper2-72",
+  "marks": 10,
+  "reason": "model not located: no held writing row and no item in the guide writing/applications part (pp. 540-553, 35 letter/application rows searched; only Samin/Rupnagar and Bakul/Khulna study-tour applications exist, different names/schools) matches Samir/Samira + Jhalakathi Govt. High School; never invented, never pointer-only."
+ },
+ {
+  "id": "eng2-p651-writing-paragraph-q10-t81",
+  "section": "writing-paragraph",
+  "test_id": "paper2-81",
+  "marks": 10,
+  "reason": "model not located: no 'Village Fair' paragraph exists among the 41 held paragraph rows (pp. 511-521); the only fair-related held rows are compositions (p563, p566) with non-matching boards and wrong section, so no confident model link; never invented, never pointer-only."
+ },
+ {
+  "id": "eng2-p667-writing-application-q11-t93",
+  "section": "writing-application",
+  "test_id": "paper2-93",
+  "marks": 10,
+  "reason": "model not located: no DC law-and-order application in the guide's writing part (pp. 482-570); nearest candidates p. 549 #21 (DC, road repair) and p. 550 #24 (SP, antisocial activities) match only one dimension each and were not linked"
+ },
+ {
+  "id": "eng2-p667-writing-composition-q12-t93",
+  "section": "writing-composition",
+  "test_id": "paper2-93",
+  "marks": 20,
+  "reason": "model not located: no 'Value of Time' composition in the guide's writing part (pp. 555-570 compositions exhaustively checked)"
+ },
+ {
+  "id": "eng2-p669-writing-paragraph-q10-t94",
+  "section": "writing-paragraph",
+  "test_id": "paper2-94",
+  "marks": 10,
+  "reason": "model not located: no Globalization / Cultural Identity paragraph in the guide's writing part (pp. 512-522 exhaustively checked)"
+ },
+ {
+  "id": "eng2-p672-writing-application-q11-t96",
+  "section": "writing-application",
+  "test_id": "paper2-96",
+  "marks": 10,
+  "reason": "model not located: no dengue/mosquito application to a Municipality Chairman in the guide's writing part (pp. 482-570); no 'Chairman' application at all; only dengue items are dialogues and a 'How to fight Dengue Fever' paragraph"
+ },
+ {
+  "id": "eng2-p673-writing-paragraph-q10-t97",
+  "section": "writing-paragraph",
+  "test_id": "paper2-97",
+  "marks": 10,
+  "reason": "model not located: no 'Price Hike' paragraph in the guide's writing part (all 41 paragraph titles, pp. 511-521, exhaustively checked)"
+ },
+ {
+  "id": "eng2-p674-writing-paragraph-q10-t98",
+  "section": "writing-paragraph",
+  "test_id": "paper2-98",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p674-writing-composition-q12-t98",
+  "section": "writing-composition",
+  "test_id": "paper2-98",
+  "marks": 20,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p676-writing-paragraph-q10-t99",
+  "section": "writing-paragraph",
+  "test_id": "paper2-99",
+  "marks": 10,
+  "reason": "model not located"
+ },
+ {
+  "id": "eng2-p676-writing-application-q11-t99",
+  "section": "writing-application",
+  "test_id": "paper2-99",
+  "marks": 10,
+  "reason": "model not located"
+ }
+]
