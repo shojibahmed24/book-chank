@@ -1,0 +1,161 @@
+{
+ "book_id": "class9-islam-bn-guide",
+ "held_excluded": [
+  {
+   "id": "isl-ch1-short-qa-033",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-034",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-035",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-036",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-037",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-038",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-039",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-040",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-041",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-short-qa-042",
+   "file": "islam-ch1",
+   "section": "short-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; short questions 33-42 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-knowledge-qa-001",
+   "file": "islam-ch1",
+   "section": "knowledge-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; knowledge questions 1-8 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-knowledge-qa-002",
+   "file": "islam-ch1",
+   "section": "knowledge-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; knowledge questions 1-8 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-knowledge-qa-003",
+   "file": "islam-ch1",
+   "section": "knowledge-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; knowledge questions 1-8 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-knowledge-qa-004",
+   "file": "islam-ch1",
+   "section": "knowledge-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; knowledge questions 1-8 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-knowledge-qa-005",
+   "file": "islam-ch1",
+   "section": "knowledge-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; knowledge questions 1-8 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-knowledge-qa-006",
+   "file": "islam-ch1",
+   "section": "knowledge-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; knowledge questions 1-8 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-knowledge-qa-007",
+   "file": "islam-ch1",
+   "section": "knowledge-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; knowledge questions 1-8 could not be read reliably"
+  },
+  {
+   "id": "isl-ch1-knowledge-qa-008",
+   "file": "islam-ch1",
+   "section": "knowledge-qa",
+   "reason": "p27 scan blurry/illegible at 200 dpi and 300 dpi; knowledge questions 1-8 could not be read reliably"
+  },
+  {
+   "id": "isl-ch3-creative-028",
+   "file": "islam-ch3",
+   "section": "creative",
+   "reason": "পৃষ্ঠা ১৭৩-এর স্ক্যান ঝাপসা — উদ্দীপক ও ক/খ/গ/ঘ প্রশ্নোত্তর ৩০০ dpi বর্ধিত ক্রপেও শব্দ-শব্দ পড়া যায়নি। শুধু আংশিক পাঠযোগ্য: খ-প্রশ্ন ‘সালাতের মাধ্যমে সামাজিক বন্ধন সুদৃঢ় হয়’— ব্যাখ্যা করো; শিখনফল ২ ও ৩; সূত্র-লাইনের বোর্ড-সংক্ষেপ ঝাপসা-পড়া। পুনঃযাচাইয়ে ভালো স্ক্যান পেলে সংগ্রহযোগ্য।"
+  },
+  {
+   "id": "isl-ch3-creative-029",
+   "file": "islam-ch3",
+   "section": "creative",
+   "reason": "পৃষ্ঠা ১৭৩-এর স্ক্যান ঝাপসা — উদ্দীপক (রাসেল/জনাব তাজুল/মাওলানা সামাদ সংক্রান্ত) ও ক/খ প্রশ্ন ৩০০ dpi বর্ধিত ক্রপেও শব্দ-শব্দ পড়া যায়নি। আংশিক পাঠযোগ্য: গ-প্রশ্ন (কোন ইবাদতের প্রভাবে রাসেলের জীবনে পরিবর্তন আসে), ঘ-প্রশ্ন (জনাব তাজুলের কাজ চিহ্নিত করে মাওলানা সামাদের মন্তব্য বিশ্লেষণ), গ/ঘ উত্তরের অংশ (পৃষ্ঠা ১৭৪-এর উপরের কলাম স্পষ্ট), শিখনফল ১ ও ৩। উদ্দীপক ছাড়া সারি দাঁড়ায় না বলে held-এ রাখা হলো।"
+  },
+  {
+   "id": "isl-board-rajshahi-2024-set-01-creative-1",
+   "file": "islam-board",
+   "section": "board-creative",
+   "reason": "creative stimulus/parts illegible in scan at 300dpi"
+  },
+  {
+   "id": "isl-board-rajshahi-2024-set-01-creative-2",
+   "file": "islam-board",
+   "section": "board-creative",
+   "reason": "creative stimulus/parts illegible in scan at 300dpi"
+  },
+  {
+   "id": "isl-board-rajshahi-2024-set-01-creative-3",
+   "file": "islam-board",
+   "section": "board-creative",
+   "reason": "creative stimulus/parts illegible in scan at 300dpi"
+  },
+  {
+   "id": "isl-board-rajshahi-2024-set-01-creative-4",
+   "file": "islam-board",
+   "section": "board-creative",
+   "reason": "creative stimulus/parts illegible in scan at 300dpi"
+  },
+  {
+   "id": "isl-board-rajshahi-2024-set-01-creative-5",
+   "file": "islam-board",
+   "section": "board-creative",
+   "reason": "creative stimulus/parts illegible in scan at 300dpi"
+  },
+  {
+   "id": "isl-board-rajshahi-2024-set-01-creative-8",
+   "file": "islam-board",
+   "section": "board-creative",
+   "reason": "creative stimulus/parts illegible in scan at 300dpi"
+  }
+ ]
+}

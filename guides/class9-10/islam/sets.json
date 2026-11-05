@@ -1,0 +1,933 @@
+{
+ "book_id": "class9-islam-bn-guide",
+ "sets": [
+  {
+   "title": "অধ্যায়ভিত্তিক মডেল টেস্ট (প্রথম অধ্যায়)",
+   "pages": [
+    71,
+    72
+   ],
+   "mcq": {
+    "count": 30,
+    "time": "30 minutes",
+    "marks": 30
+   },
+   "written": {
+    "creative": 5,
+    "short": 10,
+    "time": "2 hours 30 minutes",
+    "marks": 70
+   },
+   "scales": {
+    "mcq": "D 0-12, C 13-18, B 19-24, A 25-30",
+    "written": "D 0-28, C 29-41, B 42-55, A 56-70"
+   },
+   "note": "Written answers NOT printed on pp.71-72; p.72 footer directs to panjeree.com/c10 (code islq0125).",
+   "set_id": "isl-ch1-model",
+   "source_file": "islam-ch1"
+  },
+  {
+   "set_id": "isl-ch2-model",
+   "name": "অধ্যায় মডেল টেস্ট (অধ্যায় ২)",
+   "pages": "131-132",
+   "notes": [
+    "MCQ অভীক্ষা: সময় ৩০ মিনিট, পূর্ণমান ৩০, ৩০টি প্রশ্ন; স্কেল: D ০–১২, C ১৩–২০, B ২১–২৪, A ২৫–৩০।",
+    "রচনামূলক অভীক্ষা: সময় ২ ঘণ্টা ৩০ মিনিট, পূর্ণমান ৭০ — ক-বিভাগ সৃজনশীল ৫০ (৫টি × ১০) + খ-বিভাগ সংক্ষিপ্ত ২০ (১০টি × ২); স্কেল: D ০–২৮, C ২৯–৪২, B ৪৩–৫৭, A ৫৮–৭০।",
+    "পৃ. ১৩১-এর নিচের MCQ উত্তর-গ্রিড খালি (শিক্ষার্থীর ভরাটের জন্য); মডেল MCQ চাবি নেওয়া হয়েছে পৃ. ১৩২-এর রচনামূলক পাতার শেষের ভরা গ্রিড থেকে (সংশোধিত ব্রিফ §৭(e) অনুযায়ী)।",
+    "মডেল রচনামূলক উত্তর বইয়ে ছাপা নেই — answer null; পৃ. ১৩২ ফুটারের অনলাইন-নির্দেশনা হুবহু প্রতিটি মডেল creative/short রো-র explanation ফিল্ডে আছে: মডেলটির উত্তরসহ আরও মডেল প্রশ্নপত্র ডাউনলোড করতে ব্রাউজারের অ্যাড্রেস বার-এ panjeree.com/c10 টাইপ করো এবং Enter চাপো। এরপর কাঙ্ক্ষিত ফাইলের জন্য islq0225 কোডটি টাইপ করো।",
+    "পৃ. ১২৩-এর শীর্ষস্থানীয় স্কুল সেকশনের ফুটার-বাক্সেও একই কোড islq0225 ছাপা আছে — সেটি স্কুল-সেকশনের ডাউনলোড নির্দেশনা; পৃ. ১৩২-এর মডেল ফুটারের সাথে গুলিয়ে ফেলা যাবে না।",
+    "মডেল MCQ ১৫ ও ৩০-এর গ্রিড-চাবি ছাপা অনুযায়ী রাখা হয়েছে, অসঙ্গতি ফ্ল্যাগসহ (১৫: দাওয়াতের সাদৃশ্য ঘ-এর দিকে ইঙ্গিত করে; ৩০: বইয়ের নিজস্ব হালাল-সংজ্ঞা ক-এর দিকে ইঙ্গিত করে) — মালিকের সিদ্ধান্ত বাকি।",
+    "মডেল-সংক্ষিপ্ত ১০ নম্বর প্রশ্নের পাঠ্য ছাপা অনুযায়ী রাখা হয়েছে (সম্ভাব্য ছাপার ভুল হিসেবে ফ্ল্যাগসহ)।"
+   ],
+   "source_file": "islam-ch2"
+  },
+  {
+   "set_id": "isl-ch2-quiz",
+   "name": "কুইজ (অধ্যায় ২, পাঠ সহায়ক)",
+   "pages": "74-80",
+   "notes": [
+    "১০টি কুইজ, প্রতিটিতে ৮টি প্রশ্ন; প্রশ্ন পৃ. ৭৪–৭৯ থেকে, উত্তর পৃ. ৮০-এর কুইজ উত্তরমালা ছক থেকে।",
+    "কুইজ অ্যাসেসমেন্ট স্কেল (প্রতি কুইজ): D ০–২টি, C ৩–৪টি, B ৫–৬টি, A ৭–৮টি — গ্রেড ব্যান্ড নয়।",
+    "কুইজ id-ব্যতিক্রম: isl-ch2-quiz-<কুইজ ২ অঙ্ক><প্রশ্ন ২ অঙ্ক> (যেমন 0101 = কুইজ ১ প্রশ্ন ১); question_number ফিল্ডে 'কুইজ ১, প্রশ্ন ১' লেখা আছে।"
+   ],
+   "source_file": "islam-ch2"
+  },
+  {
+   "set_id": "isl-ch2-mcq-bank",
+   "name": "সৃজনশীল বহুনির্বাচনি প্রশ্নব্যাংক (অধ্যায় ২)",
+   "pages": "80-94",
+   "notes": [
+    "হেডার অনুযায়ী ২৭৮টি: ১৮৭টি সাধারণ, ৩২টি বহুপদী সমাপ্তিসূচক, ৫৯টি অভিন্ন তথ্যভিত্তিক।",
+    "উপ-সেকশন: টেক্সটবইয়ের অনুশীলনী ১–৬, সকল বোর্ডের এসএসসি প্রশ্ন ৭–৬৫, শীর্ষস্থানীয় স্কুলের টেস্ট ৬৬–১২১, মাস্টার ট্রেইনার প্রণীত ১২২–২৬৬, সমন্বিত অধ্যায় (অধ্যায় ১ ও ২) ২৬৭–২৭৮।",
+    "চাবি বাঁ-মার্জিনের কালো ভরাট বৃত্তে; ৩০০ dpi ব্যান্ড-যাচাইকৃত শুধু ৫, ৬, ১১ — বাকি সব ২০০ dpi-পাঠ, ইমপোর্টের আগে ৩০০ dpi কী-পাস বাধ্যতামূলক।",
+    "MCQ ৪-এর চাবি এই পাসে পড়া যায়নি — held-এ key-pending।",
+    "Q৭-এর পরের দীর্ঘ 'প্রশ্ন ও উত্তর সম্পর্কিত আরও তথ্য' বুলেট-তালিকাগুলো এই পাসে ট্রান্সক্রাইব করা হয়নি।"
+   ],
+   "source_file": "islam-ch2"
+  },
+  {
+   "set_id": "isl-ch3-model",
+   "name": "অধ্যায় মডেল টেস্ট (অধ্যায় ৩)",
+   "pages": "189-190",
+   "notes": [
+    "MCQ অভীক্ষা (পৃ. ১৮৯): সময় ৩০ মিনিট, পূর্ণমান ৩০, ৩০টি প্রশ্ন; স্কেল: D ০–১২, C ১৩–১৮, B ১৯–২৪, A ২৫–৩০।",
+    "রচনামূলক অভীক্ষা (পৃ. ১৯০): সময় ২ ঘণ্টা ৩০ মিনিট, পূর্ণমান ৭০ — ক-বিভাগ সৃজনশীল ৫০ (৫টি × ১০) + খ-বিভাগ সংক্ষিপ্ত ২০ (১০টি × ২); সব প্রশ্নের উত্তর দিতে হবে; স্কেল: D ০–২৮, C ২৯–৪১, B ৪২–৫৫, A ৫৬–৭০।",
+    "পৃ. ১৮৯-এর নিচের MCQ উত্তর-গ্রিড খালি (শিক্ষার্থীর ভরাটের জন্য); মডেল MCQ চাবি নেওয়া হয়েছে পৃ. ১৯০-এর রচনামূলক পাতার শেষের ভরা গ্রিড থেকে (key_format: answer-grid; সংশোধিত ব্রিফ §৭(e) অনুযায়ী)।",
+    "মডেল রচনামূলক উত্তর বইয়ে ছাপা নেই — answer null; পৃ. ১৯০-এর ফুটারের অনলাইন-নির্দেশনা হুবহু answer_pointer-এ নোট করা (panjeree.com/c10 + কোড islq0325; কোডটি পৃ. ১৯০-এর নিজস্ব ফুটার থেকে ৩০০ dpi-তে পড়ে যাচাই করা, পৃ. ১৮১-এর স্কুল-প্রশ্নের কোড থেকে অনুমান করে নয়)।"
+   ],
+   "source_file": "islam-ch3"
+  },
+  {
+   "chapter": 4,
+   "grade_bands": null,
+   "mcq": {
+    "marks": 30,
+    "minutes": 30,
+    "questions": 30
+   },
+   "online_note": "মডেলটির উত্তরসহ আরও মডেল প্রশ্নপত্র ডাউনলোড করতে ব্রাউজারের অ্যাড্রেস বারে panjeree.com/c10 টাইপ করো এবং Enter চাপো। এরপর কাঙ্ক্ষিত ফাইলের জন্য islq0425 কোডটি টাইপ করো।",
+   "pages": "245-246",
+   "self_assessment": {
+    "mcq": {
+     "A": "25-30",
+     "B": "19-24",
+     "C": "13-18",
+     "D": "0-12"
+    },
+    "written": {
+     "A": "56-70",
+     "B": "42-55",
+     "C": "29-41",
+     "D": "0-28"
+    }
+   },
+   "written": {
+    "creative": {
+     "count": 5,
+     "marks_each": 10
+    },
+    "marks": 70,
+    "minutes": 150,
+    "short": {
+     "count": 10,
+     "marks_each": 2
+    }
+   },
+   "written_answers_printed": false,
+   "set_id": "isl-ch4-model",
+   "source_file": "islam-ch4"
+  },
+  {
+   "set_id": "isl-ch5-model",
+   "title": "অধ্যায়ভিত্তিক মডেল টেস্ট (পঞ্চম অধ্যায়)",
+   "pages": [
+    283,
+    284
+   ],
+   "mcq": {
+    "count": 30,
+    "time": "৩০ মিনিট",
+    "marks": 30,
+    "scale": "D ০-১২, C ১৩-১৮, B ১৯-২৪, A ২৫-৩০"
+   },
+   "written": {
+    "count": 15,
+    "time": "২ ঘণ্টা ৩০ মিনিট",
+    "marks": 70,
+    "creative": 5,
+    "creative_marks": 50,
+    "short": 10,
+    "short_marks": 20,
+    "scale": "D ০-২৮, C ২৯-৪১, B ৪২-৫৫, A ৫৬-৭০"
+   },
+   "notes": "MCQ পাতার (পৃ. ২৮৩) উত্তর-ছক খালি (শিক্ষার্থী নিজে পূরণ করবে); চাবি রচনামূলক পাতার (পৃ. ২৮৪) নিচের ভরা গ্রিড থেকে। রচনামূলক (৫ সৃজনশীল + ১০ সংক্ষিপ্ত) উত্তর বইয়ে ছাপা নেই — পৃ. ২৮৪-এর ফুটারে শুধু অনলাইন-নির্দেশনা (panjeree.com/c10 + কোড islq0525, internet-linked)।",
+   "source_file": "islam-ch5"
+  },
+  {
+   "set_id": "isl-model-01",
+   "model": 1,
+   "paper_type": "mcq",
+   "guide_source": 302,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-02",
+   "model": 2,
+   "paper_type": "written",
+   "guide_source": 303,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-03",
+   "model": 3,
+   "paper_type": "mcq",
+   "guide_source": 304,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-04",
+   "model": 4,
+   "paper_type": "written",
+   "guide_source": 305,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-05",
+   "model": 5,
+   "paper_type": "mcq",
+   "guide_source": 306,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-06",
+   "model": 6,
+   "paper_type": "written",
+   "guide_source": 307,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-07",
+   "model": 7,
+   "paper_type": "mcq",
+   "guide_source": 308,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-08",
+   "model": 8,
+   "paper_type": "written",
+   "guide_source": 309,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-09",
+   "model": 9,
+   "paper_type": "mcq",
+   "guide_source": 310,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-10",
+   "model": 10,
+   "paper_type": "written",
+   "guide_source": 311,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-11",
+   "model": 11,
+   "paper_type": "mcq",
+   "guide_source": 312,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-12",
+   "model": 12,
+   "paper_type": "written",
+   "guide_source": 313,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-13",
+   "model": 13,
+   "paper_type": "mcq",
+   "guide_source": 314,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-14",
+   "model": 14,
+   "paper_type": "written",
+   "guide_source": 315,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-15",
+   "model": 15,
+   "paper_type": "mcq",
+   "guide_source": 316,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-16",
+   "model": 16,
+   "paper_type": "written",
+   "guide_source": 317,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-17",
+   "model": 17,
+   "paper_type": "mcq",
+   "guide_source": 318,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-18",
+   "model": 18,
+   "paper_type": "written",
+   "guide_source": 319,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-19",
+   "model": 19,
+   "paper_type": "mcq",
+   "guide_source": 320,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-20",
+   "model": 20,
+   "paper_type": "written",
+   "guide_source": 321,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-21",
+   "model": 21,
+   "paper_type": "mcq",
+   "guide_source": 322,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-22",
+   "model": 22,
+   "paper_type": "written",
+   "guide_source": 323,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-23",
+   "model": 23,
+   "paper_type": "mcq",
+   "guide_source": 324,
+   "row_count": 30,
+   "source_file": "islam-models"
+  },
+  {
+   "set_id": "isl-model-24",
+   "model": 24,
+   "paper_type": "written",
+   "guide_source": 325,
+   "row_count": 23,
+   "source_file": "islam-models"
+  },
+  {
+   "board": "dhaka",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    331
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-dhaka-2024-set-ga-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dhaka",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    332
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-dhaka-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "mymensingh",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    333
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-mymensingh-2024-set-ga-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "mymensingh",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    334
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-mymensingh-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "rajshahi",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    335
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-rajshahi-2024-set-ka-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "rajshahi",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    336
+   ],
+   "row_count": 5,
+   "set_id": "isl-board-rajshahi-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dinajpur",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    337
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-dinajpur-2024-set-ga-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dinajpur",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    338
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-dinajpur-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "cumilla",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    339
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-cumilla-2024-set-gha-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "cumilla",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    340
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-cumilla-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "chattogram",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    341
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-chattogram-2024-set-ka-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "chattogram",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    342
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-chattogram-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "sylhet",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    343
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-sylhet-2024-set-ga-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "sylhet",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    344
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-sylhet-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "jessore",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    345
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-jessore-2024-set-ga-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "jessore",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    346
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-jessore-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "barishal",
+   "year": 2024,
+   "section": "board-mcq",
+   "pages": [
+    347
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-barishal-2024-set-gha-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "barishal",
+   "year": 2024,
+   "section": "board-creative",
+   "pages": [
+    348
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-barishal-2024-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dhaka",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    349
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-dhaka-2023-set-ga-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dhaka",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    350
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-dhaka-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "mymensingh",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    351
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-mymensingh-2023-set-kha-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "mymensingh",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    352
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-mymensingh-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "rajshahi",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    353
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-rajshahi-2023-set-kha-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "rajshahi",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    354
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-rajshahi-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dinajpur",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    355
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-dinajpur-2023-set-gha-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dinajpur",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    356
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-dinajpur-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "cumilla",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    357
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-cumilla-2023-set-kha-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "cumilla",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    358
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-cumilla-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "chattogram",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    359
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-chattogram-2023-set-kha-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "chattogram",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    360
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-chattogram-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "sylhet",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    361
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-sylhet-2023-set-ka-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "sylhet",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    362
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-sylhet-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "jessore",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    363
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-jessore-2023-set-ka-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "jessore",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    364
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-jessore-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "barishal",
+   "year": 2023,
+   "section": "board-mcq",
+   "pages": [
+    365
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-barishal-2023-set-ga-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "barishal",
+   "year": 2023,
+   "section": "board-creative",
+   "pages": [
+    366
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-barishal-2023-set-01-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dhaka",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    367
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-dhaka-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dhaka",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    368
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-dhaka-2020-set-noset-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "mymensingh",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    369
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-mymensingh-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "mymensingh",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    370
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-mymensingh-2020-set-noset-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "rajshahi",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    371
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-rajshahi-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "rajshahi",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    372
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-rajshahi-2020-set-noset-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dinajpur",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    373
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-dinajpur-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "dinajpur",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    374
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-dinajpur-2020-set-noset-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "cumilla",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    375
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-cumilla-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "cumilla",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    376
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-cumilla-2020-set-noset-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "chattogram",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    377
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-chattogram-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "chattogram",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    378
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-chattogram-2020-set-noset-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "sylhet",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    379
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-sylhet-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "sylhet",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    380
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-sylhet-2020-set-noset-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "jessore",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    381
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-jessore-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "jessore",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    382
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-jessore-2020-set-noset-creative",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "barishal",
+   "year": 2020,
+   "section": "board-mcq",
+   "pages": [
+    383
+   ],
+   "row_count": 30,
+   "set_id": "isl-board-barishal-2020-set-noset-mcq",
+   "source_file": "islam-board"
+  },
+  {
+   "board": "barishal",
+   "year": 2020,
+   "section": "board-creative",
+   "pages": [
+    384
+   ],
+   "row_count": 11,
+   "set_id": "isl-board-barishal-2020-set-noset-creative",
+   "source_file": "islam-board"
+  }
+ ]
+}

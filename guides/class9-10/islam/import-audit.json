@@ -1,0 +1,29 @@
+{
+ "file_rows": 4293,
+ "db_rows": 5697,
+ "chunks": 105,
+ "sets": 85,
+ "held_excluded": 26,
+ "sections": {
+  "quiz": 272,
+  "mcq-bank": 1152,
+  "short-qa": 162,
+  "knowledge-qa": 354,
+  "creative": 659,
+  "qb-creative": 112,
+  "qb-short": 50,
+  "model-mcq": 510,
+  "model-creative": 166,
+  "model-short": 230,
+  "comprehension-qa": 35,
+  "activity": 21,
+  "board-mcq": 810,
+  "board-creative": 1164
+ },
+ "keyless_mcq": [
+  "isl-ch2-mcq-bank-004"
+ ],
+ "qb_db_rows": 162,
+ "oos_rows": 546,
+ "no_solution_flagged": 1735
+}

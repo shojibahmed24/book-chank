@@ -1,0 +1,36 @@
+# Islam normalization log
+
+- ch4 verbatim: 57 replaced, 1 kept-flagged
+-   kept-flagged isl-ch4-creative-034: খ-অংশের বাকি পাঠ্য স্ক্যানে পাওয়া যায়নি: খ অনুচ্ছেদ পৃ. ২২৯-এর পাদদেশে 'মারামারি' শব্দে ছিন্ন হয়েছে এবং পৃ. ২৩০-এর শুরুতে তার ধারাবাহিকতা নেই (পৃ. ২৩০ সরাসরি ৩৫ নম্বর প্রশ্নের উত্তর দিয়ে শুরু, পৃ. ২৩১-এর শুরুতেও নেই); তাই পূর্ণ হুবহু উত্তর দেওয়া যায়নি।
+- ch5 prose chunks: 9 replaced, 0 dropped
+- key_ch1: 13 corrections, 8 unresolved
+- ch2-004 candidate read logged, NOT applied (key-pending by design): {'id': 'isl-ch2-mcq-bank-004', 'old_key': None, 'new_key': 'গ', 'evidence': 'CANDIDATE key-pending (filed key null): p.81 enlarged disc vs same-page refs: hook + right stem, no closed loop matches ref-গ, differs from other refs'}
+- key_ch2: 63 corrections, 2 unresolved
+- key_ch5: 0 corrections, 2 unresolved
+- model spot: ch1 10 cells, 0 corrections; ch2 10 cells, 0 corrections
+- set entries normalized: 85 (expected 85)
+- guide_source ranges parsed: 29
+- normalized rows: 4293 (file rows 4293, held excluded 26)
+- qb rows flagged: 90
+- question==stimulus deduped: 63
+- parts-bearing rows unified: 393
+- creative unified (ch1): 75
+- ch3 creative kept grouped (single rows): 49
+- activities mapped: 21
+- keys corrected by patches: 75
+- unresolved keys (kept as collected): 12
+-   unresolved isl-ch1-mcq-bank-272 (kept গ): p.22 right-column key disc cut off by scan's right page edge (page curves away; only a sliver of the disc remains, glyph not visible even at enlarged-cell standard)
+-   unresolved isl-ch1-mcq-bank-273 (kept খ): p.22 right-column key disc cut off by scan's right page edge (page curves away; only a sliver of the disc remains, glyph not visible even at enlarged-cell standard)
+-   unresolved isl-ch1-mcq-bank-274 (kept খ): p.22 right-column key disc cut off by scan's right page edge (page curves away; only a sliver of the disc remains, glyph not visible even at enlarged-cell standard)
+-   unresolved isl-ch1-mcq-bank-275 (kept ক): p.22 right-column key disc cut off by scan's right page edge (page curves away; only a sliver of the disc remains, glyph not visible even at enlarged-cell standard)
+-   unresolved isl-ch1-mcq-bank-276 (kept খ): p.22 right-column key disc cut off by scan's right page edge (page curves away; only a sliver of the disc remains, glyph not visible even at enlarged-cell standard)
+-   unresolved isl-ch1-mcq-bank-277 (kept খ): p.22 right-column key disc cut off by scan's right page edge (page curves away; only a sliver of the disc remains, glyph not visible even at enlarged-cell standard)
+-   unresolved isl-ch1-mcq-bank-278 (kept খ): p.22 right-column key disc cut off by scan's right page edge (page curves away; only a sliver of the disc remains, glyph not visible even at enlarged-cell standard)
+-   unresolved isl-ch1-mcq-bank-279 (kept খ): p.22 right-column key disc cut off by scan's right page edge (page curves away; only a sliver of the disc remains, glyph not visible even at enlarged-cell standard)
+-   unresolved isl-ch2-mcq-bank-182 (kept খ): right-edge disc glyph is a diagonal smear at enlarged-cell standard (300dpi render, cropped, 2x LANCZOS, orig + thresholded vs same-page refs); matches no reference letter unambiguously
+-   unresolved isl-ch2-mcq-bank-183 (kept ক): right-edge disc glyph is a diagonal smear at enlarged-cell standard (300dpi render, cropped, 2x LANCZOS, orig + thresholded vs same-page refs); matches no reference letter unambiguously
+-   unresolved isl-ch5-mcq-bank-080 (kept ক): p. 256 bottom-right corner of scan is washed out; key disc survives only as a thin faded sliver with no discernible glyph even at 6x enlarged-cell crop plus contrast enhancement (scan native resolution only ~170 ppi, so no further detail exists in the file)
+-   unresolved isl-ch5-mcq-bank-081 (kept ঘ): p. 256 bottom-right corner of scan is washed out; key disc survives only as a thin faded sliver with no discernible glyph even at 6x enlarged-cell crop plus contrast enhancement (scan native resolution only ~170 ppi, so no further detail exists in the file)
+- ch2-004 candidate key NOT applied (owner decision): {'id': 'isl-ch2-mcq-bank-004', 'old_key': None, 'new_key': 'গ', 'evidence': 'CANDIDATE key-pending (filed key null): p.81 enlarged disc vs same-page refs: hook + right stem, no closed loop matches ref-গ, differs from other refs'}
+- normalized chunks: 105
+- chunk pages parsed to int lists (range strings and comma strings included; raw-string min/max used to emit '-'/' ' page starts, fixed 2026-11-03)
