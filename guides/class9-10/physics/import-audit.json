@@ -1,0 +1,4303 @@
+{
+ "book_id": "class9-physics-bn-guide",
+ "subject": "physics",
+ "class_id": 9,
+ "subject_code": 136,
+ "counts_before": {
+  "rows": 6701,
+  "held": 368,
+  "chunks": 72,
+  "sets": 66,
+  "per_file": {
+   "phy-board.json": {
+    "rows": 394,
+    "held": 200,
+    "chunks": 0,
+    "sets": 36
+   },
+   "phy-ch1.json": {
+    "rows": 671,
+    "held": 5,
+    "chunks": 5,
+    "sets": 1
+   },
+   "phy-ch2.json": {
+    "rows": 820,
+    "held": 13,
+    "chunks": 5,
+    "sets": 1
+   },
+   "phy-ch3.json": {
+    "rows": 827,
+    "held": 9,
+    "chunks": 13,
+    "sets": 1
+   },
+   "phy-ch4.json": {
+    "rows": 876,
+    "held": 66,
+    "chunks": 9,
+    "sets": 1
+   },
+   "phy-ch7.json": {
+    "rows": 765,
+    "held": 22,
+    "chunks": 6,
+    "sets": 1
+   },
+   "phy-ch8.json": {
+    "rows": 763,
+    "held": 9,
+    "chunks": 16,
+    "sets": 1
+   },
+   "phy-ch10.json": {
+    "rows": 666,
+    "held": 35,
+    "chunks": 15,
+    "sets": 1
+   },
+   "phy-practical.json": {
+    "rows": 70,
+    "held": 0,
+    "chunks": 3,
+    "sets": 1
+   },
+   "phy-special.json": {
+    "rows": 849,
+    "held": 9,
+    "chunks": 0,
+    "sets": 22
+   }
+  },
+  "per_section": {
+   "activity": 14,
+   "applied-math": 20,
+   "board-creative": 89,
+   "board-mcq": 305,
+   "comprehension-qa": 111,
+   "conceptual-creative": 11,
+   "creative": 492,
+   "exercise-qa": 97,
+   "formula-math": 647,
+   "knowledge-qa": 290,
+   "mcq-bank": 1889,
+   "model-creative": 202,
+   "model-mcq": 717,
+   "model-short": 203,
+   "practice-math": 57,
+   "quiz": 709,
+   "short-qa": 734,
+   "type-bank": 44,
+   "viva": 70
+  },
+  "diagram_dependent_rows": 824
+ },
+ "counts_after": {
+  "rows": 6700,
+  "held": 369,
+  "chunks": 72,
+  "sets": 66,
+  "per_file": {
+   "phy-board.json": {
+    "rows": 394,
+    "held": 200
+   },
+   "phy-ch1.json": {
+    "rows": 671,
+    "held": 5
+   },
+   "phy-ch2.json": {
+    "rows": 820,
+    "held": 13
+   },
+   "phy-ch3.json": {
+    "rows": 827,
+    "held": 9
+   },
+   "phy-ch4.json": {
+    "rows": 876,
+    "held": 66
+   },
+   "phy-ch7.json": {
+    "rows": 765,
+    "held": 22
+   },
+   "phy-ch8.json": {
+    "rows": 762,
+    "held": 10
+   },
+   "phy-ch10.json": {
+    "rows": 666,
+    "held": 35
+   },
+   "phy-practical.json": {
+    "rows": 70,
+    "held": 0
+   },
+   "phy-special.json": {
+    "rows": 849,
+    "held": 9
+   }
+  },
+  "per_section": {
+   "activity": 14,
+   "applied-math": 20,
+   "board-creative": 89,
+   "board-mcq": 305,
+   "comprehension-qa": 111,
+   "conceptual-creative": 11,
+   "creative": 492,
+   "exercise-qa": 97,
+   "formula-math": 646,
+   "knowledge-qa": 290,
+   "mcq-bank": 1889,
+   "model-creative": 202,
+   "model-mcq": 717,
+   "model-short": 203,
+   "practice-math": 57,
+   "quiz": 709,
+   "short-qa": 734,
+   "type-bank": 44,
+   "viva": 70
+  },
+  "diagram_dependent_rows": 823,
+  "countable_rows": 5877,
+  "keyless_mcq_rows": [
+   "phy-board-dhaka-2023-board-mcq-23",
+   "phy-board-dinajpur-2024-board-mcq-20",
+   "phy-board-jessore-2023-board-mcq-11",
+   "phy-board-rajshahi-2024-board-mcq-24",
+   "phy-board-sylhet-2023-board-mcq-2",
+   "phy-ch1-mcq-bank-078",
+   "phy-ch10-mcq-bank-109",
+   "phy-ch10-mcq-bank-111",
+   "phy-ch10-mcq-bank-20",
+   "phy-ch2-mcq-bank-36",
+   "phy-model-01-model-mcq-13",
+   "phy-model-01-model-mcq-24",
+   "phy-model-01-model-mcq-25"
+  ]
+ },
+ "correction_log": {
+  "board_corrections": [
+   {
+    "id": "phy-board-barishal-2023-board-mcq-3",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-8",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-10",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-12",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-16",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-17",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-19",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-21",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-22",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-23",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-barishal-2023-board-mcq-25",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-barishal-2024-board-mcq-9",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-barishal-2024-board-mcq-16",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-barishal-2024-board-mcq-20",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-chattogram-2023-board-mcq-10",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-chattogram-2023-board-mcq-22",
+    "collected_key": "ঘ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-chattogram-2023-board-mcq-23",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-chattogram-2023-board-mcq-25",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-chattogram-2024-board-mcq-2",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-chattogram-2024-board-mcq-7",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-chattogram-2024-board-mcq-19",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-chattogram-2024-board-mcq-25",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-cumilla-2023-board-mcq-5",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-cumilla-2023-board-mcq-9",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-cumilla-2023-board-mcq-23",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-cumilla-2024-board-mcq-1",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-cumilla-2024-board-mcq-5",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-cumilla-2024-board-mcq-6",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-cumilla-2024-board-mcq-14",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-cumilla-2024-board-mcq-17",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-cumilla-2024-board-mcq-21",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-cumilla-2024-board-mcq-25",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-dhaka-2023-board-mcq-8",
+    "collected_key": null,
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dhaka-2024-board-mcq-3",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dhaka-2024-board-mcq-6",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dhaka-2024-board-mcq-9",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-dhaka-2024-board-mcq-10",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-board-dhaka-2024-board-mcq-13",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dhaka-2024-board-mcq-14",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dhaka-2024-board-mcq-20",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-3",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-4",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-5",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-7",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-12",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-16",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-17",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-18",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-19",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-21",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-dinajpur-2023-board-mcq-22",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-dinajpur-2024-board-mcq-5",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-dinajpur-2024-board-mcq-9",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-2",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-7",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-9",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-16",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-18",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-19",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-21",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-22",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-24",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-jessore-2024-board-mcq-6",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-jessore-2024-board-mcq-7",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-jessore-2024-board-mcq-8",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-jessore-2024-board-mcq-9",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-jessore-2024-board-mcq-10",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-jessore-2024-board-mcq-21",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-mymensingh-2023-board-mcq-3",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-mymensingh-2023-board-mcq-4",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-mymensingh-2023-board-mcq-5",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-mymensingh-2023-board-mcq-6",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-mymensingh-2023-board-mcq-10",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-mymensingh-2023-board-mcq-17",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-mymensingh-2023-board-mcq-20",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-mymensingh-2023-board-mcq-21",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-mymensingh-2024-board-mcq-1",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-mymensingh-2024-board-mcq-13",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-mymensingh-2024-board-mcq-16",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-mymensingh-2024-board-mcq-17",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-mymensingh-2024-board-mcq-22",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-rajshahi-2023-board-mcq-1",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-rajshahi-2023-board-mcq-3",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-rajshahi-2023-board-mcq-5",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-board-rajshahi-2023-board-mcq-8",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-rajshahi-2024-board-mcq-4",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-rajshahi-2024-board-mcq-5",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-rajshahi-2024-board-mcq-6",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-rajshahi-2024-board-mcq-10",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-rajshahi-2024-board-mcq-13",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-rajshahi-2024-board-mcq-16",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-rajshahi-2024-board-mcq-22",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-3",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-4",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-6",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-8",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-10",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-14",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-16",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-19",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-21",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-sylhet-2024-board-mcq-11",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-sylhet-2024-board-mcq-14",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-sylhet-2024-board-mcq-16",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-sylhet-2024-board-mcq-19",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-board-sylhet-2024-board-mcq-20",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   }
+  ],
+  "bank_corrections": [
+   {
+    "id": "phy-ch1-mcq-bank-034",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-122",
+    "collected_key": "ঘ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-124",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-127",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-128",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-129",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-151",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-156",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-173",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-203",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-204",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-205",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-207",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-219",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-226",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-230",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-55",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-113",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-116",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-117",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-121",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-179",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-189",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-210",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-233",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-244",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-268",
+    "collected_key": "ঘ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-269",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-271",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-274",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-275",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-279",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-280",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-282",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-287",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-291",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-293",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-295",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-296",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-298",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-2",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-4",
+    "collected_key": "ঘ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-5",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-9",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-20",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-21",
+    "collected_key": "ঘ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-23",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-37",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-38",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-43",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-56",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-83",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-84",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-87",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-104",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-117",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-118",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-120",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-125",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-126",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-127",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-128",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-132",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-136",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-144",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-146",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-148",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-150",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-152",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-157",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-161",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-162",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-165",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-168",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-173",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-174",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-175",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-176",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-177",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-181",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-184",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-187",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-188",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-198",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-199",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-200",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-223",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-224",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-235",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-238",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-240",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-241",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-243",
+    "collected_key": "ঘ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-244",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-245",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-249",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-252",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-254",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-13",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-16",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-18",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-53",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-58",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-59",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-66",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-67",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-95",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-96",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-104",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-122",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-123",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-125",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-126",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-130",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-132",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-134",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-135",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-142",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-150",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-153",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-158",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-160",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-165",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-171",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-182",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-188",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-190",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-191",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-211",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-222",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-227",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-228",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-229",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-230",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-232",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-256",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-258",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-259",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-260",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-263",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-267",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-268",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-283",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-284",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-285",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-286",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-287",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-288",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-289",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-290",
+    "collected_key": "গ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-291",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-292",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-303",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-306",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-309",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-314",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-316",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-317",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-321",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-329",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-330",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-332",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-ex-001",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-ex-002",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-006",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-007",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-008",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-009",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-010",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-011",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-012",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-013",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-015",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-018",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-019",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-021",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-022",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-023",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-025",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-026",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-028",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-029",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-031",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-032",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-033",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-037",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-042",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-043",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-046",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-048",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-050",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-051",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-052",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-053",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-054",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-057",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-063",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-067",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-068",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-073",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-074",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-076",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-077",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-078",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-079",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-080",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-081",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-084",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-086",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-088",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-093",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-095",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-100",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-102",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-103",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-104",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-105",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-107",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-108",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-110",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-113",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-114",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-115",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-116",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-117",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-118",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-120",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-121",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-122",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-124",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-125",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-140",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-141",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-143",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-144",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-146",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-147",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-158",
+    "collected_key": null,
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-163",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-164",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-165",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-166",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-168",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-171",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-172",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-173",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-174",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-179",
+    "collected_key": "ঘ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-185",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-186",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-187",
+    "collected_key": null,
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-189",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-191",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-192",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-193",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-194",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-195",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-205",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-206",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-207",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-208",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-210",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-211",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-212",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-214",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-215",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-217",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-218",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-219",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-220",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-221",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-222",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-223",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-224",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-225",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-226",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-227",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-228",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-229",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-230",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-231",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-232",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-233",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-234",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-235",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-236",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-237",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-238",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-241",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-242",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-245",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-246",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-247",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-248",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-251",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-252",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-254",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-256",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-257",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-263",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-267",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-268",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-271",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-273",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-274",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-279",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-281",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-282",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch7-mcq-bank-284",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-1",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-2",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-3",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-7",
+    "collected_key": "ক",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-9",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-11",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-12",
+    "collected_key": null,
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-13",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-18",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-19",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-20",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-21",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-22",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-24",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-25",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-26",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-31",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-32",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-33",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-35",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-36",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-38",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-39",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-40",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-41",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-42",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-43",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-44",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-46",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-47",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-48",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-51",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-52",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-53",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-55",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-57",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-58",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-60",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-61",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-62",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-63",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-64",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-65",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-68",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-70",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-71",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-72",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-73",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-74",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-75",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-77",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-78",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-79",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-80",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-81",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-82",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-84",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-85",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-88",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-89",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-90",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-91",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-93",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-94",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-95",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-96",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-97",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-98",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-99",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-101",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-103",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-105",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-106",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-108",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-109",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-110",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-111",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-117",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-118",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-120",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-121",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-122",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-123",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-124",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-125",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-126",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-127",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-129",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-131",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-132",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-133",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-135",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-136",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-137",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-138",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-140",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-145",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-146",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-147",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-149",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-151",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-152",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-153",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-154",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-155",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-156",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-157",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-158",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-159",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-161",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-162",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-163",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-164",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-165",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-171",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-172",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-173",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-175",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-176",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-177",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-180",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-181",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-183",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-184",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-186",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-188",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-189",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-190",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-195",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-196",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-198",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-199",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-200",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-201",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-211",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-213",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-214",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-215",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-216",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-217",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-218",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-220",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-221",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-222",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-223",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-226",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-227",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-231",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-233",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-235",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-236",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-237",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-239",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-240",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-241",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-242",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-243",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-244",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-245",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-246",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-247",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-248",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-249",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-250",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-251",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-253",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-256",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-259",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-262",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-263",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-264",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-265",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-266",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-268",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-269",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-270",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-271",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-272",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-273",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-276",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-277",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-279",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-280",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-286",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-290",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-291",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-292",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch8-mcq-bank-293",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-4",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-7",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-8",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-9",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-10",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-11",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-15",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-17",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-23",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-24",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-26",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-27",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-28",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-30",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-31",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-33",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-34",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-36",
+    "collected_key": null,
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-49",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-52",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-55",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-58",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-61",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-62",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-63",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-64",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-65",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-82",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-90",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-91",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-92",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-93",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-94",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-97",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-98",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-99",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-100",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-102",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-118",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-121",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-122",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-123",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-126",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-129",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-134",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-137",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-144",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-145",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-147",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-148",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-149",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-152",
+    "collected_key": "খ",
+    "audit_key": "গ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-153",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-168",
+    "collected_key": "খ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-177",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-179",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-180",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-181",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-182",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-183",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-184",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-186",
+    "collected_key": "গ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-188",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-189",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-192",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-193",
+    "collected_key": "ক",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-194",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-195",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-196",
+    "collected_key": "ঘ",
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-197",
+    "collected_key": "গ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-205",
+    "collected_key": null,
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-207",
+    "collected_key": "ঘ",
+    "audit_key": "ক"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-208",
+    "collected_key": "খ",
+    "audit_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-211",
+    "collected_key": null,
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-212",
+    "collected_key": null,
+    "audit_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-214",
+    "collected_key": "ক",
+    "audit_key": "ঘ"
+   }
+  ],
+  "conflict_unresolved_kept": [
+   {
+    "id": "phy-ch1-mcq-bank-171",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-235",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-135",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-136",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-137",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-138",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-139",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-140",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-141",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-142",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-208",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-211",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-228",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-230",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-231",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-260",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-261",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-262",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-263",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-264",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-265",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-266",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-1",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-3",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-6",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-49",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-50",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-51",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-79",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-80",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-81",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-82",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-111",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-112",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-113",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-139",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-140",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-166",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-167",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-185",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-186",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-212",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-213",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-214",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-215",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-216",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-217",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-218",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-219",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-220",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-222",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch3-mcq-bank-237",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-1",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-2",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-23",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-24",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-25",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-26",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-51",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-52",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-78",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-79",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-80",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-81",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-82",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-83",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-84",
+    "collected_key": "ক ও ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-85",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-bank-86",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-112",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-113",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-114",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-115",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-116",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-117",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-118",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-145",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-146",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-147",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-177",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-178",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-179",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-180",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-181",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-183",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-197",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-198",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-199",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-200",
+    "collected_key": "গ"
+   },
+   {
+    "id": "phy-ch4-mcq-201",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-217",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-218",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-219",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-220",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-221",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-237",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-238",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch4-mcq-239",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch4-mcq-240",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch4-mcq-241",
+    "collected_key": "ক"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-1",
+    "collected_key": "ঘ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-2",
+    "collected_key": "খ"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-3",
+    "collected_key": "ঘ"
+   }
+  ],
+  "null_confirmed": [
+   {
+    "id": "phy-board-dhaka-2023-board-mcq-23",
+    "source": "board"
+   },
+   {
+    "id": "phy-board-dinajpur-2024-board-mcq-20",
+    "source": "board"
+   },
+   {
+    "id": "phy-board-jessore-2023-board-mcq-11",
+    "source": "board"
+   },
+   {
+    "id": "phy-board-rajshahi-2024-board-mcq-24",
+    "source": "board"
+   },
+   {
+    "id": "phy-board-sylhet-2023-board-mcq-2",
+    "source": "board"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-078",
+    "source": "chapter-ch1"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-20",
+    "source": "chapter-ch10"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-111",
+    "source": "chapter-ch10"
+   },
+   {
+    "id": "phy-model-01-model-mcq-13",
+    "source": "model"
+   },
+   {
+    "id": "phy-model-01-model-mcq-24",
+    "source": "model"
+   },
+   {
+    "id": "phy-model-01-model-mcq-25",
+    "source": "model"
+   }
+  ],
+  "no_disc": [
+   {
+    "id": "phy-ch10-mcq-bank-104",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-105",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-106",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-107",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-108",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-109",
+    "decision": "null"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-110",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-18",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-19",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-21",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-22",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-42",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-43",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-44",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-45",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-46",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-47",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-48",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-74",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-75",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-76",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-77",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-78",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-79",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-80",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch10-mcq-bank-81",
+    "decision": "keep"
+   },
+   {
+    "id": "phy-ch2-mcq-bank-36",
+    "decision": "null"
+   }
+  ],
+  "verbatim_applied": [
+   {
+    "id": "phy-ch1-short-qa-002",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-007",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-008",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-013",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-014",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-016",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-022",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-039",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-050",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-067",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-short-qa-077",
+    "section": "short-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-exercise-qa-g01",
+    "section": "exercise-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-exercise-qa-g02",
+    "section": "exercise-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-exercise-qa-g03kha",
+    "section": "exercise-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-exercise-qa-g07",
+    "section": "exercise-qa",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-003",
+    "section": "mcq-bank",
+    "field": "explanation"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-016",
+    "section": "mcq-bank",
+    "field": "explanation"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-024",
+    "section": "mcq-bank",
+    "field": "explanation"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-042",
+    "section": "mcq-bank",
+    "field": "explanation"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-061",
+    "section": "mcq-bank",
+    "field": "explanation"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-113",
+    "section": "mcq-bank",
+    "field": "explanation"
+   },
+   {
+    "id": "phy-ch1-mcq-bank-120",
+    "section": "mcq-bank",
+    "field": "explanation"
+   },
+   {
+    "id": "phy-ch1-creative-002",
+    "section": "creative",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-creative-016",
+    "section": "creative",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-creative-022",
+    "section": "creative",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-creative-036",
+    "section": "creative",
+    "field": "answer"
+   },
+   {
+    "id": "phy-ch1-creative-044",
+    "section": "creative",
+    "field": "answer"
+   }
+  ],
+  "triage_move_to_held": [
+   {
+    "id": "phy-ch8-formula-bank-20",
+    "from": "rows",
+    "to": "held"
+   }
+  ],
+  "triage_held_back": [
+   {
+    "id": "phy-ch4-mcq-bank-36",
+    "reason": "coordinator hold: anomalous '27 year"
+   }
+  ]
+ }
+}

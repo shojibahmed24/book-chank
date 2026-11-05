@@ -1,0 +1,1029 @@
+{
+ "book_id": "class9-physics-bn-guide",
+ "sets": [
+  {
+   "id": "phy-board-dhaka-2023-set-ka-mcq",
+   "board": "dhaka",
+   "board_bn": "ঢাকা",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "ka",
+   "printed_page": 749,
+   "scan": 764,
+   "rows": 20,
+   "held": 5,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-dhaka-2023-set-03-creative",
+   "board": "dhaka",
+   "board_bn": "ঢাকা",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "03",
+   "printed_page": 750,
+   "scan": 765,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-rajshahi-2023-set-kha-mcq",
+   "board": "rajshahi",
+   "board_bn": "রাজশাহী",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "kha",
+   "printed_page": 751,
+   "scan": 766,
+   "rows": 20,
+   "held": 5,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-rajshahi-2023-set-01-creative",
+   "board": "rajshahi",
+   "board_bn": "রাজশাহী",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "01",
+   "printed_page": 752,
+   "scan": 767,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-jessore-2023-set-ga-mcq",
+   "board": "jessore",
+   "board_bn": "যশোর",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "ga",
+   "printed_page": 753,
+   "scan": 768,
+   "rows": 19,
+   "held": 6,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-jessore-2023-set-03-creative",
+   "board": "jessore",
+   "board_bn": "যশোর",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "03",
+   "printed_page": 754,
+   "scan": 769,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-cumilla-2023-set-ka-mcq",
+   "board": "cumilla",
+   "board_bn": "কুমিল্লা",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "ka",
+   "printed_page": 755,
+   "scan": 770,
+   "rows": 18,
+   "held": 7,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-cumilla-2023-set-01-creative",
+   "board": "cumilla",
+   "board_bn": "কুমিল্লা",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "01",
+   "printed_page": 756,
+   "scan": 771,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-chattogram-2023-set-ga-mcq",
+   "board": "chattogram",
+   "board_bn": "চট্টগ্রাম",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "ga",
+   "printed_page": 757,
+   "scan": 772,
+   "rows": 20,
+   "held": 5,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-chattogram-2023-set-03-creative",
+   "board": "chattogram",
+   "board_bn": "চট্টগ্রাম",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "03",
+   "printed_page": 758,
+   "scan": 773,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-sylhet-2023-set-ka-mcq",
+   "board": "sylhet",
+   "board_bn": "সিলেট",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "ka",
+   "printed_page": 759,
+   "scan": 774,
+   "rows": 19,
+   "held": 6,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-sylhet-2023-set-03-creative",
+   "board": "sylhet",
+   "board_bn": "সিলেট",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "03",
+   "printed_page": 760,
+   "scan": 775,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-barishal-2023-set-kha-mcq",
+   "board": "barishal",
+   "board_bn": "বরিশাল",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "kha",
+   "printed_page": 761,
+   "scan": 776,
+   "rows": 20,
+   "held": 5,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-barishal-2023-set-03-creative",
+   "board": "barishal",
+   "board_bn": "বরিশাল",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "03",
+   "printed_page": 762,
+   "scan": 777,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-dinajpur-2023-set-ga-mcq",
+   "board": "dinajpur",
+   "board_bn": "দিনাজপুর",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "ga",
+   "printed_page": 763,
+   "scan": 778,
+   "rows": 20,
+   "held": 5,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-dinajpur-2023-set-03-creative",
+   "board": "dinajpur",
+   "board_bn": "দিনাজপুর",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "03",
+   "printed_page": 764,
+   "scan": 779,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-mymensingh-2023-set-ka-mcq",
+   "board": "mymensingh",
+   "board_bn": "ময়মনসিংহ",
+   "year": 2023,
+   "section": "board-mcq",
+   "set_label_verbatim": "ka",
+   "printed_page": 765,
+   "scan": 780,
+   "rows": 18,
+   "held": 7,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-mymensingh-2023-set-03-creative",
+   "board": "mymensingh",
+   "board_bn": "ময়মনসিংহ",
+   "year": 2023,
+   "section": "board-creative",
+   "set_label_verbatim": "03",
+   "printed_page": 766,
+   "scan": 781,
+   "rows": 6,
+   "held": 2,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-dhaka-2024-set-kha-bhagirathi-mcq",
+   "board": "dhaka",
+   "board_bn": "ঢাকা",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "kha-bhagirathi",
+   "printed_page": 767,
+   "scan": 782,
+   "rows": 13,
+   "held": 12,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-dhaka-2024-set-03-buriganga-creative",
+   "board": "dhaka",
+   "board_bn": "ঢাকা",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "03-buriganga",
+   "printed_page": 768,
+   "scan": 783,
+   "rows": 4,
+   "held": 4,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-rajshahi-2024-set-gha-padma-mcq",
+   "board": "rajshahi",
+   "board_bn": "রাজশাহী",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "gha-padma",
+   "printed_page": 769,
+   "scan": 784,
+   "rows": 15,
+   "held": 10,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-rajshahi-2024-set-01-jamuna-creative",
+   "board": "rajshahi",
+   "board_bn": "রাজশাহী",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "01-jamuna",
+   "printed_page": 770,
+   "scan": 785,
+   "rows": 4,
+   "held": 4,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-jessore-2024-set-gha-bhairab-mcq",
+   "board": "jessore",
+   "board_bn": "যশোর",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "gha-bhairab",
+   "printed_page": 771,
+   "scan": 786,
+   "rows": 10,
+   "held": 15,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-jessore-2024-set-03-kopotakkho-creative",
+   "board": "jessore",
+   "board_bn": "যশোর",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "03-kopotakkho",
+   "printed_page": 772,
+   "scan": 787,
+   "rows": 3,
+   "held": 5,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-cumilla-2024-set-ga-kalni-mcq",
+   "board": "cumilla",
+   "board_bn": "কুমিল্লা",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "ga-kalni",
+   "printed_page": 773,
+   "scan": 788,
+   "rows": 17,
+   "held": 8,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-cumilla-2024-set-01-dak-creative",
+   "board": "cumilla",
+   "board_bn": "কুমিল্লা",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "01-dak",
+   "printed_page": 774,
+   "scan": 789,
+   "rows": 4,
+   "held": 4,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-chattogram-2024-set-gha-bangshi-mcq",
+   "board": "chattogram",
+   "board_bn": "চট্টগ্রাম",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "gha-bangshi",
+   "printed_page": 775,
+   "scan": 790,
+   "rows": 15,
+   "held": 10,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-chattogram-2024-set-03-bhairab-creative",
+   "board": "chattogram",
+   "board_bn": "চট্টগ্রাম",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "03-bhairab",
+   "printed_page": 776,
+   "scan": 791,
+   "rows": 4,
+   "held": 4,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-sylhet-2024-set-ka-dhansiri-mcq",
+   "board": "sylhet",
+   "board_bn": "সিলেট",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "ka-dhansiri",
+   "printed_page": 777,
+   "scan": 792,
+   "rows": 13,
+   "held": 12,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-sylhet-2024-set-01-chita-creative",
+   "board": "sylhet",
+   "board_bn": "সিলেট",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "01-chita",
+   "printed_page": 778,
+   "scan": 793,
+   "rows": 3,
+   "held": 5,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-barishal-2024-set-kha-kopotakkho-mcq",
+   "board": "barishal",
+   "board_bn": "বরিশাল",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "kha-kopotakkho",
+   "printed_page": 779,
+   "scan": 794,
+   "rows": 15,
+   "held": 10,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-barishal-2024-set-03-ichhamati-creative",
+   "board": "barishal",
+   "board_bn": "বরিশাল",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "03-ichhamati",
+   "printed_page": 780,
+   "scan": 795,
+   "rows": 5,
+   "held": 3,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-dinajpur-2024-set-ka-ganguli-mcq",
+   "board": "dinajpur",
+   "board_bn": "দিনাজপুর",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "ka-ganguli",
+   "printed_page": 781,
+   "scan": 796,
+   "rows": 20,
+   "held": 5,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-dinajpur-2024-set-01-surma-creative",
+   "board": "dinajpur",
+   "board_bn": "দিনাজপুর",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "01-surma",
+   "printed_page": 782,
+   "scan": 797,
+   "rows": 4,
+   "held": 4,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-mymensingh-2024-set-gha-payra-mcq",
+   "board": "mymensingh",
+   "board_bn": "ময়মনসিংহ",
+   "year": 2024,
+   "section": "board-mcq",
+   "set_label_verbatim": "gha-payra",
+   "printed_page": 783,
+   "scan": 798,
+   "rows": 13,
+   "held": 12,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-board-mymensingh-2024-set-03-kirtankhola-creative",
+   "board": "mymensingh",
+   "board_bn": "ময়মনসিংহ",
+   "year": 2024,
+   "section": "board-creative",
+   "set_label_verbatim": "03-kirtankhola",
+   "printed_page": 784,
+   "scan": 799,
+   "rows": 4,
+   "held": 4,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-board.json"
+  },
+  {
+   "id": "phy-ch1-model",
+   "title": "Chapter model test (PART 04 Assessment & Evaluation)",
+   "pages": [
+    75,
+    76
+   ],
+   "subject": "পদার্থবিজ্ঞান, দশম শ্রেণি",
+   "time": "3h",
+   "marks_total": 75,
+   "format": "MCQ 25x1 = 25 + short any-5x2 = 10 + creative any-4x10 = 40",
+   "sections": [
+    "model-mcq",
+    "model-short",
+    "model-creative"
+   ],
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-ch1.json"
+  },
+  {
+   "id": "phy-ch2-model",
+   "name": "অধ্যায়ভিত্তিক পূর্ণাঙ্গ মডেল টেস্ট (অধ্যায় ২: গতি)",
+   "notes": [
+    "হেডার: পদার্থবিজ্ঞান, দশম শ্রেণি, সময় ৩ ঘণ্টা, পূর্ণমান ৭৫। বহুনির্বাচনি অভীক্ষা: প্রতিটি প্রশ্নের মান ১, ১ x ২৫ = ২৫। সংক্ষিপ্ত-উত্তর প্রশ্ন: প্রতিটি প্রশ্নের মান ২, যেকোনো ৫টি, ২ x ৫ = ১০। সৃজনশীল প্রশ্ন: প্রতিটি প্রশ্নের মান ১০, যেকোনো ৪টি, ১০ x ৪ = ৪০।",
+    "MCQ ২৫টি পৃ. ১৯৫-এ; সংক্ষিপ্ত ৭টি ও সৃজনশীল ৭টি পৃ. ১৯৬-এ। MCQ চাবি পৃ. ১৯৬-এর শেষের 'উত্তরমালা ▶ বহুনির্বাচনি অভীক্ষা' গ্রিড থেকে (নম্বর-সেল মিলিয়ে): 1 ঘ, 2 খ, 3 ঘ, 4 ঘ, 5 ঘ, 6 ঘ, 7 ঘ, 8 খ, 9 গ, 10 গ, 11 গ, 12 গ, 13 ক, 14 গ, 15 ঘ, 16 খ, 17 খ, 18 খ, 19 গ, 20 খ, 21 ক, 22 ক, 23 ঘ, 24 গ, 25 ঘ।",
+    "লিখিত অংশ POINTER-ONLY: উত্তর null; উত্তরসূত্র যেমন ছাপা তেমনই answer_pointer-এ। সংক্ষিপ্ত পয়েন্টার: 1→109/6, 2→109/13, 3→111/29, 4→112/53, 5→115/89, 6→116/106, 7→117/108। সৃজনশীল পয়েন্টার: 1→120/5, 2→126/14, 3→131/23, 4→137/32, 5→145/47, 6→160/75, 7→161/77।",
+    "মডেল সৃজনশীল ১, ২, ৫-এ লেখচিত্র অঙ্কন/পাঠ অংশ আছে — সেগুলো diagram_dependent=true হিসাবে আলাদা বাকেটে, সম্পূর্ণতা-হিসাবে গোনা যাবে না।"
+   ],
+   "pages": "195-196",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-ch2.json"
+  },
+  {
+   "id": "phy-ch3-model",
+   "kind": "chapter-model",
+   "sections": [
+    "model-mcq",
+    "model-short",
+    "model-creative"
+   ],
+   "mcq_count": 25,
+   "short_count": 7,
+   "creative_count": 7,
+   "marks": {
+    "model-mcq": 1,
+    "model-short": 2,
+    "model-creative": 10
+   },
+   "pages": "293-294",
+   "note": "Model test header: পদার্থবিজ্ঞান, দশম শ্রেণি, সময় ৩ ঘণ্টা, পূর্ণমান ৭৫; MCQ 25x1, short any-5x2, creative any-4x10.",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-ch3.json"
+  },
+  {
+   "id": "phy-ch4-model",
+   "title": "অধ্যায়ভিত্তিক পূর্ণাঙ্গ মডেল টেস্ট (চতুর্থ অধ্যায়: কাজ, ক্ষমতা ও শক্তি)",
+   "pages": [
+    423,
+    424
+   ],
+   "mcq": {
+    "count": 25,
+    "marks": 25,
+    "marks_each": 1
+   },
+   "written": {
+    "short": {
+     "offered": 7,
+     "answer_any": 5,
+     "marks_each": 2,
+     "marks": 10
+    },
+    "creative": {
+     "offered": 7,
+     "answer_any": 4,
+     "marks_each": 10,
+     "marks": 40
+    }
+   },
+   "total_marks": 75,
+   "time": "3 hours",
+   "note": "Model written answers are NOT printed in full on pp.423-424; the book prints উত্তরসূত্র pointers only, so model-short and model-creative rows are pointer-only (answer null, answer_pointer verbatim). Model MCQ keys are from the p.424 answer grid.",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-ch4.json"
+  },
+  {
+   "id": "phy-ch7-model",
+   "title": "অধ্যায়ভিত্তিক পূর্ণাঙ্গ মডেল টেস্ট (৭ম অধ্যায়)",
+   "pages": [
+    521,
+    522
+   ],
+   "status": "done",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-ch7.json"
+  },
+  {
+   "id": "phy-ch8-model",
+   "title": "অধ্যায়ভিত্তিক মডেল টেস্ট (অষ্টম অধ্যায়: আলোর প্রতিফলন)",
+   "pages": [
+    619,
+    620
+   ],
+   "subject": "পদার্থবিজ্ঞান",
+   "class": "দশম শ্রেণি",
+   "time": "3 hours",
+   "total_marks": 75,
+   "mcq": {
+    "count": 25,
+    "marks_each": 1,
+    "marks": 25,
+    "key_source": "উত্তরমালা গ্রিড, ৬২০ পৃষ্ঠা"
+   },
+   "written": {
+    "short": {
+     "count": 7,
+     "answer_any": 5,
+     "marks_each": 2,
+     "marks": 10,
+     "answer": "pointer-only"
+    },
+    "creative": {
+     "count": 7,
+     "answer_any": 4,
+     "marks_each": 10,
+     "marks": 40,
+     "answer": "pointer-only"
+    }
+   },
+   "note": "লিখিত অংশের উত্তর মুদ্রিত নয়; উত্তরসূত্রে অধ্যায়ের ভেতরের পৃষ্ঠা/প্রশ্ন-নম্বর নির্দেশ দেওয়া আছে (৬২০ পৃষ্ঠা)। মডেল-সৃজনশীল ১ নং-এর খ অংশ ও ৪/৭ নং-এর খ অংশ সপ্তম অধ্যায়ের বিষয়; মডেল-সৃজনশীল ৪ ও ৭ নং-এর অংশ-প্রশ্নপাঠ অভিন্ন, চিত্র ভিন্ন।",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-ch8.json"
+  },
+  {
+   "id": "phy-ch10-model",
+   "title": "অধ্যায়ভিত্তিক মডেল টেস্ট (দশম অধ্যায়: স্থির বিদ্যুৎ)",
+   "pages": [
+    697,
+    698
+   ],
+   "mcq": {
+    "count": 25,
+    "time": "25 minutes",
+    "marks": 25
+   },
+   "written": {
+    "short": 7,
+    "short_marks": 10,
+    "creative": 7,
+    "creative_marks": 40,
+    "time": "2 hours 35 minutes",
+    "marks": 50
+   },
+   "note": "মডেল টেস্ট পূর্ণমান ৭৫ (MCQ ২৫ + সংক্ষিপ্ত যেকোনো ৫×২=১০ + সৃজনশীল যেকোনো ৪×১০=৪০)। লিখিত অংশ POINTER-ONLY: উত্তরসংকেতের পৃষ্ঠা+প্রশ্ন-নম্বর verbatim রাখা হয়েছে, লক্ষ্য প্রশ্নের উত্তর কপি করা হয়নি। MCQ key p.698-এর উত্তরমালা গ্রিড থেকে প্রশ্ন-নম্বর মিলিয়ে নেওয়া।",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-ch10.json"
+  },
+  {
+   "id": "phy-practical",
+   "marks_total": 25,
+   "pages": [
+    699,
+    700,
+    701,
+    702,
+    703,
+    704
+   ],
+   "sections": {
+    "viva": 70
+   },
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-practical.json"
+  },
+  {
+   "format": "MCQ 25×1 + short any-5×2 + creative any-4×10, 3h, 75 marks",
+   "id": "phy-model-01",
+   "mcq_count": 25,
+   "pages": [
+    705,
+    706
+   ],
+   "short_count": 7,
+   "subject_code": 136,
+   "written_count": 7,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "format": "MCQ 25×1 + short any-5×2 + creative any-4×10, 3h, 75 marks",
+   "id": "phy-model-02",
+   "mcq_count": 25,
+   "pages": [
+    707,
+    708
+   ],
+   "short_count": 7,
+   "subject_code": 136,
+   "written_count": 7,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "format": "MCQ 25×1 + short any-5×2 + creative any-4×10, 3h, 75 marks",
+   "id": "phy-model-03",
+   "mcq_count": 25,
+   "pages": [
+    709,
+    710
+   ],
+   "short_count": 7,
+   "subject_code": 136,
+   "written_count": 7,
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-04",
+   "marks_total": 75,
+   "pages": [
+    711,
+    712
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-05",
+   "marks_total": 75,
+   "pages": [
+    713,
+    714
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-06",
+   "marks_total": 75,
+   "pages": [
+    715,
+    716
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-07",
+   "marks_total": 75,
+   "pages": [
+    717,
+    718
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-08",
+   "marks_total": 75,
+   "pages": [
+    719,
+    720
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-09",
+   "marks_total": 75,
+   "pages": [
+    721,
+    722
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-10",
+   "marks_total": 75,
+   "pages": [
+    723,
+    724
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-11",
+   "marks_total": 75,
+   "pages": [
+    725,
+    726
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-12",
+   "marks_total": 75,
+   "pages": [
+    727,
+    728
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-13",
+   "marks_total": 75,
+   "pages": [
+    729,
+    730
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 17,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-14",
+   "marks_total": 75,
+   "pages": [
+    731,
+    732
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-15",
+   "marks_total": 75,
+   "pages": [
+    733,
+    734
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-16",
+   "marks_total": 75,
+   "pages": [
+    735,
+    736
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-17",
+   "marks_total": 75,
+   "pages": [
+    737,
+    738
+   ],
+   "sections": {
+    "model-creative": 6,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-18",
+   "marks_total": 75,
+   "pages": [
+    739,
+    740
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-19",
+   "marks_total": 75,
+   "pages": [
+    741,
+    742
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-20",
+   "marks_total": 75,
+   "pages": [
+    743,
+    744
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-21",
+   "marks_total": 75,
+   "pages": [
+    745,
+    746
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  },
+  {
+   "id": "phy-model-22",
+   "marks_total": 75,
+   "pages": [
+    747,
+    748
+   ],
+   "sections": {
+    "model-creative": 7,
+    "model-mcq": 25,
+    "model-short": 7
+   },
+   "time": "3h",
+   "book_id": "class9-physics-bn-guide",
+   "source_file": "phy-special.json"
+  }
+ ]
+}
