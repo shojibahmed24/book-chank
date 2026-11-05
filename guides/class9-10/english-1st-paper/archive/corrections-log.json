@@ -1,0 +1,38 @@
+[
+ {
+  "id": "class9-10-english-p0001-cover",
+  "field": "page_status",
+  "basis": "200dpi re-read: book cover, no question content",
+  "source_file": "rereview-english/p0001-001.pgm"
+ },
+ {
+  "id": "class9-10-english-p0011-divider",
+  "field": "page_status",
+  "basis": "200dpi re-read: Part-A Reading Test divider, no question content; low 150dpi char count explained (graphics-heavy divider)",
+  "source_file": "rereview-english/p0011-011.pgm"
+ },
+ {
+  "id": "class9-10-english-p0391-divider",
+  "field": "page_status",
+  "basis": "200dpi re-read: Supplementary Reading divider, no question content",
+  "source_file": "rereview-english/p0391-391.pgm"
+ },
+ {
+  "id": "class9-10-english-p0481-divider",
+  "field": "page_status",
+  "basis": "200dpi re-read: Writing Test divider, no question content",
+  "source_file": "rereview-english/p0481-481.pgm"
+ },
+ {
+  "id": "class9-10-english-p0571-divider",
+  "field": "page_status",
+  "basis": "200dpi re-read: Special Model Tests and Answers divider, no question content; low 150dpi char count explained",
+  "source_file": "rereview-english/p0571-571.pgm"
+ },
+ {
+  "id": "class9-10-english-p0012-frontmatter",
+  "field": "page_status",
+  "basis": "200dpi re-read: abbreviations list (synonym/antonym/etc.), front matter, no question content; 150dpi 613 chars explained",
+  "source_file": "rereview-english/p0012-012.pgm"
+ }
+]

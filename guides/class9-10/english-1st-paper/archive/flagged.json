@@ -1,0 +1,1787 @@
+[
+ {
+  "id": "class9-10-english-p110-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p148-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p161-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p210-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p289-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p298-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p346-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p384-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p388-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p626-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p627-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p657-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p661-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p679-q11-unclassified",
+  "kind": "q11_unclassified",
+  "reason": "numbered 11. prompt in test range matches no writing keyword; not emitted"
+ },
+ {
+  "id": "class9-10-english-p17-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p22-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p24-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p31-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p31-short-rejected-2",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p39-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p39-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p39-mcq-rejected-3",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected-2",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected-3",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected-4",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected-5",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected-6",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected-7",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected-8",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p72-short-rejected-9",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p75-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p97-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p100-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p103-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p103-short-rejected-2",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p105-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p107-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p121-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p121-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-3",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-4",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-5",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-6",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-7",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-8",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-9",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-10",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-11",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-12",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-13",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-14",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-15",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-16",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-17",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-18",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-19",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-20",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-21",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-22",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-23",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-24",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-25",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-26",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-27",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p132-mcq-rejected-28",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p137-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p147-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p155-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p155-short-rejected-2",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p155-short-rejected-3",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p155-short-rejected-4",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p155-short-rejected-5",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p155-short-rejected-6",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p155-short-rejected-7",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p155-short-rejected-8",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p159-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p161-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p161-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p166-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p166-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p185-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p193-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-3",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-4",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-5",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-6",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-7",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-8",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-9",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-10",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-11",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-12",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-13",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-14",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-15",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-16",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-17",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-18",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-19",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-20",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-21",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-22",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-23",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-24",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p196-mcq-rejected-25",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p198-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p208-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p208-short-rejected-2",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p213-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-3",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-4",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-5",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-6",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-7",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-8",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-9",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-10",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-11",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p220-mcq-rejected-12",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p227-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p227-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p227-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p227-short-rejected-2",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-2",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-3",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-4",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-5",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-6",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-7",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-8",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-9",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p229-poem_q-rejected-10",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p249-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p250-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-3",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-4",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-5",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-6",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-7",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-8",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-9",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-10",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-11",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-12",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-13",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-14",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-15",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-16",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-17",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-18",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-19",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-20",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p252-mcq-rejected-21",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p261-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p279-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-3",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-4",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-5",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-6",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-7",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-8",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-9",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-10",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-11",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-12",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-13",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-14",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-15",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-16",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-17",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-18",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-19",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-20",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-21",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-22",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-23",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-24",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p281-mcq-rejected-25",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p304-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p312-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p317-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p321-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p328-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p329-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p341-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p343-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p345-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p351-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p362-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p363-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p365-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p381-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p384-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p574-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p578-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p578-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p582-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p584-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p584-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p584-mcq-rejected-3",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p585-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p587-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p588-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p589-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p590-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p591-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p591-mcq-rejected-2",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p591-mcq-rejected-3",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p591-mcq-rejected-4",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p591-mcq-rejected-5",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p592-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p594-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p595-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p595-mcq-rejected",
+  "kind": "mcq_few_options",
+  "reason": "MCQ segment has fewer than 3 option markers; not emitted"
+ },
+ {
+  "id": "class9-10-english-p598-short-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p599-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p601-poem_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p601-story_q-rejected",
+  "kind": "short_no_question_mark",
+  "reason": "short segment has no question mark or question-word start; not emitted"
+ },
+ {
+  "id": "class9-10-english-p489-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p495-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p499-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p499-writing-noans-2",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p510-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p511-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p524-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p529-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p529-writing-noans-2",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p529-writing-noans-3",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p543-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p543-writing-noans-2",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p546-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p546-writing-noans-2",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p546-writing-noans-3",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p547-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p548-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p568-writing-noans",
+  "kind": "writing_no_ans",
+  "reason": "writing item has no printed Ans. block; model text not linked"
+ },
+ {
+  "id": "class9-10-english-p22-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 14 items matches no exact set-size sum in scope (prev sheet p0..p22)"
+ },
+ {
+  "id": "class9-10-english-p22-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 5 items matches no exact set-size sum in scope (prev sheet p0..p22)"
+ },
+ {
+  "id": "class9-10-english-p28-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 14 items matches no exact set-size sum in scope (prev sheet p22..p28)"
+ },
+ {
+  "id": "class9-10-english-p43-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 13 items matches no exact set-size sum in scope (prev sheet p28..p43)"
+ },
+ {
+  "id": "class9-10-english-p43-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 14 items matches no exact set-size sum in scope (prev sheet p28..p43)"
+ },
+ {
+  "id": "class9-10-english-p53-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 7 items matches no exact set-size sum in scope (prev sheet p43..p53)"
+ },
+ {
+  "id": "class9-10-english-p67-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 11 items matches no exact set-size sum in scope (prev sheet p53..p67)"
+ },
+ {
+  "id": "class9-10-english-p78-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 6 items matches no exact set-size sum in scope (prev sheet p67..p78)"
+ },
+ {
+  "id": "class9-10-english-p78-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 6 items matches no exact set-size sum in scope (prev sheet p67..p78)"
+ },
+ {
+  "id": "class9-10-english-p100-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 20 items matches no exact set-size sum in scope (prev sheet p78..p100)"
+ },
+ {
+  "id": "class9-10-english-p105-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 13 items matches no exact set-size sum in scope (prev sheet p100..p105)"
+ },
+ {
+  "id": "class9-10-english-p105-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 4 items matches no exact set-size sum in scope (prev sheet p100..p105)"
+ },
+ {
+  "id": "class9-10-english-p110-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 13 items matches no exact set-size sum in scope (prev sheet p105..p110)"
+ },
+ {
+  "id": "class9-10-english-p123-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 6 items matches no exact set-size sum in scope (prev sheet p110..p123)"
+ },
+ {
+  "id": "class9-10-english-p139-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 14 items matches no exact set-size sum in scope (prev sheet p123..p139)"
+ },
+ {
+  "id": "class9-10-english-p148-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 14 items matches no exact set-size sum in scope (prev sheet p139..p148)"
+ },
+ {
+  "id": "class9-10-english-p167-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 6 items matches no exact set-size sum in scope (prev sheet p148..p167)"
+ },
+ {
+  "id": "class9-10-english-p167-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 6 items matches no exact set-size sum in scope (prev sheet p148..p167)"
+ },
+ {
+  "id": "class9-10-english-p177-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 13 items matches no exact set-size sum in scope (prev sheet p167..p177)"
+ },
+ {
+  "id": "class9-10-english-p201-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 14 items matches no exact set-size sum in scope (prev sheet p177..p201)"
+ },
+ {
+  "id": "class9-10-english-p210-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 7 items matches no exact set-size sum in scope (prev sheet p201..p210)"
+ },
+ {
+  "id": "class9-10-english-p210-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 6 items matches no exact set-size sum in scope (prev sheet p201..p210)"
+ },
+ {
+  "id": "class9-10-english-p210-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 4 items matches no exact set-size sum in scope (prev sheet p201..p210)"
+ },
+ {
+  "id": "class9-10-english-p224-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 7 items matches no exact set-size sum in scope (prev sheet p210..p224)"
+ },
+ {
+  "id": "class9-10-english-p224-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 12 items matches no exact set-size sum in scope (prev sheet p210..p224)"
+ },
+ {
+  "id": "class9-10-english-p307-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 13 items matches no exact set-size sum in scope (prev sheet p298..p307)"
+ },
+ {
+  "id": "class9-10-english-p307-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 3 items matches no exact set-size sum in scope (prev sheet p298..p307)"
+ },
+ {
+  "id": "class9-10-english-p321-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 12 items matches no exact set-size sum in scope (prev sheet p307..p321)"
+ },
+ {
+  "id": "class9-10-english-p321-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 6 items matches no exact set-size sum in scope (prev sheet p307..p321)"
+ },
+ {
+  "id": "class9-10-english-p366-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 14 items matches no exact set-size sum in scope (prev sheet p321..p366)"
+ },
+ {
+  "id": "class9-10-english-p366-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 3 items matches no exact set-size sum in scope (prev sheet p321..p366)"
+ },
+ {
+  "id": "class9-10-english-p371-mcq",
+  "kind": "key_group_mismatch",
+  "reason": "mcq group of 2 items matches no exact set-size sum in scope (prev sheet p366..p371)"
+ },
+ {
+  "id": "class9-10-english-p22-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 9 items matches no exact set-size sum in scope (prev sheet p0..p22)"
+ },
+ {
+  "id": "class9-10-english-p53-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 3 items matches no exact set-size sum in scope (prev sheet p28..p53)"
+ },
+ {
+  "id": "class9-10-english-p78-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 6 items matches no exact set-size sum in scope (prev sheet p53..p78)"
+ },
+ {
+  "id": "class9-10-english-p110-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 10 items matches no exact set-size sum in scope (prev sheet p100..p110)"
+ },
+ {
+  "id": "class9-10-english-p123-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 4 items matches no exact set-size sum in scope (prev sheet p110..p123)"
+ },
+ {
+  "id": "class9-10-english-p139-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 20 items matches no exact set-size sum in scope (prev sheet p123..p139)"
+ },
+ {
+  "id": "class9-10-english-p167-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 5 items matches no exact set-size sum in scope (prev sheet p148..p167)"
+ },
+ {
+  "id": "class9-10-english-p224-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 11 items matches no exact set-size sum in scope (prev sheet p167..p224)"
+ },
+ {
+  "id": "class9-10-english-p321-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 16 items matches no exact set-size sum in scope (prev sheet p224..p321)"
+ },
+ {
+  "id": "class9-10-english-p366-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 20 items matches no exact set-size sum in scope (prev sheet p321..p366)"
+ },
+ {
+  "id": "class9-10-english-p22-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 13 items matches no exact set-size sum in scope (prev sheet p0..p22)"
+ },
+ {
+  "id": "class9-10-english-p28-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 6 items matches no exact set-size sum in scope (prev sheet p22..p28)"
+ },
+ {
+  "id": "class9-10-english-p148-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 3 items matches no exact set-size sum in scope (prev sheet p105..p148)"
+ },
+ {
+  "id": "class9-10-english-p201-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 6 items matches no exact set-size sum in scope (prev sheet p148..p201)"
+ },
+ {
+  "id": "class9-10-english-p215-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 6 items matches no exact set-size sum in scope (prev sheet p201..p215)"
+ },
+ {
+  "id": "class9-10-english-p298-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 7 items matches no exact set-size sum in scope (prev sheet p215..p298)"
+ },
+ {
+  "id": "class9-10-english-p307-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 3 items matches no exact set-size sum in scope (prev sheet p298..p307)"
+ },
+ {
+  "id": "class9-10-english-p28-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 9 items matches no exact set-size sum in scope (prev sheet p0..p28)"
+ },
+ {
+  "id": "class9-10-english-p43-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 12 items matches no exact set-size sum in scope (prev sheet p28..p43)"
+ },
+ {
+  "id": "class9-10-english-p53-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 7 items matches no exact set-size sum in scope (prev sheet p43..p53)"
+ },
+ {
+  "id": "class9-10-english-p78-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 7 items matches no exact set-size sum in scope (prev sheet p53..p78)"
+ },
+ {
+  "id": "class9-10-english-p100-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 4 items matches no exact set-size sum in scope (prev sheet p78..p100)"
+ },
+ {
+  "id": "class9-10-english-p105-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 5 items matches no exact set-size sum in scope (prev sheet p100..p105)"
+ },
+ {
+  "id": "class9-10-english-p123-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 12 items matches no exact set-size sum in scope (prev sheet p105..p123)"
+ },
+ {
+  "id": "class9-10-english-p201-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 7 items matches no exact set-size sum in scope (prev sheet p148..p201)"
+ },
+ {
+  "id": "class9-10-english-p210-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 3 items matches no exact set-size sum in scope (prev sheet p201..p210)"
+ },
+ {
+  "id": "class9-10-english-p298-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 4 items matches no exact set-size sum in scope (prev sheet p210..p298)"
+ },
+ {
+  "id": "class9-10-english-p307-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 6 items matches no exact set-size sum in scope (prev sheet p298..p307)"
+ },
+ {
+  "id": "class9-10-english-p366-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 7 items matches no exact set-size sum in scope (prev sheet p307..p366)"
+ },
+ {
+  "id": "class9-10-english-p371-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 4 items matches no exact set-size sum in scope (prev sheet p366..p371)"
+ },
+ {
+  "id": "class9-10-english-p389-short",
+  "kind": "answer_group_mismatch",
+  "reason": "short group of 8 items matches no exact set-size sum in scope (prev sheet p371..p389)"
+ },
+ {
+  "id": "special-short",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 5 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-poem_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 10 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-story_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 5 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-short",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 8 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-poem_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 4 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-story_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 4 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-poem_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 8 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-story_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-story_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 3 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-short",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 4 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-short",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 18 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 5 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-poem_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 13 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 5 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-short",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 5 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-story_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 7 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-poem_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 8 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-story_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 5 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-mcq",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 6 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-short",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 5 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-story_q",
+  "kind": "special_link_mismatch",
+  "reason": "special group of 3 items matches no exact set-size sum in its test span"
+ },
+ {
+  "id": "special-special2-count",
+  "kind": "special_block_count_mismatch",
+  "reason": "special special2: 55 tests but 59 answer blocks; no special answers linked for this part"
+ },
+ {
+  "id": "class9-10-english-p394-table-q4",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 3 shares no distinctive word with passage 3; link left null"
+ },
+ {
+  "id": "class9-10-english-p395-table-q",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 5 shares no distinctive word with passage 5; link left null"
+ },
+ {
+  "id": "class9-10-english-p396-table-q-2",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 8 shares no distinctive word with passage 8; link left null"
+ },
+ {
+  "id": "class9-10-english-p396-table-q-3",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 9 shares no distinctive word with passage 9; link left null"
+ },
+ {
+  "id": "class9-10-english-p398-table-q16",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 12 shares no distinctive word with passage 12; link left null"
+ },
+ {
+  "id": "class9-10-english-p398-table-q",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 13 shares no distinctive word with passage 13; link left null"
+ },
+ {
+  "id": "class9-10-english-p398-table-q10",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 14 shares no distinctive word with passage 14; link left null"
+ },
+ {
+  "id": "class9-10-english-p398-table-q-2",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 15 shares no distinctive word with passage 15; link left null"
+ },
+ {
+  "id": "class9-10-english-p399-table-q10",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 16 shares no distinctive word with passage 16; link left null"
+ },
+ {
+  "id": "class9-10-english-p399-table-q",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 17 shares no distinctive word with passage 17; link left null"
+ },
+ {
+  "id": "class9-10-english-p401-table-q1-2",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 22 shares no distinctive word with passage 22; link left null"
+ },
+ {
+  "id": "class9-10-english-p404-table-q77",
+  "kind": "unseen_link_unverified",
+  "reason": "special-unseen table order position 28 shares no distinctive word with passage 28; link left null"
+ }
+]
