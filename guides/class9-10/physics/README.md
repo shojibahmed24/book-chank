@@ -16,12 +16,15 @@ The two are never mixed.
 | Guide questions, normalized (`questions-part*.json`) | 6,700 |
 | Prose chunks (`chunks.json`) | 72 |
 | Sets (`sets.json`) | 66 |
-| Held rows (`held.json`) | 368 |
+| Held rows (`held.json`) | 369 |
 
 The same 6,700 rows and 72 chunks are live in the app database.
 Keyless MCQs: exactly 13. Chapters: ch1 671, ch2 820, ch3 827,
-ch4 876, ch7 765, ch8 763, ch10 666, practical 70, special 849,
-board 394 (rows before held).
+ch4 876, ch7 765, ch8 762, ch10 666, practical 70, special 849,
+board 394 (rows before held). Chapters 5, 6 and 9 have no collection
+files. Note: the collection file for ch8 holds 763 rows, but the
+normalized file holds 762 — one row was moved to held during the
+correction pass (6,701 rows before correction, 6,700 after).
 
 ## File formats
 

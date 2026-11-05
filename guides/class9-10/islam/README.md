@@ -18,11 +18,12 @@ two are never mixed.
 | Sets (`sets.json`) | 85 |
 | Held, excluded (`held-excluded.json`) | 26 |
 
-**Honest limit:** the import audit reports `db_rows` 5,697 against
-`file_rows` 4,293 — a 1,404-row gap the files do not explain. The live
-count 5,697 is the program-log figure; this folder holds the 4,293-row
-normalized file that the audit itself records. Do not fill the gap by
-guessing.
+**How the counts relate:** the import audit reports `db_rows` 5,697
+against `file_rows` 4,293. The audit and the normalization log explain
+the difference: 393 parts-rows are combined in the file and split into
+separate rows in the database. So the file holds 4,293 rows and the live
+database holds 5,697 rows from the same material. The audit's section
+sum is also 5,697, matching live.
 
 ## File formats
 
@@ -58,4 +59,4 @@ guessing.
 ## Version
 
 Normalized build 2026-11-02. File rows 4,293; audit db_rows 5,697
-(gap unexplained — see honest limit above).
+(parts-rows split in the database — see above).
