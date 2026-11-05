@@ -20,6 +20,38 @@ Classes 1–5 and 8–10 are **not yet added**. When a new class lands, it follo
 the exact same layout (`class<N>/questions.json`, `questions.sql`,
 `chunks.json`, `chunks.sql`, plus `chapters.json` where available).
 
+## Guide banks (Class 9–10)
+
+Guide data lives under `guides/class9-10/<subject>/` — one folder per
+subject, following the `guides/class7/math` precedent (`questions.json`
+or `questions-part*.json`, `chunks.json`, corrections/flags, plus a
+per-subject `README.md`). Guide folders **do** hold answer keys, unlike
+the `class<N>/` textbook folders, where no answer keys are stored.
+The same part-file rule applies: files above ~4 MB are split into
+valid-JSON-array parts, reassembled in filename order.
+
+| Subject | Questions | Chunks | Status |
+|---------|-----------|--------|--------|
+| bangla-1st-paper | 4,377 (16 verified lessons) | — | 2 lessons held (verified=false) |
+| bangla-2nd-paper | 2,761 | — | Live-verified |
+| bgs-newton | 1,255 (ch 2, 3, 6) | 23 | Ch 10, 11, 13 still collecting |
+| biology | 4,297 + 214 board-recollected | 49 | Live 5,798 (parts-rows split in DB) |
+| chemistry | 5,784 | — | Live-verified |
+| english-1st-paper | 4,855 redo units (import set 4,697) | — | Redo build; archive of pre-redo split kept |
+| english-2nd-paper | 3,508 (60 tests) | — | Paper-II, separate subject |
+| higher-math-newton | 3,795 | 58 | Live-verified (import-rows v2) |
+| higher-math-panjeree | 2,651 | 59 | Correction reference ONLY — never import |
+| ict | 3,575 | 132 | Live-verified |
+| islam | 4,293 file rows (5,697 DB rows) | 105 | Parts-rows split in DB |
+| math | 3,720 consolidated + 7,366 pilot units | 52 (reference only) | Live 10,543 not fully reproducible from files |
+| physics | 6,700 | 72 | Live-verified |
+
+Not yet pushed: economics, general-science (collection in progress),
+and the parked subjects history, geography, civics, finance and
+banking, business entrepreneurship, accounting (no downloadable guide
+source). See each subject's `README.md` for the honest limits
+(file-vs-live count gaps, held rows, open owner items).
+
 ## Layout
 
 ```text
