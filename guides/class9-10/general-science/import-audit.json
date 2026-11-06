@@ -1,0 +1,190 @@
+{
+ "book_id": "class9-10-general-science-bn-guide",
+ "book_id_status": "CONFIRMED 2026-11-06 (parent, user order: take the correct decision) — id class9-10-general-science-bn-guide follows the live convention (class9-10-higher-math-bn-guide, class9-10-bgs-bn-guide). Book facts: Newton series, Lecture Publications Ltd., SSC 2026, class 10, subject code 127 (printed, verified in 3 places), file SSC-General-Science-Guide-Exam-2026.pdf.",
+ "source_pdf": "SSC-General-Science-Guide-Exam-2026.pdf",
+ "rows_total": 5540,
+ "rows_per_file": {
+  "gs-ch1-rows.jsonl": 802,
+  "gs-ch2-rows.jsonl": 579,
+  "gs-ch3-rows.jsonl": 665,
+  "gs-ch7-rows.jsonl": 611,
+  "gs-ch10-rows.jsonl": 472,
+  "gs-ch11-rows.jsonl": 521,
+  "gs-back-rows.jsonl": 1890
+ },
+ "rows_per_section": {
+  "super-quiz": 476,
+  "activity": 15,
+  "mcq-bank": 1571,
+  "short-qa": 524,
+  "creative": 419,
+  "knowledge": 58,
+  "comprehension": 54,
+  "model": 318,
+  "knowledge-comprehension": 215,
+  "special-model": 794,
+  "board": 1096
+ },
+ "rows_per_subtype": {
+  "null": 636,
+  "exercise-mcq": 334,
+  "stimulus-mcq": 155,
+  "topic-mcq": 859,
+  "multi-mcq": 146,
+  "practice-mcq": 89,
+  "short-qa": 227,
+  "exercise": 4,
+  "board": 107,
+  "topschool": 29,
+  "integrated": 3,
+  "question-bank": 8,
+  "knowledge-qa": 58,
+  "comprehension-qa": 54,
+  "model-mcq": 90,
+  "model-short": 30,
+  "model-creative": 16,
+  "board-mcq": 819,
+  "extra-practice-mcq": 67,
+  "exercise-creative": 148,
+  "board-creative": 393,
+  "school-creative": 25,
+  "topic-creative": 14,
+  "knowledge": 125,
+  "comprehension": 90,
+  "exercise-short": 169,
+  "quiz": 50,
+  "activity": 1,
+  "special-model-mcq": 449,
+  "special-model-short": 225,
+  "special-model-creative": 120
+ },
+ "marks_null": 440,
+ "null_solution_total": 2489,
+ "null_solution_by_group": {
+  "chapter": 1088,
+  "special": 460,
+  "board": 941
+ },
+ "keyless_mcqs": [
+  "gs-board-ঢাকা-২০২৩-mcq-10",
+  "gs-board-দিনাজপুর-২০২৩-mcq-12",
+  "gs-board-যশোর-২০২৪-mcq-21"
+ ],
+ "keyless_mcqs_note": "exactly these 3; each carries a print note of no correct answer (see flag_notes). No other keyless MCQ exists in the collection.",
+ "dict_marks_parts_normalised": 77,
+ "dict_solutions_normalised": 122,
+ "list_options_normalised": 30,
+ "list_options_normalised_note": "30 ch7 model-mcq rows store options as a 4-element list, not a {ক,খ,গ,ঘ} dict -- normalised to dict in list order (ক,খ,গ,ঘ). All 30 lists are valid 4 non-empty strings with a valid answer_key.",
+ "partial_dict_solutions": [
+  "gs-ch11-creative-66",
+  "gs-ch11-creative-67",
+  "gs-ch11-creative-68",
+  "gs-ch11-creative-69"
+ ],
+ "partial_dict_solutions_note": "question has 4 parts but the guide prints answers only for ক/খ (গ/ঘ answers not in print, per their flag_notes) -- serialised as-is, not a defect",
+ "dependency_rows": 683,
+ "dependency_folded_into_flag_note": 683,
+ "dependency_already_in_flag_note": 0,
+ "dependency_note": "dependency is file-only (no DB column in the BGS-shaped output). It was folded into flag_note as '[dependency: ...]' where the flag did not already name the target; otherwise the target id would have been lost. board_ref is NOT parsed into board_name/board_year (BGS N3 precedent); both stay NULL.",
+ "board_rows": 1096,
+ "board_mcq": 808,
+ "board_creative": 288,
+ "board_creative_null_solution": 133,
+ "board_creative_null_solution_note": "NULL-solution board-creative rows are pointer-unresolved or পাঠ্যসূচি বহির্ভূত per their dependency/flag_note -- pre-existing, explained, not a defect",
+ "chapter_board_ref_rows": 1841,
+ "chapter_board_ref_exact_text_match_board_rows": 212,
+ "overlap_note": "212 chapter-file rows share exact question_text with a gs-board-* row (the guide reprints board questions in chapters AND in the board-paper section). No de-duplication -- both renderings preserved as collected.",
+ "chunks_total": 109,
+ "chunks_emitted": 101,
+ "chunks_held": 8,
+ "chunks_per_file": {
+  "gs-ch1-chunks.jsonl": 9,
+  "gs-ch2-chunks.jsonl": 9,
+  "gs-ch3-chunks.jsonl": 8,
+  "gs-ch7-chunks.jsonl": 10,
+  "gs-ch10-chunks.jsonl": 8,
+  "gs-ch11-chunks.jsonl": 8,
+  "gs-special-model-chunks.jsonl": 15,
+  "gs-back-chunks.jsonl": 42
+ },
+ "chunks_folio_from_guide_source": 86,
+ "chunks_folio_from_content": [
+  "gs-ch10-suggestions-01",
+  "gs-ch11-board-analysis-01",
+  "gs-ch11-chart-analysis-01",
+  "gs-ch11-glossary-01",
+  "gs-ch11-intro-01",
+  "gs-ch11-lo-analysis-01",
+  "gs-ch11-skill-analysis-01",
+  "gs-ch11-suggestions-01",
+  "gs-ch11-syllabus-01",
+  "gs-ch3-suggestions-01",
+  "gs-ch7-analysis-chart-01",
+  "gs-ch7-analysis-lo-01",
+  "gs-ch7-analysis-lo-02",
+  "gs-ch7-analysis-skill-01",
+  "gs-ch7-flow-01"
+ ],
+ "held_preexisting": [
+  "gs-board-দিনাজপুর-২০২৩-overview",
+  "gs-ch10-intro-01",
+  "gs-special-model-03-overview"
+ ],
+ "held_no_folio": [
+  "gs-ch7-analysis-board-01",
+  "gs-ch7-glossary-01",
+  "gs-ch7-intro-01",
+  "gs-ch7-suggestions-01",
+  "gs-ch7-syllabus-01"
+ ],
+ "held_notes": {
+  "gs-ch10-intro-01": "pre-existing held: folio 296 opener unreadable (topics list, scientists' names, chapter index unreadable even at 500 dpi)",
+  "gs-special-model-03-overview": "pre-existing held: SM03-short-07 (known held item)",
+  "gs-board-দিনাজপুর-২০২৩-overview": "pre-existing held: Dinajpur 2023 creative were missing. STALE after the 2026-11-06 recovery: content says 'মোট ৩০ সারি — MCQ ৩০, সৃজনশীল ০'; true now 38 rows (30 MCQ + 8 creative), 3 creative dropped (Q2, Q10, Q11). Refresh the overview text before unholding.",
+  "ch7_no_folio": "5 ch7 chunks have no folio in their own content (intro-01, analysis-board-01, syllabus-01, glossary-01, suggestions-01) -- held, never invented. LEAD: intro-01's tail lists the chapter's section folios (MCQ 231, short-qa 246, creative 251, knowledge/comprehension 285, suggestions 288, model test 289) -- a future worker may verify folio 288 by eye and unhold the suggestions chunk."
+ },
+ "open_decisions": [
+  "D1 book_id: DECIDED — CONFIRMED class9-10-general-science-bn-guide (see book_id_status).",
+  "D2 board_name/board_year: DECIDED — accept NULL (BGS N3 precedent; HM live rows have 0 non-null board_name).",
+  "D3 dependency: DECIDED — accept as built (folded into flag_note on 339 rows; field dropped, no DB column).",
+  "D4 212 exact-text overlaps chapter-board vs gs-board: DECIDED — keep BOTH, no dedup. Chapter view and board view are different sections; no drop rule applies; deleting would break one view.",
+  "D5 5 ch7 chunks held (no folio): DECIDED — keep held. Folio never invented.",
+  "D6 Dinajpur-2023-overview held chunk stale: DECIDED — keep held; refresh later, non-blocking for the write.",
+  "D7 4 partial dict solutions (ch11 creative 66-69): DECIDED — accept as-is; গ/ঘ answers not in print, never invented.",
+  "D8 SM05-mcq-10 wrong-restore: RESOLVED (verified 2026-11-06 from disk)."
+ ],
+ "recovery_2026_11_06": {
+  "dinajpur_2023_creative_recovered": 8,
+  "dinajpur_2023_creative_ids": [
+   "gs-board-দিনাজপুর-২০২৩-creative-01",
+   "gs-board-দিনাজপুর-২০২৩-creative-03",
+   "gs-board-দিনাজপুর-২০২৩-creative-04",
+   "gs-board-দিনাজপুর-২০২৩-creative-05",
+   "gs-board-দিনাজপুর-২০২৩-creative-06",
+   "gs-board-দিনাজপুর-২০২৩-creative-07",
+   "gs-board-দিনাজপুর-২০২৩-creative-08",
+   "gs-board-দিনাজপুর-২০২৩-creative-09"
+  ],
+  "cumilla_2024_creative_recovered": 1,
+  "cumilla_2024_creative_ids": [
+   "gs-board-কুমিল্লা-২০২৪-creative-02"
+  ],
+  "cumilla_2024_q9_corrected": "gs-board-কুমিল্লা-২০২৪-creative-09 -- খ corrected from folio 491 (previous খ was from a different question)",
+  "dinajpur_2023_dropped": [
+   "Q2 (lens ray diagram -- no chapter row, folio unreadable)",
+   "Q10 (বন্যা/কৃষক stimulus -- no chapter row, folio unreadable)",
+   "Q11 (not locatable on folio 481; previous worker HELD)"
+  ],
+  "cumilla_2024_dropped": [
+   "MCQ Q2 (chemistry names unreadable)",
+   "MCQ Q8 (chemotherapy side-effects stem unreadable)",
+   "creative Q3 (সবুজ সার stimulus unverifiable)",
+   "creative Q4 (flow-chart figure labels unreadable)",
+   "creative Q5 (বনায়ন stimulus unverifiable)",
+   "creative Q6 (বাস্তুতন্ত্র stimulus unverifiable)",
+   "creative Q8 (stimulus middle unreadable)",
+   "creative Q11 (FM radio stimulus unreadable)"
+  ],
+  "dinajpur_2023_q5_caveat": "gs-board-দিনাজপুর-২০২৩-creative-05 -> gs-ch1-creative-25 by elimination + structural match; stimulus words could NOT be verifiably read from blurred folio 481 -- flag_note states this"
+ }
+}

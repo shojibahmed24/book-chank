@@ -1,72 +1,57 @@
-# Class 9–10 BGS (Bangladesh & Global Studies) Guide, Newton — Question Bank
+# Class 9–10 BGS (Bangladesh & Global Studies) Guide — Question Bank
 
 Guide data for the **Yes Sir AI** tuition app, kept under `guides/` on
 purpose: this is **guide** material, not NCTB textbook material. The
 textbook folders (`class6/`, `class7/`) hold verbatim textbook questions
-and chunks; this folder holds the Class 9–10 BGS **guide** bank (Newton
-edition). The two are never mixed.
+and chunks; this folder holds the Class 9–10 BGS (Bangladesh & Global Studies) **guide** bank.
+The two are never mixed.
 
 বাংলা সংক্ষেপ: এটা গাইডের ডাটা, পাঠ্যবইয়ের নয়। নবম-দশম শ্রেণির
-বাংলাদেশ ও বিশ্বপরিচয় গাইডের (নিউটন) প্রশ্নব্যাংক — পাঠ্যবই ফোল্ডার
-থেকে সম্পূর্ণ আলাদা।
+বাংলাদেশ ও বিশ্বপরিচয় গাইডের প্রশ্নব্যাংক — পাঠ্যবই ফোল্ডার থেকে সম্পূর্ণ আলাদা।
 
 ## Coverage
 
 | Item | Count |
 |------|-------|
-| Guide questions (`questions.json`) | 1,255 |
-| — Chapter 2, verified complete | 313 |
-| — Chapter 3, verification claimed (see note) | 561 |
-| — Chapter 6, verified complete | 381 |
-| Prose chunks (`chunks.json`) | 23 |
+| Guide questions (`questions.json`, `questions-part2.json`, `questions-part3.json`) | 3410 |
+| Prose chunks (`chunks.json`) | 52 |
 
-Chapters 10, 11 and 13 are still being collected and are NOT in this
-folder. Chapters 1, 4, 5, 7, 8, 9, 12, 14, 15, 16 have no collection
-files yet.
+Questions by section:
 
-## Verification note — chapter 3
-
-Chapter 3's PROGRESS file (`ch3-progress.md`) claims final verification:
-561 lines, all valid JSON, unique ids, no HELD rows, model MCQ keys
-checked against the answer grid. An earlier coordinator note called the
-chapter still in progress while joined-JSON line errors were being
-fixed. During push preparation every one of the 561 lines was
-independently validated as JSON. The chapter is included on the strength
-of the PROGRESS claim plus that validation. Open items recorded in the
-PROGRESS file: model written section HELD, folio 118 missing.
-
-Chapter 2 open items: model written section HELD, folio 42 missing.
-Chapter 6 open items: 3 HELD parts, folios 132, 133, 178.
+| Section | Rows |
+|---------|------|
+| activity | 59 |
+| creative | 333 |
+| descriptive | 17 |
+| knowledge-comprehension | 562 |
+| mcq-bank | 1114 |
+| model | 203 |
+| short-qa | 327 |
+| special-model | 795 |
 
 ## File formats
 
-- `questions.json` — one JSON array, 1,255 rows (small enough to stay
-  whole, under ~4 MB). Row fields: `id`, `chapter_number`, `lesson`,
-  `section`, `subtype`, `question_text`, `options`, `answer_key`,
-  plus `guide_solution`, `flag_note`, `held_reason` where applicable.
-- `chunks.json` — one JSON array, 23 chunks.
-- `ch2-progress.md`, `ch3-progress.md`, `ch6-progress.md` — the
-  per-chapter verification notes. `marking-tagging.md` — the
-  marking/tagging verification for the Newton guide.
+- `questions.json` (1528 rows) + `questions-part2.json` (1632 rows) + `questions-part3.json` (250 rows) — each part is a valid JSON array; together they hold all
+  3410 import rows (files over ~4 MB are split into parts — repo rule).
+- `chunks.json` — one JSON array, 52 chunks.
+- `import-audit.json` — the import-preparation audit (decisions, checks,
+  held/dropped rows).
 
 ## What is NOT in this copy
 
-- Chapters 10, 11, 13 (in progress) and all uncollected chapters.
-- The Panjeree edition of the BGS guide — correction reference only,
-  never imported.
 - Raw guide PDF, page renders, OCR work files — local only, never pushed.
+- Held chunks (7) — not imported, not in this copy.
 
 ## Source & provenance
 
-- Source: SSC BGS Guide Exam 2026, Newton edition (printed guide,
-  scanned).
+- Source: Newton BGS Guide, SSC 2026 (printed guide, scanned; subject code 150).
 - Pipeline: page rendering (500 dpi) → OCR → visual verification
-  against rendered pages → per-chapter PROGRESS verification.
+  against rendered pages → import-preparation audit.
 - Guide content is commercial guide-book material. This repository holds
   the extraction built for the Yes Sir AI project; take your own decision
   before redistributing guide content elsewhere.
 
 ## Version
 
-Collection snapshot 2026-11-05. Chapters 2, 3, 6 only; the rest are
-still being collected.
+Import snapshot 2026-11-06. Live in the Yes Sir AI database since the
+2026-11-06 joint batch write (BGS + General Science + Economics).
