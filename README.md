@@ -46,11 +46,11 @@ valid-JSON-array parts, reassembled in filename order.
 | math | 3,720 consolidated + 7,366 pilot units | 52 (reference only) | Live 10,543 not fully reproducible from files |
 | physics | 6,700 | 72 | Live-verified |
 
-Not yet pushed: economics, general-science (collection in progress),
-and the parked subjects history, geography, civics, finance and
-banking, business entrepreneurship, accounting (no downloadable guide
-source). See each subject's `README.md` for the honest limits
-(file-vs-live count gaps, held rows, open owner items).
+Pushed 2026-11-07: economics, general-science, civics, accounting,
+business entrepreneurship. Still parked (no downloadable guide source):
+history, geography, finance and banking. See each subject's `README.md`
+for the honest limits (file-vs-live count gaps, held rows, open owner
+items).
 
 ## Layout
 
