@@ -1,73 +1,50 @@
-# Class 9–10 Bangla 1st Paper Guide — Question Bank (per-lesson)
+# Class 9–10 Bangla 1st Paper (বাংলা ১ম) Guide — Question Bank
 
 Guide data for the **Yes Sir AI** tuition app, kept under `guides/` on
-purpose: this is **guide** material, not NCTB textbook material. The
-textbook folders (`class6/`, `class7/`) hold verbatim textbook questions
-and chunks; this folder holds the Class 9–10 Bangla 1st paper **guide**
-bank, collected lesson by lesson. The two are never mixed.
+purpose: this is **guide** material, not NCTB textbook material.
 
-বাংলা সংক্ষেপ: এটা গাইডের ডাটা, পাঠ্যবইয়ের নয়। নবম-দশম শ্রেণির বাংলা
-১ম পত্র গাইডের প্রশ্নব্যাংক, পাঠ ধরে ধরে সংগ্রহ করা — পাঠ্যবই ফোল্ডার
-থেকে সম্পূর্ণ আলাদা।
+বাংলা সংক্ষেপ: এটা গাইডের ডাটা, পাঠ্যবইয়ের নয়।
 
 ## Coverage
 
 | Item | Count |
 |------|-------|
-| Verified lessons (`lessons/*.json`) | 16 of 18 |
-| Rows in verified lessons | 4,377 |
-| Held lessons (verified=false, NOT included) | 2 |
+| Prose chunks (`chunks.json`) | 233 |
 
-Verified lessons: 1971, am-antir-bhepu, ami-kono-agontuk-noi,
-boi-pora, boshekh, brishti, ekusher-golpo, jibon-binimoy,
-manush-muhammad, nimgach, probas-bondhu, seidin-ei-math,
-shikkha-o-manushotto, subha, tomake-pawar-jonne-he-sadhinota,
-umor-faruk.
+## Board MCQs (added 2026-11-23)
 
-Held lessons (not in this folder): kopotakkho-nod (277 rows),
-prottupokar (379 rows) — both flagged verified=false in the collection.
+Source: user-provided `~/workspace/user/files/upload.pdf` — Satt Academy
+Dynamic Print Question Bank, "নবম-দশম শ্রেণি বোর্ড প্রশ্ন ও সমাধান",
+বাংলা সাহিত্য, printed 2025-04-02, 81 pages. Text-layer parse (parser:
+`/tmp/parse_bangla1st.py`). Staging only — nothing imported to the live DB.
 
-## File formats
+| File | Rows |
+|------|------|
+| `questions-board-2024.json` | 270 (9 boards × 30) |
+| `questions-board-2023.json` | 270 (9 boards × 30) |
+| `questions-board-2020.json` | 240 (8 boards × 30) |
+| `questions-board-2019.json` | 240 (8 boards × 30) |
+| `questions-board-2018.json` | 30 (সকল বোর্ড × 30) |
+| **Total** | **1050** |
 
-- `lessons/<lesson-slug>.json` — one JSON object per lesson, the ONLY
-  collection output per lesson. Contains lesson metadata (title, author,
-  printed page range), `rows`, `sets`, `chunks`, `counts` (counted per
-  subsection, never estimated), `held` (unverified rows with reasons),
-  and `verified` (true only when the per-lesson gate passed: every row's
-  text + key + marks eye-checked at 500 dpi, creative-question groups
-  complete, key grids re-read).
-- `collection-manifest.md` — the collection manifest for the lesson set.
-- A lesson counts as complete only when every part is verified and
-  merged. Fragment files inside per-lesson folders are older or partial
-  snapshots and are NOT included here; the top-level merged lesson file
-  is the reliable output.
+Schema: standard staging rows (`section: board-mcq`, options as ক/খ/গ/ঘ
+dict, `answer_key` Bengali letter, `board_tag` e.g. "ঢাকা বোর্ড ২০২৪").
+IDs: `bn1-board-<board-slug>-<year>-mcq-<nn>`. Stimuli: 50 blocks, each
+covering exactly the next 2 questions (positional rule — the word
+"উদ্দীপক" in a stem is NOT a signal; it over-attached one stale stimulus
+to 45 questions). Text transcribed exactly as printed (incl. rendering
+quirks like "ময়মনসিংংহ", "বোড"); nothing "fixed".
 
-## Notes
+Defects (kept as printed, flagged here — nothing dropped):
+- `bn1-board-mymensingh-2024-mcq-29`: no `ans:` line in the print
+  (visually confirmed on PDF p.4); `answer_key` is null.
+- `bn1-board-sylhet-2020-mcq-01`: option a) missing in the print
+  (visually confirmed on PDF p.49); `options` is null.
+- রাজশাহী 2023 set repeats two questions verbatim in the print:
+  Q3 = Q22 and Q7 = Q27 (same stem, options, ans); both kept.
 
-- `1971.json` is much smaller than the other lessons (68 rows; mcq-bank
-  12, model-mcq 0, model-creative 0) — recorded as an anomaly, not
-  corrected.
-- The `class9/bangla-1st-paper/` download set (goddo, kobita, uponnas)
-  is BLOCKED at the source (owner disabled download) and holds no data
-  files; this folder's lessons come from the talimit collection instead.
+## Honest limits
 
-## What is NOT in this copy
-
-- The 2 held lessons (kopotakkho-nod, prottupokar).
-- Per-lesson fragment files (older/partial snapshots).
-- Raw guide PDF, page renders, OCR work files — local only, never pushed.
-
-## Source & provenance
-
-- Source: Panjeree SSC 2026 guide, Bangla 1st Paper (one book, three
-  scan files: goddo, poddo, uponnas).
-- Pipeline: page rendering (500 dpi) → OCR → visual verification
-  against rendered pages → per-lesson verification gate.
-- Guide content is commercial guide-book material. This repository holds
-  the extraction built for the Yes Sir AI project; take your own decision
-  before redistributing guide content elsewhere.
-
-## Version
-
-Collection snapshot 2026-11-05. 16 verified lessons; 2 held lessons
-still open.
+- Live in the app DB: 6721 rows + 233 chunks.
+- Guide: Panjeree 2026. Chunks built from the 18 collection lesson files in LESSON_ORDER (same mapping as import_bangla1st.py).
+- Note: staging `lessons/` holds 16 of the 18 lessons (194 chunks); `kopotakkho-nod` and `prottupokar` lesson files are not in staging, but their chunks ARE in this `chunks.json` (all 233).
