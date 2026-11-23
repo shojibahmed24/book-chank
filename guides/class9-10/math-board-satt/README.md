@@ -70,3 +70,21 @@
 | ঢাকা ২০২৪ | 0 | | ঢাকা ২০২৩ | 11 |
 
 মোট ৬৪টি। বরিশাল ২০২৪, যশোর ২০২৪, ঢাকা ২০২৪, বরিশাল ২০২৩, যশোর ২০২৩ — এই ৫ সেটে ছাপায় একটাও ব্যাখ্যা নেই (পৃষ্ঠার ছবি দেখে নিশ্চিত)। বিস্তারিত: `report-a2.md` / `report-b2.md` / `report-c2.md`।
+
+## বোর্ড ও সাল অনুযায়ী খুঁজুন
+
+বিষয়: গণিত (নবম-দশম)। প্রতিটা বোর্ডের প্রতিটা সালের ৩০টা প্রশ্ন আলাদা ফাইলে — `math-board-satt/<বোর্ড>/<সাল>.json`।
+
+| বোর্ড | ২০২৩ | ২০২৪ |
+|---|---|---|
+| ঢাকা | dhaka/2023.json | dhaka/2024.json |
+| রাজশাহী | rajshahi/2023.json | rajshahi/2024.json |
+| কুমিল্লা | cumilla/2023.json | cumilla/2024.json |
+| যশোর | jessore/2023.json | jessore/2024.json |
+| চট্টগ্রাম | chattogram/2023.json | chattogram/2024.json |
+| বরিশাল | barishal/2023.json | barishal/2024.json |
+| সিলেট | sylhet/2023.json | sylhet/2024.json |
+| দিনাজপুর | dinajpur/2023.json | dinajpur/2024.json |
+| ময়মনসিংহ | mymensingh/2023.json | mymensingh/2024.json |
+
+একত্রিত ফাইল: `questions-board-satt-2023-2024.json` (৫৪০টা)। ব্যাখ্যাসহ ৬৪টা — ব্যাখ্যা প্রতিটা বোর্ড-সাল ফাইলেই `explanation` ফিল্ডে আছে।
