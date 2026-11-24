@@ -1,0 +1,656 @@
+[
+ {
+  "id": "hindu-lec-mt-model-08-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "রতন তার বাবার সাথে বেড়াতে গিয়ে মনোরম দৃশ্য দেশে মুগ্ধ হয়। সপÿে যুক্তি দাও। ৪ তাই রতন পিতার কাছে জানতে চায় দিনে সূযের্র অলো, রাতে চাঁদের কিরণ, তারার মেলা, সাগরের জল, মাটি, বাতাস এসব কার সৃষ্টি? পিতা",
+  "question_number": 1,
+  "stimulus": "রতন তার বাবার সাথে বেড়াতে গিয়ে মনোরম দৃশ্য দেশে মুগ্ধ হয়। সপÿে যুক্তি দাও। ৪ তাই রতন পিতার কাছে জানতে চায় দিনে সূযের্র অলো, রাতে চাঁদের কিরণ, তারার মেলা, সাগরের জল, মাটি, বাতাস এসব কার সৃষ্টি? পিতা বললেন, তিনি একজন মহান ব্যক্তি। তিনি সবার চেয়ে আদি পুরম্নষ। জ্ঞানীর কাছে তিনি ব্রহ্ম, যোগীর কাছে তিনি পরমাত্মা এবং ভক্তের কাছে ভগবান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হিন্দুদের প্রধান ধমর্গ্রন্থ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পরমাত্মা বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রকৃতিতে ঈশ্বর সম্পকের্ রতনের ধারণা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"জ্ঞানীর কাছে ব্রহ্ম, যোগীর কাছে পরমাত্মা\"− উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "তনয় বাবু উচ্চপদে চাকরি করছেন। তিনি সংসারের সকল দায়িত্ব প্রভাব পালন করেন, সামাজিক সকল কমর্কাে-অংশগ্রহণ করেন। অন্যদিকে,",
+  "question_number": 2,
+  "stimulus": "তনয় বাবু উচ্চপদে চাকরি করছেন। তিনি সংসারের সকল দায়িত্ব প্রভাব পালন করেন, সামাজিক সকল কমর্কাে-অংশগ্রহণ করেন। অন্যদিকে,",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "সুরেশ বাবু প্রেমভক্তির মাধ্যমে হরিনাম প্রচার করেন। তিনি সম্পকের্ হরিনামের মাধ্যমে সমাজ থেকে বণের্ভদ প্রথা দূর করার চেষ্টা করেন। তিনি বলেন ধনী, দরিদ্র, ব্রাহ্মণ-অব্রাহ্মণ সকলেরই হরিনাম প্রচারের সমান অধ",
+  "question_number": 3,
+  "stimulus": "সুরেশ বাবু প্রেমভক্তির মাধ্যমে হরিনাম প্রচার করেন। তিনি সম্পকের্ হরিনামের মাধ্যমে সমাজ থেকে বণের্ভদ প্রথা দূর করার চেষ্টা করেন। তিনি বলেন ধনী, দরিদ্র, ব্রাহ্মণ-অব্রাহ্মণ সকলেরই হরিনাম প্রচারের সমান অধিকার আছে। অন্যদিকে, বিনয় বাবু একজন মহাপুরম্নষের আদশর্ অনুসরণ করেন। উক্ত মহাপুরম্নষের আদশর্ হলো হরিনামে মেতে থাকা। শ্রীহরিই জগতের সবর্প্রকার কল্যাণ প্রতিষ্ঠা করতে পারেন। তাই অন্য শিষ্যদের মতো তিনিও সবর্দা শ্রীহরিকে স্মরণ করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'একং সদ্‌ বিপ্রা বহুধা বদন্ত্মি'⎯কোন গ্রন্থে বলা হয়েছে?",
+    "marks": 1
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "বীণা সারা বছরই কোনো না কোনো আচার-অনুষ্ঠান করে থাকে। এসব",
+  "question_number": 4,
+  "stimulus": "বীণা সারা বছরই কোনো না কোনো আচার-অনুষ্ঠান করে থাকে। এসব",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "কেন সৎসাহসের আচার-অনুষ্ঠানের মাধ্যমে সে জীবনটাকে আনন্দময় ও কল্যাণময় করে",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "গড়ে তোলে। এগুলোর মধ্যে কিছু আছে ধমার্চার, আবার কিছু আছে ধমার্নুষ্ঠান, যা জাতি-বণর্ নিবিের্শষে সাম্যের শিÿা দেয়।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "দীপাবলি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নবান্ন উৎসব কেন করা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'পারিবারিক ও সামাজিক জীবনে বীণার ধমার্চারের গুরম্নত্ব অধিক' -পাঠ্যের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'বীণার ধমার্নুষ্ঠানটি সাম্যের শিÿা দেয়' -তোমার পঠিত বিষয়ের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "অসিত তার পিতার মৃতদেহটিকে আত্মীয়স্বজন নিয়ে সৎকার করল।",
+  "question_number": 5,
+  "stimulus": "অসিত তার পিতার মৃতদেহটিকে আত্মীয়স্বজন নিয়ে সৎকার করল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "অশৌচের সমস্ত্ম নিয়ম ধমীর্য় বিধি অনুসারে শেষ করলেও অথার্ভাবে সাড়ম্বরে শ্রাদ্ধ অনুষ্ঠান করতে পারেনি। কিন্তু শ্রদ্ধার সাথে সমস্ত্ম আচার-অনুষ্ঠান শেষ করেছে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "আদ্যশ্রাদ্ধের পূণর্নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৃদ্ধিশ্রাদ্ধ বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অসিত অশৌচের জন্য কীভাবে নিয়ম পালন করেছিল? পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অসিতের বাবার শ্রাদ্ধ অনুষ্ঠান যথাযথভাবেই হয়েছে উক্তিটির সম্পকের্ বলেছেন− কথাটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (গ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "প্রলয়ঙ্করী ঘূণির্ঝড়ে দেবাশীষ পরিবারের সবাইকে হারিয়ে সবর্স্বান্ত্ম হয়ে পড়ে। স্বাভাবিক জীবনযাপন করা তার পÿে অসম্ভব হয়ে পড়ে। এমনি সময় শারদীয় দুগার্পূজার শুভাগমন ঘটে। পাড়া প্রতিবেশী ও বন্ধুবান্ধবদের অ",
+  "question_number": 6,
+  "stimulus": "প্রলয়ঙ্করী ঘূণির্ঝড়ে দেবাশীষ পরিবারের সবাইকে হারিয়ে সবর্স্বান্ত্ম হয়ে পড়ে। স্বাভাবিক জীবনযাপন করা তার পÿে অসম্ভব হয়ে পড়ে। এমনি সময় শারদীয় দুগার্পূজার শুভাগমন ঘটে। পাড়া প্রতিবেশী ও বন্ধুবান্ধবদের অক্লান্ত্ম প্রচেষ্টায় সে আবার নতুন জীবন ফিরে পায়। মা দুগার্ই তাঁর বেঁচে থাকার মানসিক শক্তি ও প্রেরণা যোগায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হিন্দুধমের্র আদি ধমর্গ্রন্থ কোনটি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বোধন বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দেবাশীষ কীভাবে দুগার্পূজার আয়োজন করবে? দুগার্পূজার পদ্ধতির আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দেবাশীষের জীবনালোকে দুগার্পূজার সামাজিক ও অথৈর্নতিক বিশেস্নষণ কর। ৪ বাবুর শিরদাঁড়া ও বৃক্কের সমস্যা দেখা দিয়েছে এবং শরীরের ভারসাম্য নষ্ট হচ্ছে। তাই তিনি চিকিৎসকের পরামশের্ নিদির্ষ্ট একটি ব্যায়াম করছেন। অপরদিকে, প্রলয় বাবু দীঘির্দন ধরে পরিপাকজনিত জটিলতা ও লিভারের সমস্যায় ভুগছেন এবং আরোগ্য লাভের উদ্দেশ্যে বিশেষ একটি শরীরচচার্ করছেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "যোগসাধনা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধ্যানের উত্যুঙ্গ শিখরে উঠে সাধক কী লাভ করেন? ব্যাখ্যা কর। ২ গ.মিলন বাবুকে চিকিৎসকের দেওয়া নিদির্ষ্ট ব্যায়ামটির ধারণা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রলয় বাবুর আরোগ্য লাভের উদ্দেশ্যে অনুশীলনকৃত শরীরচচার্র প্রভাব পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,খ,গ,ঘ,ক,খ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "মিলন বিকাশ বাবু তাঁর ব্যবসায়ী পুত্র ও স্ত্রীকে সংসারের সকল দায়িত্ব দিয়ে সংসারত্যাগী হন। তিনি দেবগৃহে বিভিন্ন ভক্তিমূলক উপাসনার মাধ্যমে দিনাতিপাত করেন।",
+  "question_number": 7,
+  "stimulus": "মিলন বিকাশ বাবু তাঁর ব্যবসায়ী পুত্র ও স্ত্রীকে সংসারের সকল দায়িত্ব দিয়ে সংসারত্যাগী হন। তিনি দেবগৃহে বিভিন্ন ভক্তিমূলক উপাসনার মাধ্যমে দিনাতিপাত করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রত্যাহার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কীসের মাধ্যমে ঈশ্বরের প্রতি প্রেমভাব জাগ্রত হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের তনয় বাবু আশ্রমের যে স্ত্মরে রয়েছেন তা পাঠ্যবইয়ের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের বিকাশ বাবু কি ধমর্ নিদেির্শত পথে হাঁটছেন? তোমার মতের সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "নিধিবাবু প্রতিদিন রামায়ণ পাঠ করেন। এটি পাঠ করে রাজা দশরথ জানতে পারেন। রামায়ণ পাঠ করে একজন দস্যুর কাহিনিটি জানতে পারেন। রাবণ কতৃর্ক সীতাকে হরণ ও রাম কতৃর্ক লঙ্কা আক্রমণ ও দুষ্টের দমন সম্পকের্ জানতে পা",
+  "question_number": 8,
+  "stimulus": "নিধিবাবু প্রতিদিন রামায়ণ পাঠ করেন। এটি পাঠ করে রাজা দশরথ জানতে পারেন। রামায়ণ পাঠ করে একজন দস্যুর কাহিনিটি জানতে পারেন। রাবণ কতৃর্ক সীতাকে হরণ ও রাম কতৃর্ক লঙ্কা আক্রমণ ও দুষ্টের দমন সম্পকের্ জানতে পারেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উপনিষদ কোন কাে-র অন্ত্মগর্ত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আরম্নণি ও শ্বেতকেতু উপাখ্যানের শিÿা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রামায়ণে যে দস্যুর কাহিনি বণির্ত হয়েছে তার থেকে আমরা যে শিÿা পাই তার বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তোমার পাঠ্যবইয়ের আলোকে রামচন্দ্রের বন গমন কাহিনিটির সারকথা বিশেস্নষণ কর। ৪ কলেজে যাবার সময় দেখতে পেল একজন ছিনতাইকারী এক নিয়ে দৌড়াচ্ছে আর মহিলাটি চিৎকার করছেন। তা দেখে উত্তম ছিনতাইকারীকে তাড়া করে ধরে ফেলল। এক সময় ছিনতাইকারীর আঘাতে উত্তমের কপাল থেকে রক্ত ঝরতে লাগল। কিন্তু তা সত্ত্বেও উত্তম ছিনতাইকৃত ব্যাগ উদ্ধার করে মহিলার হাতে তুলে দিল।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "তরণী সেনের পিতার নাম কী? ১ প্রয়োজন হয়?− ব্যাখ্যা কর। ২ উত্তমের কৃতকমর্ থেকে প্রাপ্ত অভিজ্ঞতা তোমার জীবনে কীভাবে কাজে লাগাতে পার− আলোচনা কর। ৩ উত্তমের সৎসাহস যেন তরণী সেনের সৎসাহসেরই প্রতিরূপ- বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,খ,গ,ঘ,ক) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "উত্তম",
+  "question_number": 9,
+  "stimulus": "উত্তম",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "'হিন্ধুধমর্ একাধারে প্রাচীন এবং নবীন'−ব্যাখ্যা কর। ২ মহিলার ব্যাগ",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সুরেশ বাবু কোন মহাপুরম্নষের জীবনাদশর্ অনুসরণ করেন? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিনয় বাবু কি মতুয়াধমের্র মূলমন্ত্র অনুসরণ করেন? পাঠ্যের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "কালিকাপুর গ্রামে ধীরেন বাবু নামে এক অত্যাচারী মানুষ ছিল। তিনি ছিলেন নাস্ত্মিক এবং নিজেকে সবের্সবার্ মনে করতেন। কিন্তু তার ছেলে সৈকতের ঈশ্বরের প্রতি ছিল অসীম ভক্তি। তার বিশ্বাস ঈশ্বরই তাকে রÿা করেন এবং",
+  "question_number": 10,
+  "stimulus": "কালিকাপুর গ্রামে ধীরেন বাবু নামে এক অত্যাচারী মানুষ ছিল। তিনি ছিলেন নাস্ত্মিক এবং নিজেকে সবের্সবার্ মনে করতেন। কিন্তু তার ছেলে সৈকতের ঈশ্বরের প্রতি ছিল অসীম ভক্তি। তার বিশ্বাস ঈশ্বরই তাকে রÿা করেন এবং ঈশ্বরই সবর্ময় কতার্।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিষ্টাচার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নৈতিক মূল্যবোধ বলতে কী বোঝায়? ২ কালিকাপুর গ্রামে ধীরেন বাবুর সাথে তোমার পাঠ্যবইয়ের কোন চরিত্রের সাদৃশ্য পাওয়া যায়? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'সৈকত' যেন 'প্রহ্লাদের' যোগ্য প্রতিনিধি−উক্তিটির যথাথর্তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-08-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-08",
+  "question_text": "প্রাচীন ভারতে সুশ্রম্নত ও চরক নামে দুইজন মহান চিকিৎসক ছিলেন। সুশ্রম্নত শাল্যচিকিৎসার ৩০০ প্রকার পদ্ধতির বণর্না দিয়েছেন। আর চরক বলেছেন রোগের চিকিৎসার থেকে প্রতিরোধ করা বেশি জরম্নরি।",
+  "question_number": 11,
+  "stimulus": "প্রাচীন ভারতে সুশ্রম্নত ও চরক নামে দুইজন মহান চিকিৎসক ছিলেন। সুশ্রম্নত শাল্যচিকিৎসার ৩০০ প্রকার পদ্ধতির বণর্না দিয়েছেন। আর চরক বলেছেন রোগের চিকিৎসার থেকে প্রতিরোধ করা বেশি জরম্নরি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অবতার কত রকমের?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চরককে কেন ভারতীয় চিকিৎসাশাস্ত্রের জনক বলা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুশ্রম্নতসংহিতার বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চরকই প্রথম মানবদেহের পরিপাক, বিপাক ও রোগপ্রতিরোধ",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 08",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p9",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

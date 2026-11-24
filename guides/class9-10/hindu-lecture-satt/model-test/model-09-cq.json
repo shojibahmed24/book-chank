@@ -1,0 +1,657 @@
+[
+ {
+  "id": "hindu-lec-mt-model-09-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "প্রদীপ বাবু তার বাড়িতে বিভিন্ন দেব-দেবীর পূজা অচর্না করেন। এর প্রকাশ। ব্রাহ্মণের কথায় প্রিয়াদের পরিবারে ভক্তিসহকারে পূজার মাধ্যমে তিনি তার মনের আকাঙ্ÿা পূরণের জন্য আপ্রাণ চেষ্টা করেন। আয়োজন করা হয়। ",
+  "question_number": 1,
+  "stimulus": "প্রদীপ বাবু তার বাড়িতে বিভিন্ন দেব-দেবীর পূজা অচর্না করেন। এর প্রকাশ। ব্রাহ্মণের কথায় প্রিয়াদের পরিবারে ভক্তিসহকারে পূজার মাধ্যমে তিনি তার মনের আকাঙ্ÿা পূরণের জন্য আপ্রাণ চেষ্টা করেন। আয়োজন করা হয়। কিন্তু তার প্রতিবেশী সুভাষ বাবু কোনো পূজা অচর্না করেন না। তিনি",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পূজা শব্দের অথর্ কী? ১ মন্দিরে দেব-দেবীর দশের্নও যান না। তিনি প্রত্যহ ঊষাকালে ও সন্ধ্যায় −",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "একং সদ্‌ বিপ্রা বহুধা বদন্ত্মি কথাটির অথর্ ব্যাখ্যা কর। ২ নীরবে বসে একমনে নিষ্কামভাবে সৃষ্টিকতাের্ক স্মরণ করেন।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "প্রিয়াদের বাড়িতে কোন বিশেষ দেবীর পূজা করা হয়? উক্ত পূজা",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "জীবাত্মা কাকে বলে? ১ পদ্ধতি উদ্দীপকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": "শ্রীকৃষ্ণকে ভগবান বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "ঘ",
+    "text": "\"দেব-দেবীরা একই ঈশ্বরের ভিন্ন ভিন্ন প্রকাশ\"− উক্তিটির যথাথর্তা নিরূপণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "গ",
+    "text": "প্রদীপ বাবু ঈশ্বরের কোন রূপের উপাসনা করেন? পাঠ্যের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সুভাষ বাবুর অনুসরণকৃত পদ্ধতির মাধ্যমে কি মোÿপ্রাপ্তি সম্ভব? সপÿে যুক্তি প্রদশর্ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ক,খ,ঘ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "একদিন অপির্তা ও পারমিতা মন্দিরের বারান্দায় বসে আলোচনা অধর্কূমার্সন করছিল। আলোচনার এক পযাের্য় অপির্তা পারমিতাকে প্রশ্ন করে, বলতে পার আমাদের কে সৃষ্টি করেছেন? পারমিতা অপির্তাকে বলে, আমাদের যিনি সৃষ্টি ",
+  "question_number": 2,
+  "stimulus": "একদিন অপির্তা ও পারমিতা মন্দিরের বারান্দায় বসে আলোচনা অধর্কূমার্সন করছিল। আলোচনার এক পযাের্য় অপির্তা পারমিতাকে প্রশ্ন করে, বলতে পার আমাদের কে সৃষ্টি করেছেন? পারমিতা অপির্তাকে বলে, আমাদের যিনি সৃষ্টি করেছেন তিনি সবর্দা আমাদের মধ্যে বিরাজ করেন। বিশ্বজগতের সবকিছুর তিনিই একমাত্র নিয়ন্ত্রক।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ব্রহ্ম শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জীবদেহে আত্মার অবস্থান সংÿেপে ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অপির্তার প্রশ্নের উত্তরে পারমিতা স্রষ্টার যে ভূমিকার কথা বলে তা তোমার পঠিত বিষয়ের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জীবের মধ্যে স্রষ্টার অবস্থান সম্পকের্ পারমিতার উক্তিটির তাৎপযর্ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "রবেন বাবু একটি সংগঠন প্রতিষ্ঠা করেন। সংগঠনটির নামের মধ্যেই পাওয়ার তার পরিচয় পাওয়া যায়। সংগঠনের কাজের জন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট থেকে কোনো টাকা-পয়সা চেয়ে নেওয়া যাবে না।",
+  "question_number": 3,
+  "stimulus": "রবেন বাবু একটি সংগঠন প্রতিষ্ঠা করেন। সংগঠনটির নামের মধ্যেই পাওয়ার তার পরিচয় পাওয়া যায়। সংগঠনের কাজের জন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট থেকে কোনো টাকা-পয়সা চেয়ে নেওয়া যাবে না।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন আত্মনিভর্রশীল হয়ে সমাজের কল্যাণে কাজ করাই এ সংগঠনের উদ্দেশ্য। অন্যদিকে, রমেশ বাবু কিছু ভালো লোক নিয়ে আর একটি সংগঠন প্রতিষ্ঠা করেন। সংগঠনটি পাঁচটি মূলনীতির ওপর প্রতিষ্ঠিত হয়। ধমর্ ও বিজ্ঞানকে একসাথে করে জীবন গঠন করা -এ সংগঠনের কাজ।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "নৃযজ্ঞ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভক্তিযোগ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রবেন বাবুর কমর্কাে-র সাথে কোন মহা পুরম্নষের মিল আছে, তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের রমেশ বাবুর প্রতিষ্ঠিত সংগঠনের প্রধান নীতিগুলোর মাধ্যমে কি আদশর্ মানুষ গড়ে তোলা সম্ভব? সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "হেমন্ত্মকালে ধান কাটায় মেতে ওঠে কৃষকেরা। ঘরে ঘরে নতুন ধানের ভাত ও নানা রকম পিঠা-পায়েসের আয়োজন করে উৎসবে মেতে ওঠে। অপরদিকে, বষর্বরণ উৎসব আজ বাঙালির অসাম্প্রদায়িক চেতনার এক মহাউৎসব। এদিনে মিষ্টি বিতরণস",
+  "question_number": 4,
+  "stimulus": "হেমন্ত্মকালে ধান কাটায় মেতে ওঠে কৃষকেরা। ঘরে ঘরে নতুন ধানের ভাত ও নানা রকম পিঠা-পায়েসের আয়োজন করে উৎসবে মেতে ওঠে। অপরদিকে, বষর্বরণ উৎসব আজ বাঙালির অসাম্প্রদায়িক চেতনার এক মহাউৎসব। এদিনে মিষ্টি বিতরণসহ বিভিন্ন সাংস্কৃতিক অনুষ্ঠান হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংক্রান্ত্মি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাখিবন্ধন বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে হেমন্ত্মকালের যে উৎসবের বণর্না দেয়া হয়েছে তা তোমার পাঠ্যবইয়ের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'বষর্বরণ' বাঙালির অসাম্প্রদায়িক চেতনার এক মহাউৎসব তোমার উত্তরের সপÿে যুক্তি উপস্থাপন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "মনুষ্য জীবনকে সুন্দর ও কল্যাণকর করে গড়ে তোলার লÿ্যে ঋষিরা শুভ ধমীর্য় আচার-আচরণ ও মাঙ্গলিক কমের্র নিদের্শ দিয়েছেন। বিভিন্ন",
+  "question_number": 5,
+  "stimulus": "মনুষ্য জীবনকে সুন্দর ও কল্যাণকর করে গড়ে তোলার লÿ্যে ঋষিরা শুভ ধমীর্য় আচার-আচরণ ও মাঙ্গলিক কমের্র নিদের্শ দিয়েছেন। বিভিন্ন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্মৃতিশাস্ত্রে হিন্দু বিধিবিধান প্রাথির্ত আছে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "সংস্কার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অন্ত্ম্যেষ্টিক্রিয়া বলতে কী বোঝ? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হিন্দু শাস্ত্রানুসারে কোন সংস্কারটি সবের্শ্রষ্ঠ এবং কেন তা বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"বিবাহ মানুষের সামাজিক জীবনের পূণর্তা প্রদান করে\"− উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "হঠাৎ করেই প্রিয়াদের পরিবারে দরিদ্রতা নেমে এসেছে। তখন এক ব্রাহ্মণ প-িত এসে প্রিয়ার বাবা-মাকে বললেন, নিয়মিত এক বিশেষ দেবীর পূজা করতে হবে। উক্ত দেবীকে ধন-সম্পদের দেবী বলা হয়। তাছাড়া এই দেব-দেবীরা হচ্ছেন",
+  "question_number": 6,
+  "stimulus": "হঠাৎ করেই প্রিয়াদের পরিবারে দরিদ্রতা নেমে এসেছে। তখন এক ব্রাহ্মণ প-িত এসে প্রিয়ার বাবা-মাকে বললেন, নিয়মিত এক বিশেষ দেবীর পূজা করতে হবে। উক্ত দেবীকে ধন-সম্পদের দেবী বলা হয়। তাছাড়া এই দেব-দেবীরা হচ্ছেন একই ব্রহ্ম বা ঈশ্বরের ভিন্ন ভিন্ন P„ov¯¦ cÉÕ§wZ I `ÞZv hvPvB DcGhvMx ˆÕ·kvj gGWj ˆUÕ¡ গ.'তিনি ধমের্র জটিলতত্ত্ব গল্পের মাধ্যমে বোঝাতেন'− পাঠ্যবইয়ের",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "শ্রীরামকৃষ্ণের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "অনিল প্রতিদিন সকালে উঠে শরীর সুস্থ রাখার জন্য বিভিন্ন যোগব্যায়াম অনুশীলন করে। এই যোগসাধনা হলো সকল সুখ লাভের একমাত্র উপায় বা পন্থা। প্রতিটি মানুষই নিজ জীবনে সুখ চায়। অনিল নিয়মিত করে।",
+  "question_number": 7,
+  "stimulus": "অনিল প্রতিদিন সকালে উঠে শরীর সুস্থ রাখার জন্য বিভিন্ন যোগব্যায়াম অনুশীলন করে। এই যোগসাধনা হলো সকল সুখ লাভের একমাত্র উপায় বা পন্থা। প্রতিটি মানুষই নিজ জীবনে সুখ চায়। অনিল নিয়মিত করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কূমর্ অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রতিটি মানুষই নিজ জীবনে সুখ চায়− কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অনিল কীভাবে অধর্কূমার্সন করে? ব্যাখ্যা কর। ৩ −",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "'অধর্কূমার্সন অনুশীলনে অনিলের জীবনে পড়বে গভীর প্রভাব' মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "সৌমিত্র কখনো অসৎ কাজ করে না। তবে কেউ যদি তার উপর রাগ করে কখনো কোনো কথা বলে না বরং সে তার সাথে বিপরীত আচরণ করে। এজন্য সবাই তাকে খুব পছন্দ করে। একদিন সৌমিত্রের বাবা বিমল বাবু বড় ধরনের এক বিপদের সম্মুখীন",
+  "question_number": 8,
+  "stimulus": "সৌমিত্র কখনো অসৎ কাজ করে না। তবে কেউ যদি তার উপর রাগ করে কখনো কোনো কথা বলে না বরং সে তার সাথে বিপরীত আচরণ করে। এজন্য সবাই তাকে খুব পছন্দ করে। একদিন সৌমিত্রের বাবা বিমল বাবু বড় ধরনের এক বিপদের সম্মুখীন হন। এ অবস্থা থেকে মুক্তি জন্য তিনি এক সাধুর পরামশর্ নেন। বিপদমুক্ত হওয়ার পর তিনি সাধুর প্রতি কৃতজ্ঞতা প্রকাশ করেন। গ্রন্থের অপর নাম রহস্য? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "বিশ্বের প্রাচীন ইতিহাস জানার জন্য সবচেয়ে নিভর্রযোগ্য গ্রন্থ সম্পকের্ বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সৌমিত্রের মধ্যে ধমের্র কোন লÿণ কাজ করেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সৌমিত্র ও তার বাবার মধ্যে কি ধমের্র একই লÿণ কাজ করেছে? উত্তরের সপÿে যুক্তি প্রদশর্ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "মৃণালবাবু অফিসে যাওয়ার পথে দেখতে পান একটি দোকানে আগুন লেগেছে। তিনি নিজের জীবনের চিন্ত্মা না করে আগুনে আটকা পড়া কমর্চারীদেরকে উদ্ধার করেন। অন্যদিকে বিথি কালীপূজা উপলÿে কেনাকাটা করার জন্য বাজারে যায়। র",
+  "question_number": 9,
+  "stimulus": "মৃণালবাবু অফিসে যাওয়ার পথে দেখতে পান একটি দোকানে আগুন লেগেছে। তিনি নিজের জীবনের চিন্ত্মা না করে আগুনে আটকা পড়া কমর্চারীদেরকে উদ্ধার করেন। অন্যদিকে বিথি কালীপূজা উপলÿে কেনাকাটা করার জন্য বাজারে যায়। রাস্ত্মায় জীণের্দহী এক ভিÿুক ভিÿা চাইলে সে তার জমানো টাকা ভিÿুককে দান করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মানুষ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মানুষ ধমের্ক কেন শ্রদ্ধা করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মৃণালবাবুর 'সৎ সাহস' তোমার পঠিত বিষয়ের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিথি কি প্রকৃতপÿে একজন মানবপ্রেমিক? তোমার উত্তরের সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "দশম শ্রেণির মেধাবী ছাত্র শুভ কিছুদিন ধরে বিদ্যালয়ে অনুপস্থিত। খবর নিয়ে জানা যায় যে কুসঙ্গে পরে নেশায় আসক্ত হয়ে নানা রকম খারাপ কাজের সাথে জড়িত। শুভর বাবা-মা বুঝিয়ে তাকে স্বাভাবিক জীবনে ফিরিয়ে আনতে সÿম",
+  "question_number": 10,
+  "stimulus": "দশম শ্রেণির মেধাবী ছাত্র শুভ কিছুদিন ধরে বিদ্যালয়ে অনুপস্থিত। খবর নিয়ে জানা যায় যে কুসঙ্গে পরে নেশায় আসক্ত হয়ে নানা রকম খারাপ কাজের সাথে জড়িত। শুভর বাবা-মা বুঝিয়ে তাকে স্বাভাবিক জীবনে ফিরিয়ে আনতে সÿম হন। তাছাড়া মাদকাসক্তি অধমের্র পথ। তার ভুল বুঝতে পেরে সে স্বাভাবিক জীবনে ফিরে আসে। ধমের্র সাধারণ লÿণ কয়টি? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "\"জীবঃ ব্রহ্মৈব নাপরঃ\" শেস্নাকটির অথর্ বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তোমার কোনো মাদকাসক্তি বন্ধুকে স্বাভাবিক জীবনে ফিরিয়ে আনতে তুমি কী পদÿেপ নিতে পার উদ্দীপকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পারিবারিক, সামাজিক ও নৈতিক জীবনে মাদকাসক্তির প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-09-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-09",
+  "question_text": "বিভাস সবর্ত্র বন্ধুদের সাথে অথবা অন্য কারও সাথে না মিলে একাকী ঘুরে বেড়ায়। হঠাৎ একদিন মন্দিরে গিয়ে উপস্থিত হয়। সে কালীর ভজনা শুনে কালীর প্রেমে পড়ে যায়। তারপর সে সাধনায় সিদ্ধিলাভ করে।",
+  "question_number": 11,
+  "stimulus": "বিভাস সবর্ত্র বন্ধুদের সাথে অথবা অন্য কারও সাথে না মিলে একাকী ঘুরে বেড়ায়। হঠাৎ একদিন মন্দিরে গিয়ে উপস্থিত হয়। সে কালীর ভজনা শুনে কালীর প্রেমে পড়ে যায়। তারপর সে সাধনায় সিদ্ধিলাভ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পরমহংস কার উপাধি ছিল?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গদাধরের সাধন জীবন কীভাবে শুরম্ন হয়? ২  m†Rbkxj 67 দুটি উপদেশ উলেস্নখ করে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 09",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

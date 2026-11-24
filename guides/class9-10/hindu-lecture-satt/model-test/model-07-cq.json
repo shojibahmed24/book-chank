@@ -1,0 +1,622 @@
+[
+ {
+  "id": "hindu-lec-mt-model-07-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "সজল বাবু প্রতিদিন সকালে ঘুম থেকে উঠে সূযের্ক প্রণাম করেন। স্নান",
+  "question_number": 1,
+  "stimulus": "সজল বাবু প্রতিদিন সকালে ঘুম থেকে উঠে সূযের্ক প্রণাম করেন। স্নান",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কাত্তির্ক দেবের বাহন কী? ১ সেরে তিনি মন্দিরে গিয়ে বিভিন্ন উপাচারের মাধ্যমে দেবতার পূজা",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "পুরোহিত বলতে কী বোঝায়? ব্যাখ্যা কর। ২ করেন। অন্যদিকে কাজল বাবু প্রতিদিন সকালে বাগান পরিচযার্ করেন",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সুজয় বাবুর পূজা পাঠ্যবইয়ের কোন দেবতার সঙ্গে মিল রয়েছে? এবং গরিব-দুঃখীদের বিভিন্নভাবে আথির্ক সহযোগিতা করেন। বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ক",
+    "text": "ঈশ্বর কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রদীপ বাবুর আয়োজিত পূজার পূজা পদ্ধতি ও গুরম্নত্ব বিশেস্নষণ",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কাকে নটরাজ বলা হয়? ব্যাখ্যা কর। ২ কর।",
+    "marks": 4
+   },
+   {
+    "part": "গ",
+    "text": "সজল বাবুর কমর্কাে-র মধ্যে কোন দিকটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,খ,গ,ক,ঘ,খ,গ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "ঈশ্বর সকল সৃষ্টির মূল। তিনি সকল জীবের মধ্যে আত্মারূপে অবস্থান করতে হয়। মলয় নিয়মিত এই আসন চচার্ করে এখন সুস্থ আছে। করেন। এই আত্মা অবিনশ্বর, জন্মহীন। গীতায় বলা হয়েছে− \"আত্মা",
+  "question_number": 2,
+  "stimulus": "ঈশ্বর সকল সৃষ্টির মূল। তিনি সকল জীবের মধ্যে আত্মারূপে অবস্থান করতে হয়। মলয় নিয়মিত এই আসন চচার্ করে এখন সুস্থ আছে। করেন। এই আত্মা অবিনশ্বর, জন্মহীন। গীতায় বলা হয়েছে− \"আত্মা",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ঈশ্বর-প্রণিধান কী? ১ জন্মেও না, মরেও না।\"",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "প্রাণায়াম কেন অনুশীলন করা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "ক",
+    "text": "অবতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত উক্ত আসনের পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": "চতুরাশ্রম কী? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "ঘ",
+    "text": "মলয় যে আসনটি অনুশীলন করে তার প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "গ",
+    "text": "\"সকল জীবের মধ্যে ঈশ্বর আত্মারূপে অবস্থান করেন\"− উক্তিটি",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,খ,ক,গ,খ,ঘ,গ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "প্রণববাবু ছেলেমেয়ে স্ত্রীসহ পরিবারের সকলের দেখাশুনা করেন এবং রয়েছে। তিনি ঋষি মনুর উদ্ধৃতি দিয়ে বলেন, 'বেদঃ অখিল ধমর্মূলম্‌'। ব্যয়ভার বহন করেন। অতিথি সেবাসহ সমাজের জন্য সকলের দায়িত্ব",
+  "question_number": 3,
+  "stimulus": "প্রণববাবু ছেলেমেয়ে স্ত্রীসহ পরিবারের সকলের দেখাশুনা করেন এবং রয়েছে। তিনি ঋষি মনুর উদ্ধৃতি দিয়ে বলেন, 'বেদঃ অখিল ধমর্মূলম্‌'। ব্যয়ভার বহন করেন। অতিথি সেবাসহ সমাজের জন্য সকলের দায়িত্ব",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমের্র বিশেষ লÿণ কয়টি? ১ নিষ্ঠার সাথে পালন করেন। অন্যদিকে, বিজয় বাবুর বয়স হয়েছে।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বেদকে অপৌরম্নষেয় বলা হয় কেন ব্যাখ্যা কর। ২ তিনি সংসারের মায়া ত্যাগ করে মঠ, মন্দিরে রাত্রি যাপন করেন।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সমর বাবু আজ বেদের কোন অংশটি অধ্যয়ন করেছেন? উক্ত দুপুরের খাবার লোকালয় থেকে সংগ্রহ করেন। সবসময় তিনি ঈশ্বর অংশের বিষয়বস্তু উদ্দীপকের আলোকে ব্যাখ্যা কর। ৩ চিন্ত্মায় মগ্ন থাকেন। −",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "ভক্তিযোগ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "ঘ",
+    "text": "\"বেদ এক অখ- জ্ঞান রাশি\" বিশেস্নষণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "খ",
+    "text": "'প্রাণায়াম' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রণববাবুর কাজটি মানবজীবনের কোন আশ্রমের পযার্য়ভুক্ত তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিজয়বাবুর কাজের মাধ্যমে কি ঈশ্বর লাভ সম্ভব? সপÿে যুক্তি দাও। ৪ ৪  শ্রীবাস বিভিন্ন ধমার্নুষ্ঠান-নামযজ্ঞ, রথযাত্রায় যায়। সে ভদ্র, নম্র ও বিনয়ী। সমাজ ও পারিবারিক জীবনে তার বন্ধন সুদৃঢ়। এছাড়া ঐতিহাসিক তীথর্স্থান ভ্রমণে তার বেশ আগ্রহ। সে চট্টগ্রামের সীতাকু-,",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "মহেশখালীর আদিনাথ মন্দিরসহ দেশ-বিদেশের অনেক তীথর্স্থান দশর্ন করেছে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "পণাতীথর্স্থানটি কোন জেলায় অবস্থিত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দীপাবলি কী তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শ্রীবাস কী পালনের মাধ্যমে সমাজ ও পারিবারিক জীবনে তার বন্ধন সুদৃঢ় হয়েছে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'শ্রীবাস ঐতিহাসিক তীথর্স্থান ভ্রমণের ফলে তার জ্ঞানের পরিধি বৃদ্ধি পায়।' -এ মমের্ তীথর্ দশের্নর গুরম্নত্ব তুলে ধর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq; marks_parts অস্বাভাবিক: 13টি অংশ (ক,খ,গ,ক,ঘ,খ,গ,ঘ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "কেশব চক্রবতীর্ ও তুষার দাশ দুই বন্ধু। কেশব পূজা-পাবর্ণ করেন এবং তুষার ব্যবসায় করেন। গত সপ্তাহে কেশবের বাবা মারা গেছেন এবং তুষারের স্ত্রীর দ্বিতীয় সন্ত্মানের জন্ম হয়েছে। এ সময় উভয়ে অশৌচ পালন করতে লাগলে",
+  "question_number": 5,
+  "stimulus": "কেশব চক্রবতীর্ ও তুষার দাশ দুই বন্ধু। কেশব পূজা-পাবর্ণ করেন এবং তুষার ব্যবসায় করেন। গত সপ্তাহে কেশবের বাবা মারা গেছেন এবং তুষারের স্ত্রীর দ্বিতীয় সন্ত্মানের জন্ম হয়েছে। এ সময় উভয়ে অশৌচ পালন করতে লাগলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অশৌচ শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কীভাবে আদ্যশ্রাদ্ধ পালন করতে হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কেশব ও তুষারের অশৌচ পালনের তুলনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বণের্ভদে অশৌচ পালনের তাৎপযর্ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "সুজয় বিয়ের পর সন্ত্মান-সন্ত্মতি লাভের আশায় এক দেবতার পূজা",
+  "question_number": 6,
+  "stimulus": "সুজয় বিয়ের পর সন্ত্মান-সন্ত্মতি লাভের আশায় এক দেবতার পূজা",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অবতার কয় করে। তার হাতে তীর, ধনুক ও বলস্নম দেখা যায়। তিনি অত্যন্ত্ম সুন্দর-",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "সুঠাম দেহ এবং অসীম শক্তির অধিকারী। অপরদিকে, প্রদীপ দীঘির্দন ধরে অসুস্থ। তার এক বন্ধু তাকে দেখতে এসে এক পূজার আয়োজন করতে বলে। প্রদীপ বাজার থেকে বিভিন্ন উপকরণ যেমন− পেঁপে,",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "নারিকেল, তরমুজ, কলা ও অন্যান্য মিষ্টি জাতীয় দ্রব্য ক্রয় করেন।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "মলয় হাঁপানি রোগে ভুগছে। হঠাৎ ক্লাসে অসুস্থ হয়ে পড়লে,",
+  "question_number": 7,
+  "stimulus": "মলয় হাঁপানি রোগে ভুগছে। হঠাৎ ক্লাসে অসুস্থ হয়ে পড়লে,",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "কাজল বাবুর অনুসরণকৃত পদ্ধতিতে কি ঈশ্বর লাভ সম্ভব? উত্তরের শ্রেণিশিÿক তাকে একটি আসন অনুশীলন করার পরামশর্ দেন। হাঁটু সপÿে যুক্তি প্রদশর্ন কর। ৪ গেড়ে বসে, প্রণাম করার ভঙ্গিতে কপাল মাটিতে ঠেকিয়ে এই আসন",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "সমর বাবু একজন সজ্জন ব্যক্তি। ধমীর্য় বিষয় সম্পকের্ তার জানার উদ্দীপকের আলোকে ব্যাখ্যা কর। ৩ আগ্রহ প্রবল। এ সম্পকির্ত জ্ঞান লাভের উদ্দেশ্যে তিনি বিভিন্ন ধমীর্য়",
+  "question_number": 8,
+  "stimulus": "সমর বাবু একজন সজ্জন ব্যক্তি। ধমীর্য় বিষয় সম্পকের্ তার জানার উদ্দীপকের আলোকে ব্যাখ্যা কর। ৩ আগ্রহ প্রবল। এ সম্পকির্ত জ্ঞান লাভের উদ্দেশ্যে তিনি বিভিন্ন ধমীর্য়",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "\"আত্মা জন্মেও না, মরেও না\"−উক্তিটি বিশেস্নষণ কর। ৪ গ্রন্থ অধ্যয়ন করেন। তিনি আজ বেদের এমন একটি অংশ অধ্যয়ন করেন যার মধ্যে বতর্মান চিকিৎসা বিজ্ঞানের মৌলিক নিদের্শনা",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "তরণী ছিলেন পিতা বিভীষণের মতোই ধামির্ক। রাবণ বালক তরণীকে কোনোমতেই যুদ্ধে যাওয়ার অনুমতি দিতে চাইলেন না। কিন্তু তরণীসেন রাবণকে রাজি করিয়ে যুদ্ধে যাত্রা করল।",
+  "question_number": 9,
+  "stimulus": "তরণী ছিলেন পিতা বিভীষণের মতোই ধামির্ক। রাবণ বালক তরণীকে কোনোমতেই যুদ্ধে যাওয়ার অনুমতি দিতে চাইলেন না। কিন্তু তরণীসেন রাবণকে রাজি করিয়ে যুদ্ধে যাত্রা করল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মহত্ত্বের উৎস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মানুষকে অন্যান্য জীব থেকে শ্রেষ্ঠ বলা হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তুমি কীভাবে দেশপ্রেম প্রকাশ করবে? ব্যাখ্যা কর। ৩ তরণীসেনের সৎসাহস দেশপ্রেমেরই বহিঃপ্রকাশ− বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "তাপস বোস একজন বিত্তবান ও অত্যাচারী ব্যক্তি। তার কাছে ঈশ্বর বলতে কিছুই নেই। কিন্তু তার ছেলে গৌতম ছিল হরিভক্ত। সে ঈশ্বর ছাড়া কিছুই বোঝে না। তার বাবা তাকে অনেকবার মারার চেষ্টা করলেও সে বেঁচে যায়। তার বিশ",
+  "question_number": 10,
+  "stimulus": "তাপস বোস একজন বিত্তবান ও অত্যাচারী ব্যক্তি। তার কাছে ঈশ্বর বলতে কিছুই নেই। কিন্তু তার ছেলে গৌতম ছিল হরিভক্ত। সে ঈশ্বর ছাড়া কিছুই বোঝে না। তার বাবা তাকে অনেকবার মারার চেষ্টা করলেও সে বেঁচে যায়। তার বিশ্বাস ছিল, \"ধমের্র জয় অবশ্যম্ভাবী\"।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমার্ধমর্ নিণের্য় বেদের পরে স্থান কার?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধামিের্কর স্বরূপ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "পাঠ্যপুস্ত্মকের কোন চরিত্রের সাথে তাপস বোস চরিত্রের সাদৃশ্য পাওয়া যায়? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "গৌতমের বিশ্বাস \"ধমের্র জয় অবশ্যম্ভাবী\" −উক্তিটির তাৎপযর্ মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-mt-model-07-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-07",
+  "question_text": "ভারতবষের্ এক মহান চিকিৎসক ছিলেন। তিনি ছিলেন বিশ্বামিত্র মুনির পুত্র। তাকে ভারতীয় শল্য বিদ্যার জনক বলা হয়। অপরদিকে, ভারতের আরও একজন মহান চিকিৎসক ছিলেন। তাকে 'ভারতীয় চিকিৎসাশাস্ত্রের জনক' বলা হয়। তিনি ম",
+  "question_number": 11,
+  "stimulus": "ভারতবষের্ এক মহান চিকিৎসক ছিলেন। তিনি ছিলেন বিশ্বামিত্র মুনির পুত্র। তাকে ভারতীয় শল্য বিদ্যার জনক বলা হয়। অপরদিকে, ভারতের আরও একজন মহান চিকিৎসক ছিলেন। তাকে 'ভারতীয় চিকিৎসাশাস্ত্রের জনক' বলা হয়। তিনি মানবদেহে দাঁতসহ ৩৬০টি অস্থির কথা বলেছেন। রকমের ও কী কী? ১ ভগবান কেন অবতার হয়ে পৃথিবীতে আসেন? ব্যাখ্যা কর। ২",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে ভারতীয় শল্য বিদ্যার জনক কে? চিকিৎসাশাস্ত্রে তার অবদান বণর্না কর। ৩ ভারতীয় চিকিৎসাশাস্ত্রের জনকের চিকিৎসা পদ্ধতি, প্রজনন বিদ্যা ও মানবদেহ সম্পকের্ যা বলেছেন তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Special Model Test 07",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-model-test → lecture-cq",
+  "guide_source": "Test paper/Model Question.pdf p8",
+  "key_format": null,
+  "source_file": "Test paper/Model Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

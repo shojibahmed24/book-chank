@@ -1,0 +1,621 @@
+[
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "ধমর্ শিÿক ছাত্রীদের উপসনার একটি মন্ত্র বা শেস্নাক লিখতে বলেন।",
+  "question_number": 1,
+  "stimulus": "ধমর্ শিÿক ছাত্রীদের উপসনার একটি মন্ত্র বা শেস্নাক লিখতে বলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রণিধান অথর্ কী? ১ ছাত্রীরা শেস্নাকটি লিখল−",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "অপরিগ্রহ বলতে কী বোঝ? ২ যস্মাৎ পরং নাপরমস্ত্মি কিঞ্চিদ্‌।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "যোগসাধনা অনুশীলনকারী ব্যক্তির বৈশিষ্ট্য ব্যাখ্যা কর। ৩ যস্মান্নাণীয়ো ন জায়োহস্ত্মি কিঞ্চিৎ।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "যোগসাধনা প্রক্রিয়া মনকে শুদ্ধ ও শান্ত্ম করে−ব্যাখ্যা কর। ৪ বৃÿ ইব স্ত্মব্ধো দিবি তিষ্ঠত্যেক− স্ত্মেনেদং পূণর্ং পুরম্নষেণ সবর্ম্‌।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "প্রতীক শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উপাসনার মাধ্যমে ঈশ্বরকে লাভ করা যায়− ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "ক",
+    "text": "",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "এ শেস্নাক থেকে তুমি যে শিÿা গ্রহণ করতে পার তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মানবজীবনে উপাসনার প্রয়োজনীয়তা কতটুকু? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 9টি অংশ (ক,খ,গ,ঘ,ক,খ,ক,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "কমের্ তব অধিকার",
+  "question_number": 2,
+  "stimulus": "কমের্ তব অধিকার",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "ফলে কভু নয়। ফলাসক্তি ত্যাগ কর, কমর্ ত্যাজ্য নয়।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "ভক্তিযোগের সার কথা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সংÿেপে জ্ঞানযোগের ফলগুলো ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মোÿ লাভের জন্য তুমি উদ্দীপক থেকে কী শিÿা লাভ করবে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ফলাসক্তি ত্যাগ কর, কমর্ ত্যাগ নয়− উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "মিতালী প্রতিবছর কাতির্ক মাসের শুল্কা দ্বিতীয়া তিথিতে এবং বাংলা সনের প্রথম দিনে খুব আনন্দের সাথে আড়ম্বরপূণর্ উৎসব পালন করে।",
+  "question_number": 3,
+  "stimulus": "মিতালী প্রতিবছর কাতির্ক মাসের শুল্কা দ্বিতীয়া তিথিতে এবং বাংলা সনের প্রথম দিনে খুব আনন্দের সাথে আড়ম্বরপূণর্ উৎসব পালন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমার্নুষ্ঠান কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নবান্ন বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত প্রথম উৎসবের বিবরণ দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের দ্বিতীয় উৎসবটির ধমীর্য় অনুভূতির পাশাপাশি রয়েছে সাবর্জনীনতা− বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "ওঁ সবর্মঙ্গলমঙ্গল্যে শিবে সবার্থর্সাধিকে। শরণ্যে এম্বকে গৌরী নারায়ণি সম্পকের্ নমোহস্ত্মুতেদেবী দুগার্র উক্ত মন্ত্রটি দ্বারা দেবী দুগার্র বিভিন্ন রূপের আবিভাের্বর কথা বুঝিয়েছে। এ পূজার মাধ্যমে উৎসবের ",
+  "question_number": 4,
+  "stimulus": "ওঁ সবর্মঙ্গলমঙ্গল্যে শিবে সবার্থর্সাধিকে। শরণ্যে এম্বকে গৌরী নারায়ণি সম্পকের্ নমোহস্ত্মুতেদেবী দুগার্র উক্ত মন্ত্রটি দ্বারা দেবী দুগার্র বিভিন্ন রূপের আবিভাের্বর কথা বুঝিয়েছে। এ পূজার মাধ্যমে উৎসবের সৃষ্টি হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কখন সন্ধি পূজা অনুষ্ঠিত হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "লৌকিক দেবতা বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দেবী দুগার্র রূপের বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সাবর্জনীন দুগার্পূজা উদ্‌যাপনের মাধ্যমে উৎসবের সৃষ্টি হয়− উক্তিটি যথাথর্তা নিরূপণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "নীলয় প্রতিদিন পাঠ্যবইয়ের পাশাপাশি বিভিন্ন ধমর্গ্রন্থ অধ্যয়ন করে।",
+  "question_number": 5,
+  "stimulus": "নীলয় প্রতিদিন পাঠ্যবইয়ের পাশাপাশি বিভিন্ন ধমর্গ্রন্থ অধ্যয়ন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "সম্প্রতি সে বৈদিক সাহিত্যের জ্ঞানকাে-র একটি অংশ পড়েছে, যেখানে শ্রীকৃষ্ণের শিÿার সৃষ্টিকতার্ ও সৃষ্টির রহস্য রয়েছে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "কোন গ্রন্থকে আদিকাব্য বলা হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মহাভারতে কুরম্ন ও পা-বদের যুদ্ধ গুরম্নত্বপূণর্ কেন? বুঝিয়ে লেখ। ২ অবহিত করা",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "নীলয়ের পঠিত ধমর্গ্রন্থ সম্পকের্ যেসব ব্যাখ্যা পাওয়া যায় তা লিপিবদ্ধ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উলিস্নখিত ধমর্গ্রন্থ নীলয়কে পরিপূণর্ জীবনের সন্ধান দিতে পারে− বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (গ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "জীবাত্মার সঙ্গে পরমাত্মার সংযোগই যোগসাধনা। আর যোগ দশের্নর কর। বিভিন্ন প্রকার সাধন প্রক্রিয়ার কথা বলা হয়েছে। যোগ মনকে শুদ্ধ ও শান্ত্ম করে। প্রকৃতপÿে ধ্যানের মাধ্যমেই সাধনার চরম পযাের্য় পৌঁছানো যায়।",
+  "question_number": 6,
+  "stimulus": "জীবাত্মার সঙ্গে পরমাত্মার সংযোগই যোগসাধনা। আর যোগ দশের্নর কর। বিভিন্ন প্রকার সাধন প্রক্রিয়ার কথা বলা হয়েছে। যোগ মনকে শুদ্ধ ও শান্ত্ম করে। প্রকৃতপÿে ধ্যানের মাধ্যমেই সাধনার চরম পযাের্য় পৌঁছানো যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "তরম্নণী ছিলেন পিতা বিভীষণের মতোই ধামির্ক। রাবন বালক তরম্নণীকে কোনোমতেই যুদ্ধে যাওয়ার অনুমতি দিতে চাইলেন না। কিন্তু তরম্নণী সেন রাবনকে রাজি করিয়ে যুদ্ধে যাত্রা করল। মহত্ত্বের উৎস কী? ১",
+  "question_number": 7,
+  "stimulus": "তরম্নণী ছিলেন পিতা বিভীষণের মতোই ধামির্ক। রাবন বালক তরম্নণীকে কোনোমতেই যুদ্ধে যাওয়ার অনুমতি দিতে চাইলেন না। কিন্তু তরম্নণী সেন রাবনকে রাজি করিয়ে যুদ্ধে যাত্রা করল। মহত্ত্বের উৎস কী? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "মানুষকে অন্যান্য জীব থেকে শ্রেষ্ঠ বলা হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তুমি কীভাবে দেশপ্রেম প্রকাশ করবে? ব্যাখ্যা কর। ৩ তরম্নণী সেনের সৎসাহস দেশপ্রেমেরই বহিঃপ্রকাশ− বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "অনিল বাবু ধমর্সভায় ধমর্পথের ধারণা সম্পকের্ বিস্ত্মারিত বণর্না করেন। তিনি মোÿ লাভ ও ধামিের্কর পরিণতি তুলে ধরেন। উপস্থিত ভক্তদের মধ্যে অসীমতার বক্তব্য শুনে মুগ্ধ হন।",
+  "question_number": 8,
+  "stimulus": "অনিল বাবু ধমর্সভায় ধমর্পথের ধারণা সম্পকের্ বিস্ত্মারিত বণর্না করেন। তিনি মোÿ লাভ ও ধামিের্কর পরিণতি তুলে ধরেন। উপস্থিত ভক্তদের মধ্যে অসীমতার বক্তব্য শুনে মুগ্ধ হন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ব্রহ্মলগ্ন হওয়া কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সদাচার বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ধামির্ক ও অধামিের্কর পরিণতি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ধমর্পথ অনুশীলনের ধারণা পাঠ্যবইয়ের আলোকে বণর্না কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "প্রাচীন ভারতে সুশ্রম্নত ও চরক নামে দুইজন মহান চিকিৎসক ছিলেন। সুশ্রম্নত শাল্যচিকিৎসার ৩০০ প্রকার পদ্ধতির বণর্না দিয়েছেন। আর চরক বলেছেন রোগের চিকিৎসার থেকে প্রতিরোধ করা বেশি জরম্নরি।",
+  "question_number": 9,
+  "stimulus": "প্রাচীন ভারতে সুশ্রম্নত ও চরক নামে দুইজন মহান চিকিৎসক ছিলেন। সুশ্রম্নত শাল্যচিকিৎসার ৩০০ প্রকার পদ্ধতির বণর্না দিয়েছেন। আর চরক বলেছেন রোগের চিকিৎসার থেকে প্রতিরোধ করা বেশি জরম্নরি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অবতার কত রকমের?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চরককে কেন ভারতীয় চিকিৎসাশাস্ত্রের জনক বলা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুশ্রম্নত সংহিতার বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চরকই প্রথম মানবদেহের পরিপাক, বিপাক ও রোগপ্রতিরোধ বলেছেন− কথাটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-bidyamoyee-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-bidyamoyee",
+  "question_text": "ঢাকা বিশ্ববিদ্যালয়ের শ্রীরামকৃষ্ণের জীবনী নিয়ে একটি ডকুমেন্টারি দেখানো হয়। শ্রীরামকৃষ্ণ বলেছেন আন্ত্মরিক হলেই সব ধমের্র মধ্য দিয়েই ঈশ্বরকে পাওয়া যায়। ঈশ্বরের কাছে দান পথ দিয়ে পৌঁছানো যায়। তিনি বলেন",
+  "question_number": 10,
+  "stimulus": "ঢাকা বিশ্ববিদ্যালয়ের শ্রীরামকৃষ্ণের জীবনী নিয়ে একটি ডকুমেন্টারি দেখানো হয়। শ্রীরামকৃষ্ণ বলেছেন আন্ত্মরিক হলেই সব ধমের্র মধ্য দিয়েই ঈশ্বরকে পাওয়া যায়। ঈশ্বরের কাছে দান পথ দিয়ে পৌঁছানো যায়। তিনি বলেন, যত মত তত পথ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গদাধরকে বেদান্ত্ম সাধনায় দীÿিত করেন কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শ্রীরামকৃষ্ণের প্রতি বিবেকানন্দের ভক্তি ভাব গড়ে ওঠার কারণ ব্যাখ্যা কর। ২ সকল ধমের্র মধ্যে তুমি কীভাবে সমন্বয় রÿা করতে পার? আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শ্রীরামকৃষ্ণের 'যত মত তত পথ' বাণীটি বিশেস্নষণ কর। ৪  সনাতন ধমার্নুসারে স্রষ্টাকে ব্রহ্ম, ঈশ্বর, ভগবান ও অবতার নামে হয়েছে। স্রষ্টা ছাড়া যেমন সৃষ্টি হয় না তেমনই সৃষ্টি ছাড়াও স্রষ্টার অস্ত্মিত্ব থাকে না।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "ভগবান বিষ্ণুই কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ঈশ্বররূপে স্রষ্টার স্বরূপ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "স্রষ্টাকে ভগবান ও অবতার নামে অবিহিত করার কারণ ব্যাখ্যা",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "স্রষ্টা ছাড়া যেমন সৃষ্টি হয় না তেমনই সৃষ্টি ছাড়া স্রষ্টার অস্ত্মিত্ব থাকে না− মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — bidyamoyee",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,খ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p21",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
