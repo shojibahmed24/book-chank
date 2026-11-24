@@ -1,0 +1,4 @@
+{
+ "dropped": [],
+ "note": "0 rows dropped: all 18 non-spec rows have non-empty question_text AND guide_solution; no row met the empty-placeholder rule (question_text + options + guide_solution all empty)."
+}
