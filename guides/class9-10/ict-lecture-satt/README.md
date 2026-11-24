@@ -6,7 +6,7 @@
 - **সোর্স:** `~/workspace/lecture-sheets/ssc-chapter-wise/1. SSC Common Subjects/5. SSC ICT/`
 - **ডিকোড:** `~/workspace/lecture-sheets/decoded/ssc/ict/` (+ `_doc-twins/` — .doc/.docx থেকে soffice-কনভার্ট করা কপি)
 - **আউটপুট:** এই ডিরেক্টরি (`staging/ssc/ict/`) — `questions-ict.json`, `flagged.json`, `chapter-*.json`, `model-test/*.json`
-- **স্ট্যাটাস:** সম্পূর্ণ (first pass + final pass, ২০২৬-১১-২৪; নর্মালাইজেশন ২০২৬-১১-২৫ — নিচে দেখুন)। পুশ হয়নি — staging only।
+- **স্ট্যাটাস:** সম্পূর্ণ (first pass + final pass, ২০২৬-১১-২৪; নর্মালাইজেশন ২০২৬-১১-২৫ — নিচে দেখুন)। GitHub-এ push করা হয়েছে (guides/class9-10/ict-lecture-satt/)।
 
 ## চূড়ান্ত ফল (যাচাই করা, ডিস্কে — নর্মালাইজেশন-পরবর্তী)
 
