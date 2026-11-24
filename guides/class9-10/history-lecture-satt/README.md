@@ -1,0 +1,248 @@
+# ইতিহাস (history) — SSC Lecture Sheets চাংক
+
+- মোট row: **9565**
+- type ভাগ: {'lecture-note': 94, 'mcq': 8670, 'cq': 470, 'saq': 331}
+- flag করা row: 8318
+- প্রসেস করা ফাইল: 209 (snapshot 2026-11-24), মিসিং: 0
+- সোর্স: `ssc-chapter-wise/3. SSC Humanities/SSC History/`
+
+## ফাইল তালিকা
+
+- `board/barishal-2021-mcq.json` — 27 rows
+- `board/barishal-2022-mcq.json` — 16 rows
+- `board/barishal-2023-cq.json` — 5 rows
+- `board/barishal-2023-mcq.json` — 50 rows
+- `board/barishal-2024-cq.json` — 7 rows
+- `board/barishal-2024-mcq.json` — 27 rows
+- `board/barishal-2025-cq.json` — 2 rows
+- `board/barishal-2025-mcq.json` — 25 rows
+- `board/chattogram-2021-mcq.json` — 17 rows
+- `board/chattogram-2022-mcq.json` — 21 rows
+- `board/chattogram-2023-cq.json` — 5 rows
+- `board/chattogram-2023-mcq.json` — 45 rows
+- `board/chattogram-2024-cq.json` — 1 rows
+- `board/chattogram-2024-mcq.json` — 27 rows
+- `board/chattogram-2025-cq.json` — 3 rows
+- `board/chattogram-2025-mcq.json` — 24 rows
+- `board/cumilla-2023-cq.json` — 8 rows
+- `board/cumilla-2023-mcq.json` — 27 rows
+- `board/cumilla-2024-cq.json` — 5 rows
+- `board/cumilla-2024-mcq.json` — 27 rows
+- `board/cumilla-2025-cq.json` — 6 rows
+- `board/cumilla-2025-mcq.json` — 26 rows
+- `board/dhaka-2021-mcq.json` — 22 rows
+- `board/dhaka-2022-cq.json` — 1 rows
+- `board/dhaka-2023-cq.json` — 4 rows
+- `board/dhaka-2023-mcq.json` — 47 rows
+- `board/dhaka-2024-cq.json` — 6 rows
+- `board/dhaka-2024-mcq.json` — 28 rows
+- `board/dhaka-2025-cq.json` — 1 rows
+- `board/dhaka-2025-mcq.json` — 24 rows
+- `board/dinajpur-2022-mcq.json` — 24 rows
+- `board/dinajpur-2023-cq.json` — 2 rows
+- `board/dinajpur-2023-mcq.json` — 24 rows
+- `board/dinajpur-2024-cq.json` — 4 rows
+- `board/dinajpur-2024-mcq.json` — 25 rows
+- `board/dinajpur-2025-cq.json` — 4 rows
+- `board/jessore-2021-cq.json` — 1 rows
+- `board/jessore-2021-mcq.json` — 25 rows
+- `board/jessore-2022-cq.json` — 1 rows
+- `board/jessore-2022-mcq.json` — 28 rows
+- `board/jessore-2023-cq.json` — 5 rows
+- `board/jessore-2023-mcq.json` — 49 rows
+- `board/jessore-2024-cq.json` — 4 rows
+- `board/jessore-2024-mcq.json` — 25 rows
+- `board/jessore-2025-cq.json` — 2 rows
+- `board/jessore-2025-mcq.json` — 26 rows
+- `board/mymensingh-2021-mcq.json` — 20 rows
+- `board/mymensingh-2022-mcq.json` — 18 rows
+- `board/mymensingh-2023-cq.json` — 5 rows
+- `board/mymensingh-2023-mcq.json` — 28 rows
+- `board/mymensingh-2024-cq.json` — 3 rows
+- `board/mymensingh-2024-mcq.json` — 23 rows
+- `board/mymensingh-2025-cq.json` — 4 rows
+- `board/mymensingh-2025-mcq.json` — 24 rows
+- `board/rajshahi-2021-mcq.json` — 22 rows
+- `board/rajshahi-2022-cq.json` — 1 rows
+- `board/rajshahi-2022-mcq.json` — 26 rows
+- `board/rajshahi-2023-cq.json` — 4 rows
+- `board/rajshahi-2023-mcq.json` — 50 rows
+- `board/rajshahi-2024-cq.json` — 6 rows
+- `board/rajshahi-2024-mcq.json` — 21 rows
+- `board/rajshahi-2025-cq.json` — 3 rows
+- `board/rajshahi-2025-mcq.json` — 27 rows
+- `board/sylhet-2021-mcq.json` — 22 rows
+- `board/sylhet-2022-mcq.json` — 19 rows
+- `board/sylhet-2023-cq.json` — 9 rows
+- `board/sylhet-2023-mcq.json` — 52 rows
+- `board/sylhet-2024-mcq.json` — 1 rows
+- `board/sylhet-2025-cq.json` — 3 rows
+- `board/sylhet-2025-mcq.json` — 29 rows
+- `chapter-01-cq.json` — 9 rows
+- `chapter-01-lecture-note.json` — 158 rows
+- `chapter-01-mcq.json` — 148 rows
+- `chapter-01-saq.json` — 30 rows
+- `chapter-02-cq.json` — 9 rows
+- `chapter-02-lecture-note.json` — 309 rows
+- `chapter-02-mcq.json` — 305 rows
+- `chapter-02-saq.json` — 8 rows
+- `chapter-03-cq.json` — 9 rows
+- `chapter-03-lecture-note.json` — 140 rows
+- `chapter-03-mcq.json` — 131 rows
+- `chapter-03-saq.json` — 23 rows
+- `chapter-04-cq.json` — 13 rows
+- `chapter-04-lecture-note.json` — 324 rows
+- `chapter-04-mcq.json` — 322 rows
+- `chapter-04-saq.json` — 30 rows
+- `chapter-05-cq.json` — 9 rows
+- `chapter-05-lecture-note.json` — 201 rows
+- `chapter-05-mcq.json` — 199 rows
+- `chapter-05-saq.json` — 5 rows
+- `chapter-06-cq.json` — 16 rows
+- `chapter-06-lecture-note.json` — 278 rows
+- `chapter-06-mcq.json` — 278 rows
+- `chapter-06-saq.json` — 41 rows
+- `chapter-07-cq.json` — 9 rows
+- `chapter-07-lecture-note.json` — 206 rows
+- `chapter-07-mcq.json` — 195 rows
+- `chapter-07-saq.json` — 35 rows
+- `chapter-08-cq.json` — 9 rows
+- `chapter-08-lecture-note.json` — 232 rows
+- `chapter-08-mcq.json` — 224 rows
+- `chapter-08-saq.json` — 29 rows
+- `chapter-09-cq.json` — 9 rows
+- `chapter-09-lecture-note.json` — 209 rows
+- `chapter-09-mcq.json` — 203 rows
+- `chapter-09-saq.json` — 9 rows
+- `chapter-10-cq.json` — 9 rows
+- `chapter-10-lecture-note.json` — 326 rows
+- `chapter-10-mcq.json` — 311 rows
+- `chapter-10-saq.json` — 22 rows
+- `chapter-11-cq.json` — 9 rows
+- `chapter-11-lecture-note.json` — 225 rows
+- `chapter-11-mcq.json` — 221 rows
+- `chapter-11-saq.json` — 29 rows
+- `chapter-12-cq.json` — 9 rows
+- `chapter-12-lecture-note.json` — 281 rows
+- `chapter-12-mcq.json` — 266 rows
+- `chapter-12-saq.json` — 27 rows
+- `chapter-13-cq.json` — 9 rows
+- `chapter-13-lecture-note.json` — 346 rows
+- `chapter-13-mcq.json` — 331 rows
+- `chapter-13-saq.json` — 43 rows
+- `chapter-14-lecture-note.json` — 197 rows
+- `chapter-15-lecture-note.json` — 188 rows
+- `model-test/board-question-doc-mcq.json` — 30 rows
+- `model-test/final-cq-1-cq.json` — 11 rows
+- `model-test/final-cq-2-cq.json` — 11 rows
+- `model-test/final-mcq-1-mcq.json` — 30 rows
+- `model-test/final-mcq-2-mcq.json` — 30 rows
+- `model-test/final-mcq-3-mcq.json` — 30 rows
+- `model-test/final-mcq-4-mcq.json` — 29 rows
+- `model-test/final-mcq-5-mcq.json` — 30 rows
+- `model-test/final-mcq-6-mcq.json` — 30 rows
+- `model-test/final-mcq-7-mcq.json` — 30 rows
+- `model-test/model-question-doc-mcq.json` — 30 rows
+- `model-test/mt-ch-cq-01-cq.json` — 4 rows
+- `model-test/mt-ch-cq-02-cq.json` — 4 rows
+- `model-test/mt-ch-cq-03-cq.json` — 4 rows
+- `model-test/mt-ch-cq-04-cq.json` — 4 rows
+- `model-test/mt-ch-cq-05-cq.json` — 4 rows
+- `model-test/mt-ch-cq-06-cq.json` — 4 rows
+- `model-test/mt-ch-cq-07-cq.json` — 4 rows
+- `model-test/mt-ch-cq-08-cq.json` — 4 rows
+- `model-test/mt-ch-cq-09-cq.json` — 4 rows
+- `model-test/mt-ch-cq-10-cq.json` — 4 rows
+- `model-test/mt-ch-cq-11-cq.json` — 4 rows
+- `model-test/mt-ch-cq-12-cq.json` — 4 rows
+- `model-test/mt-ch-cq-13-cq.json` — 4 rows
+- `model-test/mt-ch-mcq-01-mcq.json` — 51 rows
+- `model-test/mt-ch-mcq-02-mcq.json` — 92 rows
+- `model-test/mt-ch-mcq-03-mcq.json` — 51 rows
+- `model-test/mt-ch-mcq-04-mcq.json` — 62 rows
+- `model-test/mt-ch-mcq-05-mcq.json` — 50 rows
+- `model-test/mt-ch-mcq-06-mcq.json` — 37 rows
+- `model-test/mt-ch-mcq-07-mcq.json` — 62 rows
+- `model-test/mt-ch-mcq-08-mcq.json` — 60 rows
+- `model-test/mt-ch-mcq-09-mcq.json` — 37 rows
+- `model-test/mt-ch-mcq-10-mcq.json` — 52 rows
+- `model-test/school-question-doc-mcq.json` — 30 rows
+- `model-test/ssc2027-cq-1-cq.json` — 8 rows
+- `model-test/ssc2027-cq-2-cq.json` — 8 rows
+- `model-test/ssc2027-cq-3-cq.json` — 8 rows
+- `model-test/ssc2027-cq-4-cq.json` — 8 rows
+- `model-test/ssc2027-cq-5-cq.json` — 8 rows
+- `model-test/ssc2027-mcq-1-mcq.json` — 30 rows
+- `model-test/ssc2027-mcq-2-mcq.json` — 30 rows
+- `model-test/ssc2027-mcq-3-mcq.json` — 29 rows
+- `model-test/ssc2027-mcq-4-mcq.json` — 30 rows
+- `model-test/ssc2027-mcq-5-mcq.json` — 30 rows
+- `model-test/tpo-model-question-cq.json` — 1 rows
+- `model-test/tpo-school-cq-cq.json` — 2 rows
+- `model-test/tpo-school-mcq-mcq.json` — 30 rows
+
+## বোর্ড/সাল ইনডেক্স
+
+- সিলেট 2015: 13 rows
+- সিলেট 2016: 23 rows
+- চট্টগ্রাম 2021: 17 rows
+- ঢাকা 2021: 22 rows
+- বরিশাল 2021: 27 rows
+- ময়মনসিংহ 2021: 20 rows
+- যশোর 2021: 26 rows
+- রাজশাহী 2021: 22 rows
+- সিলেট 2021: 22 rows
+- চট্টগ্রাম 2022: 21 rows
+- ঢাকা 2022: 1 rows
+- দিনাজপুর 2022: 24 rows
+- বরিশাল 2022: 16 rows
+- ময়মনসিংহ 2022: 18 rows
+- যশোর 2022: 29 rows
+- রাজশাহী 2022: 27 rows
+- সিলেট 2022: 19 rows
+- কুমিল্লা 2023: 35 rows
+- চট্টগ্রাম 2023: 50 rows
+- ঢাকা 2023: 51 rows
+- দিনাজপুর 2023: 26 rows
+- বরিশাল 2023: 55 rows
+- ময়মনসিংহ 2023: 33 rows
+- যশোর 2023: 54 rows
+- রাজশাহী 2023: 54 rows
+- সিলেট 2023: 61 rows
+- কুমিল্লা 2024: 32 rows
+- চট্টগ্রাম 2024: 28 rows
+- ঢাকা 2024: 34 rows
+- দিনাজপুর 2024: 29 rows
+- বরিশাল 2024: 34 rows
+- ময়মনসিংহ 2024: 26 rows
+- যশোর 2024: 29 rows
+- রাজশাহী 2024: 27 rows
+- সিলেট 2024: 1 rows
+- কুমিল্লা 2025: 32 rows
+- চট্টগ্রাম 2025: 27 rows
+- ঢাকা 2025: 25 rows
+- দিনাজপুর 2025: 4 rows
+- বরিশাল 2025: 27 rows
+- ময়মনসিংহ 2025: 28 rows
+- যশোর 2025: 28 rows
+- রাজশাহী 2025: 30 rows
+- সিলেট 2025: 32 rows
+
+## নোট
+- ১. CQ ও ৩. MCQ অধ্যায়ের PDF গুলো outlined (টেক্সট লেয়ার নেই) — .doc twin থেকে ডিকোড করা হয়েছে (`.doc.uni.txt`); মূল PDF ডিকোড অডিটের জন্য `decoded/`-এ আছে।
+- MCQ দুই-কলাম লেআউট টেক্সট-অনলি state machine দিয়ে আলাদা করা হয়েছে (প্রশ্ন নম্বর + অপশন মার্কার anchor; anchor-ছাড়া লাইনে median split ratio)। সন্দেহজনক row flag করা আছে।
+- উত্তর/মান কখনো আন্দাজ করা হয়নি — না থাকলে null + flag। CQ part-mark (১/২/৩/৪) ছাপা না থাকলে null।
+- বোর্ড CQ সেটের marks = ছাপা মোট (যেমন প্রতিটির মান—১০); part-mark ছাপা না থাকলে null।
+- `verified_visual: false` সব row-তে (টেক্সট-এক্সট্রাক্ট)।
+
+## নরমালাইজেশন (2026-11-24/25 — কোনো row পরিবর্তন হয়নি)
+
+- **আগে/পরে:** মোট row 9565 → 9565; flag করা row 8318 → 8318; 0 row যোগ/বাদ/পরিবর্তন। প্রি-নরমালাইজেশন কপি `staging/ssc/history/_backup_pre_norm/`-এ (sha256 যাচাই: combined ও flagged ব্যাকআপের সাথে অভিন্ন)।
+- **স্কিমা সুইপ:** 9565 row-ই 37 ফিল্ড (spec-এর ফিল্ডসেটের সাথে হুবহু মিল); `section` সব row-তে `lecture-<type>`; type শুধু mcq/cq/saq/lecture-note; `subject_slug`/`book_id`/`class_id`/`source_kind`/`verified_visual` সব spec-মাফিক; id unique, null নেই; কোনো exact-duplicate row নেই; কোনো empty placeholder নেই (question_text + options + guide_solution তিনটেই খালি — 0টি)।
+- **ফাইল সমন্বয়:** chapter-*.json 7213 + board/*.json 1203 (70 ফাইল) + model-test/*.json 1149 = 9565 = questions-history.json। processed-files.txt 209 = ম্যানিফেস্ট 209, missing 0। README-র per-file count ও বোর্ড/সাল ইনডেক্স (44টি) ডেটার সাথে হুবহু মেলে।
+- **য+়/য় ট্র্যাপ:** combined-এর কোনো ফিল্ডে decomposed য+় (U+09AF+U+09BC) নেই — 0 row; board_name ৯টি সঠিক রূপেই আছে (বরিশাল/চট্টগ্রাম/কুমিল্লা/ঢাকা/দিনাজপুর/যশোর/ময়মনসিংহ/রাজশাহী/সিলেট)। আগে Dinajpur লেবেলের নিচে 45 duplicate id-র ঘটনাটি আর ফিরে আসেনি।
+- **id ফরম (spec-এর বাইরে তিনটি নিয়মিত এক্সটেনশন — ইচ্ছাকৃত, রাখা হয়েছে, rename করা হয়নি):** (1) বোর্ড row: `history-lec-board-<board>-<year>-<type>[-tpo]-NNN` (1203 row); (2) লেকচার-শিট MCQ/CQ: `history-lec-chNN-lecture-<type>-<bank|exercise>-NNN` (3529 row); (3) doc-only মডেল প্রশ্ন: `history-lec-mt-<set>-NNN` (type infix ছাড়া, 90 row)। Spec-এর strict ফরমে ভাঁজ করলে id collide করত (যেমন একই অধ্যায়ে mcq-bank ও mcq-exercise দুটোতেই 001… আছে) — তাই এক্সটেনশন load-bearing; board/tpo/set তথ্য id-তে থাকায় traceability-ও রক্ষা পায়।
+- **type নোট:** বোর্ড ফোল্ডারের row-গুলো type `board` নয় — mcq/cq, সাথে board_name/board_year/set_id (1239 row-তে board_name, সবগুলোতেই board_year আছে)। Spec-এর "বোর্ড MCQ হলে mcq-এর নিয়ম, CQ হলে cq-এর নিয়ম" পড়া অনুযায়ী এটাই চাংকারের সামঞ্জস্যপূর্ণ রীতি; বদলানো হয়নি।
+- **ডক-টুইন যাচাই (76টি skipped .doc/.docx):** প্রতিটি twin soffice → PDF → shared decode-pdf.py দিয়ে ডিকোড করে PDF twin-এর decoded টেক্সটের সাথে মেলানো হয়েছে; LibreOffice Bijoy রান আংশিক অপরিবর্তিত রাখে বলে Bijoy-recovery পাস (decode টুলেরই converter + indicator set) দিয়ে পুনরায় মাপা হয়েছে। ফল: 70 DUPLICATE + 5 LIKELY_DUPLICATE + 1টি answer-only ফাইল চোখে যাচাই (3. history MCQ Ans. — একই উত্তরমালা, 0 row)। কোনো twin-এ unique কনটেন্ট পাওয়া যায়নি — কিছু chunk করা হয়নি। প্রমাণ: `workspace/lecture-sheets/work/history/twin-check/` (converted PDF + .uni.txt + twin-check-report.json / twin-check-stage2.json / twin-check-stage3.json)।
+- **ডিকোড আর্টিফ্যাক্ট:** chapter_name-এ যুক্তাক্ষর ভুল আছে (যেমন "পরবতীর্", "নিবার্চন", "অথৈর্নতিক") — spec অনুযায়ী হাত দিয়ে বানান ঠিক করা হয়নি, যেমন আছে তেমনই আছে।
+- **ভ্যালিডেশন:** 12/12 PASS (সব JSON parse হয়; combined = সব per-file JSON-এর যোগফল; id unique/null নেই; সব row 37 ফিল্ড; flagged.json ⊆ combined ও count মেলে; processed 209 + missing 0 = manifest 209)। ডিকোড করা ৩টি ফাইল চোখে মেলানো হয়েছে: SAQ chapter-1 (Q1–Q3 row-র সাথে হুবহু), History-2023 বোর্ড (ঢাকা 2023 CQ row), Lecture sheet 01 (lecture-note শিরোনাম + MCQ bank row, answer_key সহ)।
