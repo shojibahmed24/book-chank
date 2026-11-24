@@ -1,0 +1,422 @@
+[
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-3-cq-001",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-3",
+  "question_text": "কৃষিশিক্ষা বিষয়ের শিক্ষক আলাল স্যার নবম শ্রেণিতে পাঠদানকালে ভূমিক্ষয় নিয়ে আলোচনা করেন। ভূমিক্ষয় রোধকল্পে তিনি বিশেষ কিছু পদ্ধতির উপর জোর দেন। তারপর বলেন, 'আস্ত্মরণ ভূমিক্ষয়, রিল ভূমিক্ষয় এবং গালি ভূমি",
+  "question_number": 1,
+  "stimulus": "কৃষিশিক্ষা বিষয়ের শিক্ষক আলাল স্যার নবম শ্রেণিতে পাঠদানকালে ভূমিক্ষয় নিয়ে আলোচনা করেন। ভূমিক্ষয় রোধকল্পে তিনি বিশেষ কিছু পদ্ধতির উপর জোর দেন। তারপর বলেন, 'আস্ত্মরণ ভূমিক্ষয়, রিল ভূমিক্ষয় এবং গালি ভূমিক্ষয় মূলত একই ভূমিক্ষয়ের ৩টি ধাপ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. মিল্ক রিপেস্নসার হলো বিশেষ প্রক্রিয়ায় তৈরি এক ধরনের তরল পশুখাদ্য যাতে দুধের উপাদান থাকে এবং বাছুরের জন্য দুধের পরিবতের্ ব্যবহার করা যায়। খ. সাইলেজ ব্যবহারের সুবিধা হলো: ১. দীঘির্দন পুষ্টিমান অক্ষুণ্ন থাকে। ২. এতে হে এর তুলনায় কম পুষ্টিমান অপচয় হয়। ৩. ঘাসের জমি সবোর্চ্চ ব্যবহার করা যায়। ৪. সাইলেজ ঠান্ডা ও আদ্রর্ আবহাওয়াতেও করা যায়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মিল্ক রিপেস্নসার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সাইলেজ ব্যবহারের সুবিধাগুলো লিখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আলাল স্যারের আলোচিত পদ্ধতিগুলো ভূমিক্ষয় রোধে কীভাবে সহায়তা করে?।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আলাল স্যারের উক্তিটির যথাথর্তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-3-cq-002",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-3",
+  "question_text": "সোহেল স্যার বলেন—\"মৎস্য সম্পদ সংরক্ষণে মাছের অভয়াশ্রম ও মৎস্য সংরক্ষণ আইনের বিকল্প নাই।\"\"সরপুঁটি, মহাশোল, রানি, মেনি ইত্যাদি মাছ সংরক্ষণে হাওর, বিল এলাকায় মৎস্য অধিদপ্তর অভয়াশ্রম স্থাপন করেছে।",
+  "question_number": 2,
+  "stimulus": "সোহেল স্যার বলেন—\"মৎস্য সম্পদ সংরক্ষণে মাছের অভয়াশ্রম ও মৎস্য সংরক্ষণ আইনের বিকল্প নাই।\"\"সরপুঁটি, মহাশোল, রানি, মেনি ইত্যাদি মাছ সংরক্ষণে হাওর, বিল এলাকায় মৎস্য অধিদপ্তর অভয়াশ্রম স্থাপন করেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বাংলাদেশে মোট ২৬০টি স্বাদু পানির মাছের মধ্যে ১৪টি ঝুঁকিপূণর্ প্রজাতির মাছ রয়েছে। খ. ইলিশ মাছের অবাধ প্রজননের সুযোগ দেওয়ার জন্য চট্টগ্রাম জেলার মীরসরাই উপজেলার শাহেরখালী/হাইতকান্দি পয়েন্ট, ভোলা জেলার তজুমুদ্দিন উপজেলার উত্তর তজুমুদ্দিন/পশ্চিম সৈয়দ আওলিয়া পয়েন্ট, কক্সবাজার জেলার কুতুবদিয়া উপজেলার উত্তর কুতুবদিয়া/গ-ামারা পয়েন্ট এবং পটুয়াখালী জেলার কলাপাড়া উপজেলার লতাচাপালি পয়েন্টসমূহের অন্ত্মগর্ত প্রায় ৭ হাজার বগর্ কিলোমিটার এলাকার প্রজনন ক্ষেত্রে প্রতিবছর ১৫-২৪ অক্টোবর (১-১০ আশ্বিন) ইলিশ ধরা নিষিদ্ধ।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশে কতটি ঝুঁকিপূণর্ প্রজাতির স্বাদু পানির মাছ রয়েছে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ইলিশ প্রজনন ক্ষেেত্র মৎস্য সংরক্ষণ আইনটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত মাছগুলোর সংরক্ষণে মৎস্য অধিদপ্তরের কমর্কা- ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সোহেল স্যারের উক্তিটি যথাথর্ মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-3-cq-003",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-3",
+  "question_text": "নিচের চিত্রগুলো লক্ষ কর—",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্রগুলো লক্ষ কর—",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. পস্ন্যাঙ্কটন হচ্ছে পানিতে মুক্তভাবে ভাসমান আণুবীক্ষণিক জীব। খ. পুকুরে চুন প্রয়োগের কারণ নিচে ব্যাখ্যা করা হলো— ১. চুন মাটি ও পানির উবর্রতা বাড়ায়। ২. পানির পিএইচ ঠিক রাখে। ৩. পানির ঘোলাতু কমায় ও পানি পরিষ্কার রাখে। ৪. মাছের রোগ-বালাই দূর করে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পস্ন্যাঙ্কটন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পুকুরে চুন প্রয়োগ করা হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত অণুজীবগুলোর পুকুরের পানিতে উপস্থিতির লক্ষণ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের চিত্রের অণুজীবগুলোর গুরম্নত্ব ও উহা কীভাবে পুকুরে উৎপাদন করা যায় বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-3-cq-004",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-3",
+  "question_text": "তানভীর রাজশাহী যুব উন্নয়ন প্রশিক্ষণ শেষে মাছ চাষের সিদ্ধান্ত্ম নেয়। সে পোনা মাছ কিনতে অন্য গ্রামে যায়। মাছগুলোর মুখ বেশ বড় ও বাঁকানো। ঘাড়ের কাছে কানকোর পিছনে কালো ফোঁটা আছে। দেহ চ্যাপ্টা ও দুজোড়া ল",
+  "question_number": 4,
+  "stimulus": "তানভীর রাজশাহী যুব উন্নয়ন প্রশিক্ষণ শেষে মাছ চাষের সিদ্ধান্ত্ম নেয়। সে পোনা মাছ কিনতে অন্য গ্রামে যায়। মাছগুলোর মুখ বেশ বড় ও বাঁকানো। ঘাড়ের কাছে কানকোর পিছনে কালো ফোঁটা আছে। দেহ চ্যাপ্টা ও দুজোড়া লম্বা গোঁফ আছে। তানভীর বিক্রেতার কাছে জানতে পারে মাছটি ১৫ ৩০ সে.মি. লম্বা হয়ে থাকে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. একজন পূণর্বয়স্ক মানুষের দৈনিক ৮০ গ্রাম আমিষ জাতীয় খাবারের প্রয়োজন। খ. সিলুরিফরমিস বগের্র অন্ত্মভুর্ক্ত মাছ যাদের শরীরে আঁশ নেই এবং মুখে বিড়ালের ন্যায় লম্বা গফ বা শুঁড় আছে তাদেরকে ক্যাটফিশ বলে। প্রাকৃতিক জলজ পরিবেশ বিপযর্য় ও অত্যধিক আহরণের কারণে বতর্মানে ক্যাটফিশ জাতীয় মাছের প্রাপ্যতা কমে যাচ্ছে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "একজন পূণর্বয়স্ক মানুষের কতটুকু আমিষ প্রয়োজন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ক্যাটফিশ জাতীয় মাছের প্রাপ্যতা কমে যাচ্ছে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উক্ত মাছ চাষে সফলতা পেতে তানভীরের পুকুর প্রস্তুতির জন্য প্রয়োজনীয় বিভিন্ন ধাপসমূহ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তানভীরের কমির্ট বেকার যুবকদের জন্য অনুকরণীয় হতে পারে কি-না—আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-3-cq-005",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-3",
+  "question_text": "সুমন্ত্ম বাবুর পাটের জমিটিতে নিম্নোক্ত পোকাটির আবিভার্ব হওয়ায় তিনি চিন্ত্মিত হয়ে পড়েন। তিনি তৎক্ষণাৎ স্থানীয় কৃষি কমর্কতার্র পরামশর্ গ্রহণ করে প্রয়োজনীয় ব্যবস্থা নেন।",
+  "question_number": 5,
+  "stimulus": "সুমন্ত্ম বাবুর পাটের জমিটিতে নিম্নোক্ত পোকাটির আবিভার্ব হওয়ায় তিনি চিন্ত্মিত হয়ে পড়েন। তিনি তৎক্ষণাৎ স্থানীয় কৃষি কমর্কতার্র পরামশর্ গ্রহণ করে প্রয়োজনীয় ব্যবস্থা নেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. জমিতে ফসল ফলানোর জন্য কৃত্রিমভাবে মাটিতে পানি দেওয়ার ব্যবস্থাকে সেচ বলে। খ. ফসলের সবোর্চ্চ ফলন নিশ্চিত করতে প্রয়োজন মাফিক ও পরিমিত পানি সরবরাহ করাই হচ্ছে পানি সেচ। ধান ক্ষেতে চারা রোপণ করার ৬-৭ দিন পযর্ন্ত্ম ৩৫ সে. মি. সেচ দিতে হয়। এতে আগাছা দমন হয়। কুশি উৎপাদন পযাের্য় ২-৩ সে. মি. এবং চারার বয়স ৫০-৬০ দিন হলে ৭ ১০ সে. মি. পরিমাণ পানি সেচ দেওয়া উত্তম। থোড় আসার সময় পানি সেচ সবচেয়ে বেশি গুরম্নত্বপূণর্। উপরিউক্ত পযার্য়সমূহে ধান ক্ষেতে পানি সেচের ব্যবস্থা না করলে ফসল উৎপাদন কমে যাবে এবং কিছু কিছু ক্ষেত্রে ফসল মারাও যেতে পারে। এ জন্য ধান ক্ষেতে পানি সেচের প্রয়োজন হয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সেচ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধান ক্ষেতে পানি সেচের প্রয়োজন হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের পোকাটির ক্ষতির লক্ষণ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কৃষি কমর্কতার্ তাকে কোন ধরনের পরামশর্ দিয়ে থাকতে পারেন? তোমার উত্তরের সপক্ষে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-3-cq-006",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-3",
+  "question_text": "ঢাকা কলেজের শিক্ষাথীর্রা শীতের সময়ে যথাযথ কতৃর্পক্ষের অনুমতিসাপেক্ষে চট্টগ্রামের পাহাড়ি বনে বেড়াতে যায়। বনে ঘোরার সময় অনেক শিক্ষাথীর্ গাছ ভেঙে ফেলে, অনেকে গাছের বাকল, পাতা নষ্ট করে। কেউ কেউ আগুন জ্ব",
+  "question_number": 6,
+  "stimulus": "ঢাকা কলেজের শিক্ষাথীর্রা শীতের সময়ে যথাযথ কতৃর্পক্ষের অনুমতিসাপেক্ষে চট্টগ্রামের পাহাড়ি বনে বেড়াতে যায়। বনে ঘোরার সময় অনেক শিক্ষাথীর্ গাছ ভেঙে ফেলে, অনেকে গাছের বাকল, পাতা নষ্ট করে। কেউ কেউ আগুন জ্বালিয়ে শীত নিবারণের চেষ্টা করে। শিক্ষাথীর্রা সেখানে লক্ষ করল বনের মধ্যে অনেকে পশু চড়াচ্ছে। কেউবা গাছের ডাল কেটে নিয়ে যাচ্ছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. কোনো অঞ্চলে নতুন বনাঞ্চল সৃষ্টি বা সরকারি বনাঞ্চল থেকে গাছ কাটা, অপসারণ, পরিবহন ইত্যাদি বিষয়ে সুনিদির্ষ্ট আইন বা বিধান রয়েছে। এসব আইন বা বিধানকে বনবিধি বা বন আইন বলে। খ. জীবন আইন লঙ্ঘনের বিভিন্ন ধরনের শাস্ত্মির বিধান রয়েছে। এসব আইন ভঙ্গের জন্য ন্যূনতম ছয় মাসের জেলসহ পাঁচ হাজার টাকা জরিমানা এবং সবোর্চ্চ পাঁচ বছরের জেলসহ পঞ্চাশ হাজার টাকা জরিমানার বিধান রয়েছে। এসব অপরাধের বিচার প্রথম শ্রেণির ম্যাজিস্ট্রেট আদালতে হয়ে থাকে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বনবিধি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বনবিধান লঙ্ঘনের শাস্ত্মির বিধান লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের কোন কাজগুলো বন আইন লঙ্ঘনের মধ্যে পড়ে ও কেন ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বনভূমি রক্ষার জন্য বিদ্যমান বন আইন যথেষ্ট নয়—যুক্তিসহ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-3-cq-007",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-3",
+  "question_text": "ঢাকা কলেজের শিক্ষাথীর্রা শীতের সময়ে যথাযথ কতৃর্পক্ষের অনুমতিসাপেক্ষে চট্টগ্রামের পাহাড়ি বনে বেড়াতে যায়। বনে ঘোরার সময় অনেক শিক্ষাথীর্ গাছ ভেঙে ফেলে, অনেকে গাছের বাকল, পাতা নষ্ট করে। কেউ কেউ আগুন জ্ব",
+  "question_number": 7,
+  "stimulus": "ঢাকা কলেজের শিক্ষাথীর্রা শীতের সময়ে যথাযথ কতৃর্পক্ষের অনুমতিসাপেক্ষে চট্টগ্রামের পাহাড়ি বনে বেড়াতে যায়। বনে ঘোরার সময় অনেক শিক্ষাথীর্ গাছ ভেঙে ফেলে, অনেকে গাছের বাকল, পাতা নষ্ট করে। কেউ কেউ আগুন জ্বালিয়ে শীত নিবারণের চেষ্টা করে। শিক্ষাথীর্রা সেখানে লক্ষ করল বনের মধ্যে অনেকে পশু চড়াচ্ছে। কেউবা গাছের ডাল কেটে নিয়ে যাচ্ছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. কোনো অঞ্চলে নতুন বনাঞ্চল সৃষ্টি বা সরকারি বনাঞ্চল থেকে গাছ কাটা, অপসারণ, পরিবহন ইত্যাদি বিষয়ে সুনিদির্ষ্ট আইন বা বিধান রয়েছে। এসব আইন বা বিধানকে বনবিধি বা বন আইন বলে। খ. জীবন আইন লঙ্ঘনের বিভিন্ন ধরনের শাস্ত্মির বিধান রয়েছে। এসব আইন ভঙ্গের জন্য ন্যূনতম ছয় মাসের জেলসহ পাঁচ হাজার টাকা জরিমানা এবং সবোর্চ্চ পাঁচ বছরের জেলসহ পঞ্চাশ হাজার টাকা জরিমানার বিধান রয়েছে। এসব অপরাধের বিচার প্রথম শ্রেণির ম্যাজিস্ট্রেট আদালতে হয়ে থাকে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বনবিধি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বনবিধান লঙ্ঘনের শাস্ত্মির বিধান লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের কোন কাজগুলো বন আইন লঙ্ঘনের মধ্যে পড়ে ও কেন ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বনভূমি রক্ষার জন্য বিদ্যমান বন আইন যথেষ্ট নয়—যুক্তিসহ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

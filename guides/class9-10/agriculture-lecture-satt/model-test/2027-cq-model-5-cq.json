@@ -1,0 +1,422 @@
+[
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-5-cq-001",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-5",
+  "question_text": "মিজান সাহেবের বেশ কয়েকটি মৎস্য ও গবাদিপশু খামার আছে। তিনি মৎস্য ও প্রাণিসম্পদ অধিদপ্তর হতে মাছের ও গরম্নর খাদ্য সংরক্ষণের নিয়ামকসমূহ ও পুষ্টিমান অক্ষুণ্ন রেখে সবুজ ঘাস সংরক্ষণ পদ্ধতি সম্পকের্ প্রশিক্ষ",
+  "question_number": 1,
+  "stimulus": "মিজান সাহেবের বেশ কয়েকটি মৎস্য ও গবাদিপশু খামার আছে। তিনি মৎস্য ও প্রাণিসম্পদ অধিদপ্তর হতে মাছের ও গরম্নর খাদ্য সংরক্ষণের নিয়ামকসমূহ ও পুষ্টিমান অক্ষুণ্ন রেখে সবুজ ঘাস সংরক্ষণ পদ্ধতি সম্পকের্ প্রশিক্ষণ গ্রহণ করে সফলতা লাভকরলেন। তার সফলতা দেখে এলাকার অন্যান্য খামারের মালিকগণও তার মতো কাযর্ক্রম গ্রহণ করল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বীজ সংরক্ষণ বলতে বীজের উৎপাদন, শুকানো, প্রক্রিয়াজাতকরণ, মান নিয়ন্ত্রণ, বিপণন যাবতীয় কাজ সুষ্ঠুভাবে সম্পন্ন করাকেই বুঝায়। খ. অ্যালজি অত্যন্ত্ম সম্ভাবনাময় পুষ্টিকর খাদ্য যা বিভিন্ন ধরনের আমিষ খাদ্য যেমন-খৈল, শুঁটকি মাছের গুঁড়া ইত্যাদির বিকল্প হতে পারে। শুষ্ক অ্যালজিতে শতকরা ৫০-৭০ ভাগ আমিষ, ২০-২২ ভাগ চবির্ এবং ৮-২৬ ভাগ শকর্রা থাকে। এছাড়াও অ্যালজিতে প্রচুর পরিমাণে ভিটামিন এবং বিভিন্ন ধরনের বি ভিটামিন থাকে। অ্যালজি পানি ব্যবহার করে কম খরচে গরম্নর মাংস এবং দুধ উৎপাদন বৃদ্ধি করা সম্ভব।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বীজ সংরক্ষণ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অ্যালজি একটি সম্ভাবনাময় পুষ্টিকর খাদ্য—ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মিজান সাহেব ঘাস সংরক্ষণে কোন পদ্ধতি অবলম্বন করলেন। তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মিজান সাহেবের সফলতার কারণ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-5-cq-002",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-5",
+  "question_text": "রফিক সাহেব তার পুকুরে মাছ চাষের জন্য ৩ কেজি পোনা ছাড়লেন। মাছগুলোকে তিনি নিয়মিত সম্পূরক খাদ্য প্রদান করতে লাগলেন। ৬ মাস পর তিনি পুকুর থেকে ৫০ কেজি মাছ পেলেন। ৬ মাসে তিনি পুকুরে মোট ৭০ কেজি খাদ্য প্রয়ো",
+  "question_number": 2,
+  "stimulus": "রফিক সাহেব তার পুকুরে মাছ চাষের জন্য ৩ কেজি পোনা ছাড়লেন। মাছগুলোকে তিনি নিয়মিত সম্পূরক খাদ্য প্রদান করতে লাগলেন। ৬ মাস পর তিনি পুকুর থেকে ৫০ কেজি মাছ পেলেন। ৬ মাসে তিনি পুকুরে মোট ৭০ কেজি খাদ্য প্রয়োগ করেছিলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. একই জমিতে একই সময়ে একাধিক ফসল উৎপাদন করা হলে তাকে সমন্বিত চাষাবাদ বলে। যেমন—ধান ক্ষেতে মাছ চাষ। খ. একটি সরিষার ক্ষেতে অসংখ্য ফুল ফোটে। এসব ফুলে ভালো পরিমাণে মধু থাকে এবং মৌমাছি খুব সহজেই সরিষার ফুল দ্বারা আকৃষ্ট হয়। ফলে সরিষার ক্ষেত্রের পাশে কৃত্রিমভাবে মৌমাছি চাষ করলে সরিষা গাছ মধুর উৎকৃষ্ট উৎস হিসেবে কাজ করে। ফলে অত্যন্ত্ম কম খরচে মৌমাছি পালন করে মধু সংগ্রহ করা যায়। এজন্য সরিষাকে মধু উদ্ভিদ বলে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমন্বিত চাষ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সরিষা উিদ্ভদকে কেন মধু উদ্ ি্ভদ বলা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রফিক সাহেবের পুকুরে ঋঈজ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "রফিক সাহেবের কমর্কান্ডের যৌক্তিকতা যাচাই কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-5-cq-003",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-5",
+  "question_text": "বিনোদপুরের বাসিন্দা সাজু মিয়ার একটি মুরগির খামার আছে। সে তার খামারের মুরগিগুলোকে সুষম খাদ্য খাওয়ায়। কিন্তু সে দেখল যে খামারের মুরগির খাদ্য শেষ হয়ে আসছে। তাই সে একটি ভ্যানগাড়ি ভাড়া করে বাজারে গেল সুষ",
+  "question_number": 3,
+  "stimulus": "বিনোদপুরের বাসিন্দা সাজু মিয়ার একটি মুরগির খামার আছে। সে তার খামারের মুরগিগুলোকে সুষম খাদ্য খাওয়ায়। কিন্তু সে দেখল যে খামারের মুরগির খাদ্য শেষ হয়ে আসছে। তাই সে একটি ভ্যানগাড়ি ভাড়া করে বাজারে গেল সুষম খাদ্য কিনে আনার জন্য।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. যে খাদ্যে পাখির প্রয়োজনীয় শকর্রা, আমিষ, চবির্, খনিজ লবণ ও ভিটামিন উপস্থিত থাকে তাকে সুষম খাদ্য বলে। খ. মুরগির সুষম খাদ্যে সব ধরনের পুষ্টি উপাদান বিদ্যমান থাকে। সুষম খাদ্য খাওয়ালে মুরগিকে বাইরে থেকে কোনো পুষ্টি উপাদান সরবরাহ করা প্রয়োজন হয় না। সুষম খাদ্য খাওয়ানো হলে মুরগির বৃদ্ধি দ্রম্নত হয় এবং রোগব্যািধ কম হয়। তাই মুরগিকে সুষম খাদ্য খাওয়ানো খুবই জরম্নরি।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সুষম খাদ্য কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মুরগিকে সুষম খাদ্য খাওয়ানো প্রয়োজন কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সাজু মিয়াকে বাজারে গিয়ে যে সকল বিষয় খেয়াল রাখতে হবে তা বণর্না কর.।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সাজু মিয়া যে খাদ্য কিনতে বাজারে গেল তা মুরগির উৎপাদন বৃদ্ধির জন্য কীভাবে সহায়ক মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-5-cq-004",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-5",
+  "question_text": "সুজন ও অমল দুই ভাই বেশ কিছু গরম্ন পালন করে। খরা মৌসুমে গরম্নগুলো প্রতিবছর খাদ্যের অভাবে দুধ কম দেয় ও দুবর্ল হয়ে পড়ে। সুজন এজন্য ভুট্টা, আলফা-আলফা ও সরগম ইত্যাদি ঘাস বায়ুরোধী করে সংরক্ষণ করে এবং অমল ল",
+  "question_number": 4,
+  "stimulus": "সুজন ও অমল দুই ভাই বেশ কিছু গরম্ন পালন করে। খরা মৌসুমে গরম্নগুলো প্রতিবছর খাদ্যের অভাবে দুধ কম দেয় ও দুবর্ল হয়ে পড়ে। সুজন এজন্য ভুট্টা, আলফা-আলফা ও সরগম ইত্যাদি ঘাস বায়ুরোধী করে সংরক্ষণ করে এবং অমল লিগিউম জাতীয় সবুজ ঘাস শুকিয়ে সংরক্ষণ করে। ফলে এ বছর খরার সময় গরম্নগুলোর খাদ্যের অভাব হয়নি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. যে খাদ্যে কম পরিমাণে আঁশ ও বেশি পরিমাণে শক্তি পাওয়া যায় তাকে দানাদার খাদ্য বলা হয়। খ. সাইলেজ ব্যবহারের সুবিধাগুলো নিম্নরূপ: ১. দীঘির্দন পুষ্টিমান অক্ষুণ্ন থাকে। ২. এতে হে এর তুলনায় কম পুষ্টিমান অপচয় হয়। ৩. ঘাসের জমির সবোর্চ্চ ব্যবহার করা যায়। ৪. সাইলেজ ঠান্ডা ও আদ্রর্ আবহাওয়াতেও তৈরি করা যায়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দানাদার খাদ্য কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সাইলেজ ব্যবহারের সুবিধা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুজনের ঘাস সংরক্ষণের কৌশলটি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "এ বছর গরম্নগুলোর খাদ্যের অভাব হয়নি কেন তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-5-cq-005",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-5",
+  "question_text": "চিত্র দুটিহতে নিচের প্রশ্নগুলোর উত্তর দাও—",
+  "question_number": 5,
+  "stimulus": "চিত্র দুটিহতে নিচের প্রশ্নগুলোর উত্তর দাও—",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বাসকের ব্যবহৃত অংশ হলো পাতার নিযার্স। খ. আমাদের দেশ এক সময় ঔষধি উদ্ভিদে সমৃদ্ধ ছিল। মাঠ-ঘাট, পথ-প্রান্ত্মর, বন-জঙ্গল সবর্ত্র অসংখ্য ঔষধি উিদ্ভদে ভরপুর ছিল। বতর্মানে জনসংখ্যা বৃদ্ধিজনিত কারণে ভূমির বহুবিধ ব্যবহার বেড়েছে। এছাড়া অজ্ঞতা, অবহেলা ও অযত্নের কারণে বতর্মানে এসব ঔষধি উদ্ভিদের প্রধান উৎপত্তিস্থল প্রাকৃতিক উৎস বনভূমি কমে যাওয়ায় ঐসব মূল্যবান বৃক্ষ সম্পদ হ্রাস পেয়েছে। ইতোমধ্যে অনেক প্রজাতি বিলুপ্ত হয়ে গেছে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাসকের ব্যবহৃত অংশ কোনটি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আমাদের দেশে ঔষধি উদ্ ি্ভদ হ্রাস পাওয়ার কারণ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র: ক এবং চিত্র: খ উিদ্ভদ দুটির ভেষজ ব্যবহার লিপিবদ্ধ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মানুষের রোগ নিরাময়ে ঔষধি গুণসম্পন্ন উদ্ভিদসমূহের প্রয়োজনীয়তা/গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-5-cq-006",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-5",
+  "question_text": "চিত্র হতে নিচের প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 6,
+  "stimulus": "চিত্র হতে নিচের প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বন আইন লঙ্ঘনের সবির্নম্ন শাস্ত্মি হলো ছয় মাসের জেলসহ পাঁচ হাজার টাকা জরিমানা। খ. ম্যানগ্রোভ বন বলতে বুঝায় সেই বন যেই বনভূমি সাধারণভাবে জোয়ার ভাটায় পস্নাবিত হয়। সুন্দরবনকে ম্যানগ্রোভ বন বলার কারণ হলো সুন্দরবনও প্রাত্যহিক জোয়ার ভাটায় লবণাক্ত পানি দ্বারা পস্নাবিত হয়। সুন্দরি বৃক্ষের নামানুসারে বাংলাদেশের এই ম্যানগ্রোভ বনের নামকরণ করা হয়েছে সুন্দরবন। এটি পৃথিবীর সবাের্পক্ষা বড় ও সম্পদশালী ম্যানগ্রোভ বন।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বন আইন লঙ্ঘনের সবির্নম্ন শাস্ত্মি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সুন্দরবনকে ম্যানগ্রোভ বন বলা হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্রটির/কাঠের ভলিউম নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের প্রাপ্ত কাঠ কীভাবে আসবাবপত্র তৈরির উপযোগী করা যাবে ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-5-cq-007",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-5",
+  "question_text": "প্রায় ৩৫ বছর বয়স্ক মেহগনি গাছটি ঝড়ে পড়ে যাওয়ার পরপরই আনছার আলি তা প্রয়োজনীয় সংখ্যক টুকরো করে একটি ৮ মিটার দৈঘ্যের্র টুকরো নিয়ে চেরাই করেন, যার চিকন মাথার বেড় ২ মিটার, মাঝখানের বেড় ২.৫ মিটার এবং মো",
+  "question_number": 7,
+  "stimulus": "প্রায় ৩৫ বছর বয়স্ক মেহগনি গাছটি ঝড়ে পড়ে যাওয়ার পরপরই আনছার আলি তা প্রয়োজনীয় সংখ্যক টুকরো করে একটি ৮ মিটার দৈঘ্যের্র টুকরো নিয়ে চেরাই করেন, যার চিকন মাথার বেড় ২ মিটার, মাঝখানের বেড় ২.৫ মিটার এবং মোটা মাথার বেড় ৩ মিটার। এরপর সপ্তাহখানেক পরেই উক্ত কাঠ দিয়ে তিনি প্রয়োজনীয় আসবাবপত্র তৈরি করেন কিন্তু অল্প দিনের মধ্যে উক্ত আসবাবপত্রগুলো নষ্ট হতে শুরম্ন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. খুলনা, সাতক্ষীরা ও বাগেরহাট জেলার দক্ষিণের বিস্ত্মৃত এলাকা ম্যানগ্রোভ বন নামে পরিচিত। খ. একটি বনের গাছে যে পরিমাণ কাঠের মজুদ থাকে তাকে বলে. গ্রোয়িং স্টক। জরিপ ও সমীক্ষার মাধ্যমে একটি দেশের বিভিন্ন বনে কি পরিমাণ কাঠের মজুদ আছে তা বের করা হয়। এ গ্রোয়িং স্টকের পরিমাণের উপরেই ব্যবস্থাপনা পরিকল্পনা প্রণীত হয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ম্যানগ্রোভ বন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গ্রোয়িং স্টক বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আনছার আলির চেরাই করা টুকরোটির ভলিউম নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত আসবাবপত্রসমূহ অল্প দিনের মধ্যে নষ্ট হওয়ার কারণ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-1-cq-001",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-1",
+  "question_text": "নিচের চিত্রটি এক ধরনের ভূমিক্ষয় নিদের্শ করে:",
+  "question_number": 1,
+  "stimulus": "নিচের চিত্রটি এক ধরনের ভূমিক্ষয় নিদের্শ করে:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বিভিন্ন প্রাকৃতিক বা মানবসৃষ্ট কারণে ভূপৃষ্ঠের উপরিভাগের মাটি একস্থান হতে ক্রমাগত অন্যস্থানে চলে যাওয়াকে ভূমিক্ষয় বলে। খ. ভূমিক্ষয়ের প্রধান কারণ হলো বৃষ্টিপাত। বৃষ্টিপাতের তীব্রতা, সংখ্যা ও পরিমাণ ভূমিক্ষয়কে প্রভাবিত করে। মুষলধারায় বৃষ্টি হলে বৃষ্টির ফোঁটা বড় হয় এবং মটিতে সজোরে আঘাত করে আর এতে মাটির কণা আলগা হয়। মাটি যখন পানি শোষণক্ষমতা হারিয়ে ফেলে তখন অতিরিক্ত পানি একটি প্রবাহ সৃষ্টির মাধ্যমে উপর থেকে অপেক্ষাকৃত নিচের দিকে ধাবিত হয়। যাওয়ার পথে পানির সঙ্গে আলগা ও নরম মাটি স্থানান্ত্মরিত হয়। পানির বেগ যত বেশি হবে মাটির ক্ষয়ও ততো বেশি হবে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভূমিক্ষয় কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভূমিক্ষয়ের প্রধান কারণটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্রে প্রদত্ত ভূমিক্ষয়ের ক্ষতিকর দিকগুলো ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের চিত্রে প্রদত্ত ভূমিক্ষয় রোধ করতে কী কী পদক্ষেপ নেয়া যেতে পারে? তোমার মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-1-cq-002",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-1",
+  "question_text": "কামাল একজন অভিজ্ঞ চাষী। প্রতিবছর সে জমিতে ধান চাষ করে। সবর্দা ভালো ফলন পায়। সে আরও ভালো ফলন পাওয়ার প্রত্যাশায় কৃষি কমর্কতার্র পরামশর্ নেয়। কৃষি কমর্কতার্ তাকে উদ্ভিদ তাত্ত্বিক ও কৃষিতাত্ত্বিক বীজের সম",
+  "question_number": 2,
+  "stimulus": "কামাল একজন অভিজ্ঞ চাষী। প্রতিবছর সে জমিতে ধান চাষ করে। সবর্দা ভালো ফলন পায়। সে আরও ভালো ফলন পাওয়ার প্রত্যাশায় কৃষি কমর্কতার্র পরামশর্ নেয়। কৃষি কমর্কতার্ তাকে উদ্ভিদ তাত্ত্বিক ও কৃষিতাত্ত্বিক বীজের সম্পকের্ ধারণা দেন এবং মাটির গুণাগুণ বিবেচনায় টমেটো চাষের পরামশর্ দেন। বাড়তি লাভের জন্য ফসল। সংরক্ষণের পরামশর্ দেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. এঁটেল ও পলি দোআঁশ মাটিতে ধান ভালো জন্মে। খ. অকষির্ত ভূমি থেকে পানি তাড়াতাড়ি বাষ্প হয়ে যায় বা গড়িয়ে অন্যত্র চলে যায়। কিন্তু কষির্ত জমিতে সেচের পানি আটকা পড়ে যা মাটি শুষে নেয়। এ কারণেই চাষ দিলে মাটির পানিধারণ ক্ষমতা বাড়ে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধান কোন মাটিতে ভালো জন্মে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চাষ দিলে মাটির পানিধারণ ক্ষমতা বাড়ে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কৃষি কমর্কতার্ কেন কামালকে ফসল সংরক্ষণের পরামশর্ দেন?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কৃষি কমর্কতার্র টমেটো চাষের পরামশর্ মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-1-cq-003",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-1",
+  "question_text": "গত বছর বীজের গুণগত মান সঠিক না থাকায় কৃষক সবুজ আলী ভালো ধান ফসল উৎপাদন করতে পারেন নাই। তাই এ বছর ধান। ফসলের বীজ উৎপাদনের জন্য স্থানীয় কৃষি কমর্কতার্র পরামশের্ বীজতলার সঠিক পরিচযার্র বিষয়গুলো জেনে তা প",
+  "question_number": 3,
+  "stimulus": "গত বছর বীজের গুণগত মান সঠিক না থাকায় কৃষক সবুজ আলী ভালো ধান ফসল উৎপাদন করতে পারেন নাই। তাই এ বছর ধান। ফসলের বীজ উৎপাদনের জন্য স্থানীয় কৃষি কমর্কতার্র পরামশের্ বীজতলার সঠিক পরিচযার্র বিষয়গুলো জেনে তা প্রয়োগ করলেন। এর ফলে এ বছর ভালো মানের বীজ উৎপাদিত হলো। কৃষি কমর্কতার্ সবুজ আলীকে বললেন-'যেসব ফসল কেবল বীজের মাধ্যমেই ফলানো সম্ভব সেক্ষেত্রে উদ্ভিদের বংশ রক্ষাথের্ ফসল বীজের বিকল্প নেই।'",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বীজ বপনের সময় যতই বিশুদ্ধ বীজ ব্যবহার করা হোক না কেন জমিতে কিছু কিছু অন্য জাতের উদ্ভিদ ও আগাছা দেখা যাবে। জমিতে গিয়ে ঘুরে ঘুরে অনাকাঙ্ক্ষিত উদ্ভিদ তুলে ফেলাকে রোগিং বলে। খ. আলুর বীজ শোধন করা না হলে ব্যাকটেরিয়া ও ভাইরাসের মাধ্যমে বিভিন্ন রোগ সংক্রমণ ঘটবে। এতে করে সব আলুই নষ্ট হয়ে যাবে। তাই ব্যাকটেরিয়া ও ভাইরাসের সংক্রমণ রোধ করার জন্য আলুর বীজ শোধন করতে হবে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রোগিং কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আলুর বীজ শোধন করতে হবে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের কৃষক সবুজ আলীর ভালো মানের বীজ উৎপাদিত হওয়ার বিষয়গুলো বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কৃষি কমর্কতার্র শেষোক্ত উক্তিটির তাৎপযর্ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-1-cq-004",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-1",
+  "question_text": "নিচের চিত্রটি লক্ষ কর— কৃষক গণি মিঞার ক্রয়কৃত উপরোক্ত বীজ ১০ শতক জমিতে লাগানোর আশায় চোখসহ কেটে কেটে ভাগ করে নেয়া হলো। কাটা শেষ হলে সে বীজগুলোকে নিবার্চন ও তৈরিকৃত জমিতে ১০-১৫ সে.মি. দূরত্বে রোপণ করেন।",
+  "question_number": 4,
+  "stimulus": "নিচের চিত্রটি লক্ষ কর— কৃষক গণি মিঞার ক্রয়কৃত উপরোক্ত বীজ ১০ শতক জমিতে লাগানোর আশায় চোখসহ কেটে কেটে ভাগ করে নেয়া হলো। কাটা শেষ হলে সে বীজগুলোকে নিবার্চন ও তৈরিকৃত জমিতে ১০-১৫ সে.মি. দূরত্বে রোপণ করেন। এ বছর এলাকায় জৈব সারের ঘাটতি থাকার কারণে সে তার জমিতে একটু বেশি পরিমাণে রাসায়নিক সার প্রয়োগ করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. উিদ্ভদের যেকোনো অংশ (মূল, পাতা, কুঁড়ি, কান্ড ও শাখা) যা উপযুক্ত পরিবেশে একই জাতের নতুন উদ্ভিদ জন্ম দিতে পারে তাকে কৃষিতাত্ত্বিক বীজ বলে। খ. বীজ সংগ্রহ বীজ উৎপাদনের একটি গুরম্নত্বপূণর্ ধাপ। বীজ উৎপাদনের জন্য অবশ্যই প্রত্যায়িত বীজ সংগ্রহ করতে হবে। সঠিক সময়ে বীজ সংগ্রহ করা না গেলে বীজের গুণগত মান নষ্ট হয়ে যায়। সঠিক পদ্ধতিতে বীজ সংগ্রহ করা না গেলে বীজের বিশুদ্ধতা নষ্ট হয়ে যায়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কৃষিতাত্ত্বিক বীজ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বীজ সংগ্রহ বীজ উৎপাদনের একটি গুরম্নত্বপূণর্ ধাপ-ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "গণি মিঞার ক্রয়কৃত বীজ উৎপাদন পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কৃষক গণি মিঞা তার চাষকৃত জমিতে যে ধরনের সার ব্যবস্থাপনা গ্রহণ করেছিল, তা পাঠ্যপুস্ত্মকের আলোকে মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-1-cq-005",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-1",
+  "question_text": "রহিম সাহেব এ বছর তার দুই একর জমিতে দেশি পাট চাষ করলেন। সঠিক সময়ে জমি তৈরি, বীজ বপন, পরিচযার্ ও সঠিক সময়ে পাট কেটে আঁটি বেঁধে জাগ দিয়ে আঁশ শুকিয়ে সংরক্ষণ করায় তার পাটের আঁশের মান ভালো হলো এবং ফলনও বেশি",
+  "question_number": 5,
+  "stimulus": "রহিম সাহেব এ বছর তার দুই একর জমিতে দেশি পাট চাষ করলেন। সঠিক সময়ে জমি তৈরি, বীজ বপন, পরিচযার্ ও সঠিক সময়ে পাট কেটে আঁটি বেঁধে জাগ দিয়ে আঁশ শুকিয়ে সংরক্ষণ করায় তার পাটের আঁশের মান ভালো হলো এবং ফলনও বেশি হলো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. পাট জাতভেদে ১৫ ফেব্রম্নয়ারি হতে এপ্রিলের মাঝামাঝি পযর্ন্ত্ম বোনা হয়। খ. পাট বীজ বপন করার আগে শোধন করে নেওয়া উত্তম। এজন্য প্রতি কেজি পাট বীজের সাথে রিডোমিল বা ক্যাপটান ৭৫% ঔষধ মিশিয়ে বীজ শোধন করা হয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন মাসে পাটের বীজ বপন করতে হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পাটের বীজ শোধন পদ্ধতি উলেস্নখ কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রহিম সাহেব যেভাবে পাট জাগ দেন তা বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলেস্নখিত ফসলটি আমাদের দেশের প্রেক্ষাপটে অথৈর্নতিকভাবে কিরূপ ভূমিকা পালন করে তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-1-cq-006",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-1",
+  "question_text": "কুড়িগ্রামের হারিছ মিয়া তার সবজি ক্ষেতে পুঁইশাক, পালংশাক, কুমড়া, বেগুন, শিম ও লাউশাক করেছেন। ঠিকমতো পরিচযার্ করায় শাকসবজির উৎপাদন খুবই ভালো হলো। সবজি বিক্রি করে তিনি অনেক টাকা আয় করেছেন।",
+  "question_number": 6,
+  "stimulus": "কুড়িগ্রামের হারিছ মিয়া তার সবজি ক্ষেতে পুঁইশাক, পালংশাক, কুমড়া, বেগুন, শিম ও লাউশাক করেছেন। ঠিকমতো পরিচযার্ করায় শাকসবজির উৎপাদন খুবই ভালো হলো। সবজি বিক্রি করে তিনি অনেক টাকা আয় করেছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. ডিম বেগুনের অপর নাম হচ্ছে সাদা বণের্র জাত/েবগুন। খ. পাট পচার পর পানি থেকে প্রতিটি আঁটি উঠানো হয়। তারপর শুকনো জায়গায় বসে প্রতিটি গাছ থেকে আলাদাভাবে আঁশ ছাড়িয়ে নেওয়া হয়। সবশেষে কতকগুলো পাট গাছের আঁশ একত্রে করে ধুয়ে পরিষ্কার করা হয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ডিম বেগুনের অপর নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কীভাবে পাটের আঁশ ছাড়ানো ও পরিষ্কার করা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হারিছ মিয়া উদ্দীপকের সবের্শষ সবজিটি কীভাবেচাষকরেছিলেন? বণর্না কর",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "হারিছ মিয়ার চাষকৃত সবজিগুলোর গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-1-cq-007",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-1",
+  "question_text": "টাঙ্গাইল জেলার মধুপুর উপজেলার বাসিন্দা করিম সাহেব একজন শিক্ষিত সচেতন মানুষ। তার এলাকায় দিন দিন বনভূমির পরিমাণ কমে যাওয়ায় তিনি বেশ চিন্ত্মিত। একদিন তিনি কয়েকজন বন্ধুকে নিয়ে স্থানীয় বন কমর্কতার্র সাথে দ",
+  "question_number": 7,
+  "stimulus": "টাঙ্গাইল জেলার মধুপুর উপজেলার বাসিন্দা করিম সাহেব একজন শিক্ষিত সচেতন মানুষ। তার এলাকায় দিন দিন বনভূমির পরিমাণ কমে যাওয়ায় তিনি বেশ চিন্ত্মিত। একদিন তিনি কয়েকজন বন্ধুকে নিয়ে স্থানীয় বন কমর্কতার্র সাথে দেখা করেন। বন কমর্কতার্র পরামশের্ তিনি এলাকার সকল জনগণকে নিয়ে বসতবাড়ির আশেপাশে, বিদ্যালয়, কলেজ ও অফিস- আদালত প্রাঙ্গণে এবং রাস্ত্মার দুধারে বিভিন্ন প্রজাতির অসংখ্য গাছের চারা রোপণ করেন। কয়েক মাসের মধ্যেই তার এলাকাটি সবুজ অরণ্যে রূপ নিল এবং স্থানীয় জনগণ উপকৃত হল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. একটি বনের গাছে যে পরিমাণ কাঠের মজুদ থাকে তাকে গ্রোয়িং স্টক বলে। খ. ম্যানগ্রোভ বন বলতে বুঝায় সেই বন যেই বনভূমি সাধারণভাবে জোয়ার ভাটায় পস্নাবিত হয়। সুন্দরবনকে ম্যানগ্রোভ বন বলার কারণ হলো সুন্দরবনও প্রাত্যহিক জোয়ার ভাটায় লবণাক্ত পানি দ্বারা পস্নাবিত হয়। সুন্দরি বৃক্ষের নামানুসারে বাংলাদেশের এই ম্যানগ্রোভ বনের নামকরণ করা হয়েছে সুন্দরবন। এটি পৃথিবীর সবাের্পক্ষা বড় ও সম্পদশালী ম্যানগ্রোভ বন।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গ্রোয়িং স্টক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সুন্দরবনকে ম্যানগ্রোভ বন বলা হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "করিমের উদ্যোগে প্রতিষ্ঠিত বন কীভাবে এলাকার জনগণের উপকার করছে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "করিমের উদ্যোগে প্রতিষ্ঠিত বনটির পরিবেশগত ও অথৈর্নতিক গুরম্নত্ব মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-4-cq-001",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-4",
+  "question_text": "রাকিব পরবতীর্ মৌসুমে বপনের জন্য বীজ উৎপাদনের উদ্দেশ্যে ধান চাষ করলেন। ধান কাটার পর শুকিয়ে বীজের আদ্রর্তা নিণের্য়র পর সঠিক পদ্ধতিতে বীজ সংরক্ষণ করলেন।",
+  "question_number": 1,
+  "stimulus": "রাকিব পরবতীর্ মৌসুমে বপনের জন্য বীজ উৎপাদনের উদ্দেশ্যে ধান চাষ করলেন। ধান কাটার পর শুকিয়ে বীজের আদ্রর্তা নিণের্য়র পর সঠিক পদ্ধতিতে বীজ সংরক্ষণ করলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. ভূপৃষ্ঠের নরম স্ত্মর যেখানে ফসল জন্মায়, বন সৃষ্টি হয় গবাদিপশু বিচরণ করে তাকে মাটি বলে। খ. বৃষ্টিপাত ভূমিক্ষয়ের প্রধান কারণ। বৃষ্টিপাতের তীব্রতা, সংখ্যা ও পরিমাণ ভূমিক্ষয়কে প্রভাবিত করে। মুষলধারায় বৃষ্টি হলে বৃষ্টির ফোঁটা বড় হয় এবং মাটিতে সজোরে আঘাত করে আর এতে মাটির কণা আলগা হয়। মাটি যখন পানি শোষণক্ষমতা হারিয়ে ফেলে তখন অতিরিক্ত পানি একটি প্রবাহ সৃষ্টির মাধ্যমে উপর থেকে অপেক্ষাকৃত নিচের দিকে ধাবিত হয়। যাওয়ার পথে পানির সঙ্গে আলগা ও নরম মাটি স্থানান্ত্মরিত হয়। পানির বেগ যত বেশি হবে মাটির ক্ষয়ও ততো বেশি হবে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মাটি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভূমিক্ষয়ের প্রধান কারণটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রাকিব ১০০ গ্রাম ধান বীজ নিয়ে রোদে শুকানোর পর ৮৯ গ্রাম। ওজন পেল। ঐ বীজের আদ্রর্তার শতকরা হার নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বীজ সংরক্ষণের ক্ষেত্রে রাকিেবর কাযর্ক্রমটির গুরম্নত্ব মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-4-cq-002",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-4",
+  "question_text": "আছমা বেগম তার নমুনা বীজ থেকে কিছু বীজ নিয়ে নিম্নোক্ত পরীক্ষাটি করেন। অতঃপর প্রতিবেশী একজন কৃষকের পরামশের্ তার বীজগুলো জমিতে বুনে দেন।",
+  "question_number": 2,
+  "stimulus": "আছমা বেগম তার নমুনা বীজ থেকে কিছু বীজ নিয়ে নিম্নোক্ত পরীক্ষাটি করেন। অতঃপর প্রতিবেশী একজন কৃষকের পরামশের্ তার বীজগুলো জমিতে বুনে দেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. কোনো স্থানের প্রতিদিনের গড় তাপ, বায়ুচাপ, বায়ুর আদ্রর্তা, বৃষ্টিপাত এবং বায়ু প্রবাহের মিলিত অবস্থাকে ওই দিনের আবহাওয়া বলে। খ. বীজ উিদ্ভদের বংশবিস্ত্মারের প্রধান মাধ্যম। সাধারণভাবে উদ্ভিদ জন্মানোর জন্য যে অংশ ব্যবহার করা হয় তাকে বীজ বলে। বীজের মাধ্যমে উদ্ভিদের গুণাগুণ ও বৈশিষ্ট্য অক্ষুণ্ন থাকে। বীজের বংশধারা বজায় রাখার মূল মাধ্যম হলো বীজ। তাই উিদ্ভদের বংশ বিস্ত্মারে বীজের গুরম্নত্ব অপরিসীম।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আবহাওয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উিদ্ভদের বংশবিস্ত্মারে বীজের গুরম্নত্ব ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বীজের অঙ্কুরোদগম হার নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তুমি কী মনে কর আছমা বেগম আশানুরূপ ফসল উৎপাদনে সফল হবেন? তোমার মতামত বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-4-cq-003",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-4",
+  "question_text": "রহমাত উচ্চ বিদ্যালয়ের শিক্ষাথীর্রা শ্রেণির কাজের অংশ হিসেবে হাঁস-মুরগির আবাসন তৈরি পদ্ধতি সরেজমিনে দেখল। পরে তারা এ সম্পকের্ একটি প্রতিবেদন লিখে শ্রেণিতে উপস্থাপন করল।",
+  "question_number": 3,
+  "stimulus": "রহমাত উচ্চ বিদ্যালয়ের শিক্ষাথীর্রা শ্রেণির কাজের অংশ হিসেবে হাঁস-মুরগির আবাসন তৈরি পদ্ধতি সরেজমিনে দেখল। পরে তারা এ সম্পকের্ একটি প্রতিবেদন লিখে শ্রেণিতে উপস্থাপন করল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. গবাদিপশুর খাদ্য দুই প্রকার। খ. ফসলের জমি থেকে অন্য জাতের উদ্ভিদ বা আগাছা তুলে ফেলার জন্য রোগিং করা হয়। বীজ বপনের সময় যতই বিশুদ্ধ বীজ ব্যবহার করা হোক না কেন জমিতে কিছু অন্য জাতের উদ্ভিদ ও আগাছা দেখা যায়। এসব অনাকাঙ্ক্ষিত উদ্ ি্ভদ ফসলের জমি থেকে তুলে ফেলতে হবে। তিন পযাের্য় রোগিং করা হয়- ফুল আসার আেগ, ফুল আসার সময় এবং পরিপক্ক সময়ে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গবাদিপশুর খাদ্য কত প্রকার?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রোগিং কেন করা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিক্ষাথীের্দর দেখা আবাসন তৈরি পদ্ধতির ক্ষেত্রে যে উদ্দেশ্যগুলো সামনে রাখতে হয় তা লিখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'উক্ত আবাসন তৈরির ক্ষেত্রে বিশেষ সতকর্তা অবলম্বন করা প্রয়োজন'—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-4-cq-004",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-4",
+  "question_text": "সোহানের বাড়ি ভোলা জেলার চরফ্যাশন থানায় ধানুয়া গ্রামে অবস্থিত। সে বাড়িতে ভেড়া পালনের সিদ্ধান্ত্ম নিয়েছে। এজন্য সে ভেড়ার আবাসনের সুব্যবস্থা গ্রহণ করেছে।",
+  "question_number": 4,
+  "stimulus": "সোহানের বাড়ি ভোলা জেলার চরফ্যাশন থানায় ধানুয়া গ্রামে অবস্থিত। সে বাড়িতে ভেড়া পালনের সিদ্ধান্ত্ম নিয়েছে। এজন্য সে ভেড়ার আবাসনের সুব্যবস্থা গ্রহণ করেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. মাতৃগাছ থেকে বের হওয়া নতুন চারাগাছ, যা বৃদ্ধির প্রথম পযাের্য় মাতৃগাছ থেকেই খাদ্য গ্রহণ করে তাকে সাকার বলে। খ. পাট পচার পর পানি থেকে প্রতিটি আঁটি উঠানো হয়। তারপর শুকনো জায়গায় বসে প্রতিটি গাছ থেকে আলাদাভাবে আঁশ ছাড়িয়ে নেওয়া হয়। সবশেষে, কতকগুলো পাট গাছের আঁশ একত্রে করে ধুয়ে পরিষ্কার করা হয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সাকার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পাটের আঁশ কিভাবে ছাড়ানো ও পরিষ্কার করা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সোহান ভেড়ার আবাসনের জন্য কী ধরনের স্থান নিবার্চন করবে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সোহান উন্মুক্ত ঘর তৈরি করতে পারবে কী? তোমার উত্তরের সপক্ষে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-4-cq-005",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-4",
+  "question_text": "শাহীন একজন দরিদ্র কৃষক। তার কোনো নিজস্ব জমি নেই। আছে একটি বাড়ি এবং বাড়ির পেছনে সামান্য উঁচু জায়গা। শাহীনের এক প্রতিবেশী তাকে বাড়ির পেছনের উঁচু জায়গায় বাঁশঝাড় তৈরির পরামশর্ দিল।",
+  "question_number": 5,
+  "stimulus": "শাহীন একজন দরিদ্র কৃষক। তার কোনো নিজস্ব জমি নেই। আছে একটি বাড়ি এবং বাড়ির পেছনে সামান্য উঁচু জায়গা। শাহীনের এক প্রতিবেশী তাকে বাড়ির পেছনের উঁচু জায়গায় বাঁশঝাড় তৈরির পরামশর্ দিল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বাঁশ ঘাস জাতীয় উিদ্্ভদ। খ. যারা গরিব তাদের সামথ্যর্ নেই যে কাঠ দিয়ে ঘর এবং ঘরের আসবাব তৈরি করবে। তাদের একমাত্র ভরসা বাঁশ। বাঁশ দামে সস্ত্মা ও সহজলভ্য হওয়ায় এর মাধ্যমেই তারা ঘর এবং আসবাব তৈরি করে। এ কারণেই বাঁশকে গরিবের কাঠ বলা হয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাঁশ কোন ধরনের উদ্ ি্ভদ?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাঁশকে গরিবের কাঠ বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রতিবেশী কেন বাঁশঝাড় তৈরির পরামশর্ দিল ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে বণির্ত উদ্ভিদটির ব্যবহার ক্ষেত্রগুলো বণর্না কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-4-cq-006",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-4",
+  "question_text": "ভোলার দক্ষিণ উপকূল থেকে কিছু দূরে একটি নতুন চর জেগে ওঠে। বন বিভাগ সেখানে বনায়নের সিদ্ধান্ত্ম নেয়। সে উদ্দেশ্যে একজন বন কমর্কতাের্ক দায়িত্ব দেওয়া হয়।",
+  "question_number": 6,
+  "stimulus": "ভোলার দক্ষিণ উপকূল থেকে কিছু দূরে একটি নতুন চর জেগে ওঠে। বন বিভাগ সেখানে বনায়নের সিদ্ধান্ত্ম নেয়। সে উদ্দেশ্যে একজন বন কমর্কতাের্ক দায়িত্ব দেওয়া হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. গাছ কেটে চিরাই করার পর বাতাসে কাঠ শুকানোকে এয়ার ড্রাইং বলে। খ. গাছ কাটার সময় যেদিকে গাছ পড়বে প্রথমে কুড়াল দিয়ে মাটির উপর ১০ সে.মি. উপরে সেই দিকে দুই-তৃতীয়াংশ কাটতে হবে। পরবতীের্ত কাটা হবে ঠিক এ কাটার বিপরীত দিকে ১০ সে.মি. উপরে। এভাবে গাছ কাটলে গাছকে সুনিদির্ষ্ট দিকে ফেলা সম্ভব এবং এতে পাশ্বর্বতীর্ গাছের ক্ষতি কম হয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "এয়ার ড্রাইং কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কীভাবে গাছ কাটলে পাশ্বর্বতীর্ গাছের ক্ষতি কম হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বন কমর্কতার্ উলেস্নখিত এলাকায় বনায়নের কোন বিষয়গুলো বিবেচনা করবেন ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলেস্নখিত বনায়নের পরিবেশগত উপযোগিতা বিশেস্নষণ কর।'",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-4-cq-007",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-4",
+  "question_text": "চিত্র হতে নিচের প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 7,
+  "stimulus": "চিত্র হতে নিচের প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. CCA একটি রাসায়নিক দ্রব্য যা কাঠ সংরক্ষণের কাজে ব্যবহৃত হয়। খ. গাছ কেটে চিরাই করার পর বাতাসে কাঠ শুকানোকে এয়ার ড্রাইং বলা হয়। তবে হালকা পাতলা চেরাই করা কাঠ প্রখর রোদে শুকালে কাঠ ফেটে বা বেঁকে যেতে পারে। তাই এগুলোকে মাটি থেকে ৩০-৪০. সে.মি. উঁচুতে ছায়ায় স্ত্মরে স্ত্মরে শুকাতে হয়। এমনভাবে সাজাতে হবে যেন প্রতিটি টুকরার চারপাশ দিয়ে সমভাবে বাতাস চলাচল করতে পারে। এ পদ্ধতিতে কাঠ সিজনিং হতে কমপক্ষে এক মৌসুম লাগে এবং আদ্রর্তার পরিমাণ ২০% এর কাছাকাছি থাকে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "CCA কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "এয়ার ড্রাইং বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রের পরবতীর্ ধাপগুলো সম্পন্ন করে পদ্ধতিটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রের পদ্ধতিটির উপযোগিতা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

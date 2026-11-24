@@ -1,0 +1,422 @@
+[
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-2-cq-001",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-2",
+  "question_text": "করিম শেখ এ বছর রবি মৌসুমে গম চাষের জন্য, জমি প্রস্তুত করবেন। অন্যদিকে আশরাফ গাজী ও তার ভাই পাশাপাশি জমি প্রস্তুত করবেন ডাল ও আলু চাষের জন্য। আশরাফ গাজীর জমি নিচু এবং তিনি ডাল চাষ করবেন।",
+  "question_number": 1,
+  "stimulus": "করিম শেখ এ বছর রবি মৌসুমে গম চাষের জন্য, জমি প্রস্তুত করবেন। অন্যদিকে আশরাফ গাজী ও তার ভাই পাশাপাশি জমি প্রস্তুত করবেন ডাল ও আলু চাষের জন্য। আশরাফ গাজীর জমি নিচু এবং তিনি ডাল চাষ করবেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. চারার বয়স ২৫-৩০ দিন হলে তা বীজতলা থেকে স্থানান্ত্মর করতে হবে। খ. জমি চাষের বিবেচ্য বিষয়গুলো নিম্নরূপ- ১. ফসলের প্রকার, ৩. আবহাওয়া ও ২. মাটির প্রকার, ৪. খামারের প্রকার।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "চারার বয়স কতদিন হলে বীজতলা থেকে স্থানান্ত্মর করতে হবে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জমি চাষের বিবেচ্য বিষয়গুলো লিখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "করিম শেখের জমি প্রস্তুতকরণ কমর্কা- ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আশরাফ গাজী ও তার ভাইয়ের জমি প্রস্তুতির ক্ষেত্রে কতটুকু। মিল পরিলক্ষিত হয়? তোমার উত্তরের সপক্ষে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-2-cq-002",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-2",
+  "question_text": "নিচের চিত্রটি লক্ষ কর—",
+  "question_number": 2,
+  "stimulus": "নিচের চিত্রটি লক্ষ কর—",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বায়ু ভূমিক্ষয় সাধারণত বেলে ও বেলে দোআঁশ মাটিতে বেশি দেখা যায়। খ. জৈব পদাথর্ মাটির দানাগুলোকে শক্তভাবে আটকে ধরে থাকে। জৈব পদাথের্র পরিমাণ কমে গেলে মাটির বুনট হালকা হয়ে যায় এবং সহজে ক্ষয় হয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন ধরনের মাটিতে বায়ু ভূমিক্ষয় বেশি হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জৈব-পদাথর্ কম থাকলে মাটি সহজে ক্ষয় হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে প্রদশির্ত ভূমিক্ষয়ের কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রে প্রদশির্ত ভূমিক্ষয় রোধ করার উপায় বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-2-cq-003",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-2",
+  "question_text": "নিজাম উদ্দিন তার ১৫ শতক জমিতে বীজ আলু উৎপাদন করতে চান। এজন্য তিনি কৃষি কমর্কতার্ জনাব রতন মন্ডলের পরামশর্ চান। কৃষি কমর্কতার্ তাকে প্রয়োজনীয় পরামশর্ দিয়ে বলেন, \"ফসলউৎপাদনে ফসল বীজ খুবই গুরম্নত্বপূণর্।",
+  "question_number": 3,
+  "stimulus": "নিজাম উদ্দিন তার ১৫ শতক জমিতে বীজ আলু উৎপাদন করতে চান। এজন্য তিনি কৃষি কমর্কতার্ জনাব রতন মন্ডলের পরামশর্ চান। কৃষি কমর্কতার্ তাকে প্রয়োজনীয় পরামশর্ দিয়ে বলেন, \"ফসলউৎপাদনে ফসল বীজ খুবই গুরম্নত্বপূণর্।\"",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. উিদ্ভদের বংশ বিস্ত্মারের জন্য যে জীবন্ত্ম মাধ্যম ব্যবহার করা হয় তাই বীজ। খ. মাটির উপরে গাছের সম্পূণর্ অংশকে উপড়ে ফেলাকে হাম পুলিং বলে। আলু সংগ্রহের ৭-১০ দিন পূবের্ হাম পুলিং করতে হবে। এতে সম্পূণর্ শিকড়সহ গাছ উপরে আসবে কিন্তু আলু মাটির নিচে থেকে যাবে। হাস পুলিং-এর ফলে আলুর ত্বক শক্ত হয়, রোগাক্রান্ত্ম গাছ থেকে রোগ বিস্ত্মার কম হয় ও আলুর সংরক্ষণগুণ বৃদ্ধি পায়। বীজ আলুতে অবশ্যই হাম পুলিং করতে হবে, তবে খাবার আলুর বেলায় হাম পুলিং জরম্নরি নয়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বীজ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হাম পুলিং বলতে কী বুঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নিজাম উদ্দিন তার জমিতে কী ধরনের বীজ ব্যবহার করবেন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কৃষি কমর্কতার্. রতন মন্ডলের উক্তিটির তাৎপযর্ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-2-cq-004",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-2",
+  "question_text": "কৃষিবিদ খালিদ তাঁর বাড়ির পাশের ৫ শতক পুকুরে বিভিন্ন জাতের কাপর্ জাতীয় মাছের পোনা মজুদ করেন। সঠিকভাবে পুকুর প্রস্তুতি, মাছের প্রাকৃতিক খাদ্য পরীক্ষা ও পোনা ছাড়ার মাধ্যমে তিনি এক বছরের মধ্যেই ভালো ফলন",
+  "question_number": 4,
+  "stimulus": "কৃষিবিদ খালিদ তাঁর বাড়ির পাশের ৫ শতক পুকুরে বিভিন্ন জাতের কাপর্ জাতীয় মাছের পোনা মজুদ করেন। সঠিকভাবে পুকুর প্রস্তুতি, মাছের প্রাকৃতিক খাদ্য পরীক্ষা ও পোনা ছাড়ার মাধ্যমে তিনি এক বছরের মধ্যেই ভালো ফলন পেয়ে আথির্কভাবে লাভবান হলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. ৪.৫ সে. মি. বা তদপেক্ষা কম ব্যাস বা দৈঘ্যের্র ফাঁসবিশিষ্ট জালকে ফাঁসজাল বলে। প্রচলিত ভাষায় একে কারেন্ট জাল বলা হয়। খ. পুকুরে পোনা ছাড়ার পূবের্ পোনা শোধনের প্রয়োজনীয়তা নিম্নরূপ: ১. পোনা ছাড়ার পূবের্ শোধন করে নিলে পোনাগুলো ক্ষতিকর পরজীবী দ্বারা আক্রান্ত্ম থাকলে তা দূর হবে। ২. পোনাগুলো রোগাক্রান্ত্ম হওয়ার সম্ভাবনা কমে যাবে। ৩. পোনাগুলোর মৃত্যুর ঝুঁকি অনেকাংশে কমে যাবে।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কারেন্ট জাল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পুকুরে মাছের পোনা ছাড়ার পূবের্ শোধন করে নিতে হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "খালিদ তার পুকুরে প্রাকৃতিক খাদ্যের উপস্থিতি কীভাবে পরীক্ষা করবেন? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "খালেদের লাভবান হওয়ার কারণ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-2-cq-005",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-2",
+  "question_text": "কিশোরগঞ্জ জেলার অন্ত্মগর্ত কটিয়াদি উপজেলার কৃষক মাছুম তার বাড়ির পাশেই ২ হেক্টর জমিতে কলা চাষ করার সিদ্ধান্ত্ম নিলেন। এ বিষয়ে স্থানীয় কৃষি কমর্কতার্র পরামশর্ গ্রহণের জন্য গেলে তিনি বাংলাদেশে কলা চাষের",
+  "question_number": 5,
+  "stimulus": "কিশোরগঞ্জ জেলার অন্ত্মগর্ত কটিয়াদি উপজেলার কৃষক মাছুম তার বাড়ির পাশেই ২ হেক্টর জমিতে কলা চাষ করার সিদ্ধান্ত্ম নিলেন। এ বিষয়ে স্থানীয় কৃষি কমর্কতার্র পরামশর্ গ্রহণের জন্য গেলে তিনি বাংলাদেশে কলা চাষের গুরম্নত্ব সম্পকের্ বললেন। তারপর কৃষি কমর্কতার্র পরামশর্ অনুযায়ী উন্নত জাতের কলার তেউড় সংগ্রহ করেন, জমি তৈরি করে জমিতে নিয়মিত প্রয়োজনীয় সার ও সেচ প্রয়োগ এবং পরিচযার্মূলক কাজ করেন। এভাবে চাষ করে ভিনি কলার ভালো ফলন পান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. ডাব হলো কচি নারিকেল। খ. কলা গাছের দুই ধরনের চারা বা তেউড় আছে। যথ—অসি তেউড় ও পানি তেউড়। এদের মধ্যে কলা চাষের জন্য অসি তেভূঁড় উত্তম। কারণ অসি তেউড় মাতৃগাছের ঠিক গোড়া থেকে বের হয়ে প্রয়োজনীয় পুষ্টি উপাদান সহজেই গ্রহণ করতে পারে। এছাড়া অসি তেউড়ের গোড়া বেশ মোটা, পাতা তরবারির মতো, সরম্ন, সুচালো এবং শক্ত ধরনের। এসব বৈশিষ্ট্যের কারণে অসি তেউড় কলা চাষের জন্য বেশি উপযোগী।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ডাব কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কলা চাষের জন্য অসি তেউড় উত্তম কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কলার ভালো ফলনের জন্য মাছুম তার কলার জমিতে কী কী পরিচযার্মূলক কাজ করেন?—ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বাংলাদেশে কলা চাষের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-2-cq-006",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-2",
+  "question_text": "নিচের চিত্রটি লক্ষ কর:",
+  "question_number": 6,
+  "stimulus": "নিচের চিত্রটি লক্ষ কর:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. খাদ্য প্রয়োগ ও খাদ্য গ্রহণের ফলে জীবের দৈহিক বৃদ্ধির অনুপাতকে খাদ্য রূপান্ত্মর হার বলে। খ. শাকসবজির অথৈর্নতিক গুরম্নত্ব নিচে ব্যাখ্যা করা হলো— মানবদেহের সুস্থতার জন্য শাকসবজি অত্যাবশ্যক। সুস্থ ও সবল দেহ নিয়ে বেঁচে থাকার জন্য প্রত্যেককে প্রতিদিন কমপক্ষে ৪০০ গ্রাম শাকসবজি গ্রহণ করতে হয়। শাকসবজি উৎপাদনের মাধ্যমে একদিকে পরিবারের চাহিদা মেটানো যায় অন্যদিকে এগুলো বিক্রি করে অথৈর্নতিকভাবে লাভবানও হওয়া যায়। শাকসবজি চাষ ক‡র পতিত জমির ব্যবহার নিশ্চিত করা যায়, বৈদেশিক মুদ্রা আয়, বেকার সমস্যার সমাধান, নতুন শিল্পের সৃষ্টি ও বিকাশ ঘটে এবং মহিলা ও পারিবারিক শ্রমশক্তিকে কাজে লাগানো যায়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "খাদ্য রূপান্ত্মর হার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শাক-সবজির অথৈর্নতিক গুরম্নত্ব ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে প্রদশির্ত কোন পোকাটি পাটের ক্ষতি করে? পোকাটির দমন পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ফসল উৎপাদনে চিত্রে প্রদশির্ত পোকাগুলোর প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "agriculture-lec-mt-2027-cq-model-2-cq-007",
+  "book_id": "class9-10-agriculture-lecture",
+  "subject": "কৃষি শিক্ষা",
+  "subject_slug": "agriculture",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "2027-cq-model-2",
+  "question_text": "প্রকৃতিপ্রেমি গিয়াস সাহেব বাংলাদেশের বিভিন্ন অঞ্চলে ঘুরে বেড়ান। গিয়াস সাহেব লক্ষ করেছেন বাংলাদেশে যে বনাঞ্চল রয়েছে তার ধরনে অনেক পাথর্ক্য রয়েছে। বাংলাদেশের বনাঞ্চলের পরিমাণ কমে যাওয়ার বিষয়টি গিয়াস সা",
+  "question_number": 7,
+  "stimulus": "প্রকৃতিপ্রেমি গিয়াস সাহেব বাংলাদেশের বিভিন্ন অঞ্চলে ঘুরে বেড়ান। গিয়াস সাহেব লক্ষ করেছেন বাংলাদেশে যে বনাঞ্চল রয়েছে তার ধরনে অনেক পাথর্ক্য রয়েছে। বাংলাদেশের বনাঞ্চলের পরিমাণ কমে যাওয়ার বিষয়টি গিয়াস সাহেবকে চিন্ত্মিত করে তুলেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. বৈজ্ঞানিক পদ্ধতিতে বনভূমিতে গাছ লাগানো পরিচযার্ ও সংরক্ষণকে বনায়ন বলে। খ. কৃষি বনায়নের ২টি বৈশিষ্ট্য হলো— ১. একই জমি বারবার ব্যবহার করে অধিক উৎপাদনের ব্যবস্থা করা যায়। ২. বৈচিত্র্যময় উিদ্ভদ ও ফসলের সমাহার ঘটায় ও উৎপাদন ঝুঁকি কমায়।",
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বনায়ন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কৃষি বনায়নের ২টি বৈশিষ্ট্য লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "গিয়াস সাহেবের লক্ষ করা বিষয়টি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "গিয়াস সাহেবের চিন্ত্মিত হওয়ার যৌক্তিকতা যাচাই কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Agriculture 2027-cq-model-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.uni.txt",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/8. SSC Aggriculture/#SSC-2027/CQ/model-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
