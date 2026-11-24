@@ -1,0 +1,242 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভূগোল পরিচয়",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch01",
+  "question_text": "মাসুম তার বাবা ভূগোল বিষয়ের শিÿক জনাব আনিসুজ্জামানের কাছে ভূগোল পাঠের উপকারিতা জানতে চাইলে তিনি বললেন,",
+  "question_number": 1,
+  "stimulus": "মাসুম তার বাবা ভূগোল বিষয়ের শিÿক জনাব আনিসুজ্জামানের কাছে ভূগোল পাঠের উপকারিতা জানতে চাইলে তিনি বললেন,\n'ভূগোল পাঠ মানেই বিশ্বের সমস্ত্ম তথ্য হাতের মুঠোয় থাকা।' তিনি ভূগোল বিষয় বেশি পাঠ করতে বললেন। মাসুম তখন\nতার পাঠ্যবইয়ে উলিস্নখিত মনীষীদের বক্তব্য থেকে তার বাবার উক্তির যথাথর্তা অনুধাবন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভূগোলের আলোচ্য বিষয় কী?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ভূগোলের পরিধি সম্প্রসারিত হয়েছে কেন?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "মাসুম পাঠ্যবই থেকে মনীষীদের যেসব বক্তব্য জানতে পারে তা ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "মাসুমের বাবার উক্তির সপÿে মতামত দাও।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch01-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভূগোল পরিচয়",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch01",
+  "question_text": "নয়ন জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ে ভূগোল বিভাগে অনাসর্ কোসের্ ভতির্ হওয়ার সুযোগ পায়। তাই নয়ন কলেজের ভূগোল শিÿক",
+  "question_number": 2,
+  "stimulus": "নয়ন জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ে ভূগোল বিভাগে অনাসর্ কোসের্ ভতির্ হওয়ার সুযোগ পায়। তাই নয়ন কলেজের ভূগোল শিÿক\nজনাব মনজুর মোশেের্দর সাথে দেখা করে। তিনি একটি সাবির্ক, ব্যাপক, সমষ্টিগত বিষয় হিসেবে তাকে ভূগোল বিষয়ে\nপড়াশোনার পÿে যুক্তি দেন। তিনি আরও বলেন ভূগোল প্রকৃতি ও পরিবেশের গুরম্নত্বপূণর্ বিষয়। নয়ন জাহাঙ্গীরনগর\nবিশ্ববিদ্যালয়ে ভূগোল বিভাগে ভতির্ হওয়ার সিদ্ধান্ত্ম নেয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সামাজিক পরিবেশ কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "প্রাকৃতিক ভূগোল ও মানব ভূগোলের দুটি পাথর্ক্য লিখ।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "জনাব মনজুর মোশের্দ নয়নকে ভূগোল বিষয়ে পড়াশুনার পÿে কেন যুক্তি দেন? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "জনাব মনজুর মোশের্দ ভূগোলকে প্রকৃতি ও পরিবেশের গুরম্নত্বপূণর্ বিষয় বলার কারণ মূল্যায়ন কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch01-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভূগোল পরিচয়",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch01",
+  "question_text": "দুলাল ও মালতী তাদের ভূগোল পাঠ্যবই নিয়ে আলোচনা করছিল। দুলাল বলল, 'ভূগোল সারা পৃথিবীর মানুষের কাযর্কলাপ",
+  "question_number": 3,
+  "stimulus": "দুলাল ও মালতী তাদের ভূগোল পাঠ্যবই নিয়ে আলোচনা করছিল। দুলাল বলল, 'ভূগোল সারা পৃথিবীর মানুষের কাযর্কলাপ\nনিয়ে আলোচনা করে বলেই ভূগোল একটি গুরম্নত্বপূণর্ বিষয়।' মালতী দুলালের কথায় সম্মতি দিয়ে বলল, 'মানুষের বেঁচে থাকার\nসংগ্রাম সম্পকের্ যুক্তিপূণর্ আলোচনাই ভূগোল।'",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যাতায়াত ব্যবস্থা নিয়ে আলোচনা করে ভূগোলের কোন শাখা?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "পরিবেশ বলতে কী বুঝ? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে দুলালের করা উক্তিটির ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "দুলাল ও মালতীর আলোচনা থেকে ভূগোলের সংজ্ঞা নিধার্রণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch01-cq-003"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভূগোল পরিচয়",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch01",
+  "question_text": "অরিন্দম চক্রবতীর্ ১৯৭৩ সাল থেকে ঢাকার নারিন্দা অঞ্চলের বাসিন্দা। আজ ২০১৬ সালে দাঁড়িয়ে তিনি ভাবছেন অতীতের",
+  "question_number": 4,
+  "stimulus": "অরিন্দম চক্রবতীর্ ১৯৭৩ সাল থেকে ঢাকার নারিন্দা অঞ্চলের বাসিন্দা। আজ ২০১৬ সালে দাঁড়িয়ে তিনি ভাবছেন অতীতের\nকথা। পরিবেশের উপাদানগুলো কত দ্রম্নতই না পরিবতর্ন হয়েছে। আজ তিনি তার এলাকায় দেখতে পাচ্ছেন এক নতুন ধরনের\nপরিবেশ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পরিবেশ কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "মানুষের অথৈর্নতিক কাযার্বলির ওপর প্রাকৃতিক পরিবেশের প্রভাব উলেস্নখ কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "অরিন্দম চক্রবতীর্ যে উপাদানগুলোর পরিবতর্ন লÿ্য করছেন তার শ্রেণিবিভাগ কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "অরিন্দম চক্রবতীর্ এক নতুন ধরনের পরিবেশের সম্মুখীন। স্থান ও কালের পরিবতের্ন এর স্বরূপ পাঠ্যপুস্ত্মকের আলোকে\nব্যাখ্যা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch01-cq-004"
+ }
+]

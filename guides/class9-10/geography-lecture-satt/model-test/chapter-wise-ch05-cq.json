@@ -1,0 +1,242 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "বায়ুমণ্ডল",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch05",
+  "question_text": "শাবাব বিকালবেলা দাদর সাথে বারান্দায় বসে গল্প করছিল। শাবাব দাদুকে বলল, দাদু এখন তো শীতকাল তারপরও গরম",
+  "question_number": 1,
+  "stimulus": "শাবাব বিকালবেলা দাদর সাথে বারান্দায় বসে গল্প করছিল। শাবাব দাদুকে বলল, দাদু এখন তো শীতকাল তারপরও গরম\nলাগছে। দাদু বললেন, বায়ুম-লে এখন প্রতিনিয়ত বিভিন্ন গ্যাসের বৃদ্ধির ফলে একটি প্রতিক্রিয়া ঘটছে এবং এর সামগ্রিক প্রভাব\nপৃথিবীতে বিরূপ প্রতিক্রিয়া সৃষ্টি করছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ডেনমাকের্র রাজধানীর নাম কী?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "\"গজর্নশীল চলিস্নশ\" কী? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "দাদু বায়ুম-লে ঘটা কোন প্রতিক্রিয়াটির কথা বলেছেন? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "পৃথিবীর সামগ্রিক পরিবেশের ওপর উক্ত প্রতিক্রিয়াটির প্রভাব বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch05-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "বায়ুমণ্ডল",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch05",
+  "question_text": "নিচের ছকটি দেখে প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 2,
+  "stimulus": "নিচের ছকটি দেখে প্রশ্নগুলোর উত্তর দাও :\nস্ত্মর বৈশিষ্ট্য\nA ভূপৃষ্ঠ থেকে নিরÿীয় অঞ্চলে প্রায় ১৬-১৮ কিলোমিটার এবং মেরম্ন অঞ্চলে প্রায় ৮ কিলোমিটার\nB ওজোন গ্যাসের স্ত্মর বেশি পরিমাণে আছে\nC সবচেয়ে শীতলতম তাপমাত্রা ধারণ করে।\nD এই অংশের বায়ু আয়নযুক্ত হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আয়নম-ল কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বায়ুম-ল কী কী উপাদান দ্বারা গঠিত?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "B স্ত্মরটি কীভাবে অতিবেগুনি রশ্মি, জেটবিমান এর সাথে জড়িত? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "C ওD স্ত্মরের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch05-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "বায়ুমণ্ডল",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch05",
+  "question_text": "বাড়ির ছাদ থেকে মনিরা ও রম্নবিনা আকাশে বিমান ওড়ে যেতে দেখে বড় ভাইয়ের কাছে প্রশ্ন করে, শূন্যে কীভাবে বিমান ওড়ে?",
+  "question_number": 3,
+  "stimulus": "বাড়ির ছাদ থেকে মনিরা ও রম্নবিনা আকাশে বিমান ওড়ে যেতে দেখে বড় ভাইয়ের কাছে প্রশ্ন করে, শূন্যে কীভাবে বিমান ওড়ে?\nবড় ভাই ভূগোলের ছাত্র শিহাব বিমান উড়ার বিষয়টি—ব্যাখ্যা করতে গিয়ে প্রসঙ্গক্রমে উলেস্নখ করে বায়ুম-লের একটি বিশেষ\nস্ত্মর আমাদের জীবনধারণের জন্য অপরিহাযর্।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বায়ুম-লকে কী কী স্ত্মরে ভাগ করা হয়?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বারিপাত কেন ভূপৃষ্ঠে নেমে আসে?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "শিহাব বিশেষ কোন স্ত্মরের কথা বলেছিল? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত ম-লের স্ত্মরবিন্যাসের তাৎপযর্ বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch05-cq-003"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "বায়ুমণ্ডল",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch05",
+  "question_text": "মৌসুমি জলবায়ুর প্রভাব বাংলাদেশের জলবায়ুর উপর অধিক হওয়ায় বাংলাদেশের জলবায়ুকে মৌসুমি জলবায়ুর দেশ বলা",
+  "question_number": 4,
+  "stimulus": "মৌসুমি জলবায়ুর প্রভাব বাংলাদেশের জলবায়ুর উপর অধিক হওয়ায় বাংলাদেশের জলবায়ুকে মৌসুমি জলবায়ুর দেশ বলা\nহয়। এ জলবায়ুর কারণে এদেশের ঋতু পরিবতর্ন ঘটে। গ্রীষ্ম ও বষার্কালে বৃষ্টিপাত হয়। শীতকালে বৃষ্টিপাত হয় না।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'লু' কী?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ভূমধ্যসাগরীয় বায়ুকে ঋতু আশ্রয়ী বায়ু বলা হয় কেন?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের দেশটিতে নিদেির্শত বায়ুপ্রবাহের দিক পরিবতের্নর কারণ উলেস্নখ কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "দেশটিতে উক্ত বায়ুর প্রধান বৈশিষ্ট্যগুলো ব্যাখ্যা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch05-cq-004"
+ }
+]

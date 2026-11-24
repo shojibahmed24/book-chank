@@ -1,0 +1,242 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 12,
+  "chapter_number": 12,
+  "chapter_name": "বাংলাদেশের যোগাযোগ ব্যবস্থা ও বাণিজ্য",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch12",
+  "question_text": "চট্টগ্রামের কণর্ফুলী নদীর তীরে বন্দর গড়ে উঠেছে। লিপি প্রতিদিন বিকালে তার বাবার সাথে নদীটির তীরে হাঁটে এবং বন্দরের",
+  "question_number": 1,
+  "stimulus": "চট্টগ্রামের কণর্ফুলী নদীর তীরে বন্দর গড়ে উঠেছে। লিপি প্রতিদিন বিকালে তার বাবার সাথে নদীটির তীরে হাঁটে এবং বন্দরের\nকাজকমর্ লÿ করে। লিপি তার বাবার কাছে সমুদ্রপথ গড়ে ওঠার ভৌগোলিক কারণ জানতে চায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাণিজ্য কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "পরিবহন বলতে কী বোঝ? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত পথ গড়ে উঠার ভৌগোলিক কারণগুলো ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "বাংলাদেশের বৈদেশিক বাণিজ্যে লিপির দেখা বন্দরটির অবদান বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch12-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 12,
+  "chapter_number": 12,
+  "chapter_name": "বাংলাদেশের যোগাযোগ ব্যবস্থা ও বাণিজ্য",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch12",
+  "question_text": "নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 2,
+  "stimulus": "নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও:\nযোগাযোগ ব্যবস্থা বৈশিষ্ট্য\n‛A’ প্রায় সব পরিবেশে গড়ে তোলা সম্ভব।\n‛B’ পাহাড়ি অঞ্চলে গড়ে তোলা সম্ভব নয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশের আঞ্চলিক সড়কপথের দৈঘর্য কত?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশে মিটারগেজ রেলপথ সম্পকের্ লিখ।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "বাংলাদেশে‛B’ যোগাযোগ ব্যবস্থার বতর্মান অবস্থা ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "‛A’ ও‛B’ যোগাযোগ ব্যবস্থার তুলনামূলক আলোচনা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch12-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 12,
+  "chapter_number": 12,
+  "chapter_name": "বাংলাদেশের যোগাযোগ ব্যবস্থা ও বাণিজ্য",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch12",
+  "question_text": "বাংলাদেশের নাঈম ও নাজিম স্বনামধন্য ব্যবসায়ী। নাঈম প্রয়োজনীয় পণ্য আমদানি করেন আর নাজিম অন্য দেশে তৈরি",
+  "question_number": 3,
+  "stimulus": "বাংলাদেশের নাঈম ও নাজিম স্বনামধন্য ব্যবসায়ী। নাঈম প্রয়োজনীয় পণ্য আমদানি করেন আর নাজিম অন্য দেশে তৈরি\nপোশাক, পাটজাতদ্রব্য ও কাঁচামাল রপ্তানি করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাণিজ্য কী?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশের অভ্যন্ত্মরীণ বাণিজ্যের ব্যাখ্যা দাও।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "নাঈম অন্য দেশ থেকে যেসব পণ্য আমদানি করেন তার একটি তা উলেস্নখ করে ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "নাজিমের বাণিজ্য দেশের অর্থনীতিতে বিরাট অবদান রাখছেন-মূল্যায়ন কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch12-cq-003"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 12,
+  "chapter_number": 12,
+  "chapter_name": "বাংলাদেশের যোগাযোগ ব্যবস্থা ও বাণিজ্য",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch12",
+  "question_text": "আরিফ বাংলাদেশের যাতায়াত ব্যবস্থা সম্পকের্ একটি প্রতিবেদন পড়ছিল। এদেশে ২০১২ সালে সড়ক ও জনপথ অধিদফতরের",
+  "question_number": 4,
+  "stimulus": "আরিফ বাংলাদেশের যাতায়াত ব্যবস্থা সম্পকের্ একটি প্রতিবেদন পড়ছিল। এদেশে ২০১২ সালে সড়ক ও জনপথ অধিদফতরের\nঅধীনে সড়কপথ ছিল ২১,৪৬২ কিলোমিটার, রেলপথ ছিল ২,৮৭৭ কিলোমিটার। নাব্য জলপথ ছিল ৮,৪০০ কিলোমিটার।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জলপথকে কী কী ভাগে ভাগ করা যায়?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "উত্তর-পশ্চিমাঞ্চলের সাথে পূবার্ঞ্চলের যোগাযোগে ভূমিকা রাখে এমন একটি সড়কপথ ও রেলপথ উলেস্নখ কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "মানচিত্র অঙ্কন করে দেশের ২,৮৭৭ কিলোমিটার দীঘর্ পথ নিদের্শ কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের যাতায়াত পথের মধ্যে কোনটি সবচেয়ে গুরম্নত্বপূণর্ ভূমিকা পালন করে বলে তুমি মনে কর। যুক্তিসহ ব্যাখ্যা\nকর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch12-cq-004"
+ }
+]

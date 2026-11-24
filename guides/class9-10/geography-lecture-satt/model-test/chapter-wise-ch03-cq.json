@@ -1,0 +1,242 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "মানচিত্র পঠন ও ব্যবহার",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch03",
+  "question_text": "নিলয় তার চাচার সঙ্গে স্কুলের লাইব্রেরিতে গিয়ে বাংলাদেশের মানচিত্র দেখে কীভাবে এটি আঁকা হলো জানতে চাইলে তার",
+  "question_number": 1,
+  "stimulus": "নিলয় তার চাচার সঙ্গে স্কুলের লাইব্রেরিতে গিয়ে বাংলাদেশের মানচিত্র দেখে কীভাবে এটি আঁকা হলো জানতে চাইলে তার\nচাচা তাকে স্কেলের কথা বললেন। এরপর মানচিত্র সম্পকের্ ধারণা দেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্কেল কী?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "স্কেল প্রকাশের প্রয়োজনীয়তা কেন?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "প্র. অ. ১ : ৩৬ এর সাহায্যে গজ ও ফুট দেখিয়ে একটি সরলরৈখিক স্কেল অঙ্কন কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "চাচা নিলয়কে কী ধারণা দেন-আলোচনা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch03-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "মানচিত্র পঠন ও ব্যবহার",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch03",
+  "question_text": "বিদ্যালয়ের নবম শ্রেণির ভূগোল ক্লাসে বাংলাদেশের একটি প্রশাসনিক মানচিত্র দেখানো হলো। মানচিত্রের নিচে রেখাচিত্রের",
+  "question_number": 2,
+  "stimulus": "বিদ্যালয়ের নবম শ্রেণির ভূগোল ক্লাসে বাংলাদেশের একটি প্রশাসনিক মানচিত্র দেখানো হলো। মানচিত্রের নিচে রেখাচিত্রের\nসাহায্যে স্কেল অঙ্কিত ছিল। শিÿক ছাত্রদের স্কেল সম্পকের্ ধারণা দেওয়ার জন্য সেন্টিমিটারে এবং ইঞ্চিতে রেখাচিত্রের\nসাহায্যে স্কেল এঁকে দেখালেন এবং বণর্না করলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মানচিত্র কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "একটি মানচিত্রের মধ্যে কী ধরনের তথ্য থাকে তা কিসের উপর নিভর্র করে?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "শ্রেণিতে প্রদশির্ত বাংলাদেশের একটি অনুরূপ মানচিত্র অঙ্কন করে বিভাগীয় শহর চিহ্নিত কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শিÿকের বণির্ত স্কেল অঙ্কন পদ্ধতি উদাহরণসহ আলোচনা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch03-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "মানচিত্র পঠন ও ব্যবহার",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch03",
+  "question_text": "উপজাতিদের সমাজ ব্যবস্থা জানার জন্য রাশেদ, মনি ও কাঞ্চন পাবর্ত্য চট্টগ্রামের একটি মানচিত্র পযের্বÿণ করছিল। মনি",
+  "question_number": 3,
+  "stimulus": "উপজাতিদের সমাজ ব্যবস্থা জানার জন্য রাশেদ, মনি ও কাঞ্চন পাবর্ত্য চট্টগ্রামের একটি মানচিত্র পযের্বÿণ করছিল। মনি\nবলল, খুলনা থেকে চট্টগ্রামের দূরত্ব কত? রাশেদ বলল, 'মানচিত্রের নিচে অনুপাতের সাহায্যে একটি স্কেল অঙ্কন করা হয়েছে।\nএর সাহায্যে দূরত্ব মাপা যায়।' কাঞ্চন মানচিত্রের স্কেল থেকে দূরত্ব বের করল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্কেল অনুসারে মানচিত্রকে কী কী ভাগে ভাগ করা হয়?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ক্যাডাস্ট্রাল বা মৌজা মানচিত্র কী? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত মানচিত্রে যে স্কেলের কথা উলেস্নখ করা হয়েছে তা আলোচনা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত মানচিত্রটির শ্রেণিবিভাগ করে প্রতিটি বিভাগের বণর্না দাও।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch03-cq-003"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "মানচিত্র পঠন ও ব্যবহার",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch03",
+  "question_text": "ভূগোল শিÿক জনাব রফিউস সামস শ্রেণিকÿের দেয়ালে একটি মানচিত্র স্থাপন করেন। এই মানচিত্রে বাংলাদেশের ঐতিহাসিক",
+  "question_number": 4,
+  "stimulus": "ভূগোল শিÿক জনাব রফিউস সামস শ্রেণিকÿের দেয়ালে একটি মানচিত্র স্থাপন করেন। এই মানচিত্রে বাংলাদেশের ঐতিহাসিক\nস্থান, পযর্টন কেন্দ্র ইত্যাদি চিহ্নিত করা ছিল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভূগোল শিÿাথীের্দর কাছে অপরিহাযর্ উপাদান কোনটি?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "এটলাস মানচিত্র বলতে কী বোঝায়?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "জনাব রফিউস সামস শ্রেণিকÿে ব্যবহারের জন্য কী মানচিত্র ব্যবহার করেছিলেন? এর বৈশিষ্ট্য বণর্না কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত মানচিত্রে তথ্য উপস্থাপনের নিয়মাবলি আলোচনা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch03-cq-004"
+ }
+]

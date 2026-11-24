@@ -1,0 +1,62 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "ssc-2027-cq-model-2",
+  "question_text": "বছর তিনেক পূবের্ মিঠুদের ফসলি জমি নদীগভের্ বিলীন হয়ে যায়। মিঠু লÿ করল নদী ভাঙতে ভাঙতে প্রায় তাদের বাড়ির",
+  "question_number": 8,
+  "stimulus": "বছর তিনেক পূবের্ মিঠুদের ফসলি জমি নদীগভের্ বিলীন হয়ে যায়। মিঠু লÿ করল নদী ভাঙতে ভাঙতে প্রায় তাদের বাড়ির\nনিকটবতীর্ চলে আসছে। যার কারণে তাদের বাড়ি অন্যত্র সরিয়ে নেওয়া হলো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নদীরগতিপথকে কয় ভাগে বিভক্ত করা যায়?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "খরা নদীভাঙনের একটি কারণ, ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "যে দুযোের্গর কারণে মিঠুদের জমি নদীগভের্ বিলীন হয়ে যায় ওই দুযোর্গ কী কারণে হতে পারে? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "আলোচিত দুযোর্গজনিত ÿয়ÿতি কী হতে পারে বিশেস্নষণ কর।\n[সংÿিপ্ত-উত্তর অংশ:১৫টি প্রশ্নের মধ্যে থেকে যেকোনো ১০টি সংÿিপ্তপ্রশ্নের উত্তর দাও, প্রতিটির মান—২]",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-ssc-2027-cq-model-2-cq-008"
+ }
+]

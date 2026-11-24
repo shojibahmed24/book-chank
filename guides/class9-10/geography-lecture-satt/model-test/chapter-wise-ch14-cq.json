@@ -1,0 +1,242 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 14,
+  "chapter_number": 14,
+  "chapter_name": "বাংলাদেশের প্রাকৃতিক দুর্যোগ",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch14",
+  "question_text": "সিরাজ খান রাজাপুর গ্রামে একটি স্বেচ্ছাসেবী প্রতিষ্ঠান পরিচালনা করেন। গত বছর ভয়াবহ বন্যার পর এ সংস্থা বন্যার",
+  "question_number": 1,
+  "stimulus": "সিরাজ খান রাজাপুর গ্রামে একটি স্বেচ্ছাসেবী প্রতিষ্ঠান পরিচালনা করেন। গত বছর ভয়াবহ বন্যার পর এ সংস্থা বন্যার\nপ্রাকৃতিক কারণ, প্রভাব ও নিয়ন্ত্রণ ব্যবস্থা নিয়ে ব্যাপক কাযর্ক্রম পরিচালনা করে যা সবর্মহলে প্রশংসা লাভ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশে বন্যা সৃষ্টির প্রাকৃতিক একটি কারণ উলেস্নখ কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "দুযোর্গ ও বিপযর্য় বলতে কী বোঝ?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সিরাজ খানের সংস্থা আমাদের দেশে কেন বন্যা হয় তার কী কী কারণ চিহ্নিত করবে বণর্না কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত দুযোের্গর নিয়ন্ত্রণে সাধারণ ব্যবস্থাপনা আলোচনা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch14-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 14,
+  "chapter_number": 14,
+  "chapter_name": "বাংলাদেশের প্রাকৃতিক দুর্যোগ",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch14",
+  "question_text": "দৃশ্যকল্প-১ : চৈত্র মাস, মিলি বিদ্যালয়ে যাওয়ার সময় দেখল, রাস্ত্মার দু'ধারের ফসলি জমিগুলো ফেটে চৌচির হয়ে গেছে এবং",
+  "question_number": 2,
+  "stimulus": "দৃশ্যকল্প-১ : চৈত্র মাস, মিলি বিদ্যালয়ে যাওয়ার সময় দেখল, রাস্ত্মার দু'ধারের ফসলি জমিগুলো ফেটে চৌচির হয়ে গেছে এবং\nখেতের ফসলগুলো শুকিয়ে তামাটে রং ধারন করেছে।\nদৃশ্যকল্প-২ : শ্রাবণ মাস, সারাদিন গুঁড়িগুঁড়ি বৃষ্টি। ফাহিমদের এলাকার রাস্ত্মাঘাট, স্কুল, কলেজ পানিতে তলিয়ে গেছে। এমনকি\nঅনেকের ঘরে পানি উঠেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নদীভাঙ্গন কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "সুনামি কীভাবে সৃষ্টি হয়? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১ এ সৃষ্ট প্রাকৃতিক দুযোের্গর প্রতিক্রিয়া ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "দৃশ্যকল্প-২ এ সৃষ্ট প্রাকৃতিক দুযোর্গটি প্রতি বছরই বাংলাদেশে ব্যাপক ÿতি সাধন করে থাকে—উক্তিটির যথাথর্তা\nমূল্যায়ন কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch14-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 14,
+  "chapter_number": 14,
+  "chapter_name": "বাংলাদেশের প্রাকৃতিক দুর্যোগ",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch14",
+  "question_text": "বাংলাদেশে ঘূণির্ঝড় ও জলোচ্ছ্বাস, বন্যা, খরা, ভূমিকম্প ইত্যাদি বছরব্যাপী পত্রিকার লিড নিউজে থাকে। আন্ত্মজাির্তক বিশ্বেও",
+  "question_number": 3,
+  "stimulus": "বাংলাদেশে ঘূণির্ঝড় ও জলোচ্ছ্বাস, বন্যা, খরা, ভূমিকম্প ইত্যাদি বছরব্যাপী পত্রিকার লিড নিউজে থাকে। আন্ত্মজাির্তক বিশ্বেও\nএ খবরগুলো বেশ প্রাধান্য পায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রাকৃতিক দুযোর্গ কী?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "প্রাকৃতিক দুযোর্গ মানুষের জন্য ÿতিকর কেন?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত দুযোের্গর ÿয়ÿতি হ্রাসে একটি কমর্পরিকল্পনা তৈরি কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত দুযোর্গ মোকাবিলায় তোমার কৌশল বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch14-cq-003"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 14,
+  "chapter_number": 14,
+  "chapter_name": "বাংলাদেশের প্রাকৃতিক দুর্যোগ",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch14",
+  "question_text": "আবদুলস্নাহদের গ্রামে আগে প্রচুর ইরি ধানের চাষ হতো। তবে এক বিশেষ দুযোের্গর কারণে এখন ইরি ধানের চাষ ব্যাহত",
+  "question_number": 4,
+  "stimulus": "আবদুলস্নাহদের গ্রামে আগে প্রচুর ইরি ধানের চাষ হতো। তবে এক বিশেষ দুযোের্গর কারণে এখন ইরি ধানের চাষ ব্যাহত\nহচ্ছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "খরা কী?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "খরা নিয়ন্ত্রণ করার উপায় কী?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "আবদুলস্নাহদের গ্রামে ইরি ধানের চাষ কমে যাওয়ার কারণ কী?",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত দুযোের্গর প্রভাব বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch14-cq-004"
+ }
+]

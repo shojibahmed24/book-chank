@@ -1,0 +1,182 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "পৃথিবীর অভ্যন্তরীণ ও বাহ্যিক গঠন",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch04",
+  "question_text": "সামিন টেলিভিশনে শিÿামূলক একটি অনুষ্ঠান দেখছিল। সেখানে দেখাচ্ছিল ভূপৃষ্ঠের একটি স্থানে ফাটল দিয়ে গলিত পদাথর্,",
+  "question_number": 1,
+  "stimulus": "সামিন টেলিভিশনে শিÿামূলক একটি অনুষ্ঠান দেখছিল। সেখানে দেখাচ্ছিল ভূপৃষ্ঠের একটি স্থানে ফাটল দিয়ে গলিত পদাথর্,\nভস্ম বের হচ্ছে। সামিনের বাবা তাকে বললেন, এটি একটি আকস্মিক পরিবতর্ন প্রক্রিয়া এবং এর ফলে ভূপৃষ্ঠের বেশিরভাগ\nপরিবতর্ন হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিলা কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "খনিজ কী? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সামিনের দেখা আকস্মিক পরিবতর্ন প্রক্রিয়ার ফলাফল বিশেস্নষণ কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "ভূপৃষ্ঠের উপর উক্ত আকস্মিক পরিবতর্ন প্রক্রিয়ার ফলাফল বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch04-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "পৃথিবীর অভ্যন্তরীণ ও বাহ্যিক গঠন",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch04",
+  "question_text": "সুবণর্পুর উচ্চ বিদ্যালয়ের নবম শ্রেণিতে ক্লাস নিচ্ছিলেন শিÿক জনাব মো. আব্দুল করিম। তিনি বললেন, 'বিচিত্র এই পৃথিবীর",
+  "question_number": 2,
+  "stimulus": "সুবণর্পুর উচ্চ বিদ্যালয়ের নবম শ্রেণিতে ক্লাস নিচ্ছিলেন শিÿক জনাব মো. আব্দুল করিম। তিনি বললেন, 'বিচিত্র এই পৃথিবীর\nভূমিরূপও বিচিত্র। কোথাও সমভূমি, কোথাও মালভূমি আবার কোথাও পবর্ত। বাংলাদেশ হলো পলির দেশ।'",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "খাঁড়ি কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "পাদদেশীয় মালভূমি বলতে কী বোঝায়?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "শিÿকের উলিস্নখিত বিচিত্র ভূমিরূপ সৃষ্টির পেছনে কী কারণ নিহিত আছে? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "বাংলাদেশ সম্পকের্ শিÿকের উক্তিটির যথাথর্তা বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch04-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "পৃথিবীর অভ্যন্তরীণ ও বাহ্যিক গঠন",
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "chapter-wise-ch04",
+  "question_text": "নিচের চিত্রটি দেখে প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্রটি দেখে প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভূপৃষ্ঠ থেকে পৃথিবীর কেন্দ্র পযর্ন্ত্ম কয়টি ম-লে ভাগ করা হয়েছে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কেন্দ্রম-ল বলতে কী বোঝ?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উপরের চিত্র থেকে ই স্ত্মরের বণর্না দাও।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রেরC স্ত্মরটি আলোচনা কর।\n৩. নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও:\nসংকেত ভূত্বক গঠনকারী উপাদান\nক শিলা\nখ খনিজ",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Chapter Wise CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-chapter-wise-ch04-cq-003"
+ }
+]

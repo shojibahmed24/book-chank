@@ -1,0 +1,652 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "দৃশ্যকল্প-১ :কিছুদিন পূবের্ 'আম্মান' নামে মারাত্মক এক ঘূণির্ঝড় বাংলাদেশের দক্ষিণ-পশ্চিম অঞ্চলে আঘাত হানে। এতে",
+  "question_number": 1,
+  "stimulus": "দৃশ্যকল্প-১ :কিছুদিন পূবের্ 'আম্মান' নামে মারাত্মক এক ঘূণির্ঝড় বাংলাদেশের দক্ষিণ-পশ্চিম অঞ্চলে আঘাত হানে। এতে\nজানমালের ব্যাপক ক্ষতি হয়।\nদৃশ্যকল্প-২ : শাওন দশম শ্রেণির ছাত্র। ভূগোল ও পরিবেশ বইয়ের পাহাড়-পবর্ত, নদী-সাগর, মাটি এই বিষয়গুলো তার প্রিয়।\nতার বন্ধু মাহমুদের কৃষি, শিল্প, যাতায়াত, ব্যবসা-বাণিজ্য বিষয়গুলোর প্রতি আগ্রহ বেশি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পরিবেশ কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ভূগোলের পরিধির বিস্ত্মৃতির কারণ ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১ এ বণির্ত বিষয়টি ভূগোলের কোন শাখার অন্ত্মগর্ত? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "দৃশ্যকল্প-২ অনুসারে মানবজীবনে শাওন ও মাহমুদের পছন্দের বিষয়গুলোর মধ্যে কোনটির অথৈর্নতিক গুরম্নত্ব বেশি?\nতোমার মতামত বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "চিত্রটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।",
+  "question_number": 2,
+  "stimulus": "চিত্রটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কৃত্রিম উপগ্রহ কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "মহাকাশে অনেক বছর পরপর কোন জ্যোতিষ্ক দেখা যায়? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'P' চিহ্নিত গ্রহটির বণর্না দাও।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "'Q' এবং 'R' গ্রহ দুটিতে কি জীবের বসবাস সম্ভব? উত্তরের সপক্ষে যুক্তি দাও।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "চিত্রটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।",
+  "question_number": 3,
+  "stimulus": "চিত্রটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পৃথিবীর নিকটতম নক্ষত্র কোনটি?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "নীহারিকা কী? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে প্রদশির্ত 'C' চিহ্নিত স্থানের গ্রহটি সম্পকের্ বণর্না দাও।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রে 'D' ও 'F' চিহ্নিত গ্রহ দুটির মধ্যে কোনটিতে প্রাণের অস্ত্মিত্ব খুঁজে পাওয়া যায়? ব্যাখ্যা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-003"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "রংপুর উদীয়মান স্কুলের দশম শ্রেণির ছাত্রীরা রংপুর শহরের বিভিন্ন তথ্য সংগ্রহ করল। এরপর তারা একটি স্থানীয় বৈচিতর্যসূচক",
+  "question_number": 4,
+  "stimulus": "রংপুর উদীয়মান স্কুলের দশম শ্রেণির ছাত্রীরা রংপুর শহরের বিভিন্ন তথ্য সংগ্রহ করল। এরপর তারা একটি স্থানীয় বৈচিতর্যসূচক\nমানচিত্র তৈরি করতে চাইল। ভূগোল শিক্ষক প্রচলিত প্রতীক চিহ্ন ও মানচিত্রে তথ্য উপস্থাপনের গুরম্নত্বপূণর্ বিষয়গুলো তাদেরকে\nশিখিয়ে দিলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মানচিত্র কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "সাংস্কৃতিক মানচিত্র বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "স্থানীয় বৈচিতর্যসূচক মানচিত্রে প্রচলিত প্রতীক চিহ্নসমূহ অঙ্কন করে দেখাও।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "ভূগোল শিক্ষক ছাত্রীদেরকে মানচিত্রে তথ্য উপস্থাপনের গুরম্নত্বপূণর্ বিষয়গুলো সম্পকের্ যা বলেছিলেন তা ব্যাখ্যা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-004"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।",
+  "question_number": 5,
+  "stimulus": "নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।\n→",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "খনিজের দুইটি উদাহরণ দাও।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "গুরম্নম-লের বণর্না দাও।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "'খ' শিলার বৈশিষ্ট্যসমূহ উলেস্নখ কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "'ক', 'খ' ও 'গ' শিলা দ্বারা কীভাবে পবর্ত গঠিত হয়? ব্যাখ্যা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-005"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।",
+  "question_number": 6,
+  "stimulus": "নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।\nপবর্ত উদাহরণ\nA রকি, আন্দিজ\nB সাতপুরা, লবণ\nC ফুজিয়ামা, ভিসুভিয়াস",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রাথমিক অবস্থায় গঠিত\nশিলা→ →",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "স্ত্মরীভূত\n→ রূপান্ত্মরের ফলে এর গঠন",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ অসম্পূর্ণ (['ক', 'খ']); দুই কলামের লেখা মিশে থাকতে পারে — মূল PDF দেখে মিলিয়ে নিতে হবে",
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-006"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "নাবিলা একটি চিত্র অবলোকন করে বুঝতে পারল, সমুদ্রসমূহের পানি এক চক্রাকার পদ্ধতিতে আবার সমুদ্রেই ফিরে আসে।",
+  "question_number": 7,
+  "stimulus": "নাবিলা একটি চিত্র অবলোকন করে বুঝতে পারল, সমুদ্রসমূহের পানি এক চক্রাকার পদ্ধতিতে আবার সমুদ্রেই ফিরে আসে।\nরায়হান বাংলাদেশে বসবাস করলেও তার বাবা মালয়েশিয়ায় বসবাস করে। সে দেশে প্রায় প্রতিদিনই বিকাল বা সন্ধ্যায়\nবৃষ্টিপাত হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বায়ুম-ল কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "জলবায়ুর কোন নিয়ামকের কারণে দিনাজপুর ও কক্সবাজারের আবহাওয়া ভিন্নতর, ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে নাবিলার দেখা পদ্ধতিটির চিত্রসহ বণর্না দাও।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে রায়হান ও তার বাবার অবস্থানে ভিন্নতর বৃষ্টিপাত হয় কি? আলোচনা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-007"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "সারা পৃথিবী এক বিশেষ পরিবতের্নর কারণে পরিবেশগত সমস্যা সৃষ্টি হচ্ছে। এ কারণে তাবৎ বিশ্বের পরিবেশ বিজ্ঞানীরা",
+  "question_number": 8,
+  "stimulus": "সারা পৃথিবী এক বিশেষ পরিবতের্নর কারণে পরিবেশগত সমস্যা সৃষ্টি হচ্ছে। এ কারণে তাবৎ বিশ্বের পরিবেশ বিজ্ঞানীরা\nচিন্ত্মিত। বাংলাদেশেও এর প্রভাব মারাত্মক।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মৌসুমি বায়ু কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'চিনুক' কোন ধরনের বায়ু? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে কোন পরিবতের্নর কথা বলা হয়েছে তার কারণগুলো বণর্না দাও।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে সৃষ্ট সমস্যা থেকে বাংলাদেশ কীভাবে রক্ষা পেতে পারে, তারপক্ষে সুপারিশমালা প্রণয়ন কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-008"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "দশম শ্রেণির শিক্ষাথীর্রা শ্রেণিকক্ষে সমুদ্রস্রোতের ভিডিও চিত্র দেখে এ নিয়ে শিক্ষকের সাথে আলোচনা করছিল। শিক্ষাথীর্রা",
+  "question_number": 9,
+  "stimulus": "দশম শ্রেণির শিক্ষাথীর্রা শ্রেণিকক্ষে সমুদ্রস্রোতের ভিডিও চিত্র দেখে এ নিয়ে শিক্ষকের সাথে আলোচনা করছিল। শিক্ষাথীর্রা\nকৌতূহলের সাথে ভিডিওটি দেখে উষ্ণ ও শীতল সমুদ্রস্রোত সম্পকের্ সঠিক ধারণা অজর্ন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমুদ্রস্রোত বলতে কী বোঝ?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "\"বায়ুপ্রবাহ সমুদ্রস্রোতের প্রধান কারণ\"- ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উষ্ণ ও শীতল সমুদ্রস্রোত কতকগুলো নিয়ামক দ্বারা সংঘটিত হয়- তা ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "ব্যবসায়-বাণিজ্যের ক্ষেত্রে উষ্ণ ও শীতল সমুদ্রস্রোতের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-009"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "ইমন বিকেল বেলায় পদ্মার চরে ঘুরতে গেল। পত্রিকা পড়ে সে জানতে পারে গঙ্গা নদীর বাঁধ দেওয়ায় পদ্মার পানি সবসময়",
+  "question_number": 10,
+  "stimulus": "ইমন বিকেল বেলায় পদ্মার চরে ঘুরতে গেল। পত্রিকা পড়ে সে জানতে পারে গঙ্গা নদীর বাঁধ দেওয়ায় পদ্মার পানি সবসময়\nএক রকম থাকে এবং কিছু শাখা নদী ভরাট হয়ে গেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশের উত্তরের পাহাড়গুলো স্থানীয়ভাবে কী নামে পরিচিত?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশের জলবায়ুকে ক্রান্ত্মীয় মৌসুমি জলবায়ু বলা হয় কেন?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত পদ্মা নদীর গতিপথ বণর্না কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "নদীগুলো ভরাটের কারণ, প্রভাব ও প্রতিকার ব্যাখ্যা কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-010"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "final-model-geo-cq-1",
+  "question_text": "চিত্রটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।",
+  "question_number": 11,
+  "stimulus": "চিত্রটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশের মাঝামাঝি স্থান দিয়ে কোন রেখা অতিক্রম করেছে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশে গ্রীষ্মকালে বজ্রসহ ঝড়বৃষ্টি হয় কেন?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "মানচিত্রে 'A' দ্বারা চিহ্নিত বাংলাদেশের ভূপ্রাকৃতিক অঞ্চলটির বণর্না দাও।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "মানচিত্রের 'B' ও 'C' দ্বারা চিহ্নিত ভূপ্রাকৃতিক অঞ্চল দুটির কোনটি কৃষিজাত দ্রব্য উৎপাদনের ক্ষেত্রে উলেস্নখযোগ্য\nভূমিকা পালন করে? যুক্তিসহকারে তোমার মতামত দাও।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/4. Model Test/Final Model/Geo-CQ-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-final-model-geo-cq-1-cq-011"
+ }
+]
