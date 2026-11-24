@@ -1,0 +1,242 @@
+[
+ {
+  "id": "economics-lec-mt-ch03-cq-001",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "উপযোগ, চাহিদা, যোগান ও ভারসাম্য",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch03",
+  "question_text": "দাম (প্রতি একক) যোগানের পরিমাণ (একক)",
+  "question_number": 1,
+  "stimulus": "১. একটি পণ্যের যোগানসূচি দেখানো হলো দাম (প্রতি একক) যোগানের পরিমাণ (একক) ১০ টাকা ২০০ একক ২০ টাকা ২৫০ একক ৩০ টাকা ৩০০ একক ৪০ টাকা ৩৫০ একক",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যোগান কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "যোগান বিধি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উপরের সূচি থেকে একটি যোগান রেখা অঙ্কন করে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উপরিউক্ত যোগান বিধিটি বাংলাদেশে আলুর যোগানের ক্ষেত্রে কতটা কাযর্কর তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch03-cq-002",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "উপযোগ, চাহিদা, যোগান ও ভারসাম্য",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch03",
+  "question_text": "শোনা যায়, ছবি তোলা যায়, ভিডিও করা ও দেখা যায় এবং রেকডর্ করা ও শোনা যায়। কিন্তু এ ফোনটিতে ফেসবুক ব্যবহার",
+  "question_number": 2,
+  "stimulus": "২. নয়নের মামা তাকে একটি মোবাইল ফোন উপহার দিল। এ ফোনটি পেয়ে নয়ন খুব খুশি। কারণ, এ ফোনে এফএম রেডিও শোনা যায়, ছবি তোলা যায়, ভিডিও করা ও দেখা যায় এবং রেকডর্ করা ও শোনা যায়। কিন্তু এ ফোনটিতে ফেসবুক ব্যবহার করা যায় না। তাই সে তার বাবার কাছে একটি 'স্যামসাং গ্যালাক্সি' মোবাইল সেট আবদার করল। কিন্তু নয়নের বাবার মাসিক আয় ৭ হাজার টাকা হওয়ায় তিনি এ সেটটি কিনে দিতে অস্বীকৃতি জানালেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাজার চাহিদা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভারসাম্য দাম ও ভারসাম্য পরিমাণ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কোন বিষয়টির অনুপস্থিতির কারণে নয়নের 'স্যামসাং গ্যালাক্সি' মোবাইল সেট কেনার আকাঙ্ক্ষা চাহিদা বহিভূর্ত? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কোনো আকাঙ্ক্ষা চাহিদা বলে গণ্য হওয়ার জন্য উক্ত বিষয়টিই কি একমাত্র শতর্? মতের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch03-cq-003",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "উপযোগ, চাহিদা, যোগান ও ভারসাম্য",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch03",
+  "question_text": "দ্রব্যের একক মোট উপযোগ (টাকায়) প্রান্ত্মিক উপযোগ (টাকায়)",
+  "question_number": 3,
+  "stimulus": "৩. কোনো ভোক্তার একটি উপযোগ সূচি পযাের্লাচনার মাধ্যমে মোট উপযোগ ও প্রান্ত্মিক উপযোগের মধ্যে পাথর্ক্য নিণর্য় করা যায়। দ্রব্যের একক মোট উপযোগ (টাকায়) প্রান্ত্মিক উপযোগ (টাকায়) ১ম ৫.০০ ৫.০০ ২য় ৯.০০ ৪.০০ ৩য় ১২.০০ ৩.০০ ৪থর্ ১২.০০ ০.০০ ৫ম ৯.০০ - ৩.০০ আলোচ্য সূচিতে দেখা যায়, দ্রব্যের এককগুলো থেকে প্রাপ্ত উপযোগের সমষ্টি হলো মোট উপযোগ, আর অতিরিক্ত এক এককের উপযোগ হলো প্রান্ত্মিক উপযোগ। মোট উপযোগ ক্রমহ্রাসমান হারে বাড়ে, কারণ প্রান্ত্মিক উপযোগ ক্রমান্বয়ে কমে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সাধারণ অথের্ উপযোগ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অর্থনীতির ভাষায় ক্রমহ্রাসমান প্রান্ত্মিক উপযোগ বিধি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উপরের সূচির সাহায্যে রেখাচিত্রে বিধিটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তুমি কি মনে কর উক্ত বিধি সবের্ক্ষত্রে প্রযোজ্য? মতের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch03-cq-004",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "উপযোগ, চাহিদা, যোগান ও ভারসাম্য",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch03",
+  "question_text": "টাকা দিয়ে আরও একটি কমলালেবু কিনলেন। এভাবে তিনি পযার্য়ক্রমে ৬ টাকা, ৫ টাকা ও ৪ টাকায় যথাক্রমে ৩য়, ৪থর্ ও",
+  "question_number": 4,
+  "stimulus": "৪. জনাব শফিক উদ্দীনের কমলা খাওয়ার ইচ্ছে হলে তিনি প্রথমে ৮ টাকা দিয়ে একটি কমলালেবু কিনলেন। পরবতীের্ত তিনি ৭ টাকা দিয়ে আরও একটি কমলালেবু কিনলেন। এভাবে তিনি পযার্য়ক্রমে ৬ টাকা, ৫ টাকা ও ৪ টাকায় যথাক্রমে ৩য়, ৪থর্ ও ৫ম কমলালেবু ক্রয় করলেন। ১ম কমলালেবুটি খাওয়ার পর তার উপযোগ কিছুটা কমে গিয়েছিল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অর্থনীতিতে ভোগ বলতে কী বোঝায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মোট উপযোগ ও প্রান্ত্মিক উপযোগের মধ্যে ২টি পাথর্ক্য লিখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জনাব শফিক উদ্দীনের আচরণের মধ্য দিয়ে অর্থনীতির যে গুরম্নত্বপূণর্ বিধিটি প্রকাশিত হয়েছে তা রেখাচিত্রের সাহায্যে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত বিধিটি যে শতর্গুলো মেনে চলে তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

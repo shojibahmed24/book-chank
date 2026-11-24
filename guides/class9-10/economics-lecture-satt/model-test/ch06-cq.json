@@ -1,0 +1,242 @@
+[
+ {
+  "id": "economics-lec-mt-ch06-cq-001",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 6,
+  "chapter_number": 6,
+  "chapter_name": "জাতীয় আয় ও এর পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch06",
+  "question_text": "তাকে বুঝিয়ে বলে যে উৎপাদনের ৪টি উপকরণের আয় একত্রে করেই মোট আয় নিণর্য় করা সম্ভব।",
+  "question_number": 1,
+  "stimulus": "১. দশম শ্রেণির ছাত্রী শিলা তার বন্ধু শুদ্ধকে বলে, সে বুঝতে পারে না কীভাবে দেশের মোট আয় হিসাব করা সম্ভব হয়। শুদ্ধ তাকে বুঝিয়ে বলে যে উৎপাদনের ৪টি উপকরণের আয় একত্রে করেই মোট আয় নিণর্য় করা সম্ভব।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "GDP কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মাধ্যমিক দ্রব্য বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শুদ্ধ জাতীয় আয় হিসাবের যে পদ্ধতির কথা বলে সেটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত পদ্ধতি ছাড়া জাতীয় আয় পরিমাপের অন্য কোনো পদ্ধতি আছে কি? যদি থাকে তাহলে সেগুলো আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch06-cq-002",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 6,
+  "chapter_number": 6,
+  "chapter_name": "জাতীয় আয় ও এর পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch06",
+  "question_text": "দুটি থেকে প্রতিবছরই তিনি অনেক লাভ করেন। অবশ্য তিনি বেশিরভাগ সময়ই লন্ডনে থাকেন। সেখানে তিনি বাংলাদেশি",
+  "question_number": 2,
+  "stimulus": "২. জনাব হাবিবুর রহমান বাংলাদেশের বিশিষ্ট শিল্পপতি। ঢাকায় তার একটি গামের্ন্ট ও একটি সিমেন্ট ফ্যাক্টরি আছে। এ প্রতিষ্ঠান দুটি থেকে প্রতিবছরই তিনি অনেক লাভ করেন। অবশ্য তিনি বেশিরভাগ সময়ই লন্ডনে থাকেন। সেখানে তিনি বাংলাদেশি খাবারের একটি রেস্টুরেন্ট দিয়েছেন। সেখান থেকেও তিনি প্রচুর পরিমাণে লাভবান হন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জনপ্রতি বাষির্ক আয়কে কী বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশের অর্থনীতিতে কৃষিখাত অত্যন্ত্ম গুরম্নত্বপূণর্ কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জনাব হাবিবুর রহমানের আয়ের কোন অংশ বাংলাদেশের মোট দেশজ উৎপাদের অন্ত্মভুর্ক্ত? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বাংলাদেশের মোট জাতীয় আয় বৃদ্ধিতে জনাব হাবিবুর রহমানের কোনোরূপ ভূমিকা আছে কি? তোমার মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch06-cq-003",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 6,
+  "chapter_number": 6,
+  "chapter_name": "জাতীয় আয় ও এর পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch06",
+  "question_text": "কম পরিমাণ আয় হিসাব করা হয়।",
+  "question_number": 3,
+  "stimulus": "৩. ঘটনা-১: শাকিল আহমেদ বাংলাদেশের অর্থনীতির এমন একটি খাতের সাথে সংশিস্নষ্ট যে খাত থেকে প্রকৃত আয়ের তুলনায় কম পরিমাণ আয় হিসাব করা হয়। ঘটনা-২:আলতাফ চৌধুরী বাংলাদেশের একজন বিশিষ্ট শিল্পপতি। তিনি দুটি গামের্ন্টস ফ্যাক্টরির মালিক। তার প্রতিষ্ঠান দুটিতে বহু লোক কাজ করে জীবিকা নিবার্হ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "NNP-এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মূলধন মোট দেশজ উৎপাদের একটি গুরম্নত্বপূণর্ নিধার্রক কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শাকিল আহমেদ বাংলাদেশের অর্থনীতির কোন খাতের সাথে সংশিস্নষ্ট—ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আলতাফ চৌধুরীর মতো শিল্পপতিদের অবদান কেমন? পাঠ্যবইয়ে আলোচিত শিল্প খাতের আলোকে আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch06-cq-004",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 6,
+  "chapter_number": 6,
+  "chapter_name": "জাতীয় আয় ও এর পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch06",
+  "question_text": "টাকা ও ৭,২৮,০০,০০০ টাকা। এই বছরে রাষ্ট্র দুটির মোট জনসংখ্যা যথাক্রমে ১,৫৫,০০০ জন ও ১,৬০,০০০ জন।",
+  "question_number": 4,
+  "stimulus": "৪. মনে কর, 'X' ও 'Y' দুটি প্রতিবেশী রাষ্ট্র। ২০১৪ সালে রাষ্ট্র দুটির মোট দেশজ উৎপাদ বা জিডিপি যথাক্রমে ৭,৯০,৫০,০০০ টাকা ও ৭,২৮,০০,০০০ টাকা। এই বছরে রাষ্ট্র দুটির মোট জনসংখ্যা যথাক্রমে ১,৫৫,০০০ জন ও ১,৬০,০০০ জন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "GNI-এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোনো দেশের অথৈর্নতিক অবস্থা জানতে মাথাপিছু জিডিপি জানা প্রয়োজন কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'X' ও 'Y' রাষ্ট্রের মাথাপিছু জিডিপি নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'X' ও 'Y' রাষ্ট্রের মধ্যে কোন রাষ্ট্রটি অথৈর্নতিকভাবে উন্নত বলে তুমি মনে কর উত্তরের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

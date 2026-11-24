@@ -1,0 +1,482 @@
+[
+ {
+  "id": "economics-lec-mt-ssc2027-model-2-cq-001",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-2",
+  "question_text": "হিসেবে তা পৃথিবীর অন্যান্য দেশের তুলনায় অনেক কম। আমাদের দেশের এ জাতীয় ভূমিকে পাঁচ ভাগে ভাগ করা যায়।",
+  "question_number": 1,
+  "stimulus": "১. বাংলাদেশের অর্থনীতির একটি গুরম্নত্বপূণর্ প্রাকৃতিক সম্পদ দেশের মোট ভূখে-র ১৭ ভাগ থেকে পাওয়া যায়। শতকরা হিসেবে তা পৃথিবীর অন্যান্য দেশের তুলনায় অনেক কম। আমাদের দেশের এ জাতীয় ভূমিকে পাঁচ ভাগে ভাগ করা যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দেশের কোথায় খনিজ তেল অনুসন্ধানের কাজ চালানো হচ্ছে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশের কোন বিদ্যুৎ উৎপাদন কেন্দ্রগুলোতে জ্বালানি হিসেবে খনিজ তেল ব্যবহৃত হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বাংলাদেশের কোন অথৈর্নতিক সম্পদ নিদেির্শত হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত সম্পদের বিস্ত্মরণ পাঠ্যপুস্ত্মকের আলোকে আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-2-cq-002",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-2",
+  "question_text": "স্বনামধন্য একজন অর্থনীতিবিদের বক্তব্য শুনে সে বাজারে দ্রব্যের দাম নিধার্রণ সম্পকের্ স্পষ্ট ধারণা পেল। অর্থনীতিবিদ",
+  "question_number": 2,
+  "stimulus": "২. তাহ্‌সিন অর্থনীতি সমিতির একজন সদস্য। সে প্রায়ই বিভিন্ন সেমিনারে অংশগ্রহণ করে। তেমনি একটি সেমিনারে দেশের স্বনামধন্য একজন অর্থনীতিবিদের বক্তব্য শুনে সে বাজারে দ্রব্যের দাম নিধার্রণ সম্পকের্ স্পষ্ট ধারণা পেল। অর্থনীতিবিদ বলেছেন, কোনো দ্রব্যের চাহিদার তুলনায় তার যোগান বেশি হলে দাম হয় নিম্নমুখী; বিপরীত অবস্থায় চাহিদা হয় ঊধ্বর্মুখী। প্রকৃতপÿে এ দুই শক্তির পারস্পরিক প্রভাব যখন সমান হয় তখন ভারসাম্য দাম নিধাির্রত হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অর্থনীতিতে চাহিদা হতে হলে কয়টি শতর্ পূরণ করতে হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাজার চাহিদা বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত দ্রব্যের দাম কম-বেশি হলে তার চাহিদা ও যোগানের উপর কী প্রভাব পড়ে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সেমিনারে বিশিষ্ট অর্থনীতিবিদ যে ভারসাম্যের কথা বলেছেন তা রেখাচিত্রের সাহায্যে ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-2-cq-003",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-2",
+  "question_text": "ক. প্রান্ত্মিক উপযোগ কাকে বলে?",
+  "question_number": 3,
+  "stimulus": "৩. নিচের চিত্রটি দেখে প্রশ্নগুলোর উত্তর দাও : Y S D A R P `ª‡e¨i `vg (UvKv) C S D O E M H X Pvwn`v I †hvMv‡bi cwigvY (KzB›Uvj)",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রান্ত্মিক উপযোগ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভোগের পরিমাণ বাড়ার সাথে সাথে মোট উপযোগ ক্রমহ্রাসমান হারে বাড়ে কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে অর্থনীতির কোন ধারণা ব্যক্ত হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রটি উক্ত ধারণা সাপেÿে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-2-cq-004",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-2",
+  "question_text": "কিনে এনে সেই কাঠ দিয়ে শহরে বিশাল ফানির্চারের দোকান দিয়েছেন তিনি। প্রায় ২০ জন কমীর্ তার দোকানে কাজ করছে।",
+  "question_number": 4,
+  "stimulus": "৪. ব্যবসায়ী আদনান সাহেব কাঠের ব্যবসা করেই নিজের অবস্থান পরিবতর্ন করতে সÿম হয়েছেন। প্রত্যন্ত্ম এলাকা থেকে কাঠ কিনে এনে সেই কাঠ দিয়ে শহরে বিশাল ফানির্চারের দোকান দিয়েছেন তিনি। প্রায় ২০ জন কমীর্ তার দোকানে কাজ করছে। বন-জঙ্গল থেকে কিনে আনা কাঠ দিয়ে কমীর্রা সুন্দর সুন্দর আসবাবপত্র তৈরি করছে, যার চাহিদা দিন দিন বৃদ্ধি পাচ্ছে। সম্প্রতি নিজ দোকানে তৈরিকৃত আসবাবপত্রের একটি প্রদশর্নী করেছেন তিনি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভূমি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উৎপাদন বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ব্যবসায়ী আদনান সাহেবের কাজে উৎপাদন প্রক্রিয়ার কোন দিকগুলো লÿণীয়? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ব্যবসায়ী আদনান সাহেবকে একজন সফল সংগঠক বলা যায় কি? যুক্তিসহ মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-2-cq-005",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-2",
+  "question_text": "এলাকায় আর পাঁচ-সাতটি মুরগির ফামর্ চালু হওয়ায় তিনি আগের মতো লাভবান হচ্ছেন না। এজন্য তিনি মুরগির ফামর্",
+  "question_number": 5,
+  "stimulus": "৫. হাকিম শেখের একটি মুরগির ফামর্ রয়েছে। প্রায় দশ বছর ধরে তিনি মুরগির ফামির্ট পরিচালনা করে আসছেন। কিন্তু সম্প্রতি এলাকায় আর পাঁচ-সাতটি মুরগির ফামর্ চালু হওয়ায় তিনি আগের মতো লাভবান হচ্ছেন না। এজন্য তিনি মুরগির ফামর্ উঠিয়ে দিয়ে গরম্ন-ছাগলের ফামর্ দিতে চাচ্ছেন। কারণ এলাকায় গরম্ন-ছাগলের মাত্র একটি ফামর্ রয়েছে। কিন্তু টাকা-পয়সা পযার্প্ত না হওয়ায় তিনি নতুন ব্যবসায় শুরম্ন করার সাহস পাচ্ছেন না।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশে জাতীয় আয় গণনার দায়িত্বে নিয়োজিত প্রতিষ্ঠানটির নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জাতীয় আয় গণনার মূলধনী লাভ-ÿতির প্রভাব শূন্য কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হাকিম শেখের নতুন ব্যবসায় শুরম্ন করার সিদ্ধান্ত্মটি জিডিপি-এর কোন নিধার্রকটিকে নিদের্শ করে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মূলধনের অভাবে হাকিম শেখের নতুন ব্যবসায় শুরম্নর ÿেত্রে সৃষ্ট প্রতিবন্ধকতা কি জিডিপির ÿেত্রে কোনোরূপ প্রভাব ফেলে? উত্তরের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-2-cq-006",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-2",
+  "question_text": "দ্রব্যগুলোর বাজার দর নিম্নরূপ—",
+  "question_number": 6,
+  "stimulus": "৬. \"ক\" দেশে এক বছরে ১ লÿ কুইন্টাল ধান, ২০ হাজার কুইন্টাল পাট, ১ লÿটি পোশাক ও ১ লÿটি সাবান উৎপাদিত দ্রব্যগুলোর বাজার দর নিম্নরূপ— ধান প্রতি কুইন্টাল ১ হাজার টাকা, পাট প্রতি কুইন্টাল ১ হাজার টাকা, পোশাক প্রতিটি ১ হাজার টাকা।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "CCA-এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিট জাতীয় উৎপাদন বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত তথ্যের ভিত্তিতে কীভাবে \"ক\" দেশটির মোট দেশজ উৎপাদ নিরূপণ করা যায়? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত কোন দ্রব্যগুলোর খাত বাংলাদেশের অর্থনীতিতে অধিকতর ভূমিকা রাখে? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-2-cq-007",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-2",
+  "question_text": "তোলা। এজন্য তিনি গ্রামের বন্ধু জমির কৃষকের দুটি আম বাগান দাবি করেন। বিনিময়ে তিনি জমিরকে শহরের একটি বাড়ি",
+  "question_number": 7,
+  "stimulus": "৭. শিল্পপতি আনিসুর রহমানের অনেক দিনের প্রত্যাশা গ্রামের সবুজ প্রকৃতির এক খ-জমিতে একটি আবাসন প্রকল্প গড়ে তোলা। এজন্য তিনি গ্রামের বন্ধু জমির কৃষকের দুটি আম বাগান দাবি করেন। বিনিময়ে তিনি জমিরকে শহরের একটি বাড়ি প্রদান করার প্রতিশ্রম্নতি দেন। কৃষক জমিরের বাড়িটি প্রয়োজন থাকায় মূল্য গত ব্যাপক পাথর্ক্য থাকা সত্ত্বেও অসন্তুষ্টচিত্তে শহরের বাড়িটির বিনিময়ে তিনি আমবাগান দুটি বন্ধুকে ছেড়ে দেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধাতব মুদ্রা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কাগজি নোট বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে লেনদেনের কোন মাধ্যমটির ইঙ্গিত দেওয়া হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জমির কৃষকের প্রত্যাশা পূরণে অথর্ কাযর্কর ভূমিকা পালন করতে সÿম-তুমি কি বক্তব্যটি সমথর্ন কর? যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-2-cq-008",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-2",
+  "question_text": "এক জেলায় সড়ক নিমাের্ণ সরকারের ব্যয় বরাদ্দ নিয়ে পযাের্লাচনা করছিলেন। তার অভিজ্ঞতা বলছে, এ সড়কটি নিমাের্ণ ব্যয়",
+  "question_number": 8,
+  "stimulus": "৮. বাংলাদেশ সরকারের সড়ক ও জনপথ অধিদপ্তরের এক উচ্চপদে জনাব 'A' কমর্রত। তিনি সম্প্রতি দেশের দÿিণাঞ্চলের এক জেলায় সড়ক নিমাের্ণ সরকারের ব্যয় বরাদ্দ নিয়ে পযাের্লাচনা করছিলেন। তার অভিজ্ঞতা বলছে, এ সড়কটি নিমাের্ণ ব্যয় আরও বাড়বে। মূলত বাংলাদেশের মতো উন্নয়নকামী দেশে আয়-ব্যয়ের সামঞ্জস্য রেখে সঠিক পরিকল্পনা করা অত্যন্ত্ম জরম্নরি। জনাব 'A' মনে করেন এ লÿ্যে কর আদায় যথাযথ হওয়া উচিত। তিনি নিজেও যথাসময়ে কর প্রদান করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন জাতীয় দ্রব্যের ওপর আমদানি শুল্ক ধাযর্ করা হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভূমি রাজস্ব কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে কিসের ধারণা প্রতিফলিত হয়েছে? পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জনাব 'A' সরকারের আয়ে ভূমিকা রাখেন—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

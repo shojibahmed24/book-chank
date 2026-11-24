@@ -1,0 +1,242 @@
+[
+ {
+  "id": "economics-lec-mt-ch10-cq-001",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "বাংলাদেশ সরকারের অর্থব্যবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch10",
+  "question_text": "নিচে একটি কাল্পনিক বাজেট দেওয়া হলো (অথর্ বছর ২০০৭-০৮)",
+  "question_number": 1,
+  "stimulus": "১. নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও: নিচে একটি কাল্পনিক বাজেট দেওয়া হলো (অথর্ বছর ২০০৭-০৮) আয় (হাজার কোটি টাকা) ব্যয় (হাজার কোটি টাকা) রাজস্ব প্রাপ্তি ৫০ প্রতিরÿা ৫০ কর রাজস্ব ৪০ বেঃ প্রশাসন ৪০ কর ব্যতীত প্রাপ্তি ২০ শিÿা ২০ বৈদেশিক অনুদান ৩০ অপ্রত্যাশিত ব্যায় ৩০",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাজেট কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চলতি বাজেট ও মূলধন বাজেটের মধ্যে পাথর্ক্য কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ছকে বণির্ত বাজেটটি কী ধরনের বাজেট? বিশেস্নষণ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ছকে উলিস্নখিত বাজেটটির কোন খাতে অধিক পরিমাণ ব্যয় বরাদ্দ করা উচিত বলে তুমি মনে কর?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-10.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch10-cq-002",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "বাংলাদেশ সরকারের অর্থব্যবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch10",
+  "question_text": "মোট আয় ১,৮২,৯৫৪ কোটি টাকা",
+  "question_number": 2,
+  "stimulus": "২. ২০১৪-১৫ অথর্বছরে বাংলাদেশ সরকারের প্রস্ত্মাবিত জাতীয় বাজেটে সরকারি আয় ও ব্যয়ের পরিমাণ নিচে দেওয়া হলো: মোট আয় ১,৮২,৯৫৪ কোটি টাকা মোট ব্যয় ২,৫০,৫০৬ কোটি টাকা আয়ের খাতসমূহ: এনবিআর কর রাজস্ব ১,৪৯,৭২০ কোটি টাকা এনবিআর বহিভূর্ত কর রাজস্ব ৫,৫৭২ কোটি টাকা করবহিভূর্ত রাজস্ব ২৭,৬৬২ কোটি টাকা",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাজেট কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশ সরকারের ব্যয়ের প্রধান খাতটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের তথ্যের আলোকে বাংলাদেশের জাতীয় বাজেটটির প্রকৃতি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সারণিতে প্রদশির্ত আয় ও ব্যয়ের ব্যবধান পূরণে করণীয় কী হতে পারে? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-10.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch10-cq-003",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "বাংলাদেশ সরকারের অর্থব্যবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch10",
+  "question_text": "মানুষের বাসায় কাজ করে এবং সরকার থেকে মাসিক বিধবা ভাতা দিয়ে কোনোমতে দুবেলা খাওয়ার ব্যবস্থা করেন। তার",
+  "question_number": 3,
+  "stimulus": "৩. জমিরন বিবির স্বামী মারা গেছেন ৮৮-'র বন্যার সময়। তারপর থেকে তিনি এক ছেলেকে নিয়ে অতি কষ্টে দিনাতিপাত করেন। মানুষের বাসায় কাজ করে এবং সরকার থেকে মাসিক বিধবা ভাতা দিয়ে কোনোমতে দুবেলা খাওয়ার ব্যবস্থা করেন। তার ছেলে সোহেল কাজ করার উপযোগী হলেও কাজ পায় না। অবশেষে স্থানীয় চেয়ারম্যান তাকে একটি সরকারি প্রকল্পে কাজের বন্দোবস্ত্ম করে দেন। এখন সোহেল তার মাকে নিয়ে ভালোই আছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "VAT-এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আবগারি শুল্ক আরোপ করা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বাংলাদেশ সরকারের কোন কোন ব্যয়ের খাতের চিত্র ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত খাতদ্বয়ে ব্যয়ের মাধ্যমে বাংলাদেশ একটি কল্যাণমূলক রাষ্ট্র হিসেবে প্রতিষ্ঠা পেতে পারে—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-10.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch10-cq-004",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "বাংলাদেশ সরকারের অর্থব্যবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch10",
+  "question_text": "এক নজরে বাজেট ২০১৩-১৪",
+  "question_number": 4,
+  "stimulus": "৪. নিচের ছকটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও: এক নজরে বাজেট ২০১৩-১৪ বিবরণ ব্যয়ের পরিমাণ (কোটি টাকা) মোট আয় ১,৭৪,১২৯ মোট ব্যয় ২,২২,৪৯১ বাষির্ক উন্নয়ন কমর্সূচি ৬৫,৮৭০ জিডিপির শতকরা হার -৪.১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "২০১১-১২ অথর্বছরে প্রতিরÿা খাতে ব্যয় কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশে অনুন্নয়নমূলক খাতে সরকারি ব্যয় হ্রাস করা উচিত কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বাজেটের সাথে ২০১৬-১৭ অথর্বছরের বাজেটের পরিবতের্নর ধারা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বাংলাদেশের প্রেÿাপটে উক্ত ছকের বাজেটটি কি মঙ্গলজনক? মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-10.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

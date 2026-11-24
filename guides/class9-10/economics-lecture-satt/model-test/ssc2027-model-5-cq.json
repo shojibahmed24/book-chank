@@ -1,0 +1,482 @@
+[
+ {
+  "id": "economics-lec-mt-ssc2027-model-5-cq-001",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-5",
+  "question_text": "বাকি ১০,০০০ টাকা ব্যাংকে জমা রাখেন। এভাবে তার পাঁচ লাখ টাকা জমা হলে তিনি একটি গরম্নর খামার প্রতিষ্ঠার উদ্যোগ",
+  "question_number": 1,
+  "stimulus": "১. লিমন সাহেব মাসে ২৫,০০০ টাকা আয় করেন। তিনি তার আয় থেকে পারিবারিক চাহিদাসহ আনুষঙ্গিক চাহিদা পূরণ করে বাকি ১০,০০০ টাকা ব্যাংকে জমা রাখেন। এভাবে তার পাঁচ লাখ টাকা জমা হলে তিনি একটি গরম্নর খামার প্রতিষ্ঠার উদ্যোগ নেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অবাধলভ্য দ্রব্য কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সুযোগ ব্যয় অর্থনীতিতে কেমন ভূমিকা পালন করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের লিমন সাহেবের সঞ্চয় প্রবণতা কীসের ওপর নিভর্র করে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "লিমন সাহেবের উদ্যোগটি অর্থনীতিতে অবদান রাখে কি? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-5-cq-002",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-5",
+  "question_text": "দ্রব্যের একক মোট উপযোগ (টাকায়) প্রান্ত্মিক উপযোগ (টাকায়)",
+  "question_number": 2,
+  "stimulus": "২. কোনো ভোক্তার একটি উপযোগ সূচি পযাের্লাচনার মাধ্যমে মোট উপযোগ ও প্রান্ত্মিক উপযোগের মধ্যে পাথর্ক্য নিণর্য় করা যায় । দ্রব্যের একক মোট উপযোগ (টাকায়) প্রান্ত্মিক উপযোগ (টাকায়) ১ম ৫.০০ ৫.০০ ২য় ৯.০০ ৪.০০ ৩য় ১২.০০ ৩.০০ ৪থর্ ১২.০০ ০.০০ ৫ম ৯.০০ - ৩.০০ আলোচ্য সূচিতে দেখা যায়, দ্রব্যের এককগুলো থেকে প্রাপ্ত উপযোগের সমষ্টি হলো মোট উপযোগ, আর অতিরিক্ত এক এককের উপযোগ হলো প্রান্ত্মিক উপযোগ। মোট উপযোগ ক্রমহ্রাসমান হারে বাড়ে, কারণ প্রান্ত্মিক উপযোগ ক্রমান্বয়ে কমে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সাধারণ অথের্ উপযোগ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অর্থনীতির ভাষায় ক্রমহ্রাসমান প্রািন্ত্মক উপযোগ বিধি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উপরের সূচির সাহায্যে রেখাচিত্রে বিধিটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তুমি কি মনে কর উক্ত বিধি সবের্ক্ষত্রে প্রযোজ্য? মতের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-5-cq-003",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-5",
+  "question_text": "ঋতুতে গম উৎপাদন করেন। ধান ও গম উৎপাদনের মাঝখানে সবজি চাষ করেন। সব উৎপাদনের জন্য উপকরণ হিসাবে",
+  "question_number": 3,
+  "stimulus": "৩. রমজান আলী একজন কৃষক। তার ৩ বিঘা কৃষিজমি রয়েছে। এই জমিতে রমজান এক ঋতুতে ধান উৎপাদন করেন, অন্য ঋতুতে গম উৎপাদন করেন। ধান ও গম উৎপাদনের মাঝখানে সবজি চাষ করেন। সব উৎপাদনের জন্য উপকরণ হিসাবে বীজ, সার, পানি, কীটনাশক, ধান-গম কাটা ও মাড়াই যন্ত্র ব্যবহার করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উৎপাদন বলতে মূলত কী বোঝায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রূপগত উৎপাদন বলতে কী বোঝ? উদাহরণ দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রমজান আলীর উৎপাদন উপযোগের দিক থেকে কোন ধরনের? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "রমজান আলীকে একজন উৎপাদক না সংগঠক বলবে? মন্ত্মব্য কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-5-cq-004",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-5",
+  "question_text": "কম পরিমাণ আয় হিসাব করা হয়।",
+  "question_number": 4,
+  "stimulus": "৪. ঘটনা-১ :শাকিল আহমেদ বাংলাদেশের অর্থনীতির এমন একটি খাতের সাথে সংশিস্নষ্ট যে খাত থেকে প্রকৃত আয়ের তুলনায় কম পরিমাণ আয় হিসাব করা হয়। ঘটনা-২ :আলতাফ চৌধুরী বাংলাদেশের একজন বিশিষ্ট শিল্পপতি। তিনি দুটি গামের্ন্টস ফ্যাক্টরির মালিক। তার প্রতিষ্ঠান দুটিতে বহু লোক কাজ করে জীবিকা নিবার্হ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "NNP-এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মূলধন মোট দেশজ উৎপাদের একটি গুরম্নত্বপূণর্ নিধার্রক কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শাকিল আহমেদ বাংলাদেশের অর্থনীতির কোন খাতের সাথে সংশিস্নষ্ট—ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আলতাফ চৌধুরীর মতো শিল্পপতিদের অবদান কেমন? পাঠ্যবইয়ে আলোচিত শিল্প খাতের আলোকে আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-5-cq-005",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-5",
+  "question_text": "কোনোটি দরিদ্রদের জন্য বিশেষ সেবা প্রদান করে থাকে। এরকম একটি ব্যাংক থেকে দরিদ্র মহিলা জামিলা বিনা জামানতে",
+  "question_number": 5,
+  "stimulus": "৫. বাংলাদেশে বিভিন্ন প্রকার ব্যাংক রয়েছে। এগুলোর মধ্যে কোনোটি শিল্পপ্রতিষ্ঠানে ও ব্যবসার জন্য ঋণ প্রদান করে। আবার কোনোটি দরিদ্রদের জন্য বিশেষ সেবা প্রদান করে থাকে। এরকম একটি ব্যাংক থেকে দরিদ্র মহিলা জামিলা বিনা জামানতে ১০ হাজার টাকা ঋণ উত্তোলন করে। এ ঋণের টাকা দিয়ে সে সাবলম্বী হওয়ার সাথে সাথে ঋণও পরিশোধ করতে থাকে। সাপ্তাহিক কিস্ত্মির মাধ্যমে টাকা পরিশোধের সুযোগ পাওয়ায় তার মধ্যে কমর্স্পৃহা বেড়ে যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশের কেন্দ্রীয় ব্যাংকের নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাণিজ্যিক ব্যাংকগুলো ঋণ দিয়ে থাকে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জামিলা বেগম উদ্দীপকে ইঙ্গিতকৃত ব্যাংক থেকে কী ধরনের সুবিধা পেয়ে থাকে—ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দরিদ্র মানুষের আত্মকমর্সংস্থান সৃষ্টিতে এ ব্যাংকের ভূমিকা বিেশস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-5-cq-006",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-5",
+  "question_text": "প্রতিষ্ঠানের নিকট আবেদন করেন। তিনি ঋণ পরিশোধ করতে সÿম, জমি বন্ধক রাখতে আগ্রহী। কিন্তু তার সরবরাহকৃত",
+  "question_number": 6,
+  "stimulus": "৬. অরম্নণিমা ব্যাংক বৈধ অনুমোদন নিয়ে ২০০৮ সালে গঠিত হয়। বতর্মানে একজন ব্যক্তি ১.৫০ লÿ টাকা ঋণের জন্য এই প্রতিষ্ঠানের নিকট আবেদন করেন। তিনি ঋণ পরিশোধ করতে সÿম, জমি বন্ধক রাখতে আগ্রহী। কিন্তু তার সরবরাহকৃত তথ্য ও দলিল পত্রাদির মধ্যে যথেষ্ট অমিল রয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন ব্যাংকসমূহের জনশক্তি উন্নয়নে কেন্দ্রীয় ব্যাংক প্রশিÿক প্রদান করে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশের ব্যাংক ব্যবস্থার তিন ধরনের ব্যাংক রয়েছে—ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অরম্নণিমা ব্যাংক প্রতিষ্ঠায় কোন প্রতিষ্ঠানের অনুমোদন দরকার হয়েছিল? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ব্যক্তিটিকে বন্ধকি ঋণ দেয়া অরম্নণিমা ব্যাংকের পÿে যুক্তিসংগত হবে কিনা তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-5-cq-007",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-5",
+  "question_text": "করেন। মানুষের বাসায় কাজ করে এবং সরকার থেকে মাসিক বিধবা ভাতা দিয়ে কোনোমতে দুবেলা খাওয়ার ব্যবস্থা করেন।",
+  "question_number": 7,
+  "stimulus": "৭. জমিরন বিবির স্বামী মারা গেছেন ৮৮-'র বন্যার সময়। তারপর থেকে তিনি এক ছেলেকে নিয়ে অতি কষ্টে দিনাতিপাত করেন। মানুষের বাসায় কাজ করে এবং সরকার থেকে মাসিক বিধবা ভাতা দিয়ে কোনোমতে দুবেলা খাওয়ার ব্যবস্থা করেন। তার ছেলে সোহেল কাজ করার উপযোগী হলেও কাজ পায় না। অবশেষে স্থানীয় চেয়ারম্যান তাকে একটি সরকারি প্রকল্পে কাজের বন্দোবস্ত্ম করে দেন। এখন সোহেল তার মাকে নিয়ে ভালোই আছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "VAT-এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আবগারি শুল্ক আরোপ করা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বাংলাদেশ সরকারের কোন কোন ব্যয়ের খাতের চিত্র ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত খাতদ্বয়ে ব্যয়ের মাধ্যমে বাংলাদেশ একটি কল্যাণমূলক রাষ্ট্র হিসেবে প্রতিষ্ঠা পেতে পারে—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ssc2027-model-5-cq-008",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-model-5",
+  "question_text": "হতে ৪৮৫০ টাকা রাখে। অতিরিক্ত ১৫০ টাকা নেওয়ার কারণ জিজ্ঞাসা করলে দোকানি জানায় এটি সরকারের প্রাপ্য টাকা।",
+  "question_number": 8,
+  "stimulus": "৮. সোহান বসুন্ধরা শপিংমল থেকে একটি প্যান্ট ক্রয় করে। প্যান্টের মূল্য ৪৭০০ টাকা লেখা থাকলেও দোকানি তার নিকট হতে ৪৮৫০ টাকা রাখে। অতিরিক্ত ১৫০ টাকা নেওয়ার কারণ জিজ্ঞাসা করলে দোকানি জানায় এটি সরকারের প্রাপ্য টাকা। বিষয়টি বাড়িতে এসে বাবাকে জানালে তার বাবা বলেন যে, তিনিও তার বেতনের একটি অংশ সরকারকে প্রদান করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "VAT কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশ সরকার শিÿা ও প্রযুক্তি খাতে প্রচুর অথর্ ব্যয় করে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের সোহানের প্রদত্ত বাড়তি অথর্ কী ধরনের কর ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে বাংলাদেশ সরকারের আয়ের বৃহৎ দুটি খাতের উলেস্নখ আছে—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/Model-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

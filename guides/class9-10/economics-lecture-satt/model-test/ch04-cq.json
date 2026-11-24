@@ -1,0 +1,242 @@
+[
+ {
+  "id": "economics-lec-mt-ch04-cq-001",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "উৎপাদন ও সংগঠন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch04",
+  "question_text": "যথাক্রমে ১১ জন, ১২ জন এবং ১৫ জন শ্রমিক নিয়োগ করে ৮০০, ১০০০ এবং ১২০০ কুইন্টাল গম উৎপাদন করেন। এভাবে",
+  "question_number": 1,
+  "stimulus": "১. কমল বাবু তার এক বিঘা জমিতে ১০ জন শ্রমিক নিয়োগ করে ৬০০ কুইন্টাল গম উৎপাদন করেন। পরবতীর্ তিন বছর তিনি যথাক্রমে ১১ জন, ১২ জন এবং ১৫ জন শ্রমিক নিয়োগ করে ৮০০, ১০০০ এবং ১২০০ কুইন্টাল গম উৎপাদন করেন। এভাবে তিনি দিন দিন অথৈর্নতিক সাফল্য অজর্ন করে সামনে এগিয়ে যাচ্ছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "এক শ্রম ঘণ্টা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভার অপর্ণ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের তথ্যের আলোকে কমল বাবুর বাষির্ক প্রান্ত্মিক উৎপাদন নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে বণির্ত তথ্য গড় উৎপাদন ও প্রান্ত্মিক উৎপাদনের মধ্যে সম্পকর্ নিণর্য় করে কি? যুক্তিসহ মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch04-cq-002",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "উৎপাদন ও সংগঠন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch04",
+  "question_text": "বছর তিনি একা শ্রম দিয়ে ৫০ কেজি গম উৎপাদন করেন। পরে বেশি উৎপাদনের জন্য তিনি এক একক করে শ্রম বৃদ্ধি করেন।",
+  "question_number": 2,
+  "stimulus": "২. ধনিয়াভাঙা গ্রামের খ্যাতিমান কৃষক আজগর আলী তার এক একর জমিতে চার বছর ধরে গম উৎপাদন করে আসছেন। প্রথম বছর তিনি একা শ্রম দিয়ে ৫০ কেজি গম উৎপাদন করেন। পরে বেশি উৎপাদনের জন্য তিনি এক একক করে শ্রম বৃদ্ধি করেন। তার গম উৎপাদনের তালিকাটি নিম্নরূপ : শ্রমের একক গমের মোট উৎপাদন গমের মোট উৎপাদন মূল্য প্রান্ত্মিক উৎপাদন টাকা গড় উৎপাদন টাকা ১ ৫০ কেজি ৫০০ ৫০০ ৫০০ ২ ৬০ ৩ ৮০ ৪ ১০০",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মোট উৎপাদন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রান্ত্মিক উৎপাদন বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ছকের খালিঘরগুলো নিয়মানুযায়ী পূরণ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে ইঙ্গিতকৃত বিধিটি বাংলাদেশের প্রেÿিতে প্রযোজ্য কি? মতামত বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch04-cq-003",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "উৎপাদন ও সংগঠন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch04",
+  "question_text": "ঠিকই, কিন্তু তার মেধার যথাথর্ ব্যবহার করতে পেরেছেন। বিভিন্ন প্রচারমাধ্যম থেকে সৌরচুলিস্ন তৈরির পদ্ধতি জেনে প্রকৃতি",
+  "question_number": 3,
+  "stimulus": "৩. মাসুদ বিজ্ঞান বিষয়ে পড়াশোনা করে এসএসসি পাস করেছেন। অথৈর্নতিক সংকটে পড়ে তিনি পড়াশোনা শেষ করতে পারেননি ঠিকই, কিন্তু তার মেধার যথাথর্ ব্যবহার করতে পেরেছেন। বিভিন্ন প্রচারমাধ্যম থেকে সৌরচুলিস্ন তৈরির পদ্ধতি জেনে প্রকৃতি প্রদত্ত সৌরশক্তি ব্যবহার করে নিজ বাড়িতে সৌরবিদ্যুৎ উৎপাদন করছেন তিনি। তার উৎপাদিত বিদ্যুৎ প্রতিবেশীদের সরবরাহ করে নিজের অথৈর্নতিক সমস্যা মোকাবিলা করছেন তিনি। তাকে দেখে গ্রামের অনেকেই অনুপ্রাণিত হয়েছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উৎপাদনের উপকরণ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "স্থানগত উৎপাদন বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মাসুদের কাজে ব্যবহৃত সৌরশক্তি উৎপাদনের কোন ধরনের উপকরণ? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তুমি কি মনে কর শুধু এই উপকরণটিই বিপস্নব মাসুদের উৎপাদন কাজের জন্য যথেষ্ট? উত্তরের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch04-cq-004",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "উৎপাদন ও সংগঠন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch04",
+  "question_text": "তা বহন করার পরও মালিকপÿ দিন-রাত পরিশ্রম করছেন। তবে তারা কোনো বেতন নিচ্ছেন না। মুনাফার অংশটিকে তারা",
+  "question_number": 4,
+  "stimulus": "৪. কোকোলা ফুড প্রোডাক্টসের বিজ্ঞাপনী সংস্থাটি প্রতিষ্ঠানের সাবির্ক ব্যয়ভার বহন করে। প্রতিটি বিজ্ঞাপন তৈরিতে যে খরচ হয় তা বহন করার পরও মালিকপÿ দিন-রাত পরিশ্রম করছেন। তবে তারা কোনো বেতন নিচ্ছেন না। মুনাফার অংশটিকে তারা নিজেদের আয় বলে ধরে নিচ্ছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংগঠন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ব্যবসায়ের সাংগঠনিক কাঠামো তৈরি জরম্নরি কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে কোন ধরনের ব্যয়ের ইঙ্গিত দেওয়া হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তুমি কি মনে কর উদ্দীপকে ইঙ্গিতকৃত ব্যয়ই একটি উৎপাদনকারী সংস্থার প্রধান ব্যয়? মতের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

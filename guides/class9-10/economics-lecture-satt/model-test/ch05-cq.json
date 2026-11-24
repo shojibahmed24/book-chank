@@ -1,0 +1,242 @@
+[
+ {
+  "id": "economics-lec-mt-ch05-cq-001",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "বাজার",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch05",
+  "question_text": "গেলে সুমী বেশি দাম দাবি করে। উপায় না থাকায় কলেজ কতৃর্পÿকে বেশি দামেই ফুল কিনতে হয়। কিন্তু 'B' শহরে অনেক",
+  "question_number": 1,
+  "stimulus": "১. সুমী 'A' শহরে ফুল সরবরাহ করে। শহরের একটি কলেজের নবীন বরণ অনুষ্ঠানে অনেক ফুলের প্রয়োজন হয়। ফুল কিনতে গেলে সুমী বেশি দাম দাবি করে। উপায় না থাকায় কলেজ কতৃর্পÿকে বেশি দামেই ফুল কিনতে হয়। কিন্তু 'B' শহরে অনেক ফুলের দোকান রয়েছে। ফলে সেখানে ক্রেতারা ফুলের গুণাগুণ ও দর কষাকষি করে ফুল কিনতে পারেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "একচেটিয়া বাজার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ফামর্ ও শিল্পের মধ্যে পাথর্ক্য কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুমীর ফুলের দোকান অর্থনীতিতে কোন ধরনের বাজারকে নিদের্শ করে—ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উভয় শহরের ফুলের বিক্রেতারা কী একই মুনাফা অজর্ন করবে? মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch05-cq-002",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "বাজার",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch05",
+  "question_text": "উত্তমরূপে ধোলাই করা হয়। এই বিজ্ঞাপনের মাধ্যমে চাকা ওয়াশিং পাউডারের বিক্রয় বৃদ্ধি পেয়েছে।",
+  "question_number": 2,
+  "stimulus": "২. স্কয়ার টয়লেট্রিজ লিমিটেড চাকা ওয়াশিং পাউডারের একটি চমৎকার বিজ্ঞাপন তৈরি করে। উক্ত বিজ্ঞাপনে ময়লা জামাকাপড় উত্তমরূপে ধোলাই করা হয়। এই বিজ্ঞাপনের মাধ্যমে চাকা ওয়াশিং পাউডারের বিক্রয় বৃদ্ধি পেয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'Monopoly' শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দ্রব্যের মূল্য নিধার্রণের উপায় ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে যে ধরনের বাজারের ইঙ্গিত রয়েছে তার ব্যাখ্যা দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষ লাইনটির মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch05-cq-003",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "বাজার",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch05",
+  "question_text": "প্রতিদিনই অল্প সময়ের মধ্যে তার সব সবজি বিক্রি হয়ে যায়। কোনো কোনো দিন চাহিদা বুঝে তিনি সবজির দাম বাড়িয়ে",
+  "question_number": 3,
+  "stimulus": "৩. শামীম মিয়া প্রতিদিন সকালে ঘুম থেকে উঠে বড় একটি ঝুড়িতে দুই-তিন পদের সবজি নিয়ে বাজারে বিক্রির জন্য যান। প্রতিদিনই অল্প সময়ের মধ্যে তার সব সবজি বিক্রি হয়ে যায়। কোনো কোনো দিন চাহিদা বুঝে তিনি সবজির দাম বাড়িয়ে দেন। তারপরও অতি দ্রম্নত সব সবজি বিক্রি হয়ে যায়। প্রায় দিনই তিনি আরও বেশি সবজি না আনতে পারায় আফসোস করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিল্প কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দীঘর্কালীন বাজার বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে কোন ধরনের বাজারের চিত্র ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শামীম মিয়া যদি দীঘর্কালীন বাজার ব্যবস্থার সাথে জড়িত থাকতেন তাহলে তাকে আর আফসোস করতে হতো না— পাঠ্যবইয়ের আলোকে মন্ত্মব্যটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch05-cq-004",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "বাজার",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch05",
+  "question_text": "করার কাজ শিখেছে। একটি ফামর্ স্থাপন করে মনিরামপুরের স্থানীয় কয়েকটি দোকানে সে এখন মোমের শোপিস সরবরাহ",
+  "question_number": 4,
+  "stimulus": "৪. তানিয়া সুলতানা মনিরামপুর মহিলা ডিগ্রি কলেজের একজন শিÿাথীর্। সে সম্প্রতি যশোর থেকে মোম দিয়ে শোপিস তৈরি করার কাজ শিখেছে। একটি ফামর্ স্থাপন করে মনিরামপুরের স্থানীয় কয়েকটি দোকানে সে এখন মোমের শোপিস সরবরাহ করে। এ থেকে সে প্রচুর লাভবান হচ্ছে। তার দেখাদেখি লুবনা হোসেন নামের আরেক শিÿাথীর্ও মোমের শোপিস বানাতে শুরম্ন করে। তানিয়া নিজের ব্যবসায় টিকিয়ে রাখতে তার বানানো শোপিসের দাম কমিয়ে দেয়। ফলে লুবনা হোসেনের শোপিসগুলো দোকানদাররা নিতে চাচ্ছে না। এজন্য লুবনা ব্যবসা বন্ধ করে দেয়ার কথা ভাবছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "একচেটিয়া কারবারির মূল লÿ্য কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একচেটিয়া বাজারে নতুন ফামর্ প্রবেশ করতে পারে না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে একচেটিয়া বাজারের কোন বৈশিষ্ট্যটির ইঙ্গিত পাওয়া যায়? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তানিয়া সুলতানার ফামির্টকে কি হিসেবে অভিহিত করা যায়? পাঠ্যবইয়ের আলোকে তোমার মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

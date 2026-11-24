@@ -1,0 +1,242 @@
+[
+ {
+  "id": "economics-lec-mt-ch07-cq-001",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "অর্থ ও ব্যাংক ব্যবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch07",
+  "question_text": "এজন্য তিনি গ্রামের বন্ধু জমির কৃষকের দুটি আম বাগান দাবি করেন। বিনিময়ে তিনি জমিরকে শহরের একটি বাড়ি প্রদান",
+  "question_number": 1,
+  "stimulus": "১. শিল্পপতি আনিসুর রহমানের অনেক দিনের প্রত্যাশা গ্রামের সবুজ প্রকৃতির এক খ- জমিতে একটি আবাসন প্রকল্প গড়ে তোলা। এজন্য তিনি গ্রামের বন্ধু জমির কৃষকের দুটি আম বাগান দাবি করেন। বিনিময়ে তিনি জমিরকে শহরের একটি বাড়ি প্রদান করার প্রতিশ্রম্নতি দেন। কৃষক জমিরের বাড়িটি প্রয়োজন থাকায় মূল্য গত ব্যাপক পাথর্ক্য থাকা সত্ত্বেও অসন্তুষ্টচিত্তে শহরের বাড়িটির বিনিময়ে তিনি আমবাগান দুটি বন্ধুকে ছেড়ে দেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধাতব মুদ্রা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কাগজি নোট বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে লেনদেনের কোন মাধ্যমটির ইঙ্গিত দেওয়া হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জমির কৃষকের প্রত্যাশা পূরণে অথর্ কাযর্কর ভূমিকা পালন করতে সÿম-তুমি কি বক্তব্যটি সমথর্ন কর? যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch07-cq-002",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "অর্থ ও ব্যাংক ব্যবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch07",
+  "question_text": "বাড়ির জমির দলিল বন্ধক রেখে ব্যবসায়িক প্রয়োজনে ঋণ গ্রহণ করলেন। মেয়াদপূতিের্ত তিনি সুদসহ ঋণের টাকা পরিশোধ",
+  "question_number": 2,
+  "stimulus": "২. শোভন অগ্রণী ব্যাংকের কতৃর্পÿের সাহায্যে তথ্য ও কাগজপত্র জমা দিয়ে ব্যাংক হিসাব খুললেন। শোভন বেশ কিছুদিন পর বাড়ির জমির দলিল বন্ধক রেখে ব্যবসায়িক প্রয়োজনে ঋণ গ্রহণ করলেন। মেয়াদপূতিের্ত তিনি সুদসহ ঋণের টাকা পরিশোধ করে দিলেন। ব্যাংকের সাথে লেনদেন করার সময় তিনি সততার নীতি মেনে চলেন। গ্রাহক হিসেবে শোভন অগ্রণী ব্যাংকের প্রতি যথাযথ দায়িত্ব পালন করায় ব্যাংকটির সাথে তার সুসম্পকর্ বজায় রয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ব্যাংক হিসাব খুলতে কার কার ছবির প্রয়োজন হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ব্যাংক তার আমানতকারীর নিদের্শ পালন করে—ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শোভন অগ্রণী ব্যাংকে কীভাবে হিসাব খোলেন? ধারাবাহিক কাযর্ক্রম বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শোভনের অগ্রণী ব্যাংকের প্রতি দায়িত্বপালন তুমি কীভাবে মূল্যায়ন করবে?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch07-cq-003",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "অর্থ ও ব্যাংক ব্যবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch07",
+  "question_text": "চাষ করে তারা আজ স্বাবলম্বী। তাদের বাগানে কাজ করে প্রতিবেশীরা নিজেদের অভাব পূরণ করছে। তবে জরিনা তাদের",
+  "question_number": 3,
+  "stimulus": "৩. জরিনা ও শামীম দম্পতি নিজেদের সম্পদ আর কমর্দÿতাকে কাজে লাগিয়ে সমাজে প্রতিষ্ঠিত হয়েছেন। নানাজাতের সবজির চাষ করে তারা আজ স্বাবলম্বী। তাদের বাগানে কাজ করে প্রতিবেশীরা নিজেদের অভাব পূরণ করছে। তবে জরিনা তাদের সম্পদ কিছুটা সঞ্চয় করতে চাচ্ছেন। কারণ তাদের ছেলেমেয়েদের ভবিষ্যৎ নিরাপত্তার জন্য কিছু সম্পদ রেখে দেয়া জরম্নরি বলে তিনি মনে করেন। তাই বাগানে উৎপাদিত পণ্য বিক্রি করে প্রতি মাসে জরিনা কিছু অথর্ জমা করে রাখেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিহিত অথর্ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে অথের্র কোন ধরনের কাজের ইঙ্গিত পাওয়া যায়? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অথের্র কাযার্বলি সম্পূণর্ভাবে উপস্থাপনে উদ্দীপকটি ব্যথর্—মন্ত্মব্যটি প্রতিষ্ঠা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "economics-lec-mt-ch07-cq-004",
+  "book_id": "class9-10-economics-lecture",
+  "subject": "অর্থনীতি",
+  "subject_slug": "economics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "অর্থ ও ব্যাংক ব্যবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ch07",
+  "question_text": "কোনোটি দরিদ্রদের জন্য বিশেষ সেবা প্রদান করে থাকে। এরকম একটি ব্যাংক থেকে দরিদ্র মহিলা জামিলা বিনা জামানতে",
+  "question_number": 4,
+  "stimulus": "৪. বাংলাদেশে বিভিন্ন প্রকার ব্যাংক রয়েছে। এগুলোর মধ্যে কোনোটি শিল্পপ্রতিষ্ঠানে ও ব্যবসার জন্য ঋণ প্রদান করে। আবার কোনোটি দরিদ্রদের জন্য বিশেষ সেবা প্রদান করে থাকে। এরকম একটি ব্যাংক থেকে দরিদ্র মহিলা জামিলা বিনা জামানতে ১০ হাজার টাকা ঋণ উত্তোলন করে। এ ঋণের টাকা দিয়ে সে সাবলম্বী হওয়ার সাথে সাথে ঋণও পরিশোধ করতে থাকে। সাপ্তাহিক কিস্ত্মির মাধ্যমে টাকা পরিশোধের সুযোগ পাওয়ায় তার মধ্যে কমর্স্পৃহা বেড়ে যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশের কেন্দ্রীয় ব্যাংকের নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাণিজ্যিক ব্যাংকগুলো ঋণ দিয়ে থাকে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জামিলা বেগম উদ্দীপকে ইঙ্গিতকৃত ব্যাংক থেকে কী ধরনের সুবিধা পেয়ে থাকে—ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দরিদ্র মানুষের আত্মকমর্সংস্থান সৃষ্টিতে এ ব্যাংকের ভূমিকা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": null,
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "মডেল টেস্ট — ছাপা উত্তর নেই; উত্তর-নির্দেশ (answer_pointer) দেখুন",
+  "guide_source": null,
+  "key_format": null,
+  "source_file": "4. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
