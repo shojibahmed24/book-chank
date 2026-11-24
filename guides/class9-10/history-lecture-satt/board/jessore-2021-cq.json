@@ -1,0 +1,62 @@
+[
+ {
+  "id": "history-lec-board-jessore-2021-cq-tpo-010",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2021",
+  "question_text": "দশম শ্রেণির ইতিহাস ক্লাসে শিÿক যুদ্ধবিধ্বস্ত্ম দেশ গঠনে কী কী কাযর্ক্রম গ্রহণ করা দাও। ৩ করে-",
+  "question_number": 10,
+  "stimulus": "দশম শ্রেণির ইতিহাস ক্লাসে শিÿক যুদ্ধবিধ্বস্ত্ম দেশ গঠনে কী কী কাযর্ক্রম গ্রহণ করা দাও। ৩ করে-",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. কত সালে শহিদ সোহরাওয়াদীর্ ইন্ত্মেকাল করেন? ১ খ. মহান মুক্তিযুদ্ধে প্রবাসী বাঙালিদের ভূমিকা বণর্না কর। ২ বৈষম্য করা হয়েছিল? বুঝিয়ে লেখ। ৩ গ. উদ্দীপকের নীতিমালার সাথে তোমার পাঠ্যবইয়ের যে বিষয়ের মিল পাওয়া ঘ. উক্ত বৈষম্যই কি বাঙালি স্বাধিকার আন্দোলনের একমাত্র কারণ? তোমার যায় তা ব্যাখ্যা কর। ৩",
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মুজিবনগর সরকারের অথর্মন্ত্রীর নাম কী ছিল?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বঙ্গবন্ধু বাংলাদেশকে কেমন দেখতে চেয়েছিল?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ছকে উলিস্নখিত প্রশ্ন (?) চিহ্নিত স্থানের উন্নয়নে সরকার কী কী পদÿেপ",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "তুমি কি মনে কর 'উক্ত নিবার্চনের তাৎপযর্ সুদূরপ্রসারী'? তোমার মতামত −",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "যশোর Board 2021 CQ (Test Paper Old)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source contains unconverted (raw Bijoy) runs — text kept as-is",
+  "guide_source": "decoded/ssc/history/Test paper old/1. HISTROY BQ. (21-24).uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/Test paper old/1. HISTROY BQ. (21-24).pdf",
+  "board_name": "যশোর",
+  "board_year": 2021,
+  "verified_visual": false
+ }
+]

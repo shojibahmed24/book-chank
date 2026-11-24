@@ -1,0 +1,62 @@
+[
+ {
+  "id": "history-lec-board-dhaka-2022-cq-tpo-004",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2022",
+  "question_text": "নিবাির্চতদের হাতে ÿমতা হস্ত্মান্ত্মর।",
+  "question_number": 4,
+  "stimulus": "নিবাির্চতদের হাতে ÿমতা হস্ত্মান্ত্মর।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. আওয়ামী মুসলিম লীগের প্রথম সভাপতি কে ছিলেন? ১ খ. 'আওয়ামী মুসলিম লীগ' গড়ে তোলা হয় কেন? ২ ঘ. \"উক্ত ঘটনাই উন্মোচন করে স্বাধীন রাষ্ট্র গঠনের চেতনার দ্বার।\"-",
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'চরমপত্র' কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "২৫শে মাচর্ রাতকে 'কালরাত্রি' বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ছকে প্রদশির্ত তথ্যসমূহ দ্বারা কোন ঐতিহাসিক ঘটনা প্রতিফলিত ব্যাখ্যা কর। ৩ হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'উক্ত ঘটনার ফলে এ দেশের জনগণ দেশকে শত্রম্নমুক্ত করতে সবোর্চ্চ বিশেস্নষণ কর। ৪ ত্যাগ স্বীকারে উদ্বুদ্ধ হয়'- বিশেস্নষণ কর। ৪ ১১ ৬ i. সবোর্চ্চ ১১ টি ভাগ। আইন। i. ii. ১৫৩টি ii. রাষ্ট্র অনুচ্ছেদ। পরিচালনার মূলনীতি।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "ঢাকা Board 2022 CQ (Test Paper Old)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source contains unconverted (raw Bijoy) runs — text kept as-is",
+  "guide_source": "decoded/ssc/history/Test paper old/1. HISTROY BQ. (21-24).uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/Test paper old/1. HISTROY BQ. (21-24).pdf",
+  "board_name": "ঢাকা",
+  "board_year": 2022,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "history-lec-board-dhaka-2025-cq-003",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2025",
+  "question_text": "দৃশ্যকল্প-১ : করিম জাতীয় জাদুঘরে গিয়ে প্রাচীন বাংলার একটি মানচিত্র",
+  "question_number": 3,
+  "stimulus": "দৃশ্যকল্প-১ : করিম জাতীয় জাদুঘরে গিয়ে প্রাচীন বাংলার একটি মানচিত্র",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "খ. তমদ্দুন মজলিশ কী? ব্যাখ্যা কর। ২",
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নীল বিদ্রোহ কী? ১ দেখতে পায়। করিমের বাবা বলে এই মানচিত্রে একটি উলে-খযোগ্য জনপদ",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ঈশ্বরচন্দ্র বিদ্যাসাগরকে কেন বাংলা সাহিত্যের জনক বলা হয়? ব্যাখ্যা রয়েছে, সেটি গঙ্গা-ভাগীরথীর পচ্বর্তীর থেকে মেঘনা নদীর মোহনা পযর্ন্@ কর। ২ বিস্@ৃত।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১ এ উলি-খিত মানচিত্রে প্রাচীন বাংলার কোন জনপদের নিদের্শ রয়েছে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দৃশ্যকল্প-২ এ যে জনপদের চিত্র ফুটে উঠেছে, তা ছিল প্রাচীন বাংলার সবচেয়ে সমৃদ্ধ জনপদ? বিশে-ষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "ঢাকা Board 2025 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2025.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2025.pdf",
+  "board_name": "ঢাকা",
+  "board_year": 2025,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "history-lec-board-mymensingh-2025-cq-001",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-mymensingh-2025",
+  "question_text": "তথ্য-১: প্রাচীন সমাধি, রাজার আদেশ, কৃষি উপকরণ। তথ্য-২: পযর্টকদের বিবরণ, পাণ্ডুলিপি,",
+  "question_number": 1,
+  "stimulus": "তথ্য-১: প্রাচীন সমাধি, রাজার আদেশ, কৃষি উপকরণ। তথ্য-২: পযর্টকদের বিবরণ, পাণ্ডুলিপি,",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "র্যাপসনের মতে ইতিহাস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ইতিহাসকে শিক্ষণীয় দপর্ণ বলা হয় কেন? ব্যাখ্যা কর। ২ চিত্র-১ চিত্র-২",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "তথ্য-১ এ ইতিহাসের কোন উপাদানকে ইঙ্গিত করে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তথ্য-১ ও তথ্য-২ এর সমন্বয়ে পচ্ণার্ঙ্গ ইতিহাস রচনা কী সম্ভব?",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "ময়মনসিংহ Board 2025 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no printed solution in source",
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2025.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2025.pdf",
+  "board_name": "ময়মনসিংহ",
+  "board_year": 2025,
+  "verified_visual": false
+ },
+ {
+  "id": "history-lec-board-mymensingh-2025-cq-004",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-mymensingh-2025",
+  "question_text": "ছক-১ ছক-২ ছক-২ মহাসামন্@ চালুক্য রাজকন্যাকে বিয়ে",
+  "question_number": 4,
+  "stimulus": "ছক-১ ছক-২ ছক-২ মহাসামন্@ চালুক্য রাজকন্যাকে বিয়ে",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পোড়ামাটির নীতি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মাৎস্যন্যায় ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ছক-১ নিদেির্শত ব্যক্তির রাজ্য বিস্@ার ব্যাখ্যা কর। ৩ তথ্যগুলো বাঙালিদেরকে স্বাধিকার অজের্নর জন্য অধিক উদ্বুদ্ধ করে?",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "ছক-২ নিদেির্শত ব্যক্তি শুধু একজন দক্ষ শাসকই নন যথেষ্ট বিশে-ষণ কর। ৪ পাণ্ডিত্যের অধিকারি ছিলেন- উত্তরে সপক্ষে তোমার মতামত দাও। ৪ ১০। মোহাম্মদ আলী জিন্নাহ বরকত",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "ময়মনসিংহ Board 2025 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no printed solution in source",
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2025.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2025.pdf",
+  "board_name": "ময়মনসিংহ",
+  "board_year": 2025,
+  "verified_visual": false
+ },
+ {
+  "id": "history-lec-board-mymensingh-2025-cq-005",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-mymensingh-2025",
+  "question_text": "হিন্দু-মুসলমান সম্্রুীতি স্থাপন লিয়াকত আলী খান রফিক খাজা নাজিম উদ্দিন বাংলা সাহিত্যের বিকাশ (১৪৯৩-১৫১৯) ? সাধন করেন পযর্",
+  "question_number": 5,
+  "stimulus": "হিন্দু-মুসলমান সম্্রুীতি স্থাপন লিয়াকত আলী খান রফিক খাজা নাজিম উদ্দিন বাংলা সাহিত্যের বিকাশ (১৪৯৩-১৫১৯) ? সাধন করেন পযর্ন্@ রাজত্ব ছক-১ ঙ্বষ্ণব ধমর্ মতের প্রবতর্ন হয়",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. 'বুলগাকপুর' শব্দটির অথর্ কী? ১ একলাখি মসজিদ কী? ১ খ. 'বারোভূঁইয়া' বলতে কী বুঝায়? ২ কেন বাংলার মধ্যযুগের মুঘল শাসনামলকে স্বণর্যুগ বলা হয়? ২ গ. উদ্দীপকে (?) চিহ্নিত স্থানে মধ্যযুগে বাংলার কোন শাসককে নিদের্শ করে? ক্ষমতা সু-দৃঢ়করণের লক্ষ্যে তার গৃহীত পদক্ষেপগুলো তুলে ধর। ৩ প্রেরণার উৎস\"- উক্তিটি মচ্ল্যায়ন কর। ৪ ঘ. \"উক্ত শাসকের উদারতা দেশের জন্য মঙ্গল বয়ে এনেছিল,\"- উক্তিটির যথাথর্তা নিরূপণ কর। ৪ আগ্রহ প্রকাশ করে কিন্তু তার বোন বিদেশি পণ্য কিনতে পছন্দ করে। এক তুমি কি মনে কর তথ্য-২ এ নিদেির্শত বিষয়ে মধ্যযুগের বাংলায়",
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তমদ্দুন মজলিশ কী?",
+    "marks": 1
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "ময়মনসিংহ Board 2025 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2025.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2025.pdf",
+  "board_name": "ময়মনসিংহ",
+  "board_year": 2025,
+  "verified_visual": false
+ },
+ {
+  "id": "history-lec-board-mymensingh-2025-cq-007",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-mymensingh-2025",
+  "question_text": "সন্ধি-চুক্তি।",
+  "question_number": 7,
+  "stimulus": "সন্ধি-চুক্তি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. সংবিধান কী? ১ আবার কনেকে পালকিতে চড়িয়ে নিজের বাড়ি নিয়ে আসবে। বাকি অতিথিরা গ. দৃশ্যকল্প-১ এ পাকিস্@ান আমলে পচ্বর্ বাংলার কোন ঘটনা প্রতিফলিত নে․কাযোগে যাতায়াত করবে। হয়েছে? ব্যাখ্যা কর। ৩ অষ্টসাহস্রিকা প্রজ্ঞাপারমিতা কী? ১ সুগম করে\"- উত্তরের সপক্ষে তোমার যুক্তি দাও। ৪ ৯। প্রশাসনিক পদ ক অঞ্চল খ অঞ্চল ব্যাখ্যা কর। ২ কমর্কতার্ ৯৩% ৭% দেব বংশের রাজারা কোন ধমের্র অনুসারী ছিলেন? ১ মিল রয়েছে? ব্যাখ্যা কর। ৩ খ. প্রাচীন গ্রিক সভ্যতায় নগর রাষ্ট্রগুলোর মধ্যে সে․হাদর্পচ্ণর্ মনোভাব উপায় না দেখে কবির সামরিক বাহিনীর কাছে ক্ষমতা হস্@ান্@র করতে বাধ্য হয়। কীভাবে গড়ে উঠেছিল? ২ দৃশ্যকল্প-২ :দখলদার বাহিনী থেকে মুক্ত হতে ক অঞ্চলের জনগণ অস্ত্র হাতে ১৯৫৪ সালের নিবার্চনে যুক্তফ্রন্ট বিজয় লাভ করে কেন? ২ 'এনফিল্ড রাইফেল' ঙ্সন্যদের বিদ্রোহী করে তুলল কেন? ২ গ. ভাষা আন্দোলনে ছক-১ এর ব্যক্তিবগের্র ভূমিকা ব্যাখ্যা কর। ৩ মীরার অনুভূতির সাথে ব্রিটিশ আমলের বাংলার কোন আন্দোলনের তথ্য-১ এ নিদেির্শত সমাজের নারীদের অবস্থা বণর্না কর। ৩ মচ্ল ধারণার মিল রয়েছে? ব্যাখ্যা কর। ৩ ঘ. \"চিত্র-২ এ নিদেির্শত সভ্যতাটিতে আইনের ক্ষেত্রে উৎকষর্ সাধিত কমিটি গঠিত হয়। কমিটি যুদ্ধের পরিকল্পনা ঙ্তরি করা, মানুষের নিরাপত্তাবিধান হয়েছিল\"- বিশে-ষণ কর। ৪ ও বহিঃবিশ্বের সাথে যোগাযোগ রক্ষা করছিল। \"দৃশ্য-২ এর রবিনের দেশের ঙ্বশিষ্ট্য বিদ্যমান থাকার কারণে অভ্যন্@রীণ ১ম ৫০০ কোটি রূপি ১১৩ কোটি রূপি ও বহিবাির্ণজ্যে প্রাচীন বাংলা অত্যন্@ সমৃদ্ধ ছিল\"- যুক্তি দাও। ৪ ২য় ১৩৫০ কোটি রূপি ৯৫০ কোটি রূপি কণর্সুবণর্ ত্রিবেনীতে শেষ জীবন ব্যয় খ. তাসখন্দ চুক্তি কেন সম্ুাদিত হয়েছিল? ২ ৬ষ্ঠ শতকের শেষাংশে ক্ষমতারোহন অন্য ধমের্র পৃষ্ঠপোষকতা গ. ছক-১ এর খ অঞ্চলটির সাথে তৎকালীন পাকিস্@ানের কোন অঞ্চলের তুমি কি মনে কর পাকিস্@ান আমলে ছক-১ এর চেয়ে ছক-২ এর জব্বার খ্রিষ্টাব্দ সালাম করেন ছক-২ \"ছক-২ এ উলি-খিত ব্যক্তিবগের্র অবদানই এদেশে সকল আন্দোলনের ১১। মীরা ও তার বোন কেনাকাটা করতে শপিংমলে যায়। মীরা দেশীয় পণ্য কিনতে ৬। তথ্য-১: ব্রাহ্মণ, ক্ষত্রিয়, ঙ্বশ্য, শুদ্র পযাের্য় মীরা তার বোনকে রাজি করায় দেশীয় পণ্য কিনতে। তথ্য-২: ইউসুফ-জুলেখা, রসুল বিজয়, ঙ্চতন্য-ভাগবত ক. বাংলা চুক্তি কী? ১ \"মীরার দেশীয় পণ্য কেনার মানসিকতা তৎকালীন বাংলার অথর্‣নতিক সুলতানি আমলের শাসকদের ভূমিকা ছিল অন্যতম? বিশে-ষণ কর। ৪ অগ্রগতিকে ত্বরান্বিত করেছিল\" - তোমার মতামত দাও। ৪",
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফরায়েজি আন্দোলন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ঙ্দ্বত শাসন বলতে কী বোঝায়? ২ মতামত দাও।",
+    "marks": 4
+   },
+   {
+    "part": "গ",
+    "text": "সমাজ সংস্‥ারক হিসেবে চিত্র-১ এ নিদেির্শত ব্যক্তির ভূমিকা ব্যাখ্যা",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "ময়মনসিংহ Board 2025 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2025.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2025.pdf",
+  "board_name": "ময়মনসিংহ",
+  "board_year": 2025,
+  "verified_visual": false
+ }
+]

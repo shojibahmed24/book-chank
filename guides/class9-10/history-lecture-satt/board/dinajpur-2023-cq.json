@@ -1,0 +1,122 @@
+[
+ {
+  "id": "history-lec-board-dinajpur-2023-cq-003",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023",
+  "question_text": "ছক 'ক' ছক 'খ' ব্যাখ্যা কর। ৩ নাব্য ময়নামতি যাদুঘর ৯। ১৯৫২ - ভাষা আন্দোলন ১৯৫৪ - যুক্তফ্রন্ট  ১৯৬৬ পটুয়াখালী ১৯৭১ -",
+  "question_number": 3,
+  "stimulus": "ছক 'ক' ছক 'খ' ব্যাখ্যা কর। ৩ নাব্য ময়নামতি যাদুঘর ৯। ১৯৫২ - ভাষা আন্দোলন ১৯৫৪ - যুক্তফ্রন্ট  ১৯৬৬ পটুয়াখালী ১৯৭১ -",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন প্রস্@াব অনুসারে পাকিস্@ান রাষ্ট্রের জন্ম হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জনপদ বলতে কী বুঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ছক 'ক' এর অঞ্চলগুলো যে জনপদের সাথে সম্ঙ্ৃক্ত তা",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের ছক 'খ' এর ঐতিহাসিক স্থানগুলো কি পুন্ড্র জনপদের সাথে",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "দিনাজপুর Board 2023 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no printed solution in source",
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2023.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2023.pdf",
+  "board_name": "দিনাজপুর",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "history-lec-board-dinajpur-2023-cq-004",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023",
+  "question_text": "পটুয়া কামরুল হাসান  লাল সবুজ সাত  জাতির আশা-আকাগুক্ষার প্রতীক",
+  "question_number": 4,
+  "stimulus": "পটুয়া কামরুল হাসান  লাল সবুজ সাত  জাতির আশা-আকাগুক্ষার প্রতীক",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশের সাংবিধানিক নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অসহযোগ আন্দোলন বলতে কী বুঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্রটি কোন ঐতিহাসিক ঘটনার ইঙ্গিত বহন করে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত ঘটনাটি আমাদের স্বাধীনতা আন্দোলনের পথকে সুগম করে- ব্যাখ্যা কর।",
+    "marks": 3
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "দিনাজপুর Board 2023 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no printed solution in source",
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2023.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2023.pdf",
+  "board_name": "দিনাজপুর",
+  "board_year": 2023,
+  "verified_visual": false
+ }
+]

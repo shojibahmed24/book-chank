@@ -1,0 +1,107 @@
+[
+ {
+  "id": "history-lec-board-jessore-2025-cq-003",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2025",
+  "question_text": "উত্তর কোরিয়া ও দক্ষিণ কোরিয়া দুটি পাশ্বর্বতীর্ ও পৃথক রাষ্ট্র। উত্তর কোরিয়া চিত্র-০১ চিত্র-০২ ঙ্স্বরাচারী ও সামরিক শক্তি",
+  "question_number": 3,
+  "stimulus": "উত্তর কোরিয়া ও দক্ষিণ কোরিয়া দুটি পাশ্বর্বতীর্ ও পৃথক রাষ্ট্র। উত্তর কোরিয়া চিত্র-০১ চিত্র-০২ ঙ্স্বরাচারী ও সামরিক শক্তিতে বেশি গুরূত্ব প্রদান করলেও দক্ষিণ কোরিয়া জ্ঞান-",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "ক. ছিয়াত্তরের মন্বন্@র বাংলা কোন সালে অনুষ্ঠিত হয়? ১",
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মুঘলযুগের \"কাটরা\" মচ্লত কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রোমকে ত্রয়ীশাসনের নগরী বলার কারণ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলি-খিত উত্তর কোরিয়া গ্রিক সভ্যতার কোন নগর রাষ্ট্রের এবং পরবতীের্ত প্রতিদ্বন্দ্বিতায় টিকতে না পেরে এদেশ ত্যাগ করে। সাথে সামঞ্জস্যপচ্ণর্? ব্যাখ্যা কর। ৩ দৃশ্যপট-২ : \"খ\" নামক কোম্ুানিটি ১৬০০ সালে এদেশে আসে এবং বিভিন্ন",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলি-খিত রাষ্ট্র দুটির সাথে সম্ুকর্যুক্ত গ্রিক সভ্যতার নগর ছলচাতুরির মধ্য দিয়ে ১৭৫৭ সালে এদেশের শাসনক্ষমতা হস্@গত করে। রাষ্ট্র দুটির তুলনামচ্লক পাথর্ক্য লিপিবদ্ধ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "যশোর Board 2025 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2025.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2025.pdf",
+  "board_name": "যশোর",
+  "board_year": 2025,
+  "verified_visual": false
+ },
+ {
+  "id": "history-lec-board-jessore-2025-cq-004",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2025",
+  "question_text": "ক খ",
+  "question_number": 4,
+  "stimulus": "ক খ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "গ. উদ্দীপকের \"ক\" এ উলি-খিত অঞ্চলগুলো কোন জনপদের অন্@ভুর্ক্ত ছিল?",
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কাকে গে․ড়রাজ বলা হয়?",
+    "marks": 1
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "যশোর Board 2025 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "decoded/ssc/history/5. Board Question 23-25/History-2025.uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/5. Board Question 23-25/History-2025.pdf",
+  "board_name": "যশোর",
+  "board_year": 2025,
+  "verified_visual": false
+ }
+]

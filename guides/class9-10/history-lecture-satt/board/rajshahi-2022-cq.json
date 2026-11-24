@@ -1,0 +1,52 @@
+[
+ {
+  "id": "history-lec-board-rajshahi-2022-cq-tpo-001",
+  "book_id": "class9-10-history-lecture",
+  "subject": "ইতিহাস",
+  "subject_slug": "history",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2022",
+  "question_text": "বসতবাড়ি পোড়ানো ১। ড. কুদরত-ই-খুদা শিÿা কমিশন ২।ছোট-বড় সড়ক সেতু ধ্বংস ২।৯৭টি নতুন সড়ক সেতু তৈরি পৃথক করেছে'− বিশেস্নষণ কর",
+  "question_number": 1,
+  "stimulus": "বসতবাড়ি পোড়ানো ১। ড. কুদরত-ই-খুদা শিÿা কমিশন ২।ছোট-বড় সড়ক সেতু ধ্বংস ২।৯৭টি নতুন সড়ক সেতু তৈরি পৃথক করেছে'− বিশেস্নষণ কর। ৪ ৩। প্রথম পাঁচসালা পরিকল্পনা ৬ ছক-১ ছক-২",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": "খ. ভারতছাড় আন্দোলন গ. ছক-ক মুক্তিযুদ্ধপরবতীর্ কোন ঘটনাকে নিদের্শ করে? ব্যাখ্যা কর। ৩ ঘ. \"ছক-খ-এর কাযর্ক্রমসমূহ দ্বারাই 'ছক-ক'-এর পরিস্থিতির মোকাবিলা করে দেশকে পুনঃনিমার্ণ সম্ভব হয়েছে\"− বক্তব্যটি বিশেস্নষণ কর। ৪ ৩১",
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অসহযোগ আন্দোলন",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বাংলাদেশের সংবিধান দুষ্পরিবতর্নীয় কেন?",
+    "marks": 2
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "রাজশাহী Board 2022 CQ (Test Paper Old)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source contains unconverted (raw Bijoy) runs — text kept as-is",
+  "guide_source": "decoded/ssc/history/Test paper old/1. HISTROY BQ. (21-24).uni.txt",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/3. SSC Humanities/SSC History/Test paper old/1. HISTROY BQ. (21-24).pdf",
+  "board_name": "রাজশাহী",
+  "board_year": 2022,
+  "verified_visual": false
+ }
+]
