@@ -1,0 +1,21 @@
+# 2. MCQ .doc/.docx files that are NOT duplicates of their PDF twins
+# (doc-twin check 2026-11-24). The PDF twin is only the answer sheet;
+# the .doc holds the full MCQ question bank (~1,925 questions, matching
+# the 1,925 sidecar keys). Needs a DEDICATED chunking pass — do NOT
+# re-skip as duplicates. Pilot parse (ch1): only 92/178 rows, options
+# mis-paired, 0 inline keys — parser tuning required first.
+# Decoded doc texts: work/bgs/twin-check/decoded-docs/ + keep/
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-1.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-10.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-11.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-12.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-13.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-14.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-15.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-2.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-4.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-5.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-6.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-7.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-8.doc
+1. SSC Common Subjects/SSC BGS/2. MCQ/chapter-9.doc
