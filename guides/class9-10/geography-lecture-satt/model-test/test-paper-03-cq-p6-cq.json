@@ -1,0 +1,662 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": null,
+  "question_number": 1,
+  "stimulus": null,
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিলা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'কয়লা' কে কেন জৈব শিলা বলা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে'Y' অংশটির ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'X' ও 'Z' এর তুলনামূলক আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "সমুদ্রস্রোত উৎস",
+  "question_number": 2,
+  "stimulus": "সমুদ্রস্রোত উৎস\nX নিরÿীয় এলাকা\nY মেরম্ন এলাকা",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বারিম-ল কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উপসাগর বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'Y' দ্বারা কোন ধরনের সমুদ্রস্রোত বোঝানো হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'X' দ্বারা যে সমুদ্রস্রোত নিদের্শ করা হয়েছে তার প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "D ",
+  "question_number": 3,
+  "stimulus": "D \nB \nসূযর্\nA \nC \nচিত্র : সৌরজগৎ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গ্যালাক্সি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তথ্য আদান-প্রদান ও অন্যান্য কাজে যে উপগ্রহ ব্যবহার করা হয় তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে'A' চিহ্নিত গ্রহটির বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রে'C' ও'D' গ্রহ দুটির মধ্যে কোন গ্রহটি আদশর্ গ্রহ? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-003"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "T ",
+  "question_number": 4,
+  "stimulus": "T \nS \nR \nQ \nP \nভূপৃষ্ঠ\nবায়ুম-লের স্ত্মরবিন্যাস",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বৃষ্টিপাত কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পাহাড়ি অঞ্চলে কোন ধরনের বৃষ্টিপাত হয় ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে'Q' চিহ্নিত স্ত্মরটির বৈশিষ্ট্য বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে'P' ও 'S' চিহ্নিত স্ত্মর দুটির মধ্যে কোনটি জীবকুলের জন্য\nঅধিক গুরম্নত্বপূণর্? তোমার মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-004"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "দীপুর বাবা কিছু জমির মালিক। দীপু দেখল তার বাবা কিছু কাগজ দেখছেন।",
+  "question_number": 5,
+  "stimulus": "দীপুর বাবা কিছু জমির মালিক। দীপু দেখল তার বাবা কিছু কাগজ দেখছেন।\nদীপু তার বাবার কাছে জানতে চাইলে তিনি বলেন জমির পরিমাপ জানার জন্য\nএ ধরনের নক্সা বা মানচিত্র ব্যবহার করা হয়। যেমন তোমার শ্রেণিকÿে\nশিÿক পাঠদানের জন্য কিছু মানচিত্র ব্যবহার করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 6,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মানচিত্র কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "GPS এর সুবিধা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে দীপুর শ্রেণিকÿে যে মানচিত্র ব্যবহার করা হয়েছে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের যে রেখাটি সময় নিণের্য়র জন্য উলেস্নখ করা হয়েছে তার",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-005"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "রাকিব ঢাকায় পরিবার নিয়ে বসবাস করে। তার বন্ধু ঢাকা থেকে পূবের্ এমন এক দৃশ্যকল্প-২ : কানাডা প্রবাসী ফারম্নক সম্প্রতি দেশে এসেছেন। তিনি ঘুরতে বের",
+  "question_number": 6,
+  "stimulus": "রাকিব ঢাকায় পরিবার নিয়ে বসবাস করে। তার বন্ধু ঢাকা থেকে পূবের্ এমন এক দৃশ্যকল্প-২ : কানাডা প্রবাসী ফারম্নক সম্প্রতি দেশে এসেছেন। তিনি ঘুরতে বের\nস্থানে বাস করে যার দ্রাঘিমার পাথর্ক্য ৩০। ঢাকার স্থানীয় সময় ভোর ৬টা। হয়ে দেখতে পেলেন রাস্ত্মায় ময়লা-আবজর্নার স্ত্মূপ, যানবাহনের অপ্রয়োজনীয় হনর্\nরাকিব তার ছেলেকে বলল, সময় নিণের্য়র জন্য দ্রাঘিমারেখার ধারণা থাকা এবং যানজট। নগর আইনের নীতি অনুসরণ না করে যেখানে সেখানে গড়ে ওঠা\nপ্রয়োজন। বাড়িঘর ও কলকারখানার দৃশ্য দেখে তিনি উদ্বিগ্ন হলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 7,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নিরÿরেখা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আন্ত্মজাির্তক তারিখ রেখা আঁকা-বাঁকা কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রাকিবের বন্ধু যে স্থানে বসবাস করে তার স্থানীয় সময় কত? গাণিতিক",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "দৃশ্যকল্প-২ এ বণির্ত সমস্যা সমাধানে করণীয় কী তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-006"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "১০ম শ্রেণির ছাত্র ফাহিম তার খালার বাড়ি বন্দর নগরী চট্টগ্রামে বেড়াতে B ধরলা মানস সরোবর",
+  "question_number": 7,
+  "stimulus": "১০ম শ্রেণির ছাত্র ফাহিম তার খালার বাড়ি বন্দর নগরী চট্টগ্রামে বেড়াতে B ধরলা মানস সরোবর\nএলো। ফাহিম লÿ করল, বন্দরের অদূরে অনেকগুলো পণ্যবাহী জাহাজ C কাসালং লুসাই পাহাড়\nদাঁড়িয়ে একটা নিদির্ষ্ট সময়ে যখন পানি ফুলে উঠতে লাগল তখন জাহাজগুলো",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 8,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমুদ্রস্রোত কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন স্রোতের কারণে শীতকালে সমুদ্রে বরফ জমতে পারে না? ব্যাখ্যা",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "ফাহিমের দেখা পানি ফুলে ওঠার কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে বণির্ত \"পানির এরূপ ফুলে ওঠা মানবজীবনে ও বাণিজ্যের\nˆeKvi Z½ e†w«¬ \nÿেত্রে ব্যাপক প্রভাব পরিলÿিত হয়\" উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-007"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "সুমি বিকেলে দাদুর সাথে বারান্দায় বসে গল্প করছিল। সুমি দাদুকে বলল, দাদু",
+  "question_number": 8,
+  "stimulus": "সুমি বিকেলে দাদুর সাথে বারান্দায় বসে গল্প করছিল। সুমি দাদুকে বলল, দাদু\ncwiGek `ƒlY \nএখনতো শীতকাল তারপরও গরম লাগছে। দাদু বললেন, বায়ুম-লে এখন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 3,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কাযর্কর ভূমি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জন্মহার নিণের্য়র সবাির্ধক ব্যবহৃত পদ্ধতি কোনটি? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'W' চিহ্নিত স্থানে কোন বিষয়টি সম্পকের্ ইঙ্গিত দেওয়া হয়েছে? ব্যাখ্যা",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত বিষয়টি নিয়ন্ত্রণের কী কী পদÿেপ নেওয়া যেতে পারে তা যুক্তিসহ",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-008"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "দৃশ্যকল্প-১ : রনি মাকির্ন যুক্তরাষ্ট্রের একটা অঞ্চলে বেড়াতে গিয়ে দেখতে",
+  "question_number": 9,
+  "stimulus": "দৃশ্যকল্প-১ : রনি মাকির্ন যুক্তরাষ্ট্রের একটা অঞ্চলে বেড়াতে গিয়ে দেখতে\nপেলেন সেখানে চলচ্চিত্রের নিমার্ণ কাজ চলছে। নিমার্তাদের ব্যবহৃত আধুনিক\nপ্রযুক্তি ও কলাকৌশল তাকে মুগ্ধ করে। এখানে নিমির্ত চলচ্চিত্র পৃথিবী বিখ্যাত।\nবিএএফ শাহীন কলেজ, শমশেরনগর, মৌলভীবাজার\nবিষয় কোড : 1 1 0\nসময়২ ঘণ্টা ৩০ মিনিট ভূগোল ও পরিবেশ সৃজনশীল প্রশ্ন পূণর্মান৭০\n[দ্রষ্টব্য : ডান পাশের সংখ্যা প্রশ্নের পূণর্মান জ্ঞাপক। প্রদত্ত উদ্দীপকগুলো মনোযোগ সহকারে পড় এবং সংশিস্নষ্ট প্রশ্নগুলোর উত্তর দাও। যেকোনোসাতটিপ্রশ্নের উত্তর দিতে হবে।]",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মানব বসতি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "যমুনা নদীর তীরে কোন ধরনের বসতি গড়ে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১ এ বণির্ত নগরটি কোন ধরনের? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দীপুর বাবা যে নক্সা দেখছিলেন মানবজীবনে তার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-009"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "নদী উপনদী উৎস",
+  "question_number": 10,
+  "stimulus": "নদী উপনদী উৎস\nব্যবহার বিশেস্নষণ কর। ৪ A পাগলা গঙ্গোত্রী হিমবাহ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 8,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আবহাওয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "স্থায়ী বসবাসের জন্য সমভূমি আদশর্ কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিহ্নিত নদীটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ও চিহ্নিত নদীদ্বয়ের মধ্যে কোনটির বাংলাদেশের অথৈর্নতিক\n'B' 'C'\nকর।",
+    "marks": 2
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-010"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p6",
+  "question_text": "K‡wl f „wg nËvm",
+  "question_number": 11,
+  "stimulus": "K‡wl f „wg nËvm",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বায়ুপ্রবাহ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গজর্নশীল চলিস্নশা বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে কোন গ্যাসটির কথা বলা হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে শেষ উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p6-cq-011"
+ }
+]

@@ -1,0 +1,302 @@
+[
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p10",
+  "question_text": "দিয়া তার বন্ধুদের সাথে এমন এক বিষয় নিয়ে আলোচনা করছিল যা",
+  "question_number": 1,
+  "stimulus": "দিয়া তার বন্ধুদের সাথে এমন এক বিষয় নিয়ে আলোচনা করছিল যা",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অধ্যাপক ডালটি স্ট্যাম্পের সংজ্ঞাটি লিখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পরিবেশ পরিবতির্ত হওয়ার কারণ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দিয়ার আলোচিত বিষয়টির পরিধি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের রিতার উক্তিটির বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p10-cq-001"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p10",
+  "question_text": "একবাড়ি থেকে অন্য বাড়ির দূরত্ব কম,",
+  "question_number": 8,
+  "stimulus": "একবাড়ি থেকে অন্য বাড়ির দূরত্ব কম,",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 6,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কৃত্রিম উপগ্রহ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পৃথিবীর কোন গতির সাথে জোয়ারভাটার সম্পকর্ রয়েছে ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে'X' দ্বারা কোন গ্রহকে বোঝানো হয়েছে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "Y ওZ এর মধ্যে কোন গ্রহে প্রাণের অস্ত্মিত্ব বিদ্যমান এবং কেন ",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p10-cq-002"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p10",
+  "question_text": "বিভিন্ন বৃÿের সমাবেশ। তার দাদা লিয়ানাকে বলল, \"এ বন পরিবেশের A ",
+  "question_number": 9,
+  "stimulus": "বিভিন্ন বৃÿের সমাবেশ। তার দাদা লিয়ানাকে বলল, \"এ বন পরিবেশের A \nহিমালয় পবর্ত\nভারসাম্য রÿায় খুবই গুরম্নত্বপূণর্ ভূমিকা রাখছে।\"\nসৃষ্টির সময় এ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অথর্করী ফসল কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একই জমিতে একই ফসল বারবার চাষ করা ÿতিকর কেন? ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের কোন বনভূমির কথা বলা হয়েছে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষোক্ত বক্তব্যের যথাথর্তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p10-cq-003"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p10",
+  "question_text": "বাংলাদেশের শিল্প",
+  "question_number": 10,
+  "stimulus": "বাংলাদেশের শিল্প\nঅন্যান্য আসবাবপত্র প্রচ- ঝাঁকুনি খেল এবং তারা দ্রম্নত বাসা থেকে বের\nহয়ে খোলা জায়গায় আশ্রয় নিল। পরবতীের্ত সে জানতে পারল এ\nঘটনার ফলে বহু মানুষ হতাহত হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 6,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "খনিজ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'ওয়েব ট্রেন' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আরিশার দেখা দুযোর্গটি কী কী কারণে সংঘটিত হয় ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অয়নের দেখা দুযোর্গটি মানবজীবনে কীভাবে প্রভাব বিস্ত্মার করে",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p10-cq-004"
+ },
+ {
+  "book_id": "class9-10-geography-lecture",
+  "subject": "ভূগোল ও পরিবেশ",
+  "subject_slug": "geography",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-model-test",
+  "type": "cq",
+  "set_id": "test-paper-03-cq-p10",
+  "question_text": "দৃশ্যকল্প-১ : কক্সবাজারের উপকূলীয় এলাকায় বাসিন্দা রহিম মিয়া",
+  "question_number": 11,
+  "stimulus": "দৃশ্যকল্প-১ : কক্সবাজারের উপকূলীয় এলাকায় বাসিন্দা রহিম মিয়া\nজোয়ারভাটা সৃষ্টি হয়। আর ২য় গতির ফলে দিবারাত্রির হ্রাস-বৃদ্ধি ঘটে। মাইকের ঘোষণা শুনে পরিবারসহ আশ্রয় কেন্দ্রে চলে গেল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধূমকেতু কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মঙ্গলগ্রহে পানি থাকা সত্ত্বেও প্রাণীর অস্ত্মিত্ব নেই কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "১ম গতির ফলে পৃথিবীতে কী ধরনের পরিবতর্ন সংঘটিত হয় ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "২য় গতির আলোকে তোমার দেশের ঋতু পরিবতর্ন বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "key_format": null,
+  "source_file": "3. SSC Humanities/SSC Geography/Test paper/03. SSC Geography TP_ME (TC) (SQ-CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false,
+  "id": "geography-lec-mt-test-paper-03-cq-p10-cq-005"
+ }
+]
