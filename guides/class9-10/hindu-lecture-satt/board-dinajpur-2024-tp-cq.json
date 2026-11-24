@@ -1,0 +1,617 @@
+[
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "বিনয় বিদেশ ভ্রমণে যাওয়ার পূবের্ একদিন সন্ধ্যায় তার দাদুর সাথে গ.মিলন বাবুকে চিকিৎসকের দেওয়া নিদির্ষ্ট ব্যায়ামটির ধারণা দেখা করতে গেলে তিনি বললেন, ভ্রমণে সবর্দা তোমাকে যিনি সৃষ্টি ব্যাখ্যা কর। ৩ করে",
+  "question_number": 1,
+  "stimulus": "বিনয় বিদেশ ভ্রমণে যাওয়ার পূবের্ একদিন সন্ধ্যায় তার দাদুর সাথে গ.মিলন বাবুকে চিকিৎসকের দেওয়া নিদির্ষ্ট ব্যায়ামটির ধারণা দেখা করতে গেলে তিনি বললেন, ভ্রমণে সবর্দা তোমাকে যিনি সৃষ্টি ব্যাখ্যা কর। ৩ করেছেন, তাঁকে স্মরণ করবে। এসময় দাদুর এক প্রতিবেশীর মেয়ে নমিতার",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "প্রলয় বাবুর আরোগ্য লাভের উদ্দেশ্যে অনুশীলনকৃত শরীরচচার্র কণ্ঠে ঠাকুরের উদ্দেশ্যে গাওয়া ভক্তিমূলক গানের সুর ভেসে আসছিল। প্রভাব পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "ক",
+    "text": "সাকার উপাসনা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মহাবিশ্বের মহাশক্তি হিসেবে বিশ্বাস এবং পূজা করা হয় কাকে? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিনয়ের দাদুর উপদেশের সাথে সংশিস্নষ্ট দেবতার স্বরূপ পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "নমিতা যে কাজে রত ছিল তার প্রয়োজনীয়তা পাঠ্যবইয়ের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "অজয় বাবু পরিবারের প্রতি তার দায়িত্ব নিষ্ঠার সাথে পালন করেন। সমাজে পাঠশালা ও হাসপাতাল নিমাের্ণ সহায়তা করেন। তার বড় ভাই গোপাল বাবু পরিবার পরিজন সবকিছু ত্যাগ করে সঙ্গীহীন জীবনযাপন করেন এবং একমাত্র ঠাকু",
+  "question_number": 2,
+  "stimulus": "অজয় বাবু পরিবারের প্রতি তার দায়িত্ব নিষ্ঠার সাথে পালন করেন। সমাজে পাঠশালা ও হাসপাতাল নিমাের্ণ সহায়তা করেন। তার বড় ভাই গোপাল বাবু পরিবার পরিজন সবকিছু ত্যাগ করে সঙ্গীহীন জীবনযাপন করেন এবং একমাত্র ঠাকুরের সাধনায় দেবগৃহে সময় অতিবাহিত করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কমের্যাগ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন পদ্ধতিতে শ্বাস-প্রশ্বাসের স্বাভাবিক গতি নিয়ন্ত্রিত হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অজয় বাবুর কমের্র ধরন পাঠ্যবইয়ের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "গোপাল বাবু কি ধমর্ নিদেির্শত পথে হাঁটছেন? তোমার উত্তরের সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "তথ্যসূত্র-১ : সাগরের মা বষার্কালে এক বিশেষ তিথিতে পুরীতে দেবতা প্রীতিলতা-সূযের্সন। দশের্ন গিয়েছিলেন। তিনি দেখলেন, সেখানে অনেক লোকের সমাগমে এক বিশাল উৎসব পালিত হচ্ছে। তথ্যসূত্র-২ : সজীবের মা দেবদেবীর অ",
+  "question_number": 3,
+  "stimulus": "তথ্যসূত্র-১ : সাগরের মা বষার্কালে এক বিশেষ তিথিতে পুরীতে দেবতা প্রীতিলতা-সূযের্সন। দশের্ন গিয়েছিলেন। তিনি দেখলেন, সেখানে অনেক লোকের সমাগমে এক বিশাল উৎসব পালিত হচ্ছে। তথ্যসূত্র-২ : সজীবের মা দেবদেবীর অধিষ্ঠিত স্থান দশের্নর জন্য বিভিন্ন দেশে ভ্রমণ করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমার্নুষ্ঠান কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কীসের মাধ্যমে ভাই-বোনের মধ্যে মধুর সম্পকর্ সৃষ্টি হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "দৃশ্যকল্প-১ : রিমঝিম একজন শিÿিত তরম্নণী। সে তার বাবা-মায়ের পছন্দ অনুসারে পরিমল বাবুর একমাত্র সুশিÿিত চাকরিজীবী ছেলেকে বিয়ে করতে সম্মত হয়। বিয়ের এক সপ্তাহ আগে পরিমল বাবু রিমঝিমের বাবার কাছে বড় অঙ্কের ",
+  "question_number": 4,
+  "stimulus": "দৃশ্যকল্প-১ : রিমঝিম একজন শিÿিত তরম্নণী। সে তার বাবা-মায়ের পছন্দ অনুসারে পরিমল বাবুর একমাত্র সুশিÿিত চাকরিজীবী ছেলেকে বিয়ে করতে সম্মত হয়। বিয়ের এক সপ্তাহ আগে পরিমল বাবু রিমঝিমের বাবার কাছে বড় অঙ্কের টাকা দাবি করলে রিমঝিম প্রতিবাদ জানিয়ে সে বিয়ে ভেঙে দেয়। দৃশ্যকল্প-২ :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংস্কার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিয়ের পরদিন কোন অনুষ্ঠান পালিত হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১-এ বণির্ত ঘটনাটির কারণ পাঠ্যপুস্ত্মকের আলোকে ব্যক্তিকে ধমর্পথে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পারিবারিক ও সামাজিক জীবনে দৃশ্যকল্প-২-এর গুরম্নত্ব বিশেস্নষণ কর। ৪ বিশ্বাস রেখেই",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "সৃজনশীল প্রশ্ন ৫",
+  "question_number": 5,
+  "stimulus": "",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "চিত্র-১ চিত্র-২",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "পূজা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মেয়েকে মাতৃজ্ঞানে ভাবনার মধ্য দিয়ে যে পূজা করা হয় তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র-১-এ উপবিষ্ট ব্যক্তিটির গুণাবলি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র-২-এর তাৎপযর্ বিশেস্নষণ কর। ৪  মিলন বাবুর শিরদাঁড়া ও বৃক্কের সমস্যা দেখা দিয়েছে এবং শরীরের ভারসাম্য নষ্ট হচ্ছে। তাই তিনি চিকিৎসকের পরামশের্ নিদির্ষ্ট একটি ব্যায়াম করছেন। অপরদিকে, প্রলয় বাবু দীঘির্দন ধরে পরিপাকজনিত জটিলতা ও লিভারের সমস্যায় ভুগছেন এবং আরোগ্য লাভের উদ্দেশ্যে বিশেষ একটি শরীরচচার্ করছেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "যোগসাধনা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধ্যানের উত্যুঙ্গ শিখরে উঠে সাধক কী লাভ করেন? ব্যাখ্যা কর।",
+    "marks": 2
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উদ্দীপক খালি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,ক,খ,গ,ঘ,ক,খ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "দৃশ্যকল্প-১: শিশির ছোট বেলা থেকেই তার মায়ের সাথে বিভিন্ন ধমীর্য় বই পড়েছে। এভাবে সে সৃষ্টির রহস্য সম্পকের্ জেনেছে ও সৃষ্টির দেবতাকে নিয়ে বিশেষভাবে লেখা বই সম্পকের্ জেনেছে। দৃশ্যকল্প-২: নীতিহীন ও ছলনা",
+  "question_number": 7,
+  "stimulus": "দৃশ্যকল্প-১: শিশির ছোট বেলা থেকেই তার মায়ের সাথে বিভিন্ন ধমীর্য় বই পড়েছে। এভাবে সে সৃষ্টির রহস্য সম্পকের্ জেনেছে ও সৃষ্টির দেবতাকে নিয়ে বিশেষভাবে লেখা বই সম্পকের্ জেনেছে। দৃশ্যকল্প-২: নীতিহীন ও ছলনাকারী তিমির বাবু তার বড় ভাই মৃত সমীর বাবুর ছেলেকে ঠকিয়ে তার সম্পত্তি আত্মসাৎ করার চেষ্টা করলে তাদের মধ্যে দ্বন্দ্ব শুরম্ন হয়। তিমির বাবু মৃত সমীর বাবুর ধামির্ক ছেলের কাছে পরাজিত হয় এবং ধমের্র জয় হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বৈদিক সাহিত্য কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন শিÿা মানুষকে জীবনবিমুখ করে না? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১-এ যে বই সম্পকের্ জেনেছে তার পরিচিতি পাঠ্যবইয়ের আলোকে সংÿেপে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দৃশ্যকল্প-২-এর শিÿা পাঠ্যবইয়ের আলোকে মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "ছক-১ ছক-২ ব্রিটিশ বিরোধী আন্দোলনে পরের কারণে স্বাথর্ দিয়া বলি কত বীর জীবন দেন, এ জীবন মন সকলি দাও, তাদের মধ্যে অন্যতম তার মতো সুখ কোথাও কি আছে? আপনার কথা ভুলিয়া যাও।",
+  "question_number": 8,
+  "stimulus": "ছক-১ ছক-২ ব্রিটিশ বিরোধী আন্দোলনে পরের কারণে স্বাথর্ দিয়া বলি কত বীর জীবন দেন, এ জীবন মন সকলি দাও, তাদের মধ্যে অন্যতম তার মতো সুখ কোথাও কি আছে? আপনার কথা ভুলিয়া যাও।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সৎসাহস কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'মানবতা ধমের্র অঙ্গ' -কথাটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ছক-১-এর সারমমের্ পাঠ্যপুস্ত্মকের কোন দিকটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ছক-২-এর শিÿার গুরম্নত্ব পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর। ৪ বাবু বাসায় ফেরার সময় গৃহঋণ বাবদ ব্যাংক থেকে উত্তোলিত টাকার ব্যাগ অটোরিকশায় ফেলে এসেছে। পরিবারের সাথে আলাপ করে স্থানীয় থানার উদ্দেশ্যে রওনা হতেই ঘরের বাইরে এসে দেখেলেন, সে অটোরিকশা চালক বাসার সামনে ব্যাগ হাতে দাঁড়িয়ে। লিটন বাবু তাকে কিছু টাকা দিতে চাইলে চালক বললেন, তিনি টাকা ফেরত দিতে পেরেই আনন্দিত। এই বলে চলে গেলেন। লিটন বাবুর দুই সন্ত্মান অপার্ ও অয়ন। তারা প্রতিদিন সকাল-সন্ধ্যা দুই বেলা তাদের গৃহ দেবতার সামনে হাত জোড় করে এবং মাথা মাটিতে ঠেকিয়ে শ্রদ্ধা জানান।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "ধমর্পথ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আমরা কেন ধমর্ পালন করি? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রিকশা চালকের আচরণে কোন গুণটি প্রকাশ পেয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অপার্ ও অয়নের আচরণে কোন দিকটি ফুটে উঠেছে? তার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "লিটন",
+  "question_number": 9,
+  "stimulus": "লিটন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "তথ্যসূত্র-১ পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তথ্যসূত্র-২-এর গুরম্নত্ব পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "পরেশ বাবু একজন সজ্জন ব্যক্তি। তিনি সবর্দাই সবার সুখে-দুঃখে পাশে দাঁড়ান। তার প্রতি যে কেউ অন্যায়-অবিচার করম্নক না কেন তিনি সবাইকে মনেপ্রাণে ভালোবাসার বন্ধনে আবদ্ধ করে রাখেন। সমাজের অনেক অধামির্ক ফিরিয়ে",
+  "question_number": 10,
+  "stimulus": "পরেশ বাবু একজন সজ্জন ব্যক্তি। তিনি সবর্দাই সবার সুখে-দুঃখে পাশে দাঁড়ান। তার প্রতি যে কেউ অন্যায়-অবিচার করম্নক না কেন তিনি সবাইকে মনেপ্রাণে ভালোবাসার বন্ধনে আবদ্ধ করে রাখেন। সমাজের অনেক অধামির্ক ফিরিয়ে আনেন। অপরদিকে, তার গ্রামের কমল বাবু ধমর্ প্রতিষ্ঠার জন্য দেশে-বিদেশে ঘুরে বেড়ান। নিজের ওপর ও ঈশ্বরের প্রতি প্রবল তিনি যেকোনো কাজে ঝাঁপিয়ে পড়েন। অবতার কাকে বলে? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "বিজয়কৃষ্ণ কেন ব্রাহ্মধমর্ গ্রহণ করেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে পরেশ বাবুর মধ্যে পাঠ্যবইয়ের কার মতাদশের্র সঙ্গে মিল রয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"কমল বাবুর অনুসৃত পথের মাধ্যমে ধমীর্য় চেতনাকে এগিয়ে নিয়ে যাওয়া সম্ভব\" -পাঠ্যপুস্ত্মকের আলোকে বক্তব্যটি মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2024-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2024-tp",
+  "question_text": "জ্ঞানানন্দ ও জনি দুইজন প্রতিবেশী। জ্ঞানানন্দ সমাজের একজন সম্মানিত ও ধমর্প্রাণ ব্যক্তি। তাকে এলাকার সবাই পছন্দ করেন। কারণ, তিনি অত্যন্ত্ম সহনশীল এবং তার চোখে সবাই সমান। তিনি মনে করেন, সবারই সমান অধিকার",
+  "question_number": 11,
+  "stimulus": "জ্ঞানানন্দ ও জনি দুইজন প্রতিবেশী। জ্ঞানানন্দ সমাজের একজন সম্মানিত ও ধমর্প্রাণ ব্যক্তি। তাকে এলাকার সবাই পছন্দ করেন। কারণ, তিনি অত্যন্ত্ম সহনশীল এবং তার চোখে সবাই সমান। তিনি মনে করেন, সবারই সমান অধিকার রয়েছে। জাতি-ধমর্-বণর্ বিষয়গুলো তিনি পাথর্ক্য করেন না। কিন্তু জনি অসৎ প্রকৃতির ও লোভী। তিনি সবসময় অন্যায় কাজে জড়িত থাকেন। এজন্য অন্যায়ের শাস্ত্মিস্বরূপ তাকে অনেকবার কারাদ-ভোগ করতে হয়েছে। কারাবাস করেও সে সংশোধন হয়নি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্মৃতিশাস্ত্র কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিচারের মানদ- কী? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জ্ঞানানন্দের চরিত্রে কোন দিকটি লÿ করা যায়? পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জনির পরিণতি পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p32",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2024,
+  "verified_visual": false
+ }
+]

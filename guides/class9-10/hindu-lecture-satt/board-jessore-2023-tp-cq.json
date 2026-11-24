@@ -1,0 +1,662 @@
+[
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "লাবণ্য প্রতিদিন ঈশ্বরের কাছে প্রাথর্না করে, সে যেন অনেক সম্পত্তির রাখে। ছোটদেরকে ভালোবাসে এবং বড়দেরকে সম্মান করে। পরিবারের মালিক হতে পারে। গাড়ি, বাড়িসহ সকলকে নিয়ে সুখে-শান্ত্মিতে সকল গুরম্নজনকেও সে ভ",
+  "question_number": 1,
+  "stimulus": "লাবণ্য প্রতিদিন ঈশ্বরের কাছে প্রাথর্না করে, সে যেন অনেক সম্পত্তির রাখে। ছোটদেরকে ভালোবাসে এবং বড়দেরকে সম্মান করে। পরিবারের মালিক হতে পারে। গাড়ি, বাড়িসহ সকলকে নিয়ে সুখে-শান্ত্মিতে সকল গুরম্নজনকেও সে ভক্তিশ্রদ্ধা করে। জীবনযাপন করতে পারে। অপরদিকে, তারই বান্ধবী নীলা কাজ করলেও ধন-সম্পদের প্রতি তার কোনো লোভ-লালসা নেই। সে শুধু ঈশ্বরকে পেতে চায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "একেশ্বরবাদ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জ্ঞানযোগ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "লাবণ্য কোন প্রকারের কমর্ করে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "লাবণ্য ও নীলা উভয়ের পÿে কি মোÿলাভ সম্ভব? উত্তরের সপÿে যুক্তি উপস্থাপন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p36",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "হেমন্ত্মকালে ধান কাটায় মেতে ওঠে কৃষকেরা। ঘরে ঘরে নতুন ধানের ভাত ও নানা রকম পিঠা-পায়েসের আয়োজন করে উৎসবে মেতে ওঠে। অপরদিকে, বষর্বরণ উৎসব আজ বাঙালির অসাম্প্রদায়িক চেতনার এক মহাউৎসব। এদিনে মিষ্টি বিতরণস",
+  "question_number": 2,
+  "stimulus": "হেমন্ত্মকালে ধান কাটায় মেতে ওঠে কৃষকেরা। ঘরে ঘরে নতুন ধানের ভাত ও নানা রকম পিঠা-পায়েসের আয়োজন করে উৎসবে মেতে ওঠে। অপরদিকে, বষর্বরণ উৎসব আজ বাঙালির অসাম্প্রদায়িক চেতনার এক মহাউৎসব। এদিনে মিষ্টি বিতরণসহ বিভিন্ন সাংস্কৃতিক অনুষ্ঠান হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংক্রান্ত্মি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাখিবন্ধন বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে হেমন্ত্মকালের যে উৎসবের বণর্না দেয়া হয়েছে তা তোমার পাঠ্যবইয়ের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'বষর্বরণ' বাঙালির অসাম্প্রদায়িক চেতনার এক মহাউৎসব তোমার উত্তরের সপÿে যুক্তি উপস্থাপন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p36",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "বিমল ও শ্যামল দুজনেই স্কুলের ছাত্র। তারা একে অপরের প্রতিবেশী। বিমল নম্র ও ভদ্র। সে নিয়মিত পূজা করে, বড়দের সম্মান করে এবং সুশৃঙ্খল জীবনযাপন করে। অপরদিকে, শ্যামল দুষ্ট ও উচ্ছৃঙ্খল স্বভাবের। সে ধমর্কমের্",
+  "question_number": 3,
+  "stimulus": "বিমল ও শ্যামল দুজনেই স্কুলের ছাত্র। তারা একে অপরের প্রতিবেশী। বিমল নম্র ও ভদ্র। সে নিয়মিত পূজা করে, বড়দের সম্মান করে এবং সুশৃঙ্খল জীবনযাপন করে। অপরদিকে, শ্যামল দুষ্ট ও উচ্ছৃঙ্খল স্বভাবের। সে ধমর্কমের্ অমনোযোগী, বড়দের অসম্মান করে। শ্যামলের মা বিমলের এমন নৈতিকতার কারণ জানতে চাইলে বিমলের মা বলে নিয়মিত ধমীর্য় আচার-অনুষ্ঠান পালনের কারণে আমার ছেলে এমন বিনয়ী ও শান্ত্ম।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমার্চার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধমার্নুষ্ঠান বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বিমল ও শ্যামলের আচার-ব্যবহারের মধ্যকার পাথর্ক্য বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"ধমীর্য় আচার-অনুষ্ঠানে মানুষের পারিবারিক ও সামাজিক জীবনকে প্রভাবিত করে।\" উক্তিটি বিমল ও শ্যামলের জীবনের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p36",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "বিজয় বাবু উচ্চশিÿিত এবং যুক্তিবাদী সমাজ সংস্কারক। তিনি লÿ করেন তার এলাকায় বিভিন্ন দেব-দেবীর উপসাক হয়ে হিন্দুরা ÿুদ্র ÿুদ্র গোষ্ঠী চিন্ত্মায় সংকীণর্ হয়ে পড়েছে। তাই তিনি হিন্দুদের মধ্যে ঐক্য প্রতিষ্ঠার",
+  "question_number": 4,
+  "stimulus": "বিজয় বাবু উচ্চশিÿিত এবং যুক্তিবাদী সমাজ সংস্কারক। তিনি লÿ করেন তার এলাকায় বিভিন্ন দেব-দেবীর উপসাক হয়ে হিন্দুরা ÿুদ্র ÿুদ্র গোষ্ঠী চিন্ত্মায় সংকীণর্ হয়ে পড়েছে। তাই তিনি হিন্দুদের মধ্যে ঐক্য প্রতিষ্ঠার জন্য এক ব্রহ্মকে আহ্বান করেন। অপরদিকে, সুকেশ বাবু সৎসঙ্গের অনুসারী। তিনি মনে করেন ধমর্ কোনো অলৌকিক ব্যাপার নয় বরং বিজ্ঞানসিদ্ধ। ভালোবাসাই একমাত্র উপায় যা দিয়ে শান্ত্মি স্থাপন করা যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বেদ শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'স্মৃতিশাস্ত্র' বলকে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিজয় বাবুর চিন্ত্মাচেতনা পাঠ্যইবয়ের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সমাজে শান্ত্মি-প্রতিষ্ঠার জন্য সুকেশ বাবু অনুসারিত সংঘ খুবই গুরম্নত্বপূণর্− মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p36",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "ধীরেন বাবু একজন গরিব কৃষক। কাতির্ক-অগ্রহায়ণ মাসে অমাবস্যা তিথিতে বিভিন্ন মহামারি থেকে যেমন ঝড়, বন্যা, খরা প্রভৃতি থেকে উত্তরণের আশায় এক বিশেষ পূজার আয়োজন করেন। অপরদিকে, তার প্রতিবেশী রাঁধাকান্ত্ম বাব",
+  "question_number": 5,
+  "stimulus": "ধীরেন বাবু একজন গরিব কৃষক। কাতির্ক-অগ্রহায়ণ মাসে অমাবস্যা তিথিতে বিভিন্ন মহামারি থেকে যেমন ঝড়, বন্যা, খরা প্রভৃতি থেকে উত্তরণের আশায় এক বিশেষ পূজার আয়োজন করেন। অপরদিকে, তার প্রতিবেশী রাঁধাকান্ত্ম বাবু নিঃসন্ত্মান। তাই তিনি সন্ত্মান লাভের আশায় এক দেবতার পূজা করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যজমান কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'বোধন' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ধীরেন বাবু যে দেবীর পূজা করেন তা তোমার পাঠ্যবইয়ের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "রাঁধাকান্ত্ম বাবু যে পূজাটি করে সে পূজার গুরম্নত্ব মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p36",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "এক ব্যক্তি টেক্সিযোগে অফিসে যাওয়ার পথে টাকা ও প্রয়োজনীয় কাগজপত্রসহ একটি ব্যাগ টেক্সিতে ফেলে যায়। ড্রাইভার তা দেখতে পেয়ে ব্যাগের কাগজপত্র থেকে ঐ ব্যক্তির ঠিকানা বের করে তার ব্যাগ তাকে ফিরিয়ে দিয়ে আস",
+  "question_number": 6,
+  "stimulus": "এক ব্যক্তি টেক্সিযোগে অফিসে যাওয়ার পথে টাকা ও প্রয়োজনীয় কাগজপত্রসহ একটি ব্যাগ টেক্সিতে ফেলে যায়। ড্রাইভার তা দেখতে পেয়ে ব্যাগের কাগজপত্র থেকে ঐ ব্যক্তির ঠিকানা বের করে তার ব্যাগ তাকে ফিরিয়ে দিয়ে আসে। অন্যদিকে, কেশব পাড়ার সকলের সাথে ভালো সম্পকর্",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নৈতিক মূল্যবোধ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "ক",
+    "text": "শিষ্টাচার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'জীবঃ ব্রহ্মেব নাপরঃ'−ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "নৈতিক মূল্যবোধ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ড্রাইভারের চরিত্রে কোন ধমীর্য় গুণটি ফুটে উঠেছে? তা",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "কালিকাপুর গ্রামে ধীরেন বাবুর সাথে তোমার পাঠ্যবইয়ের কোন বণর্না কর। ৩ চরিত্রের সাদৃশ্য পাওয়া যায়? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে কেশবের চারিত্রিক ধমীর্য় গুরম্নত্ব পঠিত পাঠ্যবইয়ের",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "'সৈকত' যেন 'প্রহ্লাদের' যোগ্য প্রতিনিধি−উক্তিটির যথাথর্তা বিশেস্নষণ কর। ৪ বিষয়বস্তুর আলোকে মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,ক,খ,খ,গ,গ,ঘ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p36",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "রাজেন ও নৃপেন নিয়মিত যোগাসন অনুশীলন করে। রাজেন পেটের পীড়ার একটি সমস্যা কমানোর জন্য একটি আসন অনুশীলন করে। অপরদিকে, নৃপেন শরীরের ভারসাম্য বজায় রাখার ÿমতা বাড়ানোর জন্য অন্য একটি আসন অনুশীলন করে।",
+  "question_number": 7,
+  "stimulus": "রাজেন ও নৃপেন নিয়মিত যোগাসন অনুশীলন করে। রাজেন পেটের পীড়ার একটি সমস্যা কমানোর জন্য একটি আসন অনুশীলন করে। অপরদিকে, নৃপেন শরীরের ভারসাম্য বজায় রাখার ÿমতা বাড়ানোর জন্য অন্য একটি আসন অনুশীলন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আসন অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রত্যাহার বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রাজেন তার পেটের পীড়ার সমস্যা কমাতে কোন আসনটি এবং কীভাবে অনুশীলন করে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "নৃপেনের অনুশীলনকৃত আসনটির প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p37",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "ঢাকেশ্বরী মন্দিরে বছরের বিশেষ একটি দিনে কন্যা শিশুকে পুরোহিত দ্বারা আলোকে ভক্তবৃন্দ পূজাচর্নার মাধ্যমে সুখ-সমৃদ্ধি কামনা করে। অন্যদিকে, অপণার্",
+  "question_number": 8,
+  "stimulus": "ঢাকেশ্বরী মন্দিরে বছরের বিশেষ একটি দিনে কন্যা শিশুকে পুরোহিত দ্বারা আলোকে ভক্তবৃন্দ পূজাচর্নার মাধ্যমে সুখ-সমৃদ্ধি কামনা করে। অন্যদিকে, অপণার্",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে রায়ের পরিবারে নানা রোগের প্রাদুভার্ব দেখা দিয়েছে। তিনি সমস্ত্ম প্রকার রোগ-শোক থেকে পরিত্রাণের জন্য এক বিশেষ দেবীর বিগ্রহ স্থাপন করে",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p37",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "কালিকাপুর গ্রামে ধীরেন বাবু নামে এক অত্যাচারী মানুষ ছিল। তিনি ছিলেন",
+  "question_number": 9,
+  "stimulus": "কালিকাপুর গ্রামে ধীরেন বাবু নামে এক অত্যাচারী মানুষ ছিল। তিনি ছিলেন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "নাস্ত্মিক এবং নিজেকে সবের্সবার্ মনে করতেন। কিন্তু তার ছেলে সৈকতের ঈশ্বরের প্রতি ছিল অসীম ভক্তি। তার বিশ্বাস ঈশ্বরই তাকে রÿা করেন এবং ঈশ্বরই সবর্ময় কতার্।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p37",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "অনাদি রায় তার বাবার মৃত্যুতে শোকাহত। বাবার আত্মার শান্ত্মির জন্য অনুষ্ঠানের আয়োজন করে এবং দ্রব্যসামগ্রী উৎসগের্র মাধ্যমে অনুষ্ঠানটি সম্পন্ন করে। অপরদিকে, সোনেকার লেখাপড়া শেষ। সোনেকার বাবা মেয়েকে সংসা",
+  "question_number": 10,
+  "stimulus": "অনাদি রায় তার বাবার মৃত্যুতে শোকাহত। বাবার আত্মার শান্ত্মির জন্য অনুষ্ঠানের আয়োজন করে এবং দ্রব্যসামগ্রী উৎসগের্র মাধ্যমে অনুষ্ঠানটি সম্পন্ন করে। অপরদিকে, সোনেকার লেখাপড়া শেষ। সোনেকার বাবা মেয়েকে সংসারী করতে চান। হঠাৎ একটি অনুষ্ঠানের মাধ্যমে মেয়েকে নতুন কাপড়, স্বণার্লংকার দ্বারা সজ্জিত করেন। নিকট আত্মীয়-স্বজন, পাড়া- প্রতিবেশী সকলের উপস্থিতিতে উপযুক্ত ছেলের হাতে মেয়েকে তুলে দেন। অনুষ্ঠানের দিনটি ছিল সোনেকার জীবনের বিশেষ দিন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমাবতর্ন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পণপ্রথা অধমর্−ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অনাদি রায়ের পিতার মৃত্যুর পর করণীয় কাজটি পাঠ্যপুস্ত্মকের ব্যাখ্যা কর। ৩ সোনেকার জীবনে বিশেষ দিনের অনুষ্ঠানটির গুরম্নত্ব বিশেস্নষণ কর। ৪ শ্রেণির মেধাবী ছাত্র সজল কিছুদিন ধরে বিদ্যালয়ে অনুপস্থিত। খবর নিয়ে জানা যায় যে, সে অসৎ সঙ্গে মিশে মাদকাসক্ত হয়ে পড়েছে। একপযাের্য় অথর্ যোগাড় করার জন্য সে চুরি এবং মিথ্যার আশ্রয় নিতে তার বাবা-মা অত্যন্ত্ম চিন্ত্মিত হয়ে সজলকে মাদক দ্রব্য নিরাময় কেন্দ্রে ভতির্ করে দেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "ধমর্ পথ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মাদক গ্রহণ কেন অধমর্? ব্যাখ্যা কর। ২ সজলের এ অবস্থার প্রতিকার ও প্রতিরোধের উপায়গুলো পাঠ্যবইয়ের আলোকে লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"অসৎ সঙ্গের প্রভাবে মানুষের মারাত্মক ÿতি হতে পারে।\" −উক্তিটি যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (ক,খ,গ,ক,খ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p37",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2023-tp-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2023-tp",
+  "question_text": "দশম বাড়িতে পূজা করেন।",
+  "question_number": 11,
+  "stimulus": "দশম বাড়িতে পূজা করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পূজা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একংসদ্‌ বিপ্রা বহুধা বদন্ত্মি−কথাটির অথর্ ব্যাখ্যা কর। ২ থাকে। এজন্য",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "ঢাকেশ্বরী মন্দিরের পূজাটি পাঠ্যবইয়ের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অপণার্ রায়ের অনুসৃত পথ দ্বারা রোগ নিরাময় সম্ভব। উত্তরের সপÿে যুক্তি প্রদশর্ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p37",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2023,
+  "verified_visual": false
+ }
+]

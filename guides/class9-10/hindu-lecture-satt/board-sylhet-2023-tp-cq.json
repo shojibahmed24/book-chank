@@ -1,0 +1,662 @@
+[
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "বিমল বাবু তার পরিবার দেখাশোনা করেন। অতিথি সেবা, মা-বাবার",
+  "question_number": 1,
+  "stimulus": "বিমল বাবু তার পরিবার দেখাশোনা করেন। অতিথি সেবা, মা-বাবার",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বেদ কী? ১ দেখাশোনা করেন। তিনি সামাজিক দায়িত্ব-কতর্ব্য পালন করেন।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বৈদিক যুগ বলতে কী বোঝায়? ২ অপরদিকে তার বড় ভাই দেবব্রত জাগতিক চিন্ত্মা ত্যাগ করে বিভিন্ন",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "\"প্রভুপাদ অদ্বৈত আচাযর্\" হিন্দুধমের্র যে যুগের কথা বলেছেন তার ধমীর্য় অনুষ্ঠানে গিয়ে ধমর্কথা শ্রবণ করেন। তিনি মনে করেন জাগতিক সাথে পাঠ্যবইয়ের কোন যুগের মিল রয়েছে? ব্যাখ্যা কর। ৩ চিন্ত্মা না করে ঈশ্বর সাধনায় মুক্তি লাভ সম্ভব। তাই সে শুধু ঈশ্বর চিন্ত্মায়",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "\"যত মত তত পথ\" উক্তিটির সপÿে যুক্তি উপস্থাপন কর। ৪ মগ্ন থাকেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "অবতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন আশ্রমে বিদ্যাশিÿা লাভ করা যায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিমল বাবুর কাজগুলো কোন আশ্রমের পযার্য় পড়ে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে দেবব্রতের কমর্কাে-র মাধ্যমে কি মোÿলাভ সম্ভব? প্রতিবেশী এবং উত্তরের সপÿে যুক্তি প্রদশর্ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "(i) মৈত্রী পহেলা বৈশাখের দিন সকালে পূজার অনুষ্ঠানে অংশগ্রহণ করে",
+  "question_number": 2,
+  "stimulus": "(i) মৈত্রী পহেলা বৈশাখের দিন সকালে পূজার অনুষ্ঠানে অংশগ্রহণ করে",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গ্রামের সকলের সাথে আনন্দ উপভোগ করে। এ আনন্দ উৎসব তার কাছে ছিল এক মিলন মেলা। (ii) অনন্যা প্রতিবছর কাতির্ক মাসের শুক্লা দ্বিতীয়া তিথিতে থেকে তার ভাইয়ের কপালে ফোঁটা দিয়ে ভাইয়ের দীঘার্য়ু কামনা করে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "কোন তিথিতে রথযাত্রা শুরম্ন হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দোলযাত্রা বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অনন্যা কীভাবে উদ্দীপকে বণির্ত ধমার্চারটি উদ্‌যাপন করবে। তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পারিবারিক ও ধমীর্য় জীবনে মৈত্রীর পালনকৃত ধমার্চারটির প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "গোপাল ও গৌতম দুই বন্ধু। গোপাল কৃষ্ণ ভক্ত। সে গ্রামের এক ধমির্বষয়ক",
+  "question_number": 3,
+  "stimulus": "গোপাল ও গৌতম দুই বন্ধু। গোপাল কৃষ্ণ ভক্ত। সে গ্রামের এক ধমির্বষয়ক",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সভায় অংশগ্রহণ করে। সেখানে প্রভুপাদ অদ্বৈত আচাযের্র বক্তব্য শুনল। তিনি বললেন, হিন্দুধমের্ একটা যুগে ধমর্গ্রন্থ গীতা ও ভক্তিবাদ সমৃদ্ধ ছিল। অন্যদিকে, গৌতম শিব উপাসক। তিনি মনে করেন শৈব উপাসনায় ঈশ্বর লাভ সম্ভব। এ নিয়ে দুজনের মধ্যে মতবিরোধ হয়। একসময় দুজনে এ সিদ্ধান্ত্মে উপনীত হয় যে 'যত মত তত পথ' উভয় মতের লÿ্য ঈশ্বর লাভ।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "অজয় বাবু হঠাৎ মৃত্যুবরণ করলে তার পুত্র নিখিল প্রতিবেশী এবং আত্মীয়স্বজনের সহায়তায় পিতার অন্ত্ম্যেষ্টিক্রিয়া সম্পন্ন করে। পরে পুরোহিতের উপদেশে নিখিল নিদির্ষ্ট সময় অশৌচ পালন করে শাস্ত্রীয় বিধান অনুযায়ী ",
+  "question_number": 4,
+  "stimulus": "অজয় বাবু হঠাৎ মৃত্যুবরণ করলে তার পুত্র নিখিল প্রতিবেশী এবং আত্মীয়স্বজনের সহায়তায় পিতার অন্ত্ম্যেষ্টিক্রিয়া সম্পন্ন করে। পরে পুরোহিতের উপদেশে নিখিল নিদির্ষ্ট সময় অশৌচ পালন করে শাস্ত্রীয় বিধান অনুযায়ী আদ্য শ্রাদ্ধানুষ্ঠানের আয়োজন করে। উক্ত অনুষ্ঠানে আত্মীয়স্বজন সবাইকে নিমন্ত্রণ করে। সবাই উপস্থিত থেকে নিখিলকে তার পিতার শ্রাদ্ধানুষ্ঠানে সহযোগিতা করে। আদ্যশ্রাদ্ধের পূণর্ নাম কী? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "অশৌচ পালনের প্রয়োজনীয়তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নিখিল কীভাবে পিতার অন্ত্ম্যেষ্টিক্রিয়া সম্পন্ন করেছিল? তোমার উপবাস পাঠ্যবইয়ের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"সামাজিক ও পারিবারিক জীবনে আদ্যশ্রাদ্ধ তাৎপযর্পূণর্ ভূমিকা রাখে\"− উক্তিটি নিখিলের জীবনের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "অসীমের গ্রামে আষাঢ় মাসে বিশেষ তিথিতে গ্রামবাসী মিলে একটি চাকাওয়ালা গাড়ি সাজিয়ে তিনজন দেবতার প্রতিমা বসিয়ে রশি বেঁধে টেনে এক মন্দির থেকে অন্য মন্দিরে নিয়ে যায় এবং সবাই মিলে ধুমধাম করে নয় দিনব্যাপী বিভ",
+  "question_number": 5,
+  "stimulus": "অসীমের গ্রামে আষাঢ় মাসে বিশেষ তিথিতে গ্রামবাসী মিলে একটি চাকাওয়ালা গাড়ি সাজিয়ে তিনজন দেবতার প্রতিমা বসিয়ে রশি বেঁধে টেনে এক মন্দির থেকে অন্য মন্দিরে নিয়ে যায় এবং সবাই মিলে ধুমধাম করে নয় দিনব্যাপী বিভিন্ন ধমীর্য় অনুষ্ঠান ও আনন্দ উৎসব পালন করে। অনুষ্ঠান উপলÿ্যে নয় দিনব্যাপী মেলা বসে। রথ কী? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "ধমার্চার বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে অসীমের গ্রামবাসী মিলে কোন অনুষ্ঠানের আয়োজন করে? উক্ত অনুষ্ঠানের বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সামাজিক জীবনে অসীমের গ্রামের পালনকৃত অনুষ্ঠানের প্রভাব বিশেস্নষণ কর। ৪ লৌকিক দেবতা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৈদিক পূজা অচর্না কীভাবে করা হতো? তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হিন্দু সমাজকে কীভাবে দেব-দেবীর পূজায় উদ্বুদ্ধ করা যায় তা প্রথম উদ্দীপকের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দ্বিতীয় উদ্দীপকে বণির্ত পূজার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (খ,গ,ঘ,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "(i) এক নিঃসন্ত্মান দম্পতি সন্ত্মান কামনা করে ভক্তিভরে কাতির্ক মাসের",
+  "question_number": 6,
+  "stimulus": "(i) এক নিঃসন্ত্মান দম্পতি সন্ত্মান কামনা করে ভক্তিভরে কাতির্ক মাসের",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংক্রান্ত্মি দিনে এক দেবতার পূজার আয়োজন করে। (ii) পলাশপুর গ্রামে হঠাৎ বসন্ত্ম রোগ দেখা দেওয়ায় গ্রামবাসী শ্রাবণ মাসের শুক্লা সপ্তমী তিথিতে এক দেবীর পূজা ও আরাধনা করেন। গ্রামবাসী ধীরে ধীরে উক্ত রোগ থেকে মুক্তি পায়।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p40",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "তন্দ্রা ও মিনতি দুই বোন। দুজনই অসুস্থ। তন্দ্রার শরীর খুবই দুবর্ল। হাত-পা কাঁপে। কিছু সময় চলাফেরা করলে পায়ে জোর পায় না, এ কারণে মাঝে মাঝে ঠিকমত দাঁড়াতে ও হাঁটতে পারে না। তার বোন মিনতি ডায়বেটিস ও কোষ্ঠব",
+  "question_number": 7,
+  "stimulus": "তন্দ্রা ও মিনতি দুই বোন। দুজনই অসুস্থ। তন্দ্রার শরীর খুবই দুবর্ল। হাত-পা কাঁপে। কিছু সময় চলাফেরা করলে পায়ে জোর পায় না, এ কারণে মাঝে মাঝে ঠিকমত দাঁড়াতে ও হাঁটতে পারে না। তার বোন মিনতি ডায়বেটিস ও কোষ্ঠবদ্ধতায় আক্রান্ত্ম। তাদের দুজনার সমস্যা দেখে তাদের কাকা ভিন্ন ভিন্ন দুটি আসন অনুশীলনের পরামশর্ দেন। দুজনেই মন দিয়ে আসন অনুশীলন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যোগ সাধনা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ব্রহ্মচযর্ বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে তন্দ্রার আসন অনুশীলন পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মিনতি যে আসনটি অনুশীলন করে তার গুরম্নত্ব পঠিত বইয়ের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p40",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "অনিতার বাবা বিদ্বান ও সদাচারী দেখে আশিকের সাথে বিবাহ ঠিক করেন। অনিতার বিয়ে উপলÿ্যে বাড়ির সবাই মিলে অনিতাকে আশীবার্দ করে। গালে, কপালে, হাতে হলুদ মাখিয়ে দেয় এবং সবাই মিষ্টিমুখ করে। বিয়ের দিন তার বাবা বন",
+  "question_number": 8,
+  "stimulus": "অনিতার বাবা বিদ্বান ও সদাচারী দেখে আশিকের সাথে বিবাহ ঠিক করেন। অনিতার বিয়ে উপলÿ্যে বাড়ির সবাই মিলে অনিতাকে আশীবার্দ করে। গালে, কপালে, হাতে হলুদ মাখিয়ে দেয় এবং সবাই মিষ্টিমুখ করে। বিয়ের দিন তার বাবা বন্ধু-বান্ধব, আত্মীয়স্বজন ও প্রতিবেশীদের উপস্থিতি ধুমধাম করে অনিতাকে আশিকের হাতে সম্প্রদান করে। এ অনুষ্ঠানে পুরোহিত মন্ত্রপাঠ ও যজ্ঞের মাধ্যমে বিবাহকাযর্ সম্পন্ন করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অন্নপ্রাসন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অশৌচ বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অনিতার বিয়েতে গায়ে হলুদ অনুষ্ঠানটির প্রয়োজনীয়তা বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অনিতার বিবাহ সম্পাদনে যজ্ঞানুষ্ঠানের যৌক্তিকতা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p40",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "আশিষদের বাড়িতে দুগার্ উৎসব অনুষ্ঠিত হয়। পাঁচদিনব্যাপী অনুষ্ঠানে গ্রামের সবাই একত্রিত হয়। পূজা শেষে বিজয়া দশমীর দিনে নানা আনুষ্ঠানিকতা পালন করা হয়। আশিষের স্ত্রী সকল মহিলাদের সিঁদুর পরায় ও মিষ্টি বিত",
+  "question_number": 9,
+  "stimulus": "আশিষদের বাড়িতে দুগার্ উৎসব অনুষ্ঠিত হয়। পাঁচদিনব্যাপী অনুষ্ঠানে গ্রামের সবাই একত্রিত হয়। পূজা শেষে বিজয়া দশমীর দিনে নানা আনুষ্ঠানিকতা পালন করা হয়। আশিষের স্ত্রী সকল মহিলাদের সিঁদুর পরায় ও মিষ্টি বিতরণ করে। উলুধ্বনির মাধ্যমে তারা বিশ্বের সকল মানব ও পরিবারের মঙ্গল কামনা করে। সবশেষে সিঁদুর খেলা ও প্রতিমা বিসজের্নর মাধ্যমে দুগার্ উৎসব শেষ হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ঈশ্বরের শক্তির প্রতীক কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কুমারী পূজা কেন করা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত বিজয়া দশমীর আনুষ্ঠানিকতা তুমি কীভাবে পালন করবে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"বিশ্বের সকল মানবজাতি ও পরিবারের মঙ্গল কামনা করাই দুগার্পূজার মূল উদ্দেশ্য।\"−উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p40",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "বিজয় বাবু ছিলেন গ্রামের মাতব্বর। তিনি ছিলেন খুবই অত্যাচারী। তার অত্যাচারে সবাই ভীত। তিনি কোনো ধমীর্য় আচার-অনুষ্ঠান মানত না। কিন্তু তার পুত্র সৌমেনের ঈশ্বরের প্রতি ছিল অবিচল ভক্তি ও বিশ্বাস। যেখানেই ধ",
+  "question_number": 10,
+  "stimulus": "বিজয় বাবু ছিলেন গ্রামের মাতব্বর। তিনি ছিলেন খুবই অত্যাচারী। তার অত্যাচারে সবাই ভীত। তিনি কোনো ধমীর্য় আচার-অনুষ্ঠান মানত না। কিন্তু তার পুত্র সৌমেনের ঈশ্বরের প্রতি ছিল অবিচল ভক্তি ও বিশ্বাস। যেখানেই ধমীর্য় অনুষ্ঠান হতো সেখানেই যেত। কিন্তু তার পিতা সৌমেনের এই আচরণ মানতে পারত না। এজন্য তাকে শাস্ত্মিও দিত। কিন্তু সৌমেন সব বাধা উপেÿা করে ধমের্র প্রতি আকৃষ্ট থাকত। তার বিশ্বাস \"ধমর্ই ধামির্ককে রÿা করে।\"",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হিন্দুধমের্র মূলে কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ঈশ্বর এক ও অদ্বিতীয়⎯কথাটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বিজয় বাবুর চরিত্রের সাথে পাঠ্যবইয়ের কোন চরিত্রের মিল পাওয়া যায়? তা বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"ধমর্ই ধামির্ককে রÿা করে\"−উক্তিটির যথাথর্তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p40",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2023-tp-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2023-tp",
+  "question_text": "মেধাবী ছাত্র শুভ এস.এস.সি পাস করার পর কলেজে ভতির্ হয়। কিছুদিন পরে সে কুসঙ্গে মিশে মাদকাসক্ত হয়ে বিভিন্ন রকম খারাপ কাজের সাথে জড়িয়ে পড়ে। শুভর মা-বাবা তাকে বুঝিয়ে স্বাভাবিক জীবনে আনতে সÿম হন। শুভ তার ভ",
+  "question_number": 11,
+  "stimulus": "মেধাবী ছাত্র শুভ এস.এস.সি পাস করার পর কলেজে ভতির্ হয়। কিছুদিন পরে সে কুসঙ্গে মিশে মাদকাসক্ত হয়ে বিভিন্ন রকম খারাপ কাজের সাথে জড়িয়ে পড়ে। শুভর মা-বাবা তাকে বুঝিয়ে স্বাভাবিক জীবনে আনতে সÿম হন। শুভ তার ভুল বুঝতে পেরে স্বাভাবিক জীবনে ফিরে আসে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিষ্টাচার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মাদকাসক্তের কুফল ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'শুভর' মাদকাসক্ত অবস্থার প্রতিকারের উপায়গুলো বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পারিবারিক ও সামাজিক জীবনে মাদকাসক্তির প্রভাব পঠিত বইয়ের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p40",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "sylhet",
+  "board_year": 2023,
+  "verified_visual": false
+ }
+]

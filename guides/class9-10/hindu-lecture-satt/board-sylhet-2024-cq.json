@@ -1,0 +1,701 @@
+[
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "সজল বাবু প্রতিদিন সকালে ঘুম থেকে উঠে সুযের্ক প্রণাম করেন। স্নান সেরে তিনি মন্দিরে গিয়ে বিভিন্ন উপাচারের মাধ্যমে দেবতার পুজা করেন। অন্যদিকে কাজল বাবু প্রতিদিন সকালে বাগান পরিচযার্ করেন এবং গরিব-দুঃখীদে",
+  "question_number": 1,
+  "stimulus": "সজল বাবু প্রতিদিন সকালে ঘুম থেকে উঠে সুযের্ক প্রণাম করেন। স্নান সেরে তিনি মন্দিরে গিয়ে বিভিন্ন উপাচারের মাধ্যমে দেবতার পুজা করেন। অন্যদিকে কাজল বাবু প্রতিদিন সকালে বাগান পরিচযার্ করেন এবং গরিব-দুঃখীদের বিভিন্নভাবে আথির্ক সহযোগিতা করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ঈশ্বর কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কাকে নটরাজ বলা হয়? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সজল বাবুর কমর্কাণ্ডের মধ্যে কোন দিকটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কাজল বাবুর অনুসরণকৃত পদ্ধতিতে কি ঈশ্বর লাভ সম্ভব? উত্তরের সপক্ষে যুক্তি প্রদশর্ন কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "তনয় বাবু উচ্চ পদে চাকরি করছেন। তিনি সংসারের সকল দায়িত্ব পালন করেন। সামাজিক সকল কমর্কাণ্ডে অংশগ্রহণ করেন। অন্যদিকে, বিকাশ বাবু তাঁর ব্যবসায়ী পুত্র ও স্ত্রীকে সংসারের সকল দায়িত্ব দিয়ে সংসারত্যাগী হন। ",
+  "question_number": 2,
+  "stimulus": "তনয় বাবু উচ্চ পদে চাকরি করছেন। তিনি সংসারের সকল দায়িত্ব পালন করেন। সামাজিক সকল কমর্কাণ্ডে অংশগ্রহণ করেন। অন্যদিকে, বিকাশ বাবু তাঁর ব্যবসায়ী পুত্র ও স্ত্রীকে সংসারের সকল দায়িত্ব দিয়ে সংসারত্যাগী হন। তিনি দেবগৃহে বিভিন্ন ভক্তিমুলক উপাসনার মাধ্যমে দিনাতিপাত করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রত্যাহার কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কীসের মাধ্যমে ঈশ্বরের প্রতি প্রেমভাব জাগ্রত হয়? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের তনয় বাবু আশ্রমের যে স্@রে রয়েছেন তা পাঠ্যবইয়ের আলোকে ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের বিকাশ বাবু কি ধমর্ নিদেির্শত পথে হাঁটছেন? তোমার মতের সপক্ষে যুক্তি দাও।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "চিত্র-১ চিত্র-২",
+  "question_number": 3,
+  "stimulus": "চিত্র-১ চিত্র-২",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তপ কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "শ্বাস-প্রশ্বাস সম্ঙ্কির্ত বিজ্ঞান কোনটি? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র-১ এ অনুশীলনকৃত আসনটির পদ্ধতি ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র-২ অনুশীলন করার ফলে যে শারীরিক ও মানসিক প্রভাব প্রতিফলিত হয় তা বিশে-ষণ কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "তথ্যসুত্র-১ : শিমলা ও মানস দম্ঙ্তি তাদের মনোবাসনা পুরণের জন্য হেমন্@কালের সংক্রান্@িতে এক বিশেষ দেবতার পুজা করেন। তথ্যসুত্র-২ : মহেশপুর গ্রামের লোকেরা ঔষধিবৃক্ষ হাতে এক দেবীর পুজা করেন।",
+  "question_number": 4,
+  "stimulus": "তথ্যসুত্র-১ : শিমলা ও মানস দম্ঙ্তি তাদের মনোবাসনা পুরণের জন্য হেমন্@কালের সংক্রান্@িতে এক বিশেষ দেবতার পুজা করেন। তথ্যসুত্র-২ : মহেশপুর গ্রামের লোকেরা ঔষধিবৃক্ষ হাতে এক দেবীর পুজা করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পুজা কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "নারীর প্রতি সম্মান প্রদশর্ন করা হয় কোন পুজার মধ্য দিয়ে? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তথ্যসুত্র-১ এ কোন দেবতার পুজার কথা বলা হয়েছে? উক্ত দেবতার পরিচয় পাঠ্যবইয়ের আলোকে ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "তথ্যসুত্র-২ এ গ্রামবাসী যে দেবীর পুজা করছেন তার গুরুত্ব বিশে-ষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "চিত্র-১ চিত্র-২",
+  "question_number": 5,
+  "stimulus": "চিত্র-১ চিত্র-২",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমার্চার কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কোন ধমার্চারটি বাঙালির অসাম্ঙ্রদায়িক চেতনার এক মহা উৎসব? ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র-১ এর অনুষ্ঠানটির ধারণা ব্যাখ্যা কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র-২ এর অনুষ্ঠানটি একদিকে উৎসব অন্যদিকে ব্যবসায়িক গুরুত্ব বহন করে। উক্তিটির তাৎপযর্ বিশে-ষণ কর। হিন্দুধমর্ ও নৈতিক শিক্ষা",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "পুলক বাবু একজন দরিদ্র ব্রাহ্মণ। তার গ্রামে আগুনে পুড়ে যাওয়া ক্ষতিগ্রস্@ মানুষের জন্য তার জমানো সমস্@ টাকা জেলা প্রশাসকের হাতে তুলে দেন। অন্যদিকে রিপন নামে এক বালক আগুন থেকে এক শিশুকে রক্ষা করতে গিয়ে",
+  "question_number": 6,
+  "stimulus": "পুলক বাবু একজন দরিদ্র ব্রাহ্মণ। তার গ্রামে আগুনে পুড়ে যাওয়া ক্ষতিগ্রস্@ মানুষের জন্য তার জমানো সমস্@ টাকা জেলা প্রশাসকের হাতে তুলে দেন। অন্যদিকে রিপন নামে এক বালক আগুন থেকে এক শিশুকে রক্ষা করতে গিয়ে প্রাণ ত্যাগ করেন। ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মানবতা কাকে বলে? ১",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "কাকে শ্রেষ্ঠ জীব বলা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের পুলকের চরিত্রের সাথে পাঠ্যবইয়ের কোন চরিত্রের মিল রয়েছে? ব্যাখ্যা কর। ৩",
+    "marks": 4
+   },
+   {
+    "part": "ঘ",
+    "text": "সামাজিক ও পারিবারিক জীবনে রিপনের কমর্কাণ্ডটির শিক্ষার গুরুত্ব বিশে-ষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "সাগর বাবু একজন উচ্চপদস্থ কমর্কতার্। তিনি তাঁর পছন্দের পাত্রীকে বিয়ে করেন। কিন্তু পাত্রী পক্ষ থেকে কোনো জিনিসপত্র গ্রহণ করেননি। অপরদিকে নিলয় বাবুর বাবা মারা যাওয়ার পর কিছু দিন সবজি ও ফলাহার করেন এবং ১",
+  "question_number": 7,
+  "stimulus": "সাগর বাবু একজন উচ্চপদস্থ কমর্কতার্। তিনি তাঁর পছন্দের পাত্রীকে বিয়ে করেন। কিন্তু পাত্রী পক্ষ থেকে কোনো জিনিসপত্র গ্রহণ করেননি। অপরদিকে নিলয় বাবুর বাবা মারা যাওয়ার পর কিছু দিন সবজি ও ফলাহার করেন এবং ১ সংযমী জীবনযাপন করেন। ২",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমাবতর্ন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন অনুষ্ঠানের মাধ্যমে বর-কনে আমৃত্যু বাধা হয়ে থাকে? ব্যাখ্যা কর। ২",
+    "marks": 3
+   },
+   {
+    "part": "গ",
+    "text": "সাগর বাবুর চরিত্রে পাঠ্যপুস্@কের কোন দিকটি ফুটে উঠেছে? ব্যাখ্যা কর।৩",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "নিলয় বাবুর পালনকৃত আচরণটির গুরুত্ব বিশে-ষণ কর। ৪ ৪ ৮। প্রদীপ বাবু একটি সংগঠনের সভাপতি। তিনি তার পরিবার এবং সংগঠনের সকল সদস্যের সমস্যা সমাধান করেন। তিনি কোনো কাজের প্রতিশ্রুতি দিলে তা রক্ষা করার জন্য আপ্রাণ চেষ্টা করেন। অন্যদিকে তাঁর প্রতিবেশি উজ্জ্বল বাবু একজন স্বাথর্পর ব্যক্তি। তিনি ভাইদের সম্ঙ্ত্তি নিজের নামে করে নেন। এতে ভাইদের মধ্যে তিক্ততার সৃষ্টি হয়। শেষ পযর্ন্@ উজ্জ্বল বাবু সবদিক দিয়ে পরাজিত হন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "বৈদিক সাহিত্য কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কাকে রহস্য বিদ্যা বলা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রদীপ বাবুর কমর্কাণ্ডের মধ্যে তোমার পাঠ্যপুস্@কের কোন চরিত্রের মিল রয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উজ্জ্বল বাবু ও ভাইদের মধ্যে সংঘটিত ঘটনা থেকে যে শিক্ষা পাই, তা পাঠ্যবইয়ের আলোকে বিশে-ষণ কর। ৪ ১ ৯। কমল গ্রামের দরিদ্র মেয়েদের শিক্ষার জন্য প্রয়োজনীয় শিক্ষা উপকরণ ও আথির্ক ২ সাহায্য করেন। তিনি মনে করেন, মেয়েদের শিক্ষিত করতে পারলে দরিদ্রতা দুর ৩ হবে ও দেশ উন্নত হবে। অপরদিকে মিনু দেবীর লেখাপড়া ও অন্য কিছুর প্রতি তেমন আগ্রহ ছিল না। তিনি প্রকৃতির সাথে সময় কাটাতে স্বাচ্ছন্দ্য বোধ করতেন।",
+    "marks": 4
+   },
+   {
+    "part": "ক",
+    "text": "পুণার্বতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চরক শরীরের কাযর্কারিতার কয়টি উপাদানের কথা বলেছেন? ব্যাখ্যা কর।২",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "কমলের মধ্যে তোমার পাঠ্যবইয়ের কোন মহাপুরুষের গুণটি প্রকাশ পেয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের মিনু দেবীর চরিত্রটি নৈতিক জীবন গঠনে কতটুকু সহায়ক তা মু ১ ল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 12টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": " প্রদীপ বাবু একটি সংগঠনের সভাপতি। তিনি তার পরিবার এবং সংগঠনের সকল সদস্যের সমস্যা সমাধান করেন। তিনি কাজের প্রতিশ্রুতি দিলে তা রক্ষা করার জন্য আপ্রাণ চেষ্টা করেন। অন্যদিকে তাঁর প্রতিবেশি উজ্জ্বল বাবু এ",
+  "question_number": 8,
+  "stimulus": " প্রদীপ বাবু একটি সংগঠনের সভাপতি। তিনি তার পরিবার এবং সংগঠনের সকল সদস্যের সমস্যা সমাধান করেন। তিনি কাজের প্রতিশ্রুতি দিলে তা রক্ষা করার জন্য আপ্রাণ চেষ্টা করেন। অন্যদিকে তাঁর প্রতিবেশি উজ্জ্বল বাবু একজন স্বাথর্পর ব্যক্তি। তিনি ভাইদের সম্ঙ্ত্তি নিজের নামে করে নেন। এতে ভাইদের মধ্যে তিক্ততার সৃষ্টি হয়। শেষ পযর্ন্@ উজ্জ্বল বাবু সবদিক দিয়ে পরাজিত হন। ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বৈদিক সাহিত্য কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কাকে রহস্য বিদ্যা বলা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রদীপ বাবুর কমর্কাণ্ডের মধ্যে তোমার পাঠ্যপুস্@কের কোন চরিত্রের মিল রয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উজ্জ্বল বাবু ও ভাইদের মধ্যে সংঘটিত ঘটনা থেকে যে শিক্ষা পাই, তা পাঠ্যবইয়ের আলোকে বিশে-ষণ কর। ৪  933",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "পুণার্বতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চরক শরীরের কাযর্কারিতার কয়টি উপাদানের কথা বলেছেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কমলের মধ্যে তোমার পাঠ্যবইয়ের কোন মহাপুরুষের গুণটি প্রকাশ পেয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের মিনু দেবীর চরিত্রটি নৈতিক জীবন গঠনে কতটুকু সহায়ক তা মুল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p60",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "কমল গ্রামের দরিদ্র মেয়েদের শিক্ষার জন্য প্রয়োজনীয় পড়ে শিক্ষা উপকরণ ও আথির্ক সাহায্য করেন। তিনি মনে করেন, মেয়েদের শিক্ষিত করতে পারলে দরিদ্রতা দুর হবে ও দেশ উন্নত হবে। অপরদিকে মিনু দেবীর লেখাপড়া ও অ",
+  "question_number": 9,
+  "stimulus": "কমল গ্রামের দরিদ্র মেয়েদের শিক্ষার জন্য প্রয়োজনীয় পড়ে শিক্ষা উপকরণ ও আথির্ক সাহায্য করেন। তিনি মনে করেন, মেয়েদের শিক্ষিত করতে পারলে দরিদ্রতা দুর হবে ও দেশ উন্নত হবে। অপরদিকে মিনু দেবীর লেখাপড়া ও অন্য কিছুর প্রতি তেমন আগ্রহ ছিল না। তিনি প্রকৃতির সাথে সময় কাটাতে স্বাচ্ছন্দ্য বোধ করতেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p61",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "রবিন দরিদ্রতার কারণে লেখাপড়ার পাশাপাশি একবেলা রিকশা চালায়। একদিন এক ব্যক্তি তার মোবাইল ও মানি ব্যাগ রিকশায় রেখে চলে যান। কিছুক্ষণ পর ৩ রবিন সেগুলো দেখে ঐ ব্যক্তির মানি ব্যাগে প্রাপ্ত ঠিকানা অনুযায়ী ",
+  "question_number": 10,
+  "stimulus": "রবিন দরিদ্রতার কারণে লেখাপড়ার পাশাপাশি একবেলা রিকশা চালায়। একদিন এক ব্যক্তি তার মোবাইল ও মানি ব্যাগ রিকশায় রেখে চলে যান। কিছুক্ষণ পর ৩ রবিন সেগুলো দেখে ঐ ব্যক্তির মানি ব্যাগে প্রাপ্ত ঠিকানা অনুযায়ী ঐ যাত্রীকে পৌঁছে দেয়। রবিনের বোন রনিতা খুবই অমায়িক। সে পাড়ার ছোটোদের স্নেহের দৃষ্টিতে দেখে এবং বড়োদের যথাযথ সম্মান করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্মৃতিশাস্ত্র কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিচারের মানদণ্ড কী? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রবিনের চরিত্রে কোন নৈতিকতাটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে রনিতার চারিত্রিক বৈশিষ্ট্যটির ধমীর্য় গুরুত্ব বিশে-ষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-sylhet-2024-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-sylhet-2024",
+  "question_text": "দৃশ্যকল্প-১ :অনাবৃষ্টির কারণে অধীর বাবুদের এলাকায় ভালো ফসল হয়নি। এ অবস্থা থেকে উত্তরণের জন্য এলাকাবাসীগণ এক বিশেষ পুজার আয়োজন করেন। দৃশ্যকল্প-২ :পাঁচদিনব্যাপী অনুষ্ঠিত পুজায় প্রতিমার সামনে উপবিষ্ট এ",
+  "question_number": 11,
+  "stimulus": "দৃশ্যকল্প-১ :অনাবৃষ্টির কারণে অধীর বাবুদের এলাকায় ভালো ফসল হয়নি। এ অবস্থা থেকে উত্তরণের জন্য এলাকাবাসীগণ এক বিশেষ পুজার আয়োজন করেন। দৃশ্যকল্প-২ :পাঁচদিনব্যাপী অনুষ্ঠিত পুজায় প্রতিমার সামনে উপবিষ্ট এক ব্যক্তি ১ মন্ত্র পাঠের মাধ্যমে প্রতিমাকে ফুল দুবার্ নিবেদন করছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যজনাম কাকে বলে? ১",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "\"এবং সদ্‌ বিপ্রা বহুধা বদন্@ি\"- উক্তিটি ব্যাখ্যা কর। ২",
+    "marks": 3
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১ এ অধীর বাবু কতৃর্ক আয়োজিত পুজার পদ্ধতি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দৃশ্যকল্প-২ এ প্রতিমার সামনে উপবিষ্ট ব্যক্তিটির গুণাবলির যথাথর্তা মু ৪ ল্যায়ন কর। ৪  929",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — sylhet Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p56",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "sylhet",
+  "board_year": 2024,
+  "verified_visual": false
+ }
+]

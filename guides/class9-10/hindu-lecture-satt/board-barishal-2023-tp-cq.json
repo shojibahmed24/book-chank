@@ -1,0 +1,661 @@
+[
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "আনন্দ বাবু একজন কতর্ব্যপরায়ণ ব্যক্তি। তিনি তাঁর পরিবারের ভরণ-",
+  "question_number": 1,
+  "stimulus": "আনন্দ বাবু একজন কতর্ব্যপরায়ণ ব্যক্তি। তিনি তাঁর পরিবারের ভরণ-",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "\"আত্মমোÿায় জগদ্বিতায় চ\" কথাটির ব্যাখ্যা দাও। ২ পোষণসহ সমস্ত্ম দায়িত্ব নিষ্ঠার সাথে পালন করেন এবং সমাজসেবামূলক",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "পবন বাবুর চরিত্রের সাথে তোমার পাঠ্যবইয়ের কোন চরিত্রে মিল কাজে যুক্ত থাকেন। অপরদিকে তরম্নণ বাবু বেশ কিছুদিন হলো চাকরি রয়েছে তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর। ৩ থেকে অবসর নিয়ে সংসারের মায়া ত্যাগ করে বনে-জঙ্গলে ঘুরে বেড়ান।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "সুবীরকে নেশার জগৎ থেকে স্বাভাবিক জীবনে ফিরিয়ে আনতে শুধু মাত্র তিনি মধ্যহ্ন ভোজের খাবার লোকালয় থেকে সংগ্রহ করেন পারিবারিক ও ধমীর্য় সংস্কৃতির গুরম্নত্ব বিশেস্নষণ কর। ৪ এবং সবসময় ঈশ্বর চিন্ত্মায় মগ্ন থাকেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "দেবদেবী কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "লেখাপড়া শেখানো হয় কোন আশ্রমে? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আনন্দ বাবুর কাযর্কলাপ মানবজীবনের কোন আশ্রমের অন্ত্মভুর্ক্ত? পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে তরম্নণ বাবুর কমর্কাে-র মাধ্যমে কী ঈশ্বর লাভ সম্ভব? উত্তরের সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "সুব্রতর বাবা দীঘির্দন রোগে ভোগার পর হঠাৎ একদিন মারা যায়।",
+  "question_number": 2,
+  "stimulus": "সুব্রতর বাবা দীঘির্দন রোগে ভোগার পর হঠাৎ একদিন মারা যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "পাড়াপ্রতিবেশীরা তার বাবার মৃতদেহকে সৎকারের উদ্দেশ্যে কাঁধে নিয়ে শ্মশানের দিকে যাত্রা করে। অন্যদিকে, সুজয়ের মা মারা যাওয়ার পর সে বেশ কিছুদিন ফলমূল খেয়ে জীবনধারণ করে। প্রতিদিন তার মায়ের উদ্দেশ্যে জল ও দুধ নিবেদন করে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "জাতকমর্ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিবাহের সবের্শ্রষ্ঠ মন্ত্রটির ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুব্রতর বাবার উদ্দেশ্যে সম্পন্নকৃত প্রক্রিয়াটি পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সুজয় যে কাজটি সম্পন্ন করেছে উক্ত কাজের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (গ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "প্রলয় বিশ্বস্ত্মতার সাথে একটি কারখানায় চাকরি করেন। কারখানার মালিক তাকে বিশ্বাস করে সমস্ত্ম আথির্ক দায়িত্ব তার উপর অপর্ণ করে। গরিব হলেও সে কখনো বিশ্বাসের অমযার্দা করেনি। অপরদিকে অমিয় একটি অমায়িক ছেলে",
+  "question_number": 3,
+  "stimulus": "প্রলয় বিশ্বস্ত্মতার সাথে একটি কারখানায় চাকরি করেন। কারখানার মালিক তাকে বিশ্বাস করে সমস্ত্ম আথির্ক দায়িত্ব তার উপর অপর্ণ করে। গরিব হলেও সে কখনো বিশ্বাসের অমযার্দা করেনি। অপরদিকে অমিয় একটি অমায়িক ছেলে। সে পরিবারসহ বড় এবং ছোটদের সাথে কীভাবে ব্যবহার করতে হয় সেটা ঠিকভাবে পালন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নৈতিক মূল্যবোধ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধমার্ধমর্ নিণের্য়র তৃতীয় প্রমাণটি ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রলয়ের মধ্যে যে নৈতিক গুণটি প্রকাশ পেয়েছে তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অমিয়র কমর্কাে-র গুরম্নত্ব পাঠ্যপুস্ত্মকের আলোকে মূল্যায়ন কর। ৪ (৫)শ্বাসকষ্টের উপকার",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "আরতী দেবী খুবই ধমর্পরায়ণ। তিনি ভক্তির মাধ্যমে ভগবানের উপাসনা অন্যদিকে করেন। তার গভীর বিশ্বাস ভক্তি সহকারে ভগবানকে ডাকলে তিনি ভক্তকে দেখা দেন এবং তার মঙ্গল কামনা করেন। অন্যদিকে, বিমল বাবু ঈশ্বরের অস্ত",
+  "question_number": 4,
+  "stimulus": "আরতী দেবী খুবই ধমর্পরায়ণ। তিনি ভক্তির মাধ্যমে ভগবানের উপাসনা অন্যদিকে করেন। তার গভীর বিশ্বাস ভক্তি সহকারে ভগবানকে ডাকলে তিনি ভক্তকে দেখা দেন এবং তার মঙ্গল কামনা করেন। অন্যদিকে, বিমল বাবু ঈশ্বরের অস্ত্মিত্ব সম্পকের্ জানতে চান। তিনি অনুভব করেন বিশ্বের সকল প্রাণীর মধ্যে একই চেতনা বিরাজমান। এই চেতনাই হচ্ছে জীবাত্মা বা পরমাত্মার অংশ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রেচক কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "যোগের সবোর্চ্চ স্ত্মরটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আরতীদেবী কোন সাধনপথ অবলম্বন করে? পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিমল বাবুর সাধন পথের মাধ্যমে কি মোÿলাভ সম্ভব? সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "ঋতুদের বাড়িতে প্রতিবছর কাতির্ক মাসের এক বিশেষ তিথিতে এক",
+  "question_number": 5,
+  "stimulus": "ঋতুদের বাড়িতে প্রতিবছর কাতির্ক মাসের এক বিশেষ তিথিতে এক",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "পবন বাবু একজন অসুর প্রকৃতির লোক। তিনি ভগবানের নাম শুনলে রেগে যান এবং নিজেকে সবর্শক্তিমান বলে মনে করেন। কিন্তু তার পরম আপনজন খুবই ঈশ্বরভক্ত। সেজন্য তাকে বিভিন্নভাবে মেরে ফেলার চেষ্টা করেও তিনি ব্যথর্ হ",
+  "question_number": 6,
+  "stimulus": "পবন বাবু একজন অসুর প্রকৃতির লোক। তিনি ভগবানের নাম শুনলে রেগে যান এবং নিজেকে সবর্শক্তিমান বলে মনে করেন। কিন্তু তার পরম আপনজন খুবই ঈশ্বরভক্ত। সেজন্য তাকে বিভিন্নভাবে মেরে ফেলার চেষ্টা করেও তিনি ব্যথর্ হন। অন্যদিকে, সুবীর খারাপ বন্ধুদের সাথে মিশে নেশার জগতে প্রবেশ করে। নেশার টাকা যোগাড় করতে সে অনৈতিক কাজে জড়িয়ে পড়ে এতে পরিবারের সবাই তাকে নিয়ে চিন্ত্মিত হয়ে পড়ে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্মৃতিশাস্ত্র কাকে বলে?",
+    "marks": 1
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "মাধবীদের বাড়িতে প্রতিবছর ফাল্গুন মাসে একটি অনুষ্ঠানের আয়োজন করা হয়। এই অনুষ্ঠানে সকল ভেদাভেদ ভুলে একে অপরকে রং মাখায়। এটি মূলত বৈষ্ণবদের উৎসব। অন্যদিকে, রাখিদের গ্রামে বিদ্যালয়ের মাঠে প্রতিবছর নাম গ",
+  "question_number": 7,
+  "stimulus": "মাধবীদের বাড়িতে প্রতিবছর ফাল্গুন মাসে একটি অনুষ্ঠানের আয়োজন করা হয়। এই অনুষ্ঠানে সকল ভেদাভেদ ভুলে একে অপরকে রং মাখায়। এটি মূলত বৈষ্ণবদের উৎসব। অন্যদিকে, রাখিদের গ্রামে বিদ্যালয়ের মাঠে প্রতিবছর নাম গানের আয়োজন করা হয়। এটি কয়েক প্রহরব্যাপী চলে। দুঃখকষ্ট থেকে পরিত্রাণ পেতে দূরদূরান্ত্ম থেকে বহুলোক এই অনুষ্ঠানে যোগ দেয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংক্রান্ত্মি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাংলা বছরের প্রথম দিন পালিত উৎসবটির ব্যাখ্যা দাও। ২ মাধবীদের বাড়িতে আয়োজিত অনুষ্ঠানটি পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের রাখিদের গ্রামে আয়োজিত অনুষ্ঠানটির পারিবারিক ও সামাজিক গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "অনুষ্ঠান উপলÿ্যে অনুরাধাদের বাড়ি ও অনুরাধাকে সুন্দর করে সাজানো হয়েছে। এই অনুষ্ঠানটি মূলত তাকেই ঘিরে। এটি ছিল অনুরাধার জীবনে একটি বিশেষ দিন। অপরদিকে প্রিতমের বাবা হঠাৎ করে মারা গেছে। তার বাবার আত্মার ",
+  "question_number": 8,
+  "stimulus": "অনুষ্ঠান উপলÿ্যে অনুরাধাদের বাড়ি ও অনুরাধাকে সুন্দর করে সাজানো হয়েছে। এই অনুষ্ঠানটি মূলত তাকেই ঘিরে। এটি ছিল অনুরাধার জীবনে একটি বিশেষ দিন। অপরদিকে প্রিতমের বাবা হঠাৎ করে মারা গেছে। তার বাবার আত্মার শান্ত্মি কামনা করে সামথর্য অনুযায়ী শ্রদ্ধার সঙ্গে বিভিন্ন সামগ্রী, উৎসগর্ করে অনুষ্ঠানটি সম্পন্ন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংস্কার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পাঠ শেষে গুরম্নগৃহ থেকে ফেরার সময় যে অনুষ্ঠান করা হয় তার ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অনুরাধাদের বাড়িতে পালনকৃত অনুষ্ঠানটির গুরম্নত্ব পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রিতমের সম্পন্নকৃত অনুষ্ঠানটির ধারণা ও বিধান পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর। ৪ −",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "অভি একটি আসন অনুশীলন করে। যার ফলে (১) শিরদাঁড়ার উপকার হয়। (২)পেটের ভিতরের অংশগুলো সবল হয়। (৩) মাথা ঠা-া থাকে। (৪)পরিপাক ভালো হয় হয় উত্তম প্রতিদিন একটি আসন অনুশীলন করে। যার ফলে− (১)ডায়াবেটিস হয় না। (২)",
+  "question_number": 9,
+  "stimulus": "অভি একটি আসন অনুশীলন করে। যার ফলে (১) শিরদাঁড়ার উপকার হয়। (২)পেটের ভিতরের অংশগুলো সবল হয়। (৩) মাথা ঠা-া থাকে। (৪)পরিপাক ভালো হয় হয় উত্তম প্রতিদিন একটি আসন অনুশীলন করে। যার ফলে− (১)ডায়াবেটিস হয় না। (২)পেটের চবির্ কমিয়ে দেয়। (৩) কাঁধ নরম হয়। (৪)বৃক্কের কমর্ÿমতা বৃদ্ধি পায়। (৫)গ্যাসের সমস্যা দূর হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অহিংসা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শ্বাস-প্রশ্বাস নিয়ন্ত্রণ করার পদ্ধতিটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অভির অনুশীলনকৃত আসনটির অনুশীলন পদ্ধতি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উত্তমের অনুশীলনকৃত আসনটির প্রভাব বিশেস্নষণ কর। ৪ মিনতিদের এলাকার মানুষ রোগ থেকে মুক্তি লাভের আশায় একজন দেবীর পূজা করে। এই দেবীর পূজায় ঠান্ডা জাতীয় ফলের প্রয়োজন হয়। অন্যদিকে, শোভনদের বাড়িতে প্রতিবছর একজন দেবীর পূজা করা হয় যিনি শুম্ভ নিশুম্ভ নামক অসুরকে বধ করেছেন। তিনি মৃত্যুর দেবীরূপেও পরিচিত। সাধারণত অমাবস্যা রাতে এই দেবীর পূজা করা হয়।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "লৌকিক দেবতা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কাকে মহিষমদির্না বলা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মিনতিদের বাড়িতে যে দেবীর পূজা করা হয় উক্ত পূজা পদ্ধতি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শোভনদের বাড়িতে যে দেবীর পূজা করা হয় উক্ত পূজার সামাজিক ও পারিবারিক প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "উৎসবের আয়োজন করা হয়। এই উৎসব উপলÿ্যে ঋতু ভাইয়ের মঙ্গল কামনায় তার কপালে চন্দন মাখিয়ে দেয়। অন্যদিকে, অসীমের গ্রামের লোকেরা মিলে একটি অনুষ্ঠানের আয়োজন করে। এই অনুষ্ঠান উপলÿ্যে চাকাওয়ালা গাড়ি ফুল দিয়ে সুন",
+  "question_number": 10,
+  "stimulus": "উৎসবের আয়োজন করা হয়। এই উৎসব উপলÿ্যে ঋতু ভাইয়ের মঙ্গল কামনায় তার কপালে চন্দন মাখিয়ে দেয়। অন্যদিকে, অসীমের গ্রামের লোকেরা মিলে একটি অনুষ্ঠানের আয়োজন করে। এই অনুষ্ঠান উপলÿ্যে চাকাওয়ালা গাড়ি ফুল দিয়ে সুন্দর করে সাজানো হয়। গাড়ির ভেতরে থাকে তিনটি বিশেষ মূতির্। সব ভেদাভেদ ভুলে সবাই মিলে গাড়িটি এক স্থান থেকে অন্য স্থানে নিয়ে যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমার্চার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শ্রাবণ মাসের পূণির্মা তিথিতে যে পবির্ট পালিত হয় তার ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ঋতুদের বাড়িতে যে উৎসবের আয়োজন করা হয়েছে পাঠ্যপুস্ত্মকের আলোকে তার ব্যাখ্যা দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে অসীমের দেখা ধমার্চারটির পারিবারিক ও সামাজিক গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2023-tp-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2023-tp",
+  "question_text": "মীরা মায়ের সাথে পূজা দেখতে যায়। মন্দিরে গিয়ে দেখল এক দেবী মূতির্ যিনি দুগর্ম নামক অসুরকে বধ করেছেন। তার আর এক নাম মহামায়া। যিনি সকলের দুগির্ত নাশ করেন। অন্যদিকে, তপতীর দীঘির্দন কোনো সন্ত্মান হয় না।",
+  "question_number": 11,
+  "stimulus": "মীরা মায়ের সাথে পূজা দেখতে যায়। মন্দিরে গিয়ে দেখল এক দেবী মূতির্ যিনি দুগর্ম নামক অসুরকে বধ করেছেন। তার আর এক নাম মহামায়া। যিনি সকলের দুগির্ত নাশ করেন। অন্যদিকে, তপতীর দীঘির্দন কোনো সন্ত্মান হয় না। তাই সন্ত্মান লাভের জন্য একজন বিশেষ দেবতার পূজার মাধ্যমে নতুন সদস্য লাভ করে সুখে-শান্ত্মিতে বসবাস করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যজমান কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৈদিক দেবতা বলতে কী বোঝায়? ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মীরা যে দেবী মূতি দশর্ন করেছে উক্ত পূজা পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তপতী যে দেবতার পূজা করেন উক্ত পূজার প্রভাব ও গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p41",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2023,
+  "verified_visual": false
+ }
+]

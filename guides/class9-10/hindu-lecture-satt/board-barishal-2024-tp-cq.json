@@ -1,0 +1,656 @@
+[
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "বীণা সারা বছরই কোনো না কোনো আচার-অনুষ্ঠান করে থাকে। এসব",
+  "question_number": 1,
+  "stimulus": "বীণা সারা বছরই কোনো না কোনো আচার-অনুষ্ঠান করে থাকে। এসব",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "অঞ্জনা দেবী প্রতিদিন সকালে স্নান করে শুদ্ধ বস্ত্র পরিধান করে পূজা আলোকে বণর্না কর। ৩ অচর্না করেন। পূজা শেষে গীতা ও অন্যান্য ধমর্ গ্রন্থ পাঠ করেন।",
+  "question_number": 2,
+  "stimulus": "অঞ্জনা দেবী প্রতিদিন সকালে স্নান করে শুদ্ধ বস্ত্র পরিধান করে পূজা আলোকে বণর্না কর। ৩ অচর্না করেন। পূজা শেষে গীতা ও অন্যান্য ধমর্ গ্রন্থ পাঠ করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "\"দিবাকরের উলিস্নখিত ধমের্র প্রথম বিশেষ লÿণ বেদকে কেন্দ্র অন্যদিকে, তার স্বামী পরিমল বাবু প্রতিদিন সকালে ধ্যানে বসে ঈশ্বরের করে হিন্দু ধমের্র বিকাশ\" -বিশেস্নষণ কর। ৪ আরাধনা করেন, যা মূলত অন্ত্মরের ভক্তি, শ্রদ্ধা ও ভালোবাসা ইস্ট দেবতার উদ্দেশ্যে প্রকাশ করা হয়।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "সেবা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভগবানের অবতরণের কারণ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অঞ্জনা দেবীর ঈশ্বর আরাধনার পদ্ধতিকে কী বলা হয়? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পরিমল বাবুর উপাসনা পদ্ধতিটি তোমার পাঠের শ্রীমদ্‌ভগবদ্‌গীতার আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "প্রত্যয় বাবু তার সন্ত্মানদের লেখাপড়াসহ যাবতীয় খরচ বহন করেন। তাছাড়া অতিথি সেবা, মা-বাবার ভরণ-পোষণ, সমাজের প্রতি যে কতর্ব্য তিনি নিষ্ঠার সাথে পালন করেন। তার প্রতিবেশী সজল বাবুর ধারণা হলো, জাগতিক সকল ",
+  "question_number": 3,
+  "stimulus": "প্রত্যয় বাবু তার সন্ত্মানদের লেখাপড়াসহ যাবতীয় খরচ বহন করেন। তাছাড়া অতিথি সেবা, মা-বাবার ভরণ-পোষণ, সমাজের প্রতি যে কতর্ব্য তিনি নিষ্ঠার সাথে পালন করেন। তার প্রতিবেশী সজল বাবুর ধারণা হলো, জাগতিক সকল কমর্ পরিত্যাগ করে কেবল ঈশ্বর চিন্ত্মাতেই মগ্ন থাকা। ঈশ্বরের চিন্ত্মায় মগ্ন থাকলেই কমর্ফলাসক্তি ও ভোগাসক্তি ত্যাগ হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "একেশ্বরবাদ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রত্যাহার বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রত্যয় বাবু কোন আশ্রমের অন্ত্মভুর্ক্ত তা পাঠ্যের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"ঈশ্বর চিন্ত্মায় মগ্ন থাকলেই ভোগাসক্তি ও কমর্ফলাসক্তি ত্যাগ হয়\" -সজল বাবুর ধারণা শ্রীমদ্‌ভগবদ্‌গীতার আলোকে বিশেস্নষণ কর। ৪ বিশ্বাসে",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "সুজন তার বাবার একমাত্র সন্ত্মান। বাবার হঠাৎ মৃত্যুতে সে শোকে বিহ্বল হয়ে",
+  "question_number": 4,
+  "stimulus": "সুজন তার বাবার একমাত্র সন্ত্মান। বাবার হঠাৎ মৃত্যুতে সে শোকে বিহ্বল হয়ে",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পড়ে। মৃত্যুর পর পাড়া-প্রতিবেশীরা তার বাবার দেহটিকে বস্ত্রাবৃত্ত ও",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ইন্দ্রিয়কে মালাচন্দনাদি দ্বারা বিভূষিত করে শ্মশানে নিয়ে যায়। আম কাঠ বা চন্দন কাঠ দিয়ে চিতা সাজানোর পর সে পিতার মুখাগ্নি করে। শাস্ত্রানুযায়ী মৃত ব্যক্তির পরিবার ও জাতিবগর্ অশৌচ পালন করে তার আত্মার প্রতি শ্রদ্ধা প্রদশর্ন করেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "জাতকমর্ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"চাতুবর্ণ্যং ময়া সৃষ্টং গুণকমর্ বিভাগশঃ\"-উক্তিটি বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুজনের বাবার অন্ত্ম্যেষ্টিক্রিয়া তোমার পাঠ্যের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সুজনের বাবার অশৌচ পালনের যৌক্তিকতা তোমার পঠিত বিষয়ের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (ক,খ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "উদ্দীপক-১: প্রহলাদ বাবু প্রতিবছর নিজ বাড়িতে অন্যায়ের বিরম্নদ্ধে এবং ঘটেনি। নিজের ও সমাজের মঙ্গলের জন্য এক বিশেষ পূজার আয়োজন করেন। উক্ত পূজার আগমনী উপলÿে মহালয়া উদ্‌যাপন করা হয়। উদ্দীপক-২: শশাঙ্ক বাব",
+  "question_number": 5,
+  "stimulus": "উদ্দীপক-১: প্রহলাদ বাবু প্রতিবছর নিজ বাড়িতে অন্যায়ের বিরম্নদ্ধে এবং ঘটেনি। নিজের ও সমাজের মঙ্গলের জন্য এক বিশেষ পূজার আয়োজন করেন। উক্ত পূজার আগমনী উপলÿে মহালয়া উদ্‌যাপন করা হয়। উদ্দীপক-২: শশাঙ্ক বাবু নিজ গ্রামে কাতির্ক-অগ্রহায়ণ মাসের অমাবস্যা তিথিতে এক বিশেষ দেবীর পূজা করেন। উক্ত পূজার মাধ্যমে আথর্সামাজিক, পারিবারিক ও নৈতিক জীবনে বিভিন্ন প্রভাব পরিলÿিত হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লৌকিক দেবতা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দেবদেবী বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রহলাদ বাবুর বাড়িতে কোন পূজার ইঙ্গিত বহন করে? উক্ত পূজার পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শশাঙ্ক বাবুর গ্রামে কোন দেবীর পূজা অনুষ্ঠিত হয়? উক্ত পূজার শিÿা ও প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "সীমা কিছুদিন থেকে হাঁটতে অসুবিধা বোধ করছে। পা কাঁপে ও শরীর উলেস্নখ দুবর্ল লাগে। সে ডাক্তারের শরণাপন্ন হলে ডাক্তার পরীÿা করে বলেন, তার ধমনীতে হলদে চবির্ জাতীয় পদাথর্ জমেছে। তাকে একটি আসন অনুশীলনের পরাম",
+  "question_number": 6,
+  "stimulus": "সীমা কিছুদিন থেকে হাঁটতে অসুবিধা বোধ করছে। পা কাঁপে ও শরীর উলেস্নখ দুবর্ল লাগে। সে ডাক্তারের শরণাপন্ন হলে ডাক্তার পরীÿা করে বলেন, তার ধমনীতে হলদে চবির্ জাতীয় পদাথর্ জমেছে। তাকে একটি আসন অনুশীলনের পরামশর্ দেন, যা নিয়মিত করলে সে সুস্থ হয়ে উঠবে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অহিংসা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রাণায়ামকে শ্বাস-প্রশ্বাসের বিজ্ঞান বলা হয় কেন? ব্যাখ্যা কর। ২ পাওয়া যায়",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সীমার অনুশীলনকৃত আসনটির অনুশীলন পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সীমার অনুশীলনকৃত আসনটির প্রভাব পাঠ্যের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "হিন্দু ধমের্র শিÿক পরিতোষ বাবু শিÿাথীের্দর ধমের্র বিশেষ লÿণ আচার-অনুষ্ঠানের মাধ্যমে সে জীবনটাকে আনন্দময় ও কল্যাণময় করে কয়টি ও কী কী তা খাতায় লিখতে বললেন। দিবাকর লিখল- গড়ে তুলে। এগুলোর মধ্যে কিছু আছে ধ",
+  "question_number": 7,
+  "stimulus": "হিন্দু ধমের্র শিÿক পরিতোষ বাবু শিÿাথীের্দর ধমের্র বিশেষ লÿণ আচার-অনুষ্ঠানের মাধ্যমে সে জীবনটাকে আনন্দময় ও কল্যাণময় করে কয়টি ও কী কী তা খাতায় লিখতে বললেন। দিবাকর লিখল- গড়ে তুলে। এগুলোর মধ্যে কিছু আছে ধমার্চার, আবার কিছু আছে aGgÆi weGkl j ÞY ধমার্নুষ্ঠান, যা জাতি-বণর্ নিবিের্শষে সাম্যের শিÿা দেয়। aGgÆi weGkl j ÞY Pvi wU| h^v@",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দীপাবলি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নবান্ন উৎসব কেন করা হয়? ব্যাখ্যা কর। ২ ● ˆea ● ÕÃ†wZ ● m`vPvi ● weGeGKi evYx",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "'পারিবারিক ও সামাজিক জীবনে বীণার ধমার্চারের গুরম্নত্ব অধিক' -পাঠ্যের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ক",
+    "text": "আরম্নণি কে ছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "ঘ",
+    "text": "'বীণার ধমার্নুষ্ঠানটি সাম্যের শিÿা দেয়' -তোমার পঠিত বিষয়ের",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "হিন্দু ধমের্ক বৈদিক ধমর্ বলা হয় কেন? ২ আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "গ",
+    "text": "দিবাকরের উলিস্নখিত ধমের্র বিশেষ লÿণগুলো মনুসংহিতার",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,খ,গ,ক,ঘ,খ,গ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "সাধন বাবু ছিলেন একমাত্র আদরের সন্ত্মান। তার ছিল অসাধারণ মেধা ও স্মৃতিশক্তি। তিনি বত্রিশ বছরের জীবনে অসাধারণ কিছু কাজ করে জগতের বুকে স্মরণীয় হয়ে আছেন। \"ব্রহ্ম সত্য, জগৎ মিথ্যা\"- এ সত্যটি তিনি পালন করতে",
+  "question_number": 8,
+  "stimulus": "সাধন বাবু ছিলেন একমাত্র আদরের সন্ত্মান। তার ছিল অসাধারণ মেধা ও স্মৃতিশক্তি। তিনি বত্রিশ বছরের জীবনে অসাধারণ কিছু কাজ করে জগতের বুকে স্মরণীয় হয়ে আছেন। \"ব্রহ্ম সত্য, জগৎ মিথ্যা\"- এ সত্যটি তিনি পালন করতেন। \"জীব ও ব্রহ্মের মধ্যে কোনো পাথর্ক্য নেই\"- এ ছিল তার জীবনের চরম সত্য ও অবদান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অবতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"শ্রীকৃষ্ণ হচ্ছেন ভগবানের পূণার্বতার\"- উক্তিটি বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সাধন বাবু শ্রী শঙ্করাচাযের্র প্রতিচ্ছবি তোমার পাঠের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"জীব ও ব্রহ্মের মধ্যে কোনো পাথর্ক্য নেই\"- উক্তিটি শ্রী শঙ্করাচাযের্র মোহমুদগর কাব্যের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "বিমল খুবই ভালো ছাত্র ছিল। সে অসৎ সঙ্গে মিশে মাদকাসক্ত হয়ে পড়ে। তার বাবা-মা অত্যন্ত্ম চিন্ত্মিত হয়ে তাকে মাদকাসক্ত নিরাময় কেন্দ্রে ভতির্ করিয়ে দেন। অন্যদিকে, প্রতিম অন্যের দোকানে ম্যানেজার হয়ে প্রত্যে",
+  "question_number": 9,
+  "stimulus": "বিমল খুবই ভালো ছাত্র ছিল। সে অসৎ সঙ্গে মিশে মাদকাসক্ত হয়ে পড়ে। তার বাবা-মা অত্যন্ত্ম চিন্ত্মিত হয়ে তাকে মাদকাসক্ত নিরাময় কেন্দ্রে ভতির্ করিয়ে দেন। অন্যদিকে, প্রতিম অন্যের দোকানে ম্যানেজার হয়ে প্রত্যেকদিন অনেক টাকা-পয়সার লেনদেন করে। মানিক সরল তাকে দায়িত্ব দিয়েছেন বিধায় সেও বিশ্বাসের অমযার্দা করেনি। ধমর্ পথ কাকে বলে? ১ কীভাবে বশীভূত করা যায়? ব্যাখ্যা কর। ২",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "বিমলের এ অবস্থার প্রতিকার ও প্রতিরোধের উপায় তোমার পাঠোর আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রতিমের বিশ্বাস \"সততাই সবোর্ৎকৃষ্ট পন্থা\"-পঠিত বিষয়ের আলোকে মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "সুবিনয় বাবু একজন ধামির্ক ব্যক্তি। তিনি একজন পূণার্বতারের আরাধনা করেন। পূণার্বতার ভগবান শ্রীকৃষ্ণ ন্যায় পরায়ণতার শিÿা দিয়েছেন, তিনি ভক্তের কাছে ভগবান। অন্যদিকে ডাঃ বিশ্বজিৎ একজন নামকরা সাজর্ন। অপারেশন",
+  "question_number": 10,
+  "stimulus": "সুবিনয় বাবু একজন ধামির্ক ব্যক্তি। তিনি একজন পূণার্বতারের আরাধনা করেন। পূণার্বতার ভগবান শ্রীকৃষ্ণ ন্যায় পরায়ণতার শিÿা দিয়েছেন, তিনি ভক্তের কাছে ভগবান। অন্যদিকে ডাঃ বিশ্বজিৎ একজন নামকরা সাজর্ন। অপারেশন থিয়েটারে তার হাতে কখনো কোনো রোগীর মৃত্যু এজন্য সবাই তাকে একজন মহান চিকিৎসক হিসেবে সম্মান করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অংশাবতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"যত মত তত পথ\" -ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "\"সুবিনয় বাবু পূণার্বতার ভগবান শ্রীকৃষ্ণের আরাধনা করেন\"- কথাটি পাঠ্যের আলোকে বুঝিয়ে লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ডা. বিশ্বজিতের মধ্যে প্রাচীন ভারতের যে চিকিৎসকের আদশর্ লÿ্য করা যায়, তার তাৎপযর্ মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-barishal-2024-tp-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-barishal-2024-tp",
+  "question_text": "নরেশ বাবু একজন ধামির্ক লোক। ছাত্রজীবন শেষে তিনি সমাজসেবায় মনোনিবেশ করেন। সারা ভারত ঘুরে তিনি দেখতে পান মানুষের দুঃখ- দুদর্শা এবং শিÿা ও কমের্ÿত্রে নারীদের পিছিয়ে পড়ার চিত্র। নারীদের শিÿার জন্য তিনি ন",
+  "question_number": 11,
+  "stimulus": "নরেশ বাবু একজন ধামির্ক লোক। ছাত্রজীবন শেষে তিনি সমাজসেবায় মনোনিবেশ করেন। সারা ভারত ঘুরে তিনি দেখতে পান মানুষের দুঃখ- দুদর্শা এবং শিÿা ও কমের্ÿত্রে নারীদের পিছিয়ে পড়ার চিত্র। নারীদের শিÿার জন্য তিনি নানা কমর্কা-শুরম্ন করেন। তিনি নিজে কয়েকটি বাণী করে বলেন, যে জাতি নারীদের সম্মান দেয় না, সে জাতি কখনো বড় হতে পারে না।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দুধাজী কে ছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শ্রী বিজয়কৃষ্ণ কেন ব্রাহ্মধমর্ গ্রহণ করেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'নরেশ বাবুর কমর্কাে-র সাথে পাঠ্যপুস্ত্মকের কোন চরিত্রের মিল তা বণর্না কর। ৩ ঘ.'নরেশ বাবুর কমর্কা- স্বামী বিবেকানন্দের কয়েকটি বাণীর পরিপূরক' -বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — barishal Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p31",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "barishal",
+  "board_year": 2024,
+  "verified_visual": false
+ }
+]

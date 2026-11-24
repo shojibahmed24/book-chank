@@ -1,0 +1,616 @@
+[
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "নীলাদের গ্রামের মন্দিরে আষাঢ় মাসে শুক্লা দ্বিতীয়াতে এক অনুষ্ঠানের আয়োজন চলছে।",
+  "question_number": 1,
+  "stimulus": "নীলাদের গ্রামের মন্দিরে আষাঢ় মাসে শুক্লা দ্বিতীয়াতে এক অনুষ্ঠানের আয়োজন চলছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "বিজন বাবু একজন সিদ্ধপুরম্নষ। তিনি মানুষের সুখশান্ত্মির কথা চিন্ত্মা করে সেবা শিক্ষা ও প্রভাব বিশেস্নষণ কর। ৪ আশ্রম প্রতিষ্ঠা করেন। মানুষের সেবার ভার নিজেই গ্রহণ করেন। তাঁকে স্মরণ করলে সকল বিপদ-আপদ থেক",
+  "question_number": 2,
+  "stimulus": "বিজন বাবু একজন সিদ্ধপুরম্নষ। তিনি মানুষের সুখশান্ত্মির কথা চিন্ত্মা করে সেবা শিক্ষা ও প্রভাব বিশেস্নষণ কর। ৪ আশ্রম প্রতিষ্ঠা করেন। মানুষের সেবার ভার নিজেই গ্রহণ করেন। তাঁকে স্মরণ করলে সকল বিপদ-আপদ থেকে তিনি আমাদের রÿা করেন। তার প্রতিষ্ঠিত আশ্রমটি বতর্মানে নারায়ণগঞ্জ জেলায় অবস্থিত। অন্যদিকে, রাজন বাবু ঊনবিংশ শতকে লÿ করেন, হিন্দু সম্প্রদায়ের লোকজন দেবদেবীর পূজা নিয়ে ছোট ছোট দলে বিভক্ত হয়ে শক্তিহীন হয়ে পড়ছে। তখন তিনি বলেন, \"সকল উপাস্য একই ব্রহ্মের বিভিন্ন প্রকাশ\" সকলকে ব্রহ্মের সাধনার কথা জানালেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জ্ঞানযোগ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন আশ্রমের মাধ্যমে শিÿাজীবন শেষ করতে হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিজন বাবুর মধ্যে কোন মনীষীর প্রতিচ্ছবি ফুটে উঠেছে? পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের রাজন বাবুর মধ্যে যে যুক্তিবাদী সংস্কারকের বৈশিষ্ট্য পরিলÿিত হয় উক্ত সংস্কারকের কাজের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "সমীর শরীর সুস্থ রাখার জন্য একটি আসন অনুশীলন করে। যার ফলে তার কিডনি সজীব",
+  "question_number": 3,
+  "stimulus": "সমীর শরীর সুস্থ রাখার জন্য একটি আসন অনুশীলন করে। যার ফলে তার কিডনি সজীব",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "থাকে। ছাত্রজীবনের দায়িত্ব পালন করা সহজ হয়। শরীর লম্বা হয়। অন্যদিকে, মাখন বাবু পাচনতন্ত্রকে ভালো রাখা, শরীরকে সুস্থ রাখা, জীব আত্মার সাথে পরমাত্মার যোগ স্থাপন, শরীরের চবির্ কমানো, এ সকল কাজে সাফল্যের জন্য বিশেষ কৌশলে সাধনা করেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "স্ত্মেয় কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সাধক কীসের মাধ্যমে নিজের মনকে সম্পূণর্রূপে ঈশ্বরে সঁপে দিতে পারে? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সমীর শরীর সুস্থ রাখার জন্য যে আসন অনুশীলন করে উক্ত আসনের অনুশীলন পদ্ধতির বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মাখন বাবুর কাযর্কলাপ সাধনার যে পযার্য়ভুক্ত তার গুরম্নত্ব বিশেস্নষণ কর। ৪  অমল বাবু ছেলে মেয়েদেরকে অথর্কড়ি ব্যয় করে সঠিক শিÿায় শিÿিত করেন। তিনি মাতাপিতার দেখাশোনাসহ অতিথি সেবা করেন। সমাজের অন্য সকল কতর্ব্য নিষ্ঠার সাথে পালন করেন। দিনের খাবার লোকালয় থেকে সংগ্রহ করেন। রাতে ফলমূল খেয়ে জীবনধারণ করেন। সবসময় ঈশ্বর চিন্ত্মায় মগ্ন থাকেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "একেশ্বরবাদ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভগবানকে ভোগ্যবস্তু নিবেদন করা হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অমল বাবুর কমর্কা-মানবজীবনের কোন আশ্রমভুক্ত? তা পাঠ্যপুস্ত্মকের আলোকে আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিমল বাবুর কাজের মাধ্যমে কি মুক্তিলাভ সম্ভব? সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 9টি অংশ (ক,ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "হরিভক্ত অভিক সবসময় শ্রী হরিকে ডাকে। সে সবকিছুর মধ্যেই শ্রী হরিকে যুক্তি দেখতে পায়। কিন্তু অভিকের বাবা রাজীব নিজেকে ÿমতাবান মনে করে। অভিকের হরিভক্তিতে রাজীব রেগে গিয়ে তাকে বিভিন্ন উপায়ে মেরে ফেলার চেষ",
+  "question_number": 5,
+  "stimulus": "হরিভক্ত অভিক সবসময় শ্রী হরিকে ডাকে। সে সবকিছুর মধ্যেই শ্রী হরিকে যুক্তি দেখতে পায়। কিন্তু অভিকের বাবা রাজীব নিজেকে ÿমতাবান মনে করে। অভিকের হরিভক্তিতে রাজীব রেগে গিয়ে তাকে বিভিন্ন উপায়ে মেরে ফেলার চেষ্টা করে ব্যথর্ হয়। অভিক শ্রী হরির কৃপায় সকল বিপদ থেকে নিজেকে রÿা করে। অন্যদিকে, দিলীপ বিদ্যালয়ের পাঠ শেষে বিকালে বাড়ি ফেরার সময় রাস্ত্মার পাশে একটি ব্যাগ পড়ে থাকতে দেখে। ব্যাগে টাকা ছিল সাথে একটি পরিচয়পত্র। দিলীপ ব্যাগটি নিজে না নিয়ে মালিকের ঠিকানায় ব্যাগটি পৌঁছে দেয়। ব্যাগের মালিক টাকা পেয়ে খুবই খুশি হন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নৈতিক মূল্যবোধ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধামির্ক ব্যক্তি সত্যপ্রিয় হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অভিকের কমর্কাে-র সাথে পাঠ্যপুস্ত্মকের কোন বালক চরিত্রের সাদৃশ্য",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "আকাশদের আছে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে দিলীপের মধ্যে যে গুণটির প্রতিফলন ঘটেছে তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,খ,গ,ঘ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "চয়নদের গ্রামের মন্দিরে দুঃখ-দুদর্শা থেকে মুক্তির জন্য গ্রামবাসী বিশেষ এক দেবীর করতে চায়। তাই পূজা করে। এটি হিন্দু সম্প্রদায়ের প্রধান ধমীর্য় উৎসব। ধনী-গরিব সকলে সাধ্যমত অনুষ্ঠানে পাড়া-প্রতিবেশী, ছেলে",
+  "question_number": 6,
+  "stimulus": "চয়নদের গ্রামের মন্দিরে দুঃখ-দুদর্শা থেকে মুক্তির জন্য গ্রামবাসী বিশেষ এক দেবীর করতে চায়। তাই পূজা করে। এটি হিন্দু সম্প্রদায়ের প্রধান ধমীর্য় উৎসব। ধনী-গরিব সকলে সাধ্যমত অনুষ্ঠানে পাড়া-প্রতিবেশী, ছেলেমেয়েদের নতুন জামা-কাপড় কিনে দেয়। সকলে এ উৎসবে অংশগ্রহণ করে। লাল পেড়ে অপরদিকে, কাকলীদের পাড়ায় প্রায় প্রতি পরিবারের লোক অসুস্থ। তাদের শরীরে জলভরা ফোট উঠেছে এবং শরীরে প্রচ-ব্যাথা। এ রোগ থেকে মুক্তির জন্য পাড়ার শোকাহত। তাই লোকজন তিতাপাতা বহনকারী এক বিশেষ দেবীর পূজার মাধ্যমে রোগমুক্তি লাভ করে ক.পৌরাণিক দেবতা কাকে বলে? ১ অনুষ্ঠানের",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "প্রকৃতপÿে কীসের মাধ্যমে উৎসবের সৃষ্টি হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চয়নদের গ্রামের মন্দিরে গ্রামবাসী যে দেবীর পূজা করে উক্ত দেবীর রূপ পাঠ্যপুস্ত্মকের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কাকলীদের পাড়ার লোকজন যে দেবীর পূজার মাধ্যমে রোগমুক্তি লাভ করে উক্ত দেবীর পূজার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "মমতা এবং বিধানের বিবাহের এক যুগ পার হয়েছে। তাদের কোনো সন্ত্মান হয়নি। অনুষ্ঠানটি সফল করার জন্য চাকা লাগানো একটি গাড়ি ফুল দিয়ে সুন্দর করে সাজানো অনেক জায়গায় মানত করেও কোনো ফল পায়নি। তারা গুরম্নদেবের কথা",
+  "question_number": 7,
+  "stimulus": "মমতা এবং বিধানের বিবাহের এক যুগ পার হয়েছে। তাদের কোনো সন্ত্মান হয়নি। অনুষ্ঠানটি সফল করার জন্য চাকা লাগানো একটি গাড়ি ফুল দিয়ে সুন্দর করে সাজানো অনেক জায়গায় মানত করেও কোনো ফল পায়নি। তারা গুরম্নদেবের কথামত বিশেষ হয়। গাড়িতে দড়ি বেঁধে ছোটবড় সকলে মিলে টেনে এক মন্দির থেকে অন্য মন্দিরে এক দেবতার পূজা করে। যিনি-সেনাপতি হিসেবে পরিচিত। এ দেবতার পূজার নিয়ে যায়। গাড়িতে তিনটি দেবতার বিগ্রহ থাকে। অপরদিকে, কবিতা মনের কষ্ট মাধ্যমে সন্ত্মান লাভ করে সুখে-শান্ত্মিতে বসবাস করে। অন্যদিকে, রীপা প্রাকৃতিক লাঘবের জন্য বিভিন্ন পবিত্র জায়গায় ঘুরে বেড়ায়। পবিত্র স্থানগুলো মানুষের দ্বারা সৃষ্টি দুযোর্গ মোকাবিলার জন্য এক বিশেষ দেবীর পূজা করে। যে দেবী শিবের শক্তিরূপে হয়নি। পাহাড়, পবর্ত, বড় বড় গাছের নিচে, নদীর কূলে এ পবিত্র স্থান গড়ে উঠেছে। দেখা দিয়েছিলেন। গভীর অন্ধকার রাতে এ দেবীর পূজা করা হয়। এ সকল স্থান ঘুরলে মনে শান্ত্মি আসে এবং পরিবারের মঙ্গল হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বৈদিক দেবতা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "ক",
+    "text": "ধমার্চার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পুরোহিত বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "কোন ধমার্চারের মাধ্যমে শিশুরা আনুষ্ঠানিকভাবে লেখাপড়ার জগতে প্রবেশ করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মমতা এবং বিধান যে দেবতার পূজা করে সন্ত্মান লাভ করে উক্ত দেবতার",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "নীলাদের গ্রামের মন্দিরে অনুষ্ঠিত অনুষ্ঠানটি পাঠ্যপুস্ত্মকের আলোকে বণর্না কর। ৩ পরিচয় বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কবিতা যে পবিত্র স্থান দশের্নর ইঙ্গিত দিয়েছে তার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "ঘ",
+    "text": "রীপা দুযোর্গ মোকাবিলায় যে বিশেষ দেবীর পূজা করে উক্ত দেবীর পূজার",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,ক,খ,খ,গ,গ,ঘ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "রবেন প্রতিদিন একটি আসন সুদীপ প্রতিদিন একটি আসন অনুশীলন করে যার ফলে− অনুশীলন করে যার ফলে− • • শরীর গাছের মতো দেখায় শরীরকে সরীসৃপের মতো দেখায়। • রক্তের হলদে চবির্ কমে যায় • পায়ের তলা উপরের দিকে থাকে। • ",
+  "question_number": 8,
+  "stimulus": "রবেন প্রতিদিন একটি আসন সুদীপ প্রতিদিন একটি আসন অনুশীলন করে যার ফলে− অনুশীলন করে যার ফলে− • • শরীর গাছের মতো দেখায় শরীরকে সরীসৃপের মতো দেখায়। • রক্তের হলদে চবির্ কমে যায় • পায়ের তলা উপরের দিকে থাকে। • শরীরকে সঠিকভাবে • উপুর হয়ে নমস্কারের ভঙ্গিতে পরিচালনা করা যায় থাকে। • শিরদাঁড়া সোজা থাকলে পিঠ মন্দিরের চূড়ার মতো দেখায়। তপ কী? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "প্রত্যাহার বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রবেনের অনুশীলনকৃত আসনে যে বৈশিষ্ট্য পরিলÿিত হয় উক্ত আসনের অনুশীলন পদ্ধতি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সুদীপের অনুশীলনকৃত আসনটির প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "দীপক পরিবার থেকে চালচলন আদবকায়দা শিখেছে। সে প্রতিদিন সকালে ঘুম থেকে উঠে মাতাপিতাকে পায়ে হাত দিয়ে সম্মান জানায়, ছোটদেরকে স্নেহ করে। সকলের সাথে ভালো ব্যবহার করে। সকলে তাকে ভালোবাসে। অপরদিকে, নয়ন খারাপ ",
+  "question_number": 9,
+  "stimulus": "দীপক পরিবার থেকে চালচলন আদবকায়দা শিখেছে। সে প্রতিদিন সকালে ঘুম থেকে উঠে মাতাপিতাকে পায়ে হাত দিয়ে সম্মান জানায়, ছোটদেরকে স্নেহ করে। সকলের সাথে ভালো ব্যবহার করে। সকলে তাকে ভালোবাসে। অপরদিকে, নয়ন খারাপ বন্ধুদের সাথে মিশে লেখাপড়া বন্ধ করেছে। সে অনেক রাত করে বাড়ি ফিরে। অনৈতিক কাজে জড়িয়ে বাবা, ভাইয়ের পকেট থেকে টাকা পয়সা নেয়। সামান্য কথায় রেগে যায়। পরিবারের সকলের সাথে অস্বাভাবিক আচরণ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অভিবাদন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'পঞ্চাঙ্গ প্রণাম' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দীপকের কাজের মধ্যে কীসের প্রকাশ ঘটেছে? তা পাঠ্যপুস্ত্মকের ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "নয়নকে স্বাভাবিক জীবনে ফিরিয়ে আনতে পরিবার ও সমাজ কী ধরনের প্রতিরোধমূলক ব্যবস্থা গ্রহণ করতে পারে বলে তুমি মনে কর? সপÿে দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "শোভন ফাল্গুনী পূণির্মায় একটি অনুষ্ঠানে অংশগ্রহণ করে। অনুষ্ঠানটিতে ছোটবড় সকলে মিলে একে অন্যকে গুঁড়া রং মাখামাখি করে। অকল্যাণকে দূর করার জন্য পূজার আগের দিন বুড়ির ঘর পুড়িয়ে প্রতীকী অনুষ্ঠান করা হয়। অন",
+  "question_number": 10,
+  "stimulus": "শোভন ফাল্গুনী পূণির্মায় একটি অনুষ্ঠানে অংশগ্রহণ করে। অনুষ্ঠানটিতে ছোটবড় সকলে মিলে একে অন্যকে গুঁড়া রং মাখামাখি করে। অকল্যাণকে দূর করার জন্য পূজার আগের দিন বুড়ির ঘর পুড়িয়ে প্রতীকী অনুষ্ঠান করা হয়। অন্যদিকে, আকাশদের বাড়ির সামনের মন্দিরে একটি বিশেষ অনুষ্ঠান চলছে। অনুষ্ঠানটিতে সকল ধরনের লোকজন দূরদূরান্ত্ম থেকে আসছে। অনুষ্ঠানে সবসময় শ্রীকৃষ্ণ ও শ্রীরামচন্দ্রের নাম জপ হচ্ছে। মিলন মেলায় পরিণত হয়েছে মন্দিরের মাঠ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংক্রান্ত্মি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন ধমার্চারের মাধ্যমে সকল বিশ্বকে আলোকিত করা যায়? বাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শোভন যে অনুষ্ঠানে অংশগ্রহণ করেছে তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর। ৩ বাড়ির সামনের মন্দিরে অনুষ্ঠিত অনুষ্ঠানটির মাধ্যমে কী জাতীয় ঐক্য গড়ে তোলা সম্ভব? সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dhaka-2023-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dhaka-2023-tp",
+  "question_text": "মিতা লেখাপড়া শেষ করে বাড়িতে বসে আছে। মিতার বাবা মেয়েকে সংসারী মিতার জন্য বিশেষ একটি, অনুষ্ঠানের আয়োজন করে। আত্মীয়স্বজন সকলে উপস্থিত ছিল। সোনার গহনা, শাড়ি পরিয়ে মিতাকে সুন্দর করে সাজানো হয়। অনুষ্ঠান",
+  "question_number": 11,
+  "stimulus": "মিতা লেখাপড়া শেষ করে বাড়িতে বসে আছে। মিতার বাবা মেয়েকে সংসারী মিতার জন্য বিশেষ একটি, অনুষ্ঠানের আয়োজন করে। আত্মীয়স্বজন সকলে উপস্থিত ছিল। সোনার গহনা, শাড়ি পরিয়ে মিতাকে সুন্দর করে সাজানো হয়। অনুষ্ঠানের দিনটি ছিল মিতার জীবনের বিশেষ দিন। অপরদিকে, পলির মা মারা যাওয়ায় সে মায়ের আত্মার শান্ত্মির জন্য বাড়িতে বিশেষ অনুষ্ঠানের আয়োজন করে। অনুষ্ঠানে ছাতা, পাদুকা, বস্ত্রসহ বিভিন্ন দ্রব্যসামগ্রী উৎসগর্ করে কাজ শেষে করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমাবতর্ন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হিন্দু নারীর জীবনের গুরম্নত্বপূণর্ ঘটনার ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মিতার জীবনের বিশেষ দিনের অনুষ্ঠানটি পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পলির মায়ের আত্মার শান্ত্মির উদ্দেশ্যে পালিত অনুষ্ঠানটির পারিবারিক ও সামাজিক গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dhaka Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p34",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dhaka",
+  "board_year": 2023,
+  "verified_visual": false
+ }
+]

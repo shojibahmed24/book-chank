@@ -1,0 +1,661 @@
+[
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "ÿমতাবান মহান একজনের বিশেষ ছয়টি গুণের জন্য তাকে বিশেষ নামে ডাকা",
+  "question_number": 1,
+  "stimulus": "ÿমতাবান মহান একজনের বিশেষ ছয়টি গুণের জন্য তাকে বিশেষ নামে ডাকা",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্ত্মেয় কাকে বলে? ১ হয়। তিনি ÿমতাবান হলেও ভক্তের ডাকে সাড়া দেন। প্রয়োজনে ভক্তের বোঝা",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "প্রত্যাহার বলতে কী বোঝায়? ২ নিজেই বহন করেন। জীবের ন্যায় দেহধারী হয়ে দুঃখ-কষ্ট ভোগ করেন।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র-১-এর আসনটির অনুশীলন পদ্ধতি বণর্না কর। ৩ অন্যদিকে, মেধা ও রোদেলা সকালে ঘুম থেকে উঠে স্নান সেরে পূজা-অচর্না",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র-২-এর আসন অনুশীলনের মাধ্যমে মানবজীবনে কী কী প্রভাব পড়ে করে। মেধা মূতির্র সামনে বসে পূজা উপকরণ দ্বারা পূজা সম্পন্ন করে। রোদেলা তা বিশেস্নষণ কর। ৪ একাকী নিজর্ন স্থানে চোখ বুজে বসে সৃষ্টিকতার্র আরাধনা করে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "পরমাত্মা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ঈশ্বররূপে বিভিন্ন দেব-দেবীর পূজা করা হয় কেন? ২ অনুষ্ঠানে। এ",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "ÿমতাবান মহান একজনকে বিশেষ গুণের জন্য তাকে যে নামে ডাকা হয়, তার স্বরূপ পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের আলোকে মেধা ও রোদেলার আরাধনার ধরন বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "দৃশ্যকল্প-১: আশিষের বাবা গত রাতে মারা গেছে। আশিষ পাড়া প্রতিবেশী ও",
+  "question_number": 2,
+  "stimulus": "দৃশ্যকল্প-১: আশিষের বাবা গত রাতে মারা গেছে। আশিষ পাড়া প্রতিবেশী ও",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমার্চার আত্মীয়স্বজনের সহায়তায় কাঠ-বাঁশের আটি বেঁধে শ্মশানের উদ্দেশ্যে রওনা হয়। সেখানকার সবকাজ সম্পন্ন করে সকলে বাড়ি ফিরে আসে। দৃশ্যকল্প-২: বলাইয়ের মা মারা গেছে। বলাই মায়ের আত্মার শান্ত্মির উদ্দেশ্যে একটি অনুষ্ঠান পালন করে। অনুষ্ঠানে পুরোহিত ডেকে বিভিন্ন প্রকার দ্রব্যসামগ্রী উৎসগর্ করে আনুষ্ঠানিকতা সম্পন্ন করে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "জাতকমর্ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিবাহের উলেস্নখযোগ্য পবের্র ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১-এ আশিষের বাবার উদ্দেশ্যে সম্পন্ন কাজটির পদ্ধতি তিনি ঔষধি পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দৃশ্যকল্প-২-এ পারিবারিক ও সামাজিক জীবনে বলাইয়ের মায়ের আত্মার মানিকের স্মরণশক্তি শান্ত্মির উদ্দেশ্যে পালিত অনুষ্ঠানটির গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "ইজিবাইক চালক শিমুল হঠাৎ তার গাড়িতে গুরম্নত্বপূণর্ কাগজপত্রসহ টাকা ভতির্ ব্যাগ আয়ু দেখতে পায়। চারিদিকে তাকিয়ে দেখে কোনো লোকজন নেই। ব্যাগের গায়ে ঠিকানাসহ মোবাইল নম্বর লেখা দেখে। মালিককে মোবাইল না করে ",
+  "question_number": 3,
+  "stimulus": "ইজিবাইক চালক শিমুল হঠাৎ তার গাড়িতে গুরম্নত্বপূণর্ কাগজপত্রসহ টাকা ভতির্ ব্যাগ আয়ু দেখতে পায়। চারিদিকে তাকিয়ে দেখে কোনো লোকজন নেই। ব্যাগের গায়ে ঠিকানাসহ মোবাইল নম্বর লেখা দেখে। মালিককে মোবাইল না করে ব্যাগটি মালিকের ঠিকানায় পৌঁছে দিয়ে আসে। গুরম্নত্বপূণর্ কাগজসহ টাকার ব্যাগ পেয়ে মালিক খুশি হয়। অপরদিকে, মেধাবী ছাত্র মিহির লেখাপড়ায় ভালো। কিন্তু বতর্মানে খারাপ বন্ধুদের সাথে মিশে নেশার জগতে প্রবেশ করেছে। নেশা দ্রব্য ক্রয়ের জন্য অনেক টাকার প্রয়োজন হয়। মাঝে মাঝে সে তার দাদা ও বাবার পকেট থেকে টাকা নেয়। অনেক রাত করে বাড়ি আসে। পরিবারের সদস্যদের সাথে খারাপ আচরণ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিষ্টাচার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধমর্ ধামির্ককে কেন রÿা করে? ব্যাখ্যা কর। ২ পড়া",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "ইজিবাইক চালক শিমুলের মধ্যে যে গুণটির প্রতিফলন ঘটেছে তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের মিহিরকে স্বাভাবিক জীবনে ফিরিয়ে আনতে পরিবার, সমাজ ও ধমর্ কী ধরনের প্রতিরোধমূলক ব্যবস্থা নিতে পারে বলে মনে কর? মতামত দাও৷ ৪ দুপুরের",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "রবেন বাবু একটি সংগঠন প্রতিষ্ঠা করেন। সংগঠনটির নামের মধ্যেই তার পরিচয় ঈশ্বর পাওয়া যায়। সংগঠনের কাজের জন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট থেকে কোনো টাকা-পয়সা চেয়ে নেওয়া যাবে না। আত্মনিভর্রশীল হয়ে সম",
+  "question_number": 4,
+  "stimulus": "রবেন বাবু একটি সংগঠন প্রতিষ্ঠা করেন। সংগঠনটির নামের মধ্যেই তার পরিচয় ঈশ্বর পাওয়া যায়। সংগঠনের কাজের জন্য কোনো ব্যক্তি বা প্রতিষ্ঠানের নিকট থেকে কোনো টাকা-পয়সা চেয়ে নেওয়া যাবে না। আত্মনিভর্রশীল হয়ে সমাজের কল্যাণে কাজ করাই",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "এ সংগঠনের উদ্দেশ্য। অন্যদিকে, রমেশ বাবু কিছু ভালো লোকদের নিয়ে আর একটি সংগঠন প্রতিষ্ঠা করেন। সংগঠনটি পাঁচটি মূলনীতির ওপর প্রতিষ্ঠিত হয়। ধমর্ ও বিজ্ঞানকে একসাথে করে জীবন গঠন করা -এ সংগঠনে কাজ।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "নৃ-যজ্ঞ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভক্তিযোগ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রবেন বাবুর কমর্কাে-র সাথে কোন মহা পুরম্নষের মিল আছে তা সম্পকের্ আলোচনা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের রমেশ বাবুর প্রতিষ্ঠিত সংগঠনের প্রধান নীতিগুলোর মাধ্যমে কি আদশর্ মানুষ গড়ে তোলা সম্ভব? সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (খ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "মিনতি প্রাকৃতিক দুযোর্গ থেকে রÿা পাওয়ার জন্য এক বিশেষ দেবীর পূজা কিছুকে করে। এ দেবীর পূজা অমাবস্যা তিথিতে গভীর রাতে করা হয়। গলায় থাকে নরমু-ুর মালা। তিনি ভয়ংকর চ--মুন্ডাকে বধ করেন। অপরদিকে, ইমার বিবা",
+  "question_number": 5,
+  "stimulus": "মিনতি প্রাকৃতিক দুযোর্গ থেকে রÿা পাওয়ার জন্য এক বিশেষ দেবীর পূজা কিছুকে করে। এ দেবীর পূজা অমাবস্যা তিথিতে গভীর রাতে করা হয়। গলায় থাকে নরমু-ুর মালা। তিনি ভয়ংকর চ--মুন্ডাকে বধ করেন। অপরদিকে, ইমার বিবাহ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "হয়েছে অনেক বছর হলো। ইমার কোনো সন্ত্মান হয়নি। তাই সে গুরম্নদেবের কথামতো এক বিশেষ দেবতার পূজা করে সন্ত্মানলাভ করে। বতর্মানে স্বামী সন্ত্মান নিয়ে সুখেই বাস করছে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "লৌকিক দেবতা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পুরোহিত কথাটির অথর্ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মিনতি প্রাকৃতিক দুযোর্গ থেকে রÿার জন্য যে দেবীর পূজা করে উক্ত দেবীর পরিচয় পাঠ্যপুস্ত্মকের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ইমা যে বিশেষ দেবতার পূজা করে সন্ত্মান লাভ করেছে উক্ত দেবতার পূজার গুরম্নত্ব ও প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (খ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "নেন। চিত্র-১ চিত্র-২",
+  "question_number": 6,
+  "stimulus": "নেন। চিত্র-১ চিত্র-২",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "চয়নদের গ্রামের বাড়িতে মন্দিরের মাঠে কয়েক প্রহরব্যাপী চলছে একটি অনুষ্ঠান। অনেক দূর-দূরান্ত্ম থেকে ভক্তগণ দলে দলে এসে যোগ দিচ্ছে এ অনুষ্ঠানের মাধ্যমে ভগবান শ্রীকৃষ্ণ ও শ্রীরামচন্দ্রের পূজা করা হয়। অপ",
+  "question_number": 7,
+  "stimulus": "চয়নদের গ্রামের বাড়িতে মন্দিরের মাঠে কয়েক প্রহরব্যাপী চলছে একটি অনুষ্ঠান। অনেক দূর-দূরান্ত্ম থেকে ভক্তগণ দলে দলে এসে যোগ দিচ্ছে এ অনুষ্ঠানের মাধ্যমে ভগবান শ্রীকৃষ্ণ ও শ্রীরামচন্দ্রের পূজা করা হয়। অপরদিকে, অজয় বাবু মনের শান্ত্মির জন্য বিভিন্ন ঐতিহাসিক পবিত্র স্থান ঘুরে দেখেন। এতে তার জ্ঞান বৃদ্ধি পায়। তার ঘুরে দেখা স্থানগুলো অধিকাংশই বড় বড় পাহাড়ের উপর, বড় গাছের নীচে বা নদীর ধারে হয়ে থাকে। কী? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "নতুন ধান দিয়ে পিঠা-পায়েশ তৈরির অনুষ্ঠানের ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চয়নদের গ্রামের মন্দিরের মাঠে অনুষ্ঠিত অনুষ্ঠানটি পাঠ্যপুস্ত্মকের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অজয় বাবু মনে শান্ত্মির জন্য যে ঐতিহাসিক পবিত্র স্থান ঘুরে দেখার ইঙ্গিত দিয়েছেন তার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "কনক একজন মহান চিকিৎসক। তিনি মানব শরীরে কাটা-ছেঁড়া বিদ্যায় পারদশীর্। গাছ-গাছড়ার মাধ্যমে মানুষের চিকিৎসা দেন। ভেষজবিদ্যার চিকিৎসা সংক্রান্ত্ম গ্রন্থ রচনা করে তিনি মানব জাতির বিশেষ কল্যাণ সাধন করেন। অন",
+  "question_number": 8,
+  "stimulus": "কনক একজন মহান চিকিৎসক। তিনি মানব শরীরে কাটা-ছেঁড়া বিদ্যায় পারদশীর্। গাছ-গাছড়ার মাধ্যমে মানুষের চিকিৎসা দেন। ভেষজবিদ্যার চিকিৎসা সংক্রান্ত্ম গ্রন্থ রচনা করে তিনি মানব জাতির বিশেষ কল্যাণ সাধন করেন। অন্যদিকে, ছিল প্রখর। মানিকের মা, ছেলের ভবিষ্যত জানার জন্য এক সন্ন্যাসী দিয়ে হাতের রেখা পরীÿা করান। এতে করে জানতে পারেন তার ছেলের খুবই কম। তার ষোল অথবা বত্রিশ বছরে মৃত্যুর যোগ আছে। এ কথা শুনে মানিক বাকি জীবন ব্রহ্ম সাধনায় কাটাবার সিদ্ধান্ত্ম গ্রহণ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অংশাবতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কুবেরের নাম কীভাবে নিত্যানন্দ হলো? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কনকের মধ্যে যে মহান চিকিৎসকের আদশর্ ফুঠে উঠেছে তা পাঠ্যের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের মানিকের মধ্যে যে মহাপুরম্নষের আদশর্ লুক্কায়িত আছে তার শিÿার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "কমল বাবু পরিবারের সব কিছু দেখাশুনা করেন। সন্ত্মানের খাওয়া-পরা, লেখা- ও মা-বাবার ভরণপোষণের যাবতীয় খরচ বহন করেন। প্রতিদিন পাঁচটি যজ্ঞের অনুশীলন করেন। সমাজের অন্য সব দায়িত্ব নিষ্ঠার সাথে পালন করেন। অন্য",
+  "question_number": 9,
+  "stimulus": "কমল বাবু পরিবারের সব কিছু দেখাশুনা করেন। সন্ত্মানের খাওয়া-পরা, লেখা- ও মা-বাবার ভরণপোষণের যাবতীয় খরচ বহন করেন। প্রতিদিন পাঁচটি যজ্ঞের অনুশীলন করেন। সমাজের অন্য সব দায়িত্ব নিষ্ঠার সাথে পালন করেন। অন্যদিকে, সুবাস বাবু অনেক দিন হলো চাকরি থেকে অবসর গ্রহণ করেছেন। তিনি পরকালের কথা ভেবে বাড়ি থেকে বেরিয়ে মঠ-মন্দিরে রাত যাপন করেন। খাবার লোকালয় থেকে সংগ্রহ করেন। রাতে স্বল্প খাবার খান। সব সময় চিন্ত্মায় বিভোর থাকেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধারণা কাকে বলে? ১ দেহধারী জীবের পÿে সম্পূণর্রূপে কমর্ ত্যাগ করা সম্ভব নয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কমল বাবুর কাযর্কলাপ মানবজীবনের কোন আশ্রমভুক্ত তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে সুবাস বাবুর কমের্র মাধ্যমে কি ঈশ্বর প্রাপ্তি সম্ভব? পÿে যুক্তি দাও৷",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "শিÿক বিমল বাবু দশম শ্রেণির শিক্ষাথীের্দর হিন্দুধমর্ ক্লাসে ধমর্ ও অধমর্ করেন। সেখানে মনুসংহিতায় বণির্ত ধমের্র লÿণসমূহের দ্বারা ধমর্ ও অধমের্র পাথর্ক্য ভালোভাবে বুঝিয়ে শ্রেণিপাঠ সমাপ্ত করেন। অপরদিকে, র",
+  "question_number": 10,
+  "stimulus": "শিÿক বিমল বাবু দশম শ্রেণির শিক্ষাথীের্দর হিন্দুধমর্ ক্লাসে ধমর্ ও অধমর্ করেন। সেখানে মনুসংহিতায় বণির্ত ধমের্র লÿণসমূহের দ্বারা ধমর্ ও অধমের্র পাথর্ক্য ভালোভাবে বুঝিয়ে শ্রেণিপাঠ সমাপ্ত করেন। অপরদিকে, রহিত ছিল ন্যায়পরায়ণ। সে পিতাকে খুবই ভালোবাসত। পিতার সকল আদেশ অÿরে অÿরে পালন করত। অন্যের সুখের জন্য নিজের প্রাণপ্রিয় কোনো ত্যাগ করতে দ্বিধাবোধ করত না।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ঋষি আরম্নণির পুত্রের নাম কী? ১ উপনিষদ কে রহস্যবিদ্যা বলা হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিÿক বিমল বাবু হিন্দুধমর্ ক্লাসে ধমর্ ও অধমের্র পাথর্ক্য যে লÿণসমূহের মাধ্যমে বুঝিয়ে দেন তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের রহিত পিতার আদেশ পালনের জন্য পাঠ্যপুস্ত্মকে বণির্ত মূল্যবোধ ও নৈতিকতা গঠনের যে কাহিনি বণির্ত আছে তার শিÿা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-cumilla-2024-tp-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-cumilla-2024-tp",
+  "question_text": "অয়ন নৌকায় নদী পারাপারের সময় নৌকায় ভিড় ছিল। ভিড়ের মাঝে একটি শিশু মায়ের কোল থেকে জলে পড়ে যায়। সকলে চিৎকার করলেও শিশুটিকে উদ্ধার করতে কেউ আসেনি। অয়ন জীবনের ঝুঁকি নিয়ে খরস্রোত নদীতে ঝাঁপিয়ে পড়ে শিশু",
+  "question_number": 11,
+  "stimulus": "অয়ন নৌকায় নদী পারাপারের সময় নৌকায় ভিড় ছিল। ভিড়ের মাঝে একটি শিশু মায়ের কোল থেকে জলে পড়ে যায়। সকলে চিৎকার করলেও শিশুটিকে উদ্ধার করতে কেউ আসেনি। অয়ন জীবনের ঝুঁকি নিয়ে খরস্রোত নদীতে ঝাঁপিয়ে পড়ে শিশুটি উদ্ধার করে মায়ের কোলে ফিরিয়ে দেয়। এতে শিশুটির মা খুবই খুশি হয়। অপরদিকে, তপন দেশ ও দেশের মানুষের জন্য যুদ্ধে অংশ নিজের কথা না ভেবে প্রাণপণে যুদ্ধ করে দেশকে শত্রম্নমুক্ত করেন। যুদ্ধ শেষে বাড়ি ফিরে আসেন। কিন্তু যুদ্ধে তার একটি পা হারিয়ে যায়। এতে তার কোনো কষ্ট হয়নি কারণ দেশ আজ স্বাধীন। এটি তার গবের্র বিষয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বীরের ধমর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিভীষণ ভাইয়ের বিরম্নদ্ধে যুদ্ধে যোগদান করলেন কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অয়নের সাথে পাঠ্যপুস্ত্মকের কোন চরিত্রের মিল খুঁজে পাওয়া যায় তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের তপনের কমর্কাে-র শিÿা সমাজ ও পারিবারিক জীবনে কতটুকু তাৎপযর্পূণর্ তা পাঠ্যপুস্ত্মকের আলোকে মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — cumilla Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p28",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "cumilla",
+  "board_year": 2024,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,682 @@
+[
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "তাপস ও শ্যামল দুই বন্ধু। তাপস প্রতিমার সামনে বসে বিভিন্ন পুজা উপকরণ দিয়ে পুজা সম্ঙ্ন্ন করে। অপরদিকে শ্যামল কোনো বিগ্রহ ছাড়াই চোখ বুজে এক মনে এক ধ্যানে ঈশ্বরের উপাসনা করে তাঁকে পেতে চায়।",
+  "question_number": 1,
+  "stimulus": "তাপস ও শ্যামল দুই বন্ধু। তাপস প্রতিমার সামনে বসে বিভিন্ন পুজা উপকরণ দিয়ে পুজা সম্ঙ্ন্ন করে। অপরদিকে শ্যামল কোনো বিগ্রহ ছাড়াই চোখ বুজে এক মনে এক ধ্যানে ঈশ্বরের উপাসনা করে তাঁকে পেতে চায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জীবাত্মা কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কখন ঈশ্বরকে ভগবান বলা হয়? ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তাপসের উপাসনায় যে দিকটির প্রতিফলন ঘটেছে তা পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তাপস ও শ্যামলের উপাসনার প্রয়োজনীয়তা বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p38",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "প্রণববাবু ছেলেমেয়ে স্ত্রীসহ পরিবারে সকলের দেখাশুনা করেন এবং ব্যয়ভার বহন করেন। অতিথি সেবাসহ সমাজের জন্য সকলের দায়িত্ব নিষ্ঠার সাথে পালন করেন। অন্যদিকে বিজয় বাবুর বয়স হয়েছে। তিনি সংসারের মায়া ত্যাগ করে",
+  "question_number": 2,
+  "stimulus": "প্রণববাবু ছেলেমেয়ে স্ত্রীসহ পরিবারে সকলের দেখাশুনা করেন এবং ব্যয়ভার বহন করেন। অতিথি সেবাসহ সমাজের জন্য সকলের দায়িত্ব নিষ্ঠার সাথে পালন করেন। অন্যদিকে বিজয় বাবুর বয়স হয়েছে। তিনি সংসারের মায়া ত্যাগ করে মঠ, মন্দিরে রাত্রি যাপন করেন। দুপুরের খাবার লোকালয় থেকে সংগ্রহ করেন। সকল সময় তিনি ঈশ্বর চিন্@ায় মগ্ন থাকেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভক্তিযোগ কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'প্রাণায়াম' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রণববাবুর কাজটি মানবজীবনের কোন আশ্রমের পযার্য়ভুক্ত তা পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিজয়বাবুর কাজের মাধ্যমে কি ঈশ্বর লাভ সম্ভব? সপক্ষে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p38",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "মিতুলের বাবা ধীমানবাবু চিকিৎসা সম্ঙ্কের্ বলতে গিয়ে এক মহান চিকিৎসকের কথা বলেন। চিকিৎসাক্ষেত্রে তিনি প্রথম মানুষের চিকিৎসা শুরু করেন মানব দেহের পরিপাক, বিপাক ও রোগ প্রতিরোধ সম্ঙ্কের্ পরিষ্কার ধারণা দে",
+  "question_number": 3,
+  "stimulus": "মিতুলের বাবা ধীমানবাবু চিকিৎসা সম্ঙ্কের্ বলতে গিয়ে এক মহান চিকিৎসকের কথা বলেন। চিকিৎসাক্ষেত্রে তিনি প্রথম মানুষের চিকিৎসা শুরু করেন মানব দেহের পরিপাক, বিপাক ও রোগ প্রতিরোধ সম্ঙ্কের্ পরিষ্কার ধারণা দেন। এতে তার খ্যাতি চারিদিকে ছড়িয়ে পড়ে। অন্যদিকে চয়নও ছিলেন একজন মহান চিকিৎসক যিনি কাটাছেড়া বিদ্যায় পারদশীর্ ছিলেন। ঔষধি গাছ- গাছড়ার মাধ্যমে মানুষের চিকিৎসা দিতেন। তিনি ভেষজবিদ্যার উপর চিকিৎসাসংক্রান্@ গ্রন্থ রচনা করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পুণার্বতার কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ভগবান বিষ্ণু অবতাররূপে পৃথিবীতে আসার কারণ ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মিতুলের বাবা যে মহান চিকিৎসকের কথা বলেছেন তাঁর অবদান পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে চয়নের মধ্যে যে মহান চিকিৎসার আদশর্ লুকায়িত আছে তার শিক্ষার গুরুত্ব বিশে-ষণ করো। ৪ হিন্দুধমর্ ও নৈতিক শিক্ষা",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "বৈদিক দেবতা কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কোন পুজার মধ্য দিয়ে নারীকে সম্মান দেখানো হয়? ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দুঃখ-কষ্ট থেকে মুক্তির জন্য গ্রামবাসীরা যে বিশেষ দেবীর পুজা করে, উক্ত দেবীর পরিচয় পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মালতী যে বিশেষ দেবতার পুজা করে সন্@ান লাভ করে উক্ত দেবতার পুজার গুরুত্ব ও প্রভাব বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p38",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "মাধবীদের গ্রামের বাড়িতে ফাল্গুনী পুণির্মার বিশেষ তিথিতে এক উৎসবের আয়োজন করা হয়। গ্রামবাসীরা গুড়া রং মাখামাখি করে আনন্দ উৎসবে মেতে উঠে। উৎসবে 'বুড়ির ঘর' পুড়িয়ে প্রতীকী অনুষ্ঠান পালন করা হয়। অন্যদিকে, ",
+  "question_number": 4,
+  "stimulus": "মাধবীদের গ্রামের বাড়িতে ফাল্গুনী পুণির্মার বিশেষ তিথিতে এক উৎসবের আয়োজন করা হয়। গ্রামবাসীরা গুড়া রং মাখামাখি করে আনন্দ উৎসবে মেতে উঠে। উৎসবে 'বুড়ির ঘর' পুড়িয়ে প্রতীকী অনুষ্ঠান পালন করা হয়। অন্যদিকে, মাধুরীদের বাড়ির ১ সামনের মন্দিরে কয়েকদিনব্যাপী চলে এ অনুষ্ঠানটি। অনেক দুর-দুরান্@ থেকে ভক্তগণ এসে যোগ দেয় এ অনুষ্ঠানে। রাম ও কৃষ্ণের নাম বার বার উচ্চারিত হতে থাকে এ অনুষ্ঠানে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংক্রান্@ি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন ধমার্চারের মাধ্যমে মনের কালিমা মুছে সারা পৃথিবীকে আলোকিত করা যায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মাধবীদের গ্রামের বাড়িতে অনুষ্ঠিত অনুষ্ঠানটি তোমার পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মাধুরীদের বাড়ির সামনের মন্দিরে অনুষ্ঠিত অনুষ্ঠানটির পারিবারিক ও সামাজিক গুরুত্ব বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p38",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "অভীক বাবু জীবন বাজি রেখে যুদ্ধে গিয়েছিল। দেশ ও দেশের মানুষের জন্য প্রাণপণ যুদ্ধ করে দেশকে শত্রুমুক্ত করে। যুদ্ধ শেষে তিন মাস পর বাড়িতে ফিরে আসে। কিন্তু যুদ্ধের সময় তাঁর এক হাত কাটা যায়। এতে তাঁর কোনো",
+  "question_number": 5,
+  "stimulus": "অভীক বাবু জীবন বাজি রেখে যুদ্ধে গিয়েছিল। দেশ ও দেশের মানুষের জন্য প্রাণপণ যুদ্ধ করে দেশকে শত্রুমুক্ত করে। যুদ্ধ শেষে তিন মাস পর বাড়িতে ফিরে আসে। কিন্তু যুদ্ধের সময় তাঁর এক হাত কাটা যায়। এতে তাঁর কোনো কষ্ট হয়নি কারণ দেশ ও দেশের মানুষ আজ শত্রুমুক্ত স্বাধীনদেশ হিসেবে মানচিত্রে স্থান পেয়েছে। অপরদিকে, রিদম নৌকায় নদী পার হচ্ছিল। এমন সময় একটি শিশু মায়ের কোল থেকে নদীতে পড়ে যায়। রিদম জীবনের ঝুঁকি নিয়ে শিশুটিকে উদ্ধার করে তার মায়ের কোলে ফিরিয়ে দেয়। এতে শিশুটির মা খুশি হয় এবং রিদমকে আশীবার্দ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'অযাচক বৃত্তি' কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মানুষ কেন অন্য জীব থেকে আলাদা? ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "পাঠ্যপুস্@কের কোন চরিত্রের সাথে অভীক বাবুর কাযর্কলাপের মিল খুঁজে পাওয়া যায়? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে রিদমের কমর্কাণ্ডের শিক্ষা সমাজ ও পারিবারিক জীবনে কতটুকু তাৎপযর্পুণর্? পাঠ্যপুস্@কের আলোকে মুল্যায়ন করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p38",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "দুঃখ-কষ্ট থেকে মুক্তির জন্য গ্রামবাসী এক বিশেষ দেবীর পুজা করে। এ পুজাটি হিন্দু সম্ঙ্রদায়ের প্রধান ধমীর্য় উৎসব। ধনী- গরিব শ্রেণিভেদে নতুন জামাকাপড় পরে এ উৎসবে অংশগ্রহণ করে। অপরদিকে মালতী দেবীর বিবাহের ",
+  "question_number": 6,
+  "stimulus": "দুঃখ-কষ্ট থেকে মুক্তির জন্য গ্রামবাসী এক বিশেষ দেবীর পুজা করে। এ পুজাটি হিন্দু সম্ঙ্রদায়ের প্রধান ধমীর্য় উৎসব। ধনী- গরিব শ্রেণিভেদে নতুন জামাকাপড় পরে এ উৎসবে অংশগ্রহণ করে। অপরদিকে মালতী দেবীর বিবাহের একযুগ পার হয়েছে কিন্তু তার কোনো সন্@ান হয়নি। সন্@ান লাভের আশায় বিশেষ এক দেবতার পুজা করে। এতে করে এক বছরের মধ্যে মালতীর কোল আলো করে ফুটফুটে সন্@ানের জন্ম হয়।  911 ১ ৯। শিশির বাবু এমন একজন মানুষ যিনি নারী স্বাধীনতায় বিশ্বাস করতেন। সকল শ্রেণির লোককে সমান চোখে দেখতেন। তিনি আমেরিকায় ধমর্সভায় ভাষণ দেওয়ায় তাঁর খ্যাতি চারিদিকে ছড়িয়ে পড়ে। তিনি 'সাইক্লোনিক হিন্দু' নামে পরিচিত হন। অপরদিকে পরিমলবাবু ছিলেন কালীর সাধক। তিনি বিভিন্ন ধমর্চচার্র মাধ্যমে ঈশ্বরকে উপলব্ধি করেছেন। তিনি প্রকৃতিকে ভালোবাসেন। নারীকে মাতৃজ্ঞানে পুজা করতেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অংশাবতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'হিতসঞ্চারিণী' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিশির বাবুর মধ্যে কোন মহামানবের প্রতিফলন ঘটেছে তা পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের পরিমল বাবুর মধ্যে যে মহাপুরুষের আদশর্ লুকায়িত আছে তার শিক্ষার গুরুত্ব বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p38",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "অধীরের বাবার মৃত্যুতে অধীর পাড়া-প্রতিবেশীদের সহায়তায় কিছু কাজ শেষ করে মৃত ব্যক্তিকে শ্মশানে নিয়ে যায়। সাথে কিছু লোক কাঠ, বাঁশ নিয়ে পিছন পিছন যায়। শ্মশানের সকল কাজ সম্ঙ্ন্ন করে সকলে মিলে বাড়ি ফিরে আ",
+  "question_number": 7,
+  "stimulus": "অধীরের বাবার মৃত্যুতে অধীর পাড়া-প্রতিবেশীদের সহায়তায় কিছু কাজ শেষ করে মৃত ব্যক্তিকে শ্মশানে নিয়ে যায়। সাথে কিছু লোক কাঠ, বাঁশ নিয়ে পিছন পিছন যায়। শ্মশানের সকল কাজ সম্ঙ্ন্ন করে সকলে মিলে বাড়ি ফিরে আসে। অপরদিকে, প্রণব তার বাবার আত্মার শান্@ি কামনায় কিছু নিয়ম পালন করে। নিয়ম হিসেবে বাবার মৃত্যুর দিন থেকে নিদির্ষ্ট দিন পযর্ন্@ নিরামিষ খেয়ে নিজেকে সাধন ভজনের উপযোগী করে তোলে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জাতকমর্ কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "হিন্দু বিবাহের মুল পবের্র ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অধীরের সম্ঙ্ন্নকৃত কাজটি পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রণবের কাযর্কলাপে যে বিষয়ের ইঙ্গিত বহন করে তার গুরুত্ব বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "শিক্ষক শিমুল বাবু হিন্দুধমর্ ক্লাসে ধমর্ ও অধমর্ সম্ঙ্কের্ আলোচনা করতে গিয়ে ধমের্র বিশেষ ও সাধারণ লক্ষণ সম্ঙ্কের্ আলোচনা করে ক্লাস শেষ করেন। অন্যদিকে দীপক ছিল সৎ ন্যায়পরায়ণ। সে পিতার সকল কথা অক্ষরে অক",
+  "question_number": 8,
+  "stimulus": "শিক্ষক শিমুল বাবু হিন্দুধমর্ ক্লাসে ধমর্ ও অধমর্ সম্ঙ্কের্ আলোচনা করতে গিয়ে ধমের্র বিশেষ ও সাধারণ লক্ষণ সম্ঙ্কের্ আলোচনা করে ক্লাস শেষ করেন। অন্যদিকে দীপক ছিল সৎ ন্যায়পরায়ণ। সে পিতার সকল কথা অক্ষরে অক্ষরে পালন করে। সে কোনো কিছু ত্যাগ করতে দ্বিধাবোধ করে না। অন্যের সুখের জন্য নিজেকে বিলিয়ে দিতে কুণ্ঠাবোধ করে না। সবসময় সকলের মঙ্গল কামনা করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মহাভারত রচনা করেন কে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "উপনিষদকে রহস্যবিদ্যা বলা হয় কেন? ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিক্ষক শিমুলবাবু হিন্দুধমর্ ক্লাসে যে বিষয়ের আলোচনা করেন তা তোমার পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের দীপকের মধ্যে পিতার আদেশ পালনের জন্য পাঠ্যপুস্@কের 'মুল্যবোধ ও নৈতিকতা' গঠনের যে কাহিনি বণির্ত আছে তার শিক্ষা বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "শিশির বাবু এমন একজন মানুষ যিনি নারী স্বাধীনতায় লক্ষ্য বিশ্বাস করতেন। সকল শ্রেণির লোককে সমান চোখে দেখতেন। তিনি আমেরিকায় ধমর্সভায় ভাষণ দেওয়ায় তাঁর খ্যাতি চারিদিকে ছড়িয়ে পড়ে। তিনি 'সাইক্লোনিক হিন্দু' না",
+  "question_number": 9,
+  "stimulus": "শিশির বাবু এমন একজন মানুষ যিনি নারী স্বাধীনতায় লক্ষ্য বিশ্বাস করতেন। সকল শ্রেণির লোককে সমান চোখে দেখতেন। তিনি আমেরিকায় ধমর্সভায় ভাষণ দেওয়ায় তাঁর খ্যাতি চারিদিকে ছড়িয়ে পড়ে। তিনি 'সাইক্লোনিক হিন্দু' নামে পরিচিত হন। অপরদিকে পরিমলবাবু ছিলেন কালীর সাধক। তিনি বিভিন্ন ধমর্চচার্র মাধ্যমে ঈশ্বরকে উপলব্ধি করেছেন। তিনি প্রকৃতিকে ভালোবাসেন। নারীকে মাতৃজ্ঞানে পুজা করতেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অংশাবতার কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'হিতসঞ্চারিণী' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিশির বাবুর মধ্যে কোন মহামানবের প্রতিফলন ঘটেছে তা পাঠ্যপুস্@কের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের পরিমল বাবুর মধ্যে যে মহাপুরুষের আদশর্ লুকায়িত আছে তার শিক্ষার গুরুত্ব বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p45",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "রবিন প্রতিদিন একটি আসন অনুশীলন করে। আসনটি অনুশীলনের ফলে বৃক্ক সবল হয়। শিক্ষা জীবনে লেখাপড়া ভালো হয়। শরীর লম্বা হয়। অপরদিকে প্রবীর একটি আসন অনুশীলন করে, যার ফলে শিরদাঁড়া সোজা করে দাঁড়ানো যায়। এ আসন অনু",
+  "question_number": 10,
+  "stimulus": "রবিন প্রতিদিন একটি আসন অনুশীলন করে। আসনটি অনুশীলনের ফলে বৃক্ক সবল হয়। শিক্ষা জীবনে লেখাপড়া ভালো হয়। শরীর লম্বা হয়। অপরদিকে প্রবীর একটি আসন অনুশীলন করে, যার ফলে শিরদাঁড়া সোজা করে দাঁড়ানো যায়। এ আসন অনুশীলনের সময় শরীর গাছের মতো দেখায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্@েয় কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রত্যাহার বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রবিনের অনুশীলনকৃত আসনটির বৈশিষ্ট্যের ভিত্তিতে আসনটির অনুশীলন পদ্ধতি ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রবীরের অনুশীলনকৃত আসনটির মাধ্যমে ব্যক্তিজীবনে কী প্রভাব পড়ে তা বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-chattogram-2024-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-chattogram-2024",
+  "question_text": "অনিক একজন ছোট বালক। সে অল্প বয়সে শ্রীহরির প্রতি আকৃষ্ট হয়। সকল জায়গায় সে শ্রীহরিকে দেখতে পায়। হরিভক্তির জন্য তাকে তার পিতা বিভিন্ন উপায়ে মেরে ফেলার চেষ্টা করে। কিন্তু শ্রী হরির কৃপায় সকল বিপদ থেকে অন",
+  "question_number": 11,
+  "stimulus": "অনিক একজন ছোট বালক। সে অল্প বয়সে শ্রীহরির প্রতি আকৃষ্ট হয়। সকল জায়গায় সে শ্রীহরিকে দেখতে পায়। হরিভক্তির জন্য তাকে তার পিতা বিভিন্ন উপায়ে মেরে ফেলার চেষ্টা করে। কিন্তু শ্রী হরির কৃপায় সকল বিপদ থেকে অনিক রক্ষা পায়। অন্যদিকে নয়ন বাজার থেকে বাড়ি ফেরার সময় পথের ধারে একটি নতুন ব্যাগ দেখতে পায়। ব্যাগটিতে টাকা ভতির্ ছিল। ব্যাগের গায়ে লেখা ঠিকানায় ব্যাগটি মালিককে পৌঁছে দিয়ে আসে। মালিক ব্যাগটি পেয়ে খুশি হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিষ্টাচার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মাদক সেবন অধমর্ কেন? ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অনিকের কমর্কাণ্ডের সাথে পাঠ্যপুস্@কের কোন চরিত্রের সাদৃশ্য আছে তা ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "নয়নের মধ্যে যে গুণটির প্রতিফলন ঘটেছে তা পাঠ্যপুস্@কের আলোকে বিশে-ষণ করো। ৪  912",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — chattogram Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p39",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "chattogram",
+  "board_year": 2024,
+  "verified_visual": false
+ }
+]

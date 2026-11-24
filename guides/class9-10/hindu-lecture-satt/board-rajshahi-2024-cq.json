@@ -1,0 +1,662 @@
+[
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "মৌমিতা দেবী প্রতিদিন সকালে স্নান করে তার আরাধ্য দেবতার পুজা করেন। যিনি পালনের দেবতা হিসেবে পরিচিত। যাঁর নাম নিলে হৃদয় পরিশুদ্ধ হয় এবং মনে শান্@ি আসে। অন্যদিকে শিল্পী দেবীও ঈশ্বরের এক বিশেষ শক্তির পুজা",
+  "question_number": 1,
+  "stimulus": "মৌমিতা দেবী প্রতিদিন সকালে স্নান করে তার আরাধ্য দেবতার পুজা করেন। যিনি পালনের দেবতা হিসেবে পরিচিত। যাঁর নাম নিলে হৃদয় পরিশুদ্ধ হয় এবং মনে শান্@ি আসে। অন্যদিকে শিল্পী দেবীও ঈশ্বরের এক বিশেষ শক্তির পুজা করেন। যিনি বিভিন্ন রোগ প্রতিরোধ ও শান্@ির দেবী হিসেবে পরিচিত। একারণেই শিল্পী দেবী সব সময় পরিষ্কার-পরিচ্ছন্ন থাকেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জীবাত্মা কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'ভগ' বলতে কী বোঝায়?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "মৌমিতা দেবী ঈশ্বরের কোন শক্তির পুজা করেন? বণর্না করো।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "শিল্পী দেবী ঈশ্বরের যে শক্তির পুজা করেন তার গুরুত্ব বিশে-ষণ করো।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "রঞ্জন বাবু একজন ধমর্পরায়ণ ব্যক্তি। তিনি একটি সংগঠন প্রতিষ্ঠা করেন। এ সংগঠনের মাধ্যমে তিনি সবাইকে চরিত্রবান ও স্বাবলম্বী হয়ে সমাজের মঙ্গলজনক কাজ করতে উদ্‌বুদ্ধ করেন। অন্যদিকে বলাই বাবুও একটি সংগঠন প্র",
+  "question_number": 2,
+  "stimulus": "রঞ্জন বাবু একজন ধমর্পরায়ণ ব্যক্তি। তিনি একটি সংগঠন প্রতিষ্ঠা করেন। এ সংগঠনের মাধ্যমে তিনি সবাইকে চরিত্রবান ও স্বাবলম্বী হয়ে সমাজের মঙ্গলজনক কাজ করতে উদ্‌বুদ্ধ করেন। অন্যদিকে বলাই বাবুও একটি সংগঠন প্রতিষ্ঠা করেন। তার সংগঠনের সদস্যরা ধমর্ ও বিজ্ঞানের সমন্বয়ে জীবন পরিচালনা করেন। তারা আদশর্ সংসারি হওয়ার চেষ্টা করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভক্তি কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ব্রহ্মকে ঈশ্বর বলার কারণ ব্যাখ্যা করো।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "বলাই বাবু কোন মহাপুরুষের আদশর্ অনুসরণ করেন? বণর্না করো।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "যে মহাপুরুষের প্রতিষ্ঠিত সংগঠনের সাথে রঞ্জন বাবুর সংগঠনের সাদৃশ্য রয়েছে তার মুখ্য উদ্দেশ্য বিশে-ষণ করো।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "শুভ্রা বষার্কালের পুণির্মা তিথিতে একটি ধমার্চারের আয়োজন করে। এ অনুষ্ঠানটিতে সে ভাইয়ের হাতে ভাই-বোনের মধ্যকার ভালোবাসার প্রতীক বেঁধে দেয়। অন্যদিকে সুমনাদের বাড়িতে একটি ধমার্নুষ্ঠানের আয়োজন করা হয়। অনু",
+  "question_number": 3,
+  "stimulus": "শুভ্রা বষার্কালের পুণির্মা তিথিতে একটি ধমার্চারের আয়োজন করে। এ অনুষ্ঠানটিতে সে ভাইয়ের হাতে ভাই-বোনের মধ্যকার ভালোবাসার প্রতীক বেঁধে দেয়। অন্যদিকে সুমনাদের বাড়িতে একটি ধমার্নুষ্ঠানের আয়োজন করা হয়। অনুষ্ঠানটি মুলত বৈষ্ণবীয় অনুষ্ঠান নামে পরিচিত। অনুষ্ঠানটিতে একে অপরকে আবির দিয়ে রাঙিয়ে দেয়। এ উপলক্ষ্যে বাড়িতে অনেক আত্মীয়-স্বজনের আগমন ঘটে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলার বাইরে 'দোলযাত্রা' কী নামে পরিচিত?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'দেহ ও আত্মার মধ্যে ঘনিষ্ঠ সম্ঙ্কর্ বিদ্যমান' বুঝিয়ে লেখো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শুভ্রা কোন ধমার্চার পালন করে? ব্যাখ্যা করো।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "পারিবারিক ও সামাজিক জীবনে সুমনার পালনকৃত অনুষ্ঠানটির প্রভাব বিশে-ষণ করো।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "সুধীর বাবুর পিতার মৃত্যুতে পনেরো দিন হবিষ্যান্ন ও ফলফলাদি খেয়ে জীবন ধারণ করেন। এরপর শাস্ত্রানুযায়ী পরবতীর্ কাযর্ সম্ঙ্াদন করেন। অন্যদিকে সুকেশ বাবুর বড় ভাইয়ের মৃত্যুতে বারোদিন কঠোর সংযম পালন করে শ্রা",
+  "question_number": 4,
+  "stimulus": "সুধীর বাবুর পিতার মৃত্যুতে পনেরো দিন হবিষ্যান্ন ও ফলফলাদি খেয়ে জীবন ধারণ করেন। এরপর শাস্ত্রানুযায়ী পরবতীর্ কাযর্ সম্ঙ্াদন করেন। অন্যদিকে সুকেশ বাবুর বড় ভাইয়ের মৃত্যুতে বারোদিন কঠোর সংযম পালন করে শ্রাদ্ধ করার উপযুক্ততা অজর্ন করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শ্রাদ্ধ কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "অন্নপ্রাশন বলতে কী বোঝায়?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সুধীর বাবু কোন বণের্র লোক? পাঠ্যের আলোকে বণর্না করো।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "সুধীর বাবু ও সুকেশ বাবু কি একই বণের্র লোক? পাঠের আলোকে যুক্তি দাও।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "শিবু দুগার্পুজার কোনো একদিন লক্ষ করল মন্দিরে একটি মেয়ের পুজা করছে। সে বিষয়টি পুরোহিত মহাশয়ের কাছে জানতে চাইলে পুরোহিত মহাশয় তাকে বুঝিয়ে বলেন। অন্যদিকে সুভাষও দুগার্পুজার কোনো কোনো একদিন লক্ষ করল মায়ে",
+  "question_number": 5,
+  "stimulus": "শিবু দুগার্পুজার কোনো একদিন লক্ষ করল মন্দিরে একটি মেয়ের পুজা করছে। সে বিষয়টি পুরোহিত মহাশয়ের কাছে জানতে চাইলে পুরোহিত মহাশয় তাকে বুঝিয়ে বলেন। অন্যদিকে সুভাষও দুগার্পুজার কোনো কোনো একদিন লক্ষ করল মায়েরা দেবী দুগাের্ক সিঁদুর পরাচ্ছেন। পরস্ঙ্র আলিঙ্গন করছেন, মিষ্টিমুখ করাচ্ছেন। এ উপলক্ষ্যে মেলারও আয়োজন করা হয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পুজা কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'নবপত্রিকা' পুজার কারণ ব্যাখ্যা করো।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "শিবু দুগার্পুজার যে বিশেষ তিথিটি লক্ষ করেছিল তার বণর্না দাও।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "সুভাষ দুগার্পুজার যে তিথিটির আনুষ্ঠানিকতা লক্ষ করেছিল তার প্রভাব বিশে-ষণ করো।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "নিখিল বাবু নিয়মিত একটি যোগাসন অনুশীলন করেন। আসনটি অনুশীলনের সময় তার শরীর অনেকটা লাঙলের মতো দেখায়। তার পা ও মাথা একই পাশে অবস্থান করে। তাছাড়া আসনটির অন্যান্য নিয়ম-কানুনগুলোও তিনি সঠিকভাবে অনুসরণ করেন।",
+  "question_number": 6,
+  "stimulus": "নিখিল বাবু নিয়মিত একটি যোগাসন অনুশীলন করেন। আসনটি অনুশীলনের সময় তার শরীর অনেকটা লাঙলের মতো দেখায়। তার পা ও মাথা একই পাশে অবস্থান করে। তাছাড়া আসনটির অন্যান্য নিয়ম-কানুনগুলোও তিনি সঠিকভাবে অনুসরণ করেন। এর ফলে তার থাইরয়েড ও টনসিলের সমস্যা অনেকটাই নিয়ন্ত্রণে রয়েছে। মেরুদণ্ডের স্থিতিস্থাপকতাও বজায় রয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পুরক কাকে বলে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "অহিংসা বলতে কী বোঝায়?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "নিখিল বাবু কীভাবে আসনটি অনুশীলন করেন? পাঠ্যের আলোকে বণর্না করো।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "পাঠ্যের আলোকে নিখিল বাবুর অনুশীলনকৃত আসনটির প্রভাব বিশে-ষণ করো। হিন্দুধমর্ ও নৈতিক শিক্ষা",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "পাথর্ বাবু একজন ধামির্ক ব্যক্তি। কোনো সমস্যায় পড়লেই তিনি হিন্দুধমের্র প্রাচীন গ্রন্থের জ্ঞানের আলোকে সমাধান করার চেষ্টা করেন। তাতেও সমাধান না পেলে পযার্য়ক্রমে স্মৃতিশাস্ত্রসহ অন্যান্য বিষয় অনুসরণ কর",
+  "question_number": 7,
+  "stimulus": "পাথর্ বাবু একজন ধামির্ক ব্যক্তি। কোনো সমস্যায় পড়লেই তিনি হিন্দুধমের্র প্রাচীন গ্রন্থের জ্ঞানের আলোকে সমাধান করার চেষ্টা করেন। তাতেও সমাধান না পেলে পযার্য়ক্রমে স্মৃতিশাস্ত্রসহ অন্যান্য বিষয় অনুসরণ করেন। অন্যদিকে হৃদয় বাবু বিশ্বের প্রাচীন ইতিহাস জানার জন্য সবচেয়ে প্রাচীন গ্রন্থখানা অধ্যয়ন করেন। এছাড়াও তিনি এই গ্রন্থ থেকে ভারতবষের্র শিক্ষা, সংস্কৃতি, ধমর্-কমর্সহ বিভিন্ন বিষয় সম্ঙ্কের্ জানতে পারেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমর্ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হিন্দু ধমের্ক বৈদিক ধমর্ বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হৃদয়বাবু কোন ধমর্গ্রন্থ অধ্যয়ন করেন? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'পাথর্বাবুর মধ্যে ধমের্র বিশেষ লক্ষণ কাজ করেছে'মন্@ব্যটির যথাথর্তা মুল্যায়ন করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "নরেশ পাশের বাড়ির অসুস্থ একটি ছেলেকে নিয়ে হাসপাতালে ভতির্ করে। সে ছেলেটির সাথে কয়েকদিন হাসপাতালে থাকে। তাকে আথির্কভাবেও সাহায্য ১ করে। অন্যদিকে নিলয়বাবু নিজ জীবনের ঝুঁকি আছে জেনেও সমাজ ও দেশের ২ মঙ্গ",
+  "question_number": 8,
+  "stimulus": "নরেশ পাশের বাড়ির অসুস্থ একটি ছেলেকে নিয়ে হাসপাতালে ভতির্ করে। সে ছেলেটির সাথে কয়েকদিন হাসপাতালে থাকে। তাকে আথির্কভাবেও সাহায্য ১ করে। অন্যদিকে নিলয়বাবু নিজ জীবনের ঝুঁকি আছে জেনেও সমাজ ও দেশের ২ মঙ্গলের জন্য বিভিন্ন কাজে অংশগ্রহণ করে। এরূপ ব্যক্তি দেশ ও জাতির ৩ অহংকার।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রাবণ সীতাকে কোন বনে বন্দি করে রেখেছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শ্রীরামচন্দ্র মিত্র বিভীষণকে ভৎর্সনা করেছিলেন কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নরেশের মধ্যে পাঠ্যের কোন নৈতিক গুণ প্রকাশ পেয়েছে? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে নিলয়বাবুর মতো লোক বতর্মান সমাজ ব্যবস্থায় প্রয়োজন আছে কি? পাঠ্যের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "নিষ্কৃতি প্রতিদিন খুব ভোরে ঘুম থেকে উঠেই পুবর্ দিকে মুখ করে দেবতার উদ্দেশ্যে ১ স্@ব-স্তুতি পাঠ করে প্রণাম জানায়। সে গুরুজনদের প্রতি শ্রদ্ধা জানায়। সে ছোটো বা সমবয়সিদের সাথেও সুন্দর ব্যবহার করে। কেউ তা",
+  "question_number": 9,
+  "stimulus": "নিষ্কৃতি প্রতিদিন খুব ভোরে ঘুম থেকে উঠেই পুবর্ দিকে মুখ করে দেবতার উদ্দেশ্যে ১ স্@ব-স্তুতি পাঠ করে প্রণাম জানায়। সে গুরুজনদের প্রতি শ্রদ্ধা জানায়। সে ছোটো বা সমবয়সিদের সাথেও সুন্দর ব্যবহার করে। কেউ তার ব্যবহারে কষ্ট ৩ পায় এমন কাজ সে কখনো করে না। এ কারণে সমাজ তথা প্রতিবেশীদের কাছে নিষ্কৃতি খুবই প্রিয়। ৪",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অষ্টাঙ্গ প্রণাম কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'আত্মমোক্ষায় জগদ্ধিতায় চ'ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নিষ্কৃতির আচরণে পাঠ্যপুস্@কের কোন বিষয়টি লক্ষ করা যায়? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সমাজ ও রাষ্ট্রীয় জীবনে নিষ্কৃতির কাজের প্রভাব বিশে-ষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "ডা. আদিত্য বাবু এমন একজন মহান চিকিৎসকের আদশর্ অনুসরণ করেন যিনি ভারতীয় শল্যবিদ্যার জনক হিসেবে পরিচিত। তিনি তাঁর গ্রন্থে শল্যবিদ্যার ৩০০ প্রকার পদ্ধতি এবং শতাধিক অস্ত্রের বণর্না দিয়েছেন। অন্যদিকে ডা. অণ",
+  "question_number": 10,
+  "stimulus": "ডা. আদিত্য বাবু এমন একজন মহান চিকিৎসকের আদশর্ অনুসরণ করেন যিনি ভারতীয় শল্যবিদ্যার জনক হিসেবে পরিচিত। তিনি তাঁর গ্রন্থে শল্যবিদ্যার ৩০০ প্রকার পদ্ধতি এবং শতাধিক অস্ত্রের বণর্না দিয়েছেন। অন্যদিকে ডা. অণর্ব বাবুও একজন মহান চিকিৎসকের আদশর্ অনুসরণ করেন যাঁকে ভারতীয় চিকিৎসা শাস্ত্রের জনক বলা হয়। তিনি রোগীর চিকিৎসার পুবের্ রোগ নিণের্য়র বিষয়টি ভাবতে বলেছেন। তাঁর রচিত গ্রন্থ আমাদের বিশেষ মঙ্গল সাধন করছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পুণার্বতার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভগবান শ্রীকৃষ্ণ পৃথিবীতে কেন আবিভূর্ত হয়েছিলেন? ২",
+    "marks": 1
+   },
+   {
+    "part": "গ",
+    "text": "ডা. আদিত্য বাবু কোন মহান চিকিৎসকের আদশর্ অনুসরণ করেন? ব্যাখ্যা ২ করো। ৩",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ডা. অণের্বর অনুসরণীয় চিকিৎসকের অবদান মুল্যায়ন করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-rajshahi-2024-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-rajshahi-2024",
+  "question_text": "শুভজিত মেডিকেলের একজন মেধাবী ছাত্র। সে লেখাপড়ার পাশাপাশি একটি ৪ ধমীর্য় সংগঠনের সাথে জড়িত। মেডিকেলের চূড়ান্@ পরীক্ষার সময় তার সংগঠন থেকে ধমর্প্রচারণার কাজে ডাক পেল। সে মেডিকেলের পরীক্ষায় অংশগ্রহণ না ক",
+  "question_number": 11,
+  "stimulus": "শুভজিত মেডিকেলের একজন মেধাবী ছাত্র। সে লেখাপড়ার পাশাপাশি একটি ৪ ধমীর্য় সংগঠনের সাথে জড়িত। মেডিকেলের চূড়ান্@ পরীক্ষার সময় তার সংগঠন থেকে ধমর্প্রচারণার কাজে ডাক পেল। সে মেডিকেলের পরীক্ষায় অংশগ্রহণ না করে ধমর্ প্রচারের কাজে অংশগ্রহণ করে। অন্য দিকে সুমন বাবু এরাকায় একটি বালিকা বিদ্যালয় এবং একটি মহিলা কলেজ প্রতিষ্ঠা করেন। তাছাড়া এলাকার নারীদের জন্য একটি কুটির শিল্পও প্রতিষ্ঠা করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিজয়কৃষ্ণ গোস্বামীর পিতার নাম কী? ১",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "'সত্যই সকল ধমের্র ভিত্তি'বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শুভজিতের মধ্যে কোন মহাপুরুষের আচরণিক বৈশিষ্ট্য লক্ষ করা যায়? ৩ ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'নারী জাগরণে সুমন বাবুর অবদান স্বামী বিবেকানন্দের অবদানের ৪ অনরূপ'মন্@ব্যটির যথাথর্তা মুল্যায়ন করো। ৪  883",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Board Question 2024 — rajshahi Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf p10",
+  "key_format": null,
+  "source_file": "Test paper/08-1.-Hindu-Board-Ques-2024-873-952-3.pdf",
+  "board_name": "rajshahi",
+  "board_year": 2024,
+  "verified_visual": false
+ }
+]

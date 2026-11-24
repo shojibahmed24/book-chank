@@ -1,0 +1,622 @@
+[
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "বিনয় ও বিধু দুই বন্ধু। এবার তারা দু'জনেই এসএসসি পরীক্ষা দিচ্ছে।",
+  "question_number": 1,
+  "stimulus": "বিনয় ও বিধু দুই বন্ধু। এবার তারা দু'জনেই এসএসসি পরীক্ষা দিচ্ছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হিন্দুধমর্ শাস্ত্রে 'যোগ' মানে কী? ১ বিনয় তার ভালো ফলে বেশ আশাবাদী। সে মনে করে, যেহেতু সে",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'অপরিগ্রহ' ব্যাখ্যা কর। ২ পরিশ্রম করেছে সেহেতু সে ভালো ফলাফল করবে। অপরদিকে, বিধু",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "প্রীতির অনুশীলনকৃত আসনটির অনুশীলন পদ্ধতি তোমার মনে করে, বিশ্বজগৎ ঈশ্বরের বিরাট কমের্ÿত্র। শিÿাথীর্ হিসেবে পাঠ্যবইয়ের আলোকে বণর্না কর। ৩ লেখাপড়া করা হচ্ছে তার কতর্ব্য। সে নিষ্ঠার সাথে লেখাপড়া করে",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত স্মৃতির আসনটির প্রভাব বিশেস্নষণ কর। ৪ কমর্ফল ঈশ্বরে সমপর্ণ করেছে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "মানবজীবনের শ্রেষ্ঠ প্রাপ্তি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভক্তিযোগ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিনয় যে কমের্ বিশ্বাসী তার সম্পকের্ বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'বিধুর কমর্ই হচ্ছে যোগ সাধনার ÿেত্রে কমের্যাগ' -মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "শ্রীবাস বিভিন্ন ধমার্নুষ্ঠান-নামযজ্ঞ, রথযাত্রায় যায়। সে ভদ্র, নম্র ও বিনয়ী। সমাজ ও পারিবারিক জীবনে তার বন্ধন সুদৃঢ়। এছাড়া ঐতিহাসিক তীথর্স্থান ভ্রমণে তার বেশ আগ্রহ। সে চট্টগ্রামের সীতাকু-, মহেশখালীর ",
+  "question_number": 2,
+  "stimulus": "শ্রীবাস বিভিন্ন ধমার্নুষ্ঠান-নামযজ্ঞ, রথযাত্রায় যায়। সে ভদ্র, নম্র ও বিনয়ী। সমাজ ও পারিবারিক জীবনে তার বন্ধন সুদৃঢ়। এছাড়া ঐতিহাসিক তীথর্স্থান ভ্রমণে তার বেশ আগ্রহ। সে চট্টগ্রামের সীতাকু-, মহেশখালীর আদিনাথের মন্দিরসহ দেশ-বিদেশের অনেক তীথর্স্থান দশর্ন করেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পণাতীথর্স্থানটি কোন জেলায় অবস্থিত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দীপাবলি কী তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শ্রীবাস কী পালনের মাধ্যমে সমাজ ও পারিবারিক জীবনে তার বন্ধন সুদৃঢ় হয়েছে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'শ্রীবাস ঐতিহাসিক তীথর্স্থান ভ্রমণের ফলে তার জ্ঞানের পরিধি বৃদ্ধি পায়।' -এ মমের্ তীথর্ দশের্নর গুরম্নত্ব তুলে ধর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "অশোকের পিতা পাঁচ বছর বয়সে তাকে গুরম্নগৃহে প্রেরণ করেন। গুরম্নর শুভেচ্ছা নিদেের্শ সে বহু শাস্ত্র অধ্যয়ন, আত্মসংযম, পরিশ্রম ও কঠোর জীবনযাপনে অভ্যস্ত্ম হয়। বিদ্যাশিÿা সমাপ্ত হলে পঁচিশ বছর পর গুরম্নর নিদ",
+  "question_number": 3,
+  "stimulus": "অশোকের পিতা পাঁচ বছর বয়সে তাকে গুরম্নগৃহে প্রেরণ করেন। গুরম্নর শুভেচ্ছা নিদেের্শ সে বহু শাস্ত্র অধ্যয়ন, আত্মসংযম, পরিশ্রম ও কঠোর জীবনযাপনে অভ্যস্ত্ম হয়। বিদ্যাশিÿা সমাপ্ত হলে পঁচিশ বছর পর গুরম্নর নিদেের্শ নিজ গৃহে প্রত্যাবতর্ন করে পিতৃযজ্ঞ, দৈবযজ্ঞ, ভূতযজ্ঞ, নৃযজ্ঞ ও ঋষিযজ্ঞ পালনের মাধ্যমে জীবন অতিবাহিত করতে থাকে। এছাড়া সে এখন সমাজের প্রতিও নানান কতর্ব্য পালন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যোগ দশের্নর প্রণেতা কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'আসন' কী তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অশোকের গুরম্নগৃহের শিÿালাভ কোন আশ্রমের অন্ত্মভুর্ক্ত? তোমার পাঠ্যবইয়ের অলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অশোক গৃহে এসে কীভাবে তার জীবন অতিবাহিত করে তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "Mvò nwi`Ëv hævbyÓ¤vb I mvZcvGK euvav ceÆ-1 ceÆ-2",
+  "question_number": 4,
+  "stimulus": "Mvò nwi`Ëv hævbyÓ¤vb I mvZcvGK euvav ceÆ-1 ceÆ-2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিবাহের মূল পবর্ কোনটি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৃদ্ধিশ্রাদ্ধ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নবদম্পতি বিশুদ্ধ নবজীবন লাভ করে উপরের কোন পবর্ পালনের মাধ্যমে? পাঠ্যবইয়ের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'সুদৃঢ় বিবাহিত জীবন ও নবদম্পতির সুখ-শান্ত্মি কামনা করাই বাংলাদেশের মুক্তিযুদ্ধে গায়ে হলুদের অন্ত্মনিির্হত উদ্দেশ্য'-বিশেস্নষণ কর। ৪ ৫ মিতাদের বাড়িতে কাতির্ক মাসের এক বিশেষ তিথিতে একজন দেবতার  পূজা করা হয়। তার বাহন ময়ূর। মিতার ভাই ও বৌদির সন্ত্মান কামনায় এ দেবতার পূজার আয়োজন করে। আর মুকুলদের বাড়িতে শ্রাবণ মাসে যে দেবীর পূজা করা হয় তার বাহন গদর্ভ। উভয় গৃহেই ভক্তিভরে দেব- দেবীর পূজা করা হয়।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "পূজা শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "লৌকিক দেবতা বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মুকুলদের বাড়িতে যে দেবীর পূজা করা হয় তাঁর পরিচয় ও পূজা পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মিতাদের বাড়িতে পূজিত দেবতার পূজার গুরম্নত্ব ও প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উদ্দীপক আংশিক অপঠনযোগ্য; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "প্রীতির মায়ের ডায়াবেটিস। প্রীতি যাতে এ রোগে আক্রান্ত্ম না হয় সে প্রেমভক্তি জন্য সে নিয়মিত একটি আসন অনুশীলন করে। যে আসনটি দেখতে লাঙলের মতো দেখায়। প্রীতির প্রতিবেশী স্মৃতির হাত-পা কাঁপে, হাঁটতে",
+  "question_number": 6,
+  "stimulus": "প্রীতির মায়ের ডায়াবেটিস। প্রীতি যাতে এ রোগে আক্রান্ত্ম না হয় সে প্রেমভক্তি জন্য সে নিয়মিত একটি আসন অনুশীলন করে। যে আসনটি দেখতে লাঙলের মতো দেখায়। প্রীতির প্রতিবেশী স্মৃতির হাত-পা কাঁপে, হাঁটতে",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "শ্রীমা অসুবিধা হয়। প্রীতির পরামশের্ সেও অন্য একটি আসন অনুশীলন করে, যা দেখতে বৃÿের মতো দেখায়। অনুশীলনের ফলে স্মৃতি এখন পায়ে জোর পায় এবং চলাফেরায় ÿমতা বেড়েছে।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "ব্রজমোহনবাবু সুখে-দুঃখে নিরম্নদ্বেগ থাকেন। আনন্দে অতি উদ্বেল হন না, দুঃখে ভেঙে পড়েন না। দান ও দয়া তার দুটি প্রধান নৈতিক গুণ। সহকমীর্ অনীল বাবু সবর্দা বিষণ্ন থাকেন। তিনি অল্পতেই রেগে যান। কাঙ্ÿিত বস্ত্",
+  "question_number": 7,
+  "stimulus": "ব্রজমোহনবাবু সুখে-দুঃখে নিরম্নদ্বেগ থাকেন। আনন্দে অতি উদ্বেল হন না, দুঃখে ভেঙে পড়েন না। দান ও দয়া তার দুটি প্রধান নৈতিক গুণ। সহকমীর্ অনীল বাবু সবর্দা বিষণ্ন থাকেন। তিনি অল্পতেই রেগে যান। কাঙ্ÿিত বস্ত্মু অজের্নর জন্য অনেক সময় লোভের বশবতীর্ হয়ে অসৎ পথ অবলম্বন করেন। পরিণামে তার অধঃপতন হয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিষ্টাচার কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'ধমার্ধমর্ নিণের্য় সদাচার তৃতীয় প্রমাণ'-ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ব্রজমোহন বাবুর চরিত্র তোমার পাঠ্যবইয়ের কাদের স্বরূপের সাথে মিল খুঁজে পাও? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'উদ্দীপকের অনীলবাবুর চরিত্র অধামিের্করই প্রতিচ্ছবি'-তোমার উত্তরের পÿে যুক্তি তুলে ধর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "সজীবের সাথে পরিবারের অন্যদের সম্পকর্ এখন আর ভালো নেই। সে স্বাভাবিক জীবন থেকে এখন অনেকটাই দূরে সরে গেছে। তার বিবেক- বুদ্ধিও লোপ পেয়েছে। বতর্মানে সে ফুসফুসের ক্যান্সারে আক্রান্ত্ম। সজীবের এক সময়ের সহপাঠ",
+  "question_number": 8,
+  "stimulus": "সজীবের সাথে পরিবারের অন্যদের সম্পকর্ এখন আর ভালো নেই। সে স্বাভাবিক জীবন থেকে এখন অনেকটাই দূরে সরে গেছে। তার বিবেক- বুদ্ধিও লোপ পেয়েছে। বতর্মানে সে ফুসফুসের ক্যান্সারে আক্রান্ত্ম। সজীবের এক সময়ের সহপাঠী সিক্ত সাধু-সজ্জন-বৈষ্ণব সবাইকে দেখলেই হাত জোড় করে মাথায় ঠেকায়। কারও সাথে দেখা হলে বিনিময় করে। সে স্বাভাবিক জীবনযাপন করছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অভিবাদন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধমর্পথের ধারণা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সজীবের পরিণতি কীসের কুফল? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সিক্তের আচরণটির গুরম্নত্ব তুলে ধর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "দৃশ্যকল্প-১: মিঠুন জানতে পারে আধুনিক গবেষকদের মতে, ভারতীয় শল্যবিদ্যার জনক খ্রিস্টপূবর্ ৬০০ অব্দে বতর্মান ছিলেন। তিনি বতর্মান বারাণসী নগরে গঙ্গার তীরে বাস করতেন এবং চিকিৎসাবিদ্যা চচার্ করতেন। দৃশ্যকল্",
+  "question_number": 9,
+  "stimulus": "দৃশ্যকল্প-১: মিঠুন জানতে পারে আধুনিক গবেষকদের মতে, ভারতীয় শল্যবিদ্যার জনক খ্রিস্টপূবর্ ৬০০ অব্দে বতর্মান ছিলেন। তিনি বতর্মান বারাণসী নগরে গঙ্গার তীরে বাস করতেন এবং চিকিৎসাবিদ্যা চচার্ করতেন। দৃশ্যকল্প-২: মিন আরও জানতে পারে ভারতীয় চিকিৎসাশাস্ত্রের জনক ব্যাধিমত্ত মানুষের কষ্ট দূর করার জন্য চররূপে পৃথিবীতে মুনির পুত্র হয়ে খ্রিষ্টপূবর্ ৩০০ অব্দে আবিভূর্ত হন। তিনি প্রাচীন ভারতীয় চিকিৎসাশাস্ত্রে যে বিখ্যাত গ্রন্থ রচনা করেন তা আটটি ভাগে বিভক্ত।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিশ্বামিত্রের পুত্রের নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অদ্বৈতবাদ সম্পকের্ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মিঠুনের জানা ভারতীয় শলাবিদ্যার জনকের চিকিৎসা বিজ্ঞানে অবদান বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আধুনিক চিকিৎসা বিজ্ঞানে ভারতীয় চিকিৎসাশাস্ত্রের জনকের অবদান মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "বিধান বাবু পরিবারের গবর্। তিনি সমাজ, দেশ ও জাতির অহংকার। তিনি অংশগ্রহণ করেন এবং দেশকে স্বাধীন করেন। দেশ স্বাধীন হওয়ার পরও তিনি থেমে থাকেননি। বতর্মানে তিনি গরিব-দুঃখীদের যথাসাধ্য দান করেন। অনেক সময় নিজ",
+  "question_number": 10,
+  "stimulus": "বিধান বাবু পরিবারের গবর্। তিনি সমাজ, দেশ ও জাতির অহংকার। তিনি অংশগ্রহণ করেন এবং দেশকে স্বাধীন করেন। দেশ স্বাধীন হওয়ার পরও তিনি থেমে থাকেননি। বতর্মানে তিনি গরিব-দুঃখীদের যথাসাধ্য দান করেন। অনেক সময় নিজে না খেয়ে তাদেরকে খেতে দেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রামায়ণ কে রচনা করেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উপনিষদের শিÿা সম্পকের্ ব্যাখ্যা দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মুক্তিযোদ্ধা বিধান বাবু তোমার পাঠ্যবইয়ের কার চরিত্রকে নিদের্শ করে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বতর্মানে বিধান বাবুর কমর্কা-রন্ত্মিবমার্রই প্রতিচ্ছবি-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-jessore-2024-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-jessore-2024-tp",
+  "question_text": "রাজীব ও দীপঙ্কর আচন্ডালে হরিনাম বিলাতো। একদিন মদ্যপ দুই ভাই 'ক' ও 'খ' দীপঙ্করের সম্মুখে পড়ে। সে সময় দীপঙ্কর হরিনামে মেতে ছিলেন। তা দেখে 'ক' তার হাতে থাকা লাঠি দিয়ে দীপঙ্করের মাথায় আঘাত করে। একথা শুনে ",
+  "question_number": 11,
+  "stimulus": "রাজীব ও দীপঙ্কর আচন্ডালে হরিনাম বিলাতো। একদিন মদ্যপ দুই ভাই 'ক' ও 'খ' দীপঙ্করের সম্মুখে পড়ে। সে সময় দীপঙ্কর হরিনামে মেতে ছিলেন। তা দেখে 'ক' তার হাতে থাকা লাঠি দিয়ে দীপঙ্করের মাথায় আঘাত করে। একথা শুনে রাজীব ছুটে আসে। পরবতীের্ত দুই ভাই ভুল বুঝতে পেরে ÿমা চাইলে রাজীব ও দীপঙ্কর দুই ভাইকে ÿমা করে দিয়ে আপন করে নিলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অবতার কয় ধরনের? ১ আশ্রমে ব্যায়ামাগার গড়ে তুললেন কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের দীপঙ্কর তোমার পঠিত বিষয়ের কার চরিত্রের সাথে সাদৃশ্য রয়েছে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'রাজীব' প্রভু শ্রীচৈতন্যেরই প্রতিচ্ছবি-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2024 — jessore Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p27",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "jessore",
+  "board_year": 2024,
+  "verified_visual": false
+ }
+]

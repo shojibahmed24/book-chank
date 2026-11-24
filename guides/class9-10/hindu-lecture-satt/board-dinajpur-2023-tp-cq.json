@@ -1,0 +1,661 @@
+[
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "সুধীর বাবু একজন চাকরিজীবী। তার দুই ছেলেমেয়ে পড়াশোনা করে।",
+  "question_number": 1,
+  "stimulus": "সুধীর বাবু একজন চাকরিজীবী। তার দুই ছেলেমেয়ে পড়াশোনা করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "সুরেশ বাবু প্রেমভক্তির মাধ্যমে হরিনাম প্রচার করেন। তিনি হরিনামের মাধ্যমে",
+  "question_number": 2,
+  "stimulus": "সুরেশ বাবু প্রেমভক্তির মাধ্যমে হরিনাম প্রচার করেন। তিনি হরিনামের মাধ্যমে",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "শাস্ত্রানুযায়ী রাহুল কোন বণের্র লোক? ব্যাখ্যা কর। ৩ সমাজ থেকে বণের্ভদ প্রথা দূর করার চেষ্টা করেন। তিনি বলেন ধনী, দরিদ্র,",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "সলিলের মায়ের মৃত্যুর পর যে কাজটি সম্পন্ন করা হয়েছে তার ব্রাহ্মণ-অব্রাহ্মণ সকলেরই হরিনাম প্রচারের সমান অধিকার আছে। অন্যদিকে, গুরম্নত্ব বিশেস্নষণ কর। ৪ বিনয় বাবু একজন মহাপুরম্নষের আদশর্ অনুসরণ করেন। উক্ত মহাপুরম্নষের আদশর্ হলো হরিনামে মেতে থাকা। শ্রীহরিই জগতের সবর্প্রকার কল্যাণ প্রতিষ্ঠা করতে পারেন। তাই অন্য শিষ্যদের মতো তিনিও সবর্দা শ্রীহরিকে স্মরণ করেন। ⎯",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "'একং সদ্‌ বিপ্রা বহুধা বদন্ত্মি' কোন গ্রন্থে বলা হয়েছে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'হিন্ধুধমর্ একাধারে প্রাচীন এবং নবীন'−ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুরেশ বাবু কোন মহাপুরম্নষের জীবনাদশর্ অনুসরণ করেন? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিনয় বাবু কি মতুয়াধমের্র মূলমন্ত্র অনুসরণ করেন? পাঠ্যের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "পাথর্ বাবু নিয়মিত ধমর্গ্রন্থ অধ্যয়ন করেন। ঈশ্বরকে জানার জন্য তার",
+  "question_number": 3,
+  "stimulus": "পাথর্ বাবু নিয়মিত ধমর্গ্রন্থ অধ্যয়ন করেন। ঈশ্বরকে জানার জন্য তার",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "এই প্রচেষ্টা। তাছাড়া কোনো ধামির্ক ব্যক্তির সাথে দেখা হলেই তিনি ঈশ্বর সম্পকের্ নানা প্রশ্ন জিজ্ঞাসা করেন। তিনি ঈশ্বরে সমপর্ণ করেই সংসারের সকল কাজকমর্ করেন। অন্যদিকে, সুফলের বাবার প্রচুর ধন- আলোকে সম্পদ থাকার কারণে সে শুধু খায় আর ঘুরে বেড়ায়। যদিও এটার জন্য সুফলকে বাবা-মায়ের কাছ থেকে গালমন্দ শুনতে হয়। গিয়ে তারা",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "ভগবান শ্রীকৃষ্ণ কোন যুগে অবতীণর্ হয়েছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'ÿীণে পুণ্যে মতর্যলোকং বিশন্ত্মি'−বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুফলের মধ্যে কমর্তত্ত্বের কোন দিকটির কাজ করেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'পাথর্ বাবুর অনুশীলনকৃত যোগের মাধ্যমে ঈশ্বরকে পাওয়া সম্ভব' −বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (খ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "নিখিল বাবু একজন বড় ব্যবসায়ী। তিনি বছরের একটি নিদির্ষ্ট দিনে হালখাতা অনুষ্ঠান করেন। এদিনে তার বাড়িতে পূজার আয়োজন করা হয়। এ উপলÿ্যে প্রসাদসহ বিভিন্ন রকম মিষ্টি খাওয়ারও ব্যবস্থা করা হয়। অন্যদিকে, তার ব",
+  "question_number": 4,
+  "stimulus": "নিখিল বাবু একজন বড় ব্যবসায়ী। তিনি বছরের একটি নিদির্ষ্ট দিনে হালখাতা অনুষ্ঠান করেন। এদিনে তার বাড়িতে পূজার আয়োজন করা হয়। এ উপলÿ্যে প্রসাদসহ বিভিন্ন রকম মিষ্টি খাওয়ারও ব্যবস্থা করা হয়। অন্যদিকে, তার বোন নমিতা দেবী কাতির্ক মাসের অমাবস্যা তিথিতে ঈশ্বরের এক বিশেষ শক্তির পূজা করেন। এ উপলÿ্যে প্রদীপ জ্বালিয়ে চারদিক আলোকিত করা হয়। এ পূজায় সবাই মিলে খুব আনন্দ করে। পূজা শেষে সবার জন্য প্রসাদের ব্যবস্থা করা হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পুণ্যস্থান কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধমার্চার বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নিখিল বাবু কোন ধমার্চারটি পালন করেন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "নমিতা দেবীর পূজার মূল উদ্দেশ্য পাঠ্যের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "প্রীতিদের গ্রামে প্রতিবছর বসন্ত্ম ঋতুতে একটি ধমার্নুষ্ঠানের আয়োজন করা",
+  "question_number": 5,
+  "stimulus": "প্রীতিদের গ্রামে প্রতিবছর বসন্ত্ম ঋতুতে একটি ধমার্নুষ্ঠানের আয়োজন করা",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হয়। এদিন রাধা-কৃষ্ণের পূজা করা হয়। পরস্পর-পরস্পরকে আবির দিয়ে",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "মনুষ্যত্বের অন্যতম রাঙিয়ে দেওয়া হয়। এতে নারী-পুরম্নষসহ সকল বণের্র মানুষ অংশগ্রহণ",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "প্রাপ্তি করে। অনুষ্ঠানটি উপলÿ্যে বিভিন্ন এলাকায় গান-বাজনা, মেলা প্রভৃতির করেছিল? ব্যাখ্যা আয়োজন করা হয়। অনুষ্ঠানটি যেন এক মিলন-মেলায় পরিণত হয়।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "বাংলাদেশের বিখ্যাত রথযাত্রা অনুষ্ঠিত হয় কোন জেলায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রথযাত্রা কীভাবে সাম্যের শিÿা দেয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রীতিদের গ্রামে প্রতিবছর কোন ধমার্নুষ্ঠানের আয়োজন করা হয়? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রীতিদের গ্রামে প্রতিবছর যে ধমার্নুষ্ঠানের আয়োজন করা হয় তার কোনো প্রভাব আছে কি? পাঠ্যের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,খ,গ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "প্রথমার বাবা প্রথমাকে বিয়ে দেওয়ার জন্য পাত্র খুঁজছেন। একবার 'ক' নামক এক ছেলের সঙ্গে বিয়ের কথা প্রায় শেষ পযাের্য় এসেছিল। এমন সময় পাত্রপÿ প্রথমার বাবার কাছে একটি প্রাইভেট কার দাবি করে। প্রথমার বাবা এক",
+  "question_number": 6,
+  "stimulus": "প্রথমার বাবা প্রথমাকে বিয়ে দেওয়ার জন্য পাত্র খুঁজছেন। একবার 'ক' নামক এক ছেলের সঙ্গে বিয়ের কথা প্রায় শেষ পযাের্য় এসেছিল। এমন সময় পাত্রপÿ প্রথমার বাবার কাছে একটি প্রাইভেট কার দাবি করে। প্রথমার বাবা একথা শোনার সাথে সাথেই বলেন, 'এমন ছোট মনের মানুষের সাথে আমার মেয়ের বিয়ে দেব না।'− যদিও একটা প্রাইভেট কার দেওয়ার মতো যথেষ্ট সামথর্য প্রথমার বাবার ছিল। তাছাড়া বিষয়টি তার কাছে অসম্মানজনক কাজ বলে মনে হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বতর্মান সমাজে কোন বিবাহ অধিক প্রচলিত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিবাহের মূল পবর্ সম্পকের্ বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'ক' নামক পাত্রের সাথে প্রথমার বিয়ে না দেওয়ার কারণ পাঠ্যের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পাঠ্যের আলোকে প্রথমার বাবার কাজটির যৌক্তিকতা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "সলিলের মায়ের মৃত্যুর পর নিয়মানুযায়ী তাকে শ্মশানে নিয়ে গিয়ে স্নান তিনি খুব অতিথিপরায়ণ। বাড়িতে কোনো অতিথি আসলে তাকে না করিয়ে নতুন কাপড় ও মালা পরিয়ে কপালে চন্দন দেওয়া হয়। খেয়ে যেতে দেন না। অন্যদিকে, রাখা",
+  "question_number": 7,
+  "stimulus": "সলিলের মায়ের মৃত্যুর পর নিয়মানুযায়ী তাকে শ্মশানে নিয়ে গিয়ে স্নান তিনি খুব অতিথিপরায়ণ। বাড়িতে কোনো অতিথি আসলে তাকে না করিয়ে নতুন কাপড় ও মালা পরিয়ে কপালে চন্দন দেওয়া হয়। খেয়ে যেতে দেন না। অন্যদিকে, রাখাল বাবু সংসারের সবকিছু ত্যাগ শাস্ত্রানুযায়ী এর পরবতীর্ কাজ করা হয়। দাহকাযর্ সম্পন্ন হলে শ্মশান করে আশ্রয়হীন অবস্থায় বিভিন্ন মন্দিরে মন্দিরে অবস্থান করেন। তিনি বন্ধুগণ আগুন নিভিয়ে চিতা পরিষ্কার করেন। এরপর তারা স্নান করে সারাÿণ ঈশ্বর চিন্ত্মায় নিজেকে ব্যস্ত্ম রাখেন। লোকালয় থেকে তিনি যে পরিচ্ছন্ন হন। অন্যদিকে, রাহুলের বাবার মৃত্যুর পর রাহুল ব্রাহ্মণ খাবার সংগ্রহ করেন তাই খেয়ে কোনোমতে বেঁচে থাকেন। প-িতের পরামশর্ অনুযাযী পনেরো দিন অশৌচ পালন করে। এরপর",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অবতারবাদ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একেশ্বরবাদ বলতে কী বোঝায়? ২ শ্রাদ্ধানুষ্ঠানের কাজ সম্পাদন করে।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে সুধীর বাবুর কমর্কাে-র সাথে পাঠ্যবইয়ের কোন",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "আগমশাস্ত্রে প্রবক্তা বলা হয় কাকে? ১ আশ্রমের মিল রয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": "একজন হিন্দু নারীর জীবনে সবচেয়ে গুরম্নত্বপূণর্ ঘটনা সম্পকের্ বুঝিয়ে",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "রাখাল বাবুর পালনকৃত আশ্রমটি তোমার পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর। ৪ লেখ।",
+    "marks": 2
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (ক,খ,গ,ক,খ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "সেঁজুতি সূযর্ ও বায়ুদেবের পূজা করে। তবে সে প্রচলিত পদ্ধতিতে পূজা না করে যজ্ঞকমের্র মাধ্যমে এদের পূজার আয়োজন করে। অনেকেই তার এ পদ্ধতি পছন্দ করে না। তবে সে এতে কিছু মনে করে না। সে মনে করে এঁদের প্রতি স",
+  "question_number": 8,
+  "stimulus": "সেঁজুতি সূযর্ ও বায়ুদেবের পূজা করে। তবে সে প্রচলিত পদ্ধতিতে পূজা না করে যজ্ঞকমের্র মাধ্যমে এদের পূজার আয়োজন করে। অনেকেই তার এ পদ্ধতি পছন্দ করে না। তবে সে এতে কিছু মনে করে না। সে মনে করে এঁদের প্রতি সবারই কৃতজ্ঞ থাকা উচিত। অন্যদিকে, তীথের্দর বাড়িতে প্রতিবছর একটি নিদির্ষ্ট তিথিতে ঈশ্বরের এক বিশেষ শক্তির পূজা করা হয়। তারা বিশ্বাস করে এই শক্তির পূজা করলে সাপ এবং শত্রম্নর হাত থেকে রÿা পাওয়া যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যিনি প্রকাশ পান, যিনি ভাস্বর তাকে কী বলা হয়? ১ সবর্জনীন পূজা বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সেঁজুতি কোন শ্রেণির দেবতার পূজা করে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সেঁজুতি ও তীথর্ কি একই শ্রেণির দেবতা পূজা করে? পাঠ্যের যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "নিষ্কৃতি তার বাবা-মায়ের সাথে একদিন দুগার্পূজা দেখতে যায়। পূজা দেখতে লÿ করে মন্দিরের মধ্যে কতকগুলো গাছের পূজা করছে। নিষ্কৃতি তার বাবা-মায়ের কাছ থেকে বিষয়টি সম্পকের্ পরিপূণর্ ধারণা অজর্ন করে। অন্যদিকে",
+  "question_number": 9,
+  "stimulus": "নিষ্কৃতি তার বাবা-মায়ের সাথে একদিন দুগার্পূজা দেখতে যায়। পূজা দেখতে লÿ করে মন্দিরের মধ্যে কতকগুলো গাছের পূজা করছে। নিষ্কৃতি তার বাবা-মায়ের কাছ থেকে বিষয়টি সম্পকের্ পরিপূণর্ ধারণা অজর্ন করে। অন্যদিকে, শুভজিৎদের বাড়িতে প্রতিবছর অমাবস্যা তিথিতে এক দেবীর পূজা করে। যিনি শিবের সহধমির্ণী হিসেবে পরিচিত। তিনি চ- ও মু-কে বধ করার মাধ্যমে দেবতাদের মধ্যে শান্ত্মি ফিরিয়ে আনতে সহায়তা করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পূজার সময় সকলের অগ্রভাগে কে অবস্থান করেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দেবী দুগাের্ক দুগির্তনাশিনী বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শুভজিৎদের বাড়িতে যে দেবীর পূজা করা হয় তার উৎপত্তি সম্পকের্ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'নিষ্কৃতির দেখা দুগার্পূজার তিথিটির গুরম্নত্ব রয়েছে'−পাঠ্যের আলোকে মন্ত্মব্যটির যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "প্রাপ্তি একবার এক সমস্যায় পড়ে। সে বেদ ও স্মৃতিশাস্ত্রের সাহায্য নিয়ে সমস্যাটি সমাধানের চেষ্টা করে কিন্তু পারে না। শেষপযর্ন্ত্ম একজন মহাপুরম্নষের আদশর্ অনুসরণ করে সমস্যাটি সমাধান করতে সÿম হয়। অন্যদি",
+  "question_number": 10,
+  "stimulus": "প্রাপ্তি একবার এক সমস্যায় পড়ে। সে বেদ ও স্মৃতিশাস্ত্রের সাহায্য নিয়ে সমস্যাটি সমাধানের চেষ্টা করে কিন্তু পারে না। শেষপযর্ন্ত্ম একজন মহাপুরম্নষের আদশর্ অনুসরণ করে সমস্যাটি সমাধান করতে সÿম হয়। অন্যদিকে, হৃদয়ও একটা সমস্যায় পড়ে। যখন কোনোমতেই সমাধান খুঁজে পাচ্ছিল না তখন সে একটি জায়গায় ধীরস্থিরভাবে বসে চিন্ত্মা করে এবং সমাধানের পথ খুঁজে পায়। হিরণ্যকশিপুকে কীসের সাহায্যে হত্যা করা হয়েছিল? ১ প্রধান উপাদান সম্পকের্ বুঝিয়ে লেখ। ২ ধমার্ধমর্ নিণের্য়র কোন প্রমাণের সাহায্যে সমস্যাটির সমাধান কর। ৩",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "প্রাপ্তি ও হৃদয় তাদের সমস্যা সমাধানের ÿেত্রে কী ধমার্ধমর্ নিণের্য়র একই প্রমাণ অনুসরণ করেছে? পাঠ্যের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-board-dinajpur-2023-tp-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "board-dinajpur-2023-tp",
+  "question_text": "উদ্দীপক-১ :হিমেশ দশম শ্রেণির ছাত্র। বতর্মানে সে মাঝে মধ্যেই স্কুলে অনুপস্থিত থাকে। ধমীর্য় শিÿক বিকাশ বাবু হিমেশের খোঁজ নিয়ে জানতে পারেন সে পেটের পীড়া বিশেষ করে অজীণর্, অম্বল ও আমাশয়ে ভুগছে। তাছাড়া তা",
+  "question_number": 11,
+  "stimulus": "উদ্দীপক-১ :হিমেশ দশম শ্রেণির ছাত্র। বতর্মানে সে মাঝে মধ্যেই স্কুলে অনুপস্থিত থাকে। ধমীর্য় শিÿক বিকাশ বাবু হিমেশের খোঁজ নিয়ে জানতে পারেন সে পেটের পীড়া বিশেষ করে অজীণর্, অম্বল ও আমাশয়ে ভুগছে। তাছাড়া তার হজমশক্তিও কম। তখন বিকাশ বাবু তাকে একটি বিশেষ আসনের অনুশীলন পদ্ধতি শিখিয়ে দেন। আসনটি অনুশীলনের সময় হিমেশের দেহ দেখতে অনেকটা কচ্ছপের মতো দেখায়। উদ্দীপক-২ : একসময় পরেশের হাত-পা কাঁপত ও পায়ে শক্তি কম পেত। পরেশের বিষয়টি জানতে পেরে একজন যোগসাধক তাকে একটি বিশেষ আসনের অনুশীলন পদ্ধতি শিখিয়ে দেন। আসনটি অনুশীলনের ফলে পরেশ তখন আগের তুলনায় অনেক ভালো আছে। সে এখন অনেক বেশি হাসি-খুশি থাকে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রহ্লাদ কোন কুলে জন্মগ্রহণ করেছিল?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সমাজের প্রথম স্ত্মর সম্পকের্ বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হিমেশ যে আসনটি অনুশীলন করে তার পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পরেশের অনুশীলনকৃত আসনটির কোনো প্রভাব আছে কি? পাঠ্যপুস্ত্মকের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu Test Paper Board Question 2023 — dinajpur Board",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-board → lecture-cq",
+  "guide_source": "Test paper/Board Question.pdf p42",
+  "key_format": null,
+  "source_file": "Test paper/Board Question.pdf",
+  "board_name": "dinajpur",
+  "board_year": 2023,
+  "verified_visual": false
+ }
+]
