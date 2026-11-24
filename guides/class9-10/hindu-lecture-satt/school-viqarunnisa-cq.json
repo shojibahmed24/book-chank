@@ -1,0 +1,667 @@
+[
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "পূজা গিরিশচন্দ্র উচ্চ বিদ্যালয়ের ছাত্রী। সে কয়দিন যাবৎ বেদ নামক",
+  "question_number": 1,
+  "stimulus": "পূজা গিরিশচন্দ্র উচ্চ বিদ্যালয়ের ছাত্রী। সে কয়দিন যাবৎ বেদ নামক",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "প্রাণায়াম বলতে কী বোঝ? ব্যাখ্যা কর। ২ ধমর্গ্রন্থ পড়ছে। হঠাৎ তার মাঝে পরিবতর্ন দেখা যায়। পৃথিবীতে",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "প্রিয়া কোন আসন নিয়মিত অনুশীলন করে? উক্ত আসনের জাঁকজমকপূণর্ জীবন কিছু নয়, মোÿলাভই জীবনের মূল উদ্দেশ্য। তখন ধাপসমূহ লেখ। ৩ সে মোÿলাভের সন্ন্যাস গ্রহণ করে।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রিয়ার অনুশীলনকৃত আসনের প্রভাবসমূহ বিশস্নষণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "ক",
+    "text": "একেশ্বরবাদ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সন্ন্যাস বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলেস্নখিত গ্রন্থ পূজার জীবনে কী ধরনের প্রভাব ফেলেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"জীবনের অন্যতম উদ্দেশ্য হচ্ছে মোÿলাভ\"− উদ্দীপকের",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "আলোকে পূজার জীবন মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (খ,গ,ঘ,ক,খ,গ,ঘ,খ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "মিতু গ্রামের বাড়িতে বেড়াতে গিয়ে দেখল সকল নারী-পুরম্নষ পরস্পর − পরস্পরকে রং মাখিয়ে একত্রে আনন্দ করছে এবং তারা সকলে একত্রে বলছে, আজ আমাদের নেড়া পোড়া, কাল আমাদের দোল, পূণির্মাতে বলো সবাই, বলো হরিবোল।'",
+  "question_number": 2,
+  "stimulus": "মিতু গ্রামের বাড়িতে বেড়াতে গিয়ে দেখল সকল নারী-পুরম্নষ পরস্পর − পরস্পরকে রং মাখিয়ে একত্রে আনন্দ করছে এবং তারা সকলে একত্রে বলছে, আজ আমাদের নেড়া পোড়া, কাল আমাদের দোল, পূণির্মাতে বলো সবাই, বলো হরিবোল।'",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধমার্চার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দীপাবলি উৎসব কেন পালন করা হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মিতুর দেখা অনুষ্ঠানটি সম্পকের্ পাঠ্যবইয়ের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"ধমীর্য় অনুষ্ঠান সামাজিক ও পারিবারিক জীবনে ব্যাপক প্রভাব বিস্ত্মার করে\"− উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "'কমের্ তব অধিকার, ফলে কভু নয়। − ফলাসক্তি ত্যাগ কর, কমর্ ত্যাজ্য নয়।'",
+  "question_number": 3,
+  "stimulus": "'কমের্ তব অধিকার, ফলে কভু নয়। − ফলাসক্তি ত্যাগ কর, কমর্ ত্যাজ্য নয়।'",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কয়টি সাধন পথের মাধ্যমে মোÿলাভ করা যায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ব্রহ্মচযার্শ্রম বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মোÿলাভের উদ্দেশ্যে তুমি উদ্দীপক থেকে কী লাভ করবে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'ফলাসক্তি ত্যাগ কর, কমর্ ত্যাজ্য নয়'− মোÿলাভের উদ্দেশ্যে",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "উক্তিটির যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,খ,গ,ঘ,ক) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "কুশলের বাড়িতে প্রতিবছর দুগার্পূজার আয়োজন করা হয়। দুগার্পূজা − উপলÿে সে একটি নতুন পোশাক কিনেছে। পূজা পাঁচ দিন হয়। দেবী দুগার্র প্রতিমা বিসজের্নর মধ্য দিয়ে বিজয়া দশমী শুরম্ন হয়। বিবাহিত মহিলারা একে অ",
+  "question_number": 4,
+  "stimulus": "কুশলের বাড়িতে প্রতিবছর দুগার্পূজার আয়োজন করা হয়। দুগার্পূজা − উপলÿে সে একটি নতুন পোশাক কিনেছে। পূজা পাঁচ দিন হয়। দেবী দুগার্র প্রতিমা বিসজের্নর মধ্য দিয়ে বিজয়া দশমী শুরম্ন হয়। বিবাহিত মহিলারা একে অপরকে সিঁদুর পরিয়ে দেন এবং একে অপরের দীঘর্জীবন কামনা করেন। দুগার্পূজা মিথ্যা ও অন্যায়কে বাধা দেয়ার শক্তিকে বৃদ্ধি করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বৈদিক দেবতা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কুমারী পূজা বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের আলোকে বিজয়া দশমীর আনুষ্ঠানিকতা ও ধমার্চারসমূহ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অসাম্প্রদায়িক মনোভাব তৈরিতে দুগার্পূজার প্রভাব উদ্দীপকের আলোকে ব্যাখ্যা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "নারায়ণ ছোটবেলা থেকেই ভীষণ ধমার্নুরাগী। বাবার কথা অনুযায়ী প্রতি বণর্না দিনই সে একটু একটু করে গীতা পাঠ করার অভ্যাস করছে। একদিন সে তার পাঠের মাধ্যমে ঈশ্বরের স্বরূপ জানতে পারে। এছাড়া আরও বিভিন্ন ধমর্গ্র",
+  "question_number": 5,
+  "stimulus": "নারায়ণ ছোটবেলা থেকেই ভীষণ ধমার্নুরাগী। বাবার কথা অনুযায়ী প্রতি বণর্না দিনই সে একটু একটু করে গীতা পাঠ করার অভ্যাস করছে। একদিন সে তার পাঠের মাধ্যমে ঈশ্বরের স্বরূপ জানতে পারে। এছাড়া আরও বিভিন্ন ধমর্গ্রন্থ অধ্যয়নের মাধ্যমে জানতে পারে− ব্রহ্ম, ঈশ্বর, ভগবান এগুলো সৃষ্টিকতার্রই বিভিন্ন রূপ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কমর্ কত প্রকার?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হিন্দুধমের্র উৎপত্তি কীভাবে হয়েছে? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "স্রষ্টা ও সৃষ্টির মধ্যে যে গভীর সম্পকর্ রয়েছে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত 'ব্রহ্ম, ঈশ্বর, ভগবান এগুলো সৃষ্টিকতার্রই বিভিন্ন রূপ'−উক্তিটির স্বপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "প্রিয়া মনোযোগ দিয়ে তার ক্লাসে যোগসাধনার আলোচনা শোনে এবং যোগাসন অনুশীলনে উৎসাহিত হয়। সে নিয়মিত এটি অনুশীলন করে। প্রথমে সে দুটি পা জোড়া করে সোজা হয়ে ভূমিতে দাঁড়ায়। এরপর বাঁ পায়ের উপর ভর করে হাত দুটো ন",
+  "question_number": 6,
+  "stimulus": "প্রিয়া মনোযোগ দিয়ে তার ক্লাসে যোগসাধনার আলোচনা শোনে এবং যোগাসন অনুশীলনে উৎসাহিত হয়। সে নিয়মিত এটি অনুশীলন করে। প্রথমে সে দুটি পা জোড়া করে সোজা হয়ে ভূমিতে দাঁড়ায়। এরপর বাঁ পায়ের উপর ভর করে হাত দুটো নমস্কারের ভঙ্গিতে রাখে। পরে শবাসনে ১০ সেকেন্ড বিশ্রাম নেয়। এই আসন অনুশীলন করে সে ভালো ফলাফল পায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যোগসাধনা কাকে বলে? ১ (দুগার্) মাধ্যমিক ও উচ্চ মাধ্যমিক শিÿা বোডর্, যশোর",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "\"ভক্ত মাত্রই ঈশ্বরের প্রিয়পাত্র হলেও গীতায় জ্ঞানী ভক্তই ভগবানের বেশি প্রিয়।\"(গীতা ৭/১৭)",
+  "question_number": 7,
+  "stimulus": "\"ভক্ত মাত্রই ঈশ্বরের প্রিয়পাত্র হলেও গীতায় জ্ঞানী ভক্তই ভগবানের বেশি প্রিয়।\"(গীতা ৭/১৭)",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'ব্রহ্ম' শব্দের অথর্ কী? ১ 'গাহর্স্থ্য আশ্রম' বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপক থেকে তুমি কী শিÿা লাভ করতে পার? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"জ্ঞানী ভক্তই ভগবানের বেশি প্রিয়\" উক্তিটির স্বপÿে যুক্তি উপস্থাপন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "মনুষ্য জীবনকে সুন্দর ও কল্যাণকর করে গড়ে তোলার লÿ্যে ঋষিরা ধমীর্য় আচারআচরণ ও মাঙ্গলিক কমের্র নিদের্শ দিয়েছেন। বিভিন্ন স্মৃতিশাস্ত্রে হিন্দু বিধিবিধান প্রাথির্ত আছে।",
+  "question_number": 8,
+  "stimulus": "মনুষ্য জীবনকে সুন্দর ও কল্যাণকর করে গড়ে তোলার লÿ্যে ঋষিরা ধমীর্য় আচারআচরণ ও মাঙ্গলিক কমের্র নিদের্শ দিয়েছেন। বিভিন্ন স্মৃতিশাস্ত্রে হিন্দু বিধিবিধান প্রাথির্ত আছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সংস্কার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অন্ত্ম্যেষ্টিক্রিয়া বলতে কী বোঝ? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হিন্দুশাস্ত্রানুসারে কোন সংস্কারটি সবের্শ্রষ্ঠ এবং কেন তা বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"বিবাহ মানুষের সামাজিক জীবনের পূণর্তা প্রদান করে\" উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "ঈশ্বর সকল সৃষ্টির মূল। তিনি সকল জীবের মধ্যে আত্মারূপে অবস্থান করেন। এ আত্মা অবিনশ্বর, জন্মহীন। গীতায় বলা হয়েছে− \"আত্মা জন্মেও না, মরেও না।\" অবতার কাকে বলে? ১",
+  "question_number": 9,
+  "stimulus": "ঈশ্বর সকল সৃষ্টির মূল। তিনি সকল জীবের মধ্যে আত্মারূপে অবস্থান করেন। এ আত্মা অবিনশ্বর, জন্মহীন। গীতায় বলা হয়েছে− \"আত্মা জন্মেও না, মরেও না।\" অবতার কাকে বলে? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "চতুরাশ্রম কী? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "\"সকল জীবের মধ্যে ঈশ্বর আত্মারূপে অবস্থান করেন\" উক্তিটি উদ্দীপকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"আত্মা জন্মেও না, মরেও না\"−উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "ধমার্চার ও ধমার্নুষ্ঠান একই সূত্রে গাঁথা। ধমার্চার ব্যতীত ধমার্নুষ্ঠান হয় না। আবার ধমার্নুষ্ঠান করতে হলে ধমার্চার অবশ্য কতর্ব্য। পারিবারিক ও সামাজিক জীবনে ধমার্নুষ্ঠান ও ধমার্চারের গুরম্নত্ব অনেক।",
+  "question_number": 10,
+  "stimulus": "ধমার্চার ও ধমার্নুষ্ঠান একই সূত্রে গাঁথা। ধমার্চার ব্যতীত ধমার্নুষ্ঠান হয় না। আবার ধমার্নুষ্ঠান করতে হলে ধমার্চার অবশ্য কতর্ব্য। পারিবারিক ও সামাজিক জীবনে ধমার্নুষ্ঠান ও ধমার্চারের গুরম্নত্ব অনেক।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "চৈত্র সংক্রান্ত্মির প্রধান উৎসব কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বষর্বরণ উৎসব আজ বাঙালির অসাম্প্রদায়িক চেতনার এক − মহাউৎসব ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রথযাত্রা কীভাবে সাবর্জনীন উৎসব হিসাবে রূপ লাভ করেছে? কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"পারিবারিক ও সামাজিক জীবনে ধমার্নুষ্ঠান ও ধমার্চারের গুরম্নত্ব অনেক\"− উক্তিটি বিশেস্নষণ কর",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-viqarunnisa-cq-011",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-viqarunnisa",
+  "question_text": "সৃজন মেরম্নদে-র সমস্যা নিয়ে ডাক্তারের কাছে যায়। ডাক্তার তাকে বলেন, কচ্ছপের মতো আসনে বসে নিয়মিত ব্যায়াম করলে সমস্যার সমাধান হয়ে যাবে। ডাক্তার আরো বলেন, এতে তার মস্ত্মিষ্ক শান্ত্ম হবে এবং হজম শক্তি বা",
+  "question_number": 11,
+  "stimulus": "সৃজন মেরম্নদে-র সমস্যা নিয়ে ডাক্তারের কাছে যায়। ডাক্তার তাকে বলেন, কচ্ছপের মতো আসনে বসে নিয়মিত ব্যায়াম করলে সমস্যার সমাধান হয়ে যাবে। ডাক্তার আরো বলেন, এতে তার মস্ত্মিষ্ক শান্ত্ম হবে এবং হজম শক্তি বাড়বে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মানুষের আত্মানুসন্ধানে যোগের আটটি ধাপ কে নিদের্শ করেছেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অষ্টাঙ্গযোগের সমাধি ধাপটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ডাক্তার সৃজনকে কোন ব্যায়াম করার উপদেশ দেন? সেটির অনুশীলন করার পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সৃজনকে ডাক্তার কতৃর্ক নিদেির্শত আসনটির অনুশীলনের প্রভাব বণর্না কর। ৪ সৃজনশীল প্রশ্ন পূণর্মান : ৭০ দিতে হবে।] বাবুর কাজের মধ্যে কোন যোগের প্রতিফলন ঘটেছে তা পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কমল বাবুর কমর্কাে- যে যোগের ইঙ্গিত পাওয়া যায়, উক্ত যোগের সারকথা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — viqarunnisa",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,খ,গ,ঘ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p16",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

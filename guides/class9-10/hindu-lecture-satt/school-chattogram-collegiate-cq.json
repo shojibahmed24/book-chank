@@ -1,0 +1,607 @@
+[
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "সুরেশ বাবু প্রেমভক্তির মাধ্যমে হরিনাম প্রচার করেন। তিনি হরিনামের",
+  "question_number": 1,
+  "stimulus": "সুরেশ বাবু প্রেমভক্তির মাধ্যমে হরিনাম প্রচার করেন। তিনি হরিনামের",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলাদেশের বিখ্যাত রথযাত্রা অনুষ্ঠিত হয় কোন জেলায়? ১ মাধ্যমে সমাজ থেকে বণের্ভদ প্রথা দূর করার চেষ্টা করেন। তিনি বলেন",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "রথযাত্রা কীভাবে সাম্যের শিÿা দেয়? ২ ধনী, দরিদ্র, ব্রাহ্মণ-অব্রাহ্মণ সকলেরই হরিনাম প্রচারের সমান অধিকার",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "প্রীতিদের গ্রামে প্রতিবছর কোন ধমার্নুষ্ঠানের আয়োজন করা হয়? আছে। অন্যদিকে বিনয় বাবু একজন মহাপুরম্নষের আদশর্ অনুসরণ ব্যাখ্যা কর। ৩ করেন। উক্ত মহাপুরম্নষের আদশর্ হলো হরিনামে মেতে থাকা। শ্রীহরিই",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রীতিদের গ্রামে প্রতিবছর যে ধমার্নুষ্ঠানের আয়োজন করা হয় তার জগতের সবর্প্রকার কল্যাণ প্রতিষ্ঠা করতে পারেন। তাই অন্য শিষ্যদের কোনো প্রভাব আছে কি? পাঠ্যের আলোকে যুক্তি দাও। ৪ মতো তিনিও সবর্দা শ্রীহরিকে স্মরণ করেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "'একং সদ বিপ্রা বহুধা বদন্ত্মি'− কোন গ্রন্থে বলা হয়েছে? ১ রূপা",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'হিন্দুধমর্ একাধারে প্রাচীন এবং নবীন'− ব্যাখ্যা কর। ২ ঠান্ডা গ.সুরেশ বাবু কোন মহাপুরম্নষের জীবনাদশর্ অনুসরণ করেন? বণর্না কর। ৩ কানুনও",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "বিনয় বাবু কি মতুয়াধমের্র মূলমন্ত্র অনুসরণ করেন? পাঠ্যের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,খ,গ,ঘ,ক,খ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "অতসীদের গ্রামে প্রতিবছর বসন্ত্মকালে একটি বৈষ্ণবীয় উৎসবের বিনয়ী আয়োজন করা হয় যেখানে গ্রামবাসীরা শত্রম্নতা ভুলে একে অপরকে আবীর মাখিয়ে দেয়। অন্যদিকে, সবিতাদেবী একটি জায়গায় বারম্নণী স্নানে যান। সেখানে গ",
+  "question_number": 2,
+  "stimulus": "অতসীদের গ্রামে প্রতিবছর বসন্ত্মকালে একটি বৈষ্ণবীয় উৎসবের বিনয়ী আয়োজন করা হয় যেখানে গ্রামবাসীরা শত্রম্নতা ভুলে একে অপরকে আবীর মাখিয়ে দেয়। অন্যদিকে, সবিতাদেবী একটি জায়গায় বারম্নণী স্নানে যান। সেখানে গিয়ে তিনি জানতে পারেন একজন মহাপুরম্নষ তাঁর মায়ের ইচ্ছা পূরণের জন্য এই স্নানের ব্যবস্থা করেছিলেন। এই জায়গায় স্নান করতে পেরে তিনি মানসিকভাবে শান্ত্মি পান। এছাড়া অন্য পূণ্যাথীের্দর সাথে দেখা হওয়ায়, তাদের সাথে আলাপের মাধ্যমে তার মনের সংকীণর্তাও অনেকটা দূর হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কখন 'দীপাবলি' উৎসব পালিত হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'নবান্ন আবহমান বাংলার ঐতিহ্যবাহী অসাম্প্রদায়িক সবর্জনীন উৎসব'− ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অতসীদের গ্রামে প্রতিবছর কোন ধমার্নুষ্ঠানের আয়োজন করা হয়? বণর্না কর। ৩ ঘ.সবিতাদেবীর কাজটির গুরম্নত্ব পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর। ৪ দৃশ্যকল্প-২  সুকুমার বাবু সাংসারিক কাজের পাশাপাশি একটি সেবামূলক প্রতিষ্ঠানে স্বেচ্ছাসেবক হিসেবে কাজ করেন। তিনি ফলের আশা না করেই সমস্ত্ম কাজ করেন। কমর্ফল ঈশ্বরের চরণে নিবেদন করেন। অন্যদিকে, তার বন্ধু সুকোমল বাবু গৃহে ভগবান শ্রীকৃষ্ণের বিগ্রহ স্থাপন করে সকাল-সন্ধ্যা ভক্তি ভরে ডাকেন। তিনি সবকিছুর মধ্যে ভগবানকে",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "কয়েক বছর আগে মাধবী ও জয়ন্ত্মদের বাড়ি সাজ-সজ্জা করা হয়।",
+  "question_number": 4,
+  "stimulus": "কয়েক বছর আগে মাধবী ও জয়ন্ত্মদের বাড়ি সাজ-সজ্জা করা হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "সবর্জনীন তাদেরকে কেন্দ্র করে এই বিশেষ মাঙ্গলিক অনুষ্ঠানের আয়োজন। এ উপলÿে অনেক অতিথির আগমন ঘটে। সকলে আনন্দে মেতে ওঠে। এরপর শুভলগ্নে সকলের উপস্থিতিতে মাধবী ও জয়স্ত্ম পরস্পর তিনবার মালা বদল করে। এই প্রক্রিয়ার মাধ্যমে তারা নবজীবনে প্রবেশ করে। বতর্মানে তাদের ঘরে দুইটি সন্ত্মান রয়েছে। মা-বাবা ও সন্ত্মানদেরকে জানায়। সমবয়সীদের নিয়ে বতর্মানে তারা সুখে দিন যাপন করছে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "মাঙ্গলিক অনুষ্ঠানের মাধ্যমে প্রথম অন্নভোজনকে কী বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন অনুষ্ঠানের মধ্য দিয়ে বিবাহের আনুষ্ঠানিকতা শুরম্ন হয়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মাধবী ও জয়ন্ত্মর বিবাহ কোন প্রকার বিবাহের অন্ত্মগর্ত? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত মাঙ্গলিক অনুষ্ঠানটির গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (খ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "সলিলের মায়ের মৃত্যুর পর নিয়ামানুযায়ী তাকে শ্মশানে নিয়ে গিয়ে স্নান করিয়ে নতুন কাপড় ও মালা পরিয়ে কপালে চন্দন দেওয়া হয়। শাস্ত্রানুযায়ী এর পরবতীর্ কাজ করা হয়। দাহকাযর্ সম্পন্ন হলে শ্মশান বন্ধুগণ আগু",
+  "question_number": 5,
+  "stimulus": "সলিলের মায়ের মৃত্যুর পর নিয়ামানুযায়ী তাকে শ্মশানে নিয়ে গিয়ে স্নান করিয়ে নতুন কাপড় ও মালা পরিয়ে কপালে চন্দন দেওয়া হয়। শাস্ত্রানুযায়ী এর পরবতীর্ কাজ করা হয়। দাহকাযর্ সম্পন্ন হলে শ্মশান বন্ধুগণ আগুন নিভিয়ে চিতা পরিষ্কার করেন। এরপর তারা স্নান করে পরিচ্ছন্ন হন। অন্যদিকে, রাহুলের বাবার মৃত্যুর পর রাহুল ব্রাহ্মণ পি-তের পরামশর্ অনুযায়ী পনের দিন অশৌচ পালন করে। এরপর শ্রাদ্ধানুষ্ঠানের কাজ সম্পাদন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আগম শাস্ত্রের প্রবক্তা বলা হয় কাকে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একজন হিন্দু নারীর জীবনে সবচেয়ে গুরম্নত্বপূণর্ ঘটনা সম্পকের্ বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শাস্ত্রানুযায়ী রাহুল কোন বণের্র লোক? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সলিলের মায়ের মৃত্যুর পর যে কাজটি সম্পন্ন করা হয়েছে তার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "প্রীতিদের গ্রামে প্রতিবছর বসন্ত্ম ঋতুতে একটি ধমার্নুষ্ঠানের আয়োজন",
+  "question_number": 6,
+  "stimulus": "প্রীতিদের গ্রামে প্রতিবছর বসন্ত্ম ঋতুতে একটি ধমার্নুষ্ঠানের আয়োজন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "করা হয। এদিন রাধা-কৃষ্ণের পূজা করা হয়। পরস্পর পরস্পরকে করেছিল? আবির দিয়ে রাঙিয়ে দেয়া হয়। এতে নারী-পুরম্নষসহ সকল বণের্র মানুষ",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রাপ্তি অংশগ্রহণ করে। অনুষ্ঠানটি উপলÿে বিভিন্ন এলাকায় গান-বাজনা, মেলা একই প্রমাণ প্রভৃতির আয়োজন করা হয়। অনুষ্ঠানটি যেন এক মিলন-মেলায় পরিণত হয়।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "বসন্ত্ম রোগের কবল থেকে রÿা পাওয়ার জন্য শ্রাবণ মাসের শুক্লপÿে দেবী এক বিশেষ শক্তির পূজা করেন। এ পূজায় বিভিন্ন রকমের জাতীয় ফলের প্রয়োজন হয়। এছাড়া তিনি পূজার অন্যান্য নিয়ম- সঠিকভাবে অনুসরণ করেন। অন্যদিক",
+  "question_number": 7,
+  "stimulus": "বসন্ত্ম রোগের কবল থেকে রÿা পাওয়ার জন্য শ্রাবণ মাসের শুক্লপÿে দেবী এক বিশেষ শক্তির পূজা করেন। এ পূজায় বিভিন্ন রকমের জাতীয় ফলের প্রয়োজন হয়। এছাড়া তিনি পূজার অন্যান্য নিয়ম- সঠিকভাবে অনুসরণ করেন। অন্যদিকে, তার বান্ধবী শিখা দেবী সন্ত্মান লাভের প্রত্যাশায় হেমন্ত্মকালে ঈশ্বরের এক বিশেষ শক্তির পূজার আয়োজন করেন। শুধু তাই নয়, এই পূজার মাধ্যমে তিনি একদিকে অন্যদিকে অন্যায়অবিচারের প্রতি সোচ্চার হওয়ার প্রেরণা পান। ক.দুগর্ কাকে বলে? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "দেবী দুগাের্ক ত্রিনয়না বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রূপা দেবী যে বিশেষ শক্তির পূজা করেন তার পরিচয় বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শিখা দেবীর আয়োজিত পূজার গুরম্নত্ব ও প্রভাব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "দৃশ্যকল্পগুলোর আলোকে সংশিস্নষ্ট প্রশ্নগুলোর উত্তর দাও। দৃশ্যকল্প-১",
+  "question_number": 8,
+  "stimulus": "দৃশ্যকল্পগুলোর আলোকে সংশিস্নষ্ট প্রশ্নগুলোর উত্তর দাও। দৃশ্যকল্প-১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রত্যাহার অথর্ কী? দৃশ্যকল্প-১",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিরবচ্ছিন্ন গভীর চিন্ত্মার প্রক্রিয়াটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দৃশ্যকল্প-১ এ উলিস্নখিত আসনটির অনুশীলন পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দৃশ্যকল্প-২ এ উলেস্নখিত আসনটির প্রভাব বিশেস্নষণ কর। ৪ সেঁজুতি সূযর্ ও বায়ুদেবের পূজা করে। তবে সে প্রচলিত পদ্ধতিতে পূজা না করে যজ্ঞকমের্র মাধ্যমে এদের পূজার আয়োজন করে। অনেকেই তার এই পদ্ধতি পছন্দ করে না। তবে সে এতে কিছু মনে করে না। সে মনে করে এঁদের সবারই কৃতজ্ঞ থাকা উচিত। অন্যদিকে, তীথের্দর বাড়িতে প্রতিবছর একটি নিদির্ষ্ট তিথিতে ঈশ্বরের এক বিশেষ শক্তি পূজা তারা বিশ্বাস করে এই শক্তির পূজা করলে সাপ এবং শত্রম্নর পাওয়া যায়।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "যিনি প্রকাশ পান, যিনি ভাস্বর তাকে কী বলা হয়? ১ পূজা বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সেঁজুতি কোন শ্রেণির দেবতার পূজা করে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সেঁজুতি ও তীথর্ কি একই শ্রেণির দেবতার পূজা করে? পাঠ্যের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (ক,খ,গ,ঘ,ক,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "অনুভব করেন। সুকোমল বাবু মনেপ্রাণে বিশ্বাস করেন, ভগবান করম্নণা করলে তবেই আমাদের মুক্তি।",
+  "question_number": 9,
+  "stimulus": "অনুভব করেন। সুকোমল বাবু মনেপ্রাণে বিশ্বাস করেন, ভগবান করম্নণা করলে তবেই আমাদের মুক্তি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধারণা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "যোগ সাধনার সবোর্চ্চ স্ত্মরটি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুকুমার বাবুর কমর্কাে-কোন সাধন পথ প্রতিফলিত হয়েছে? ব্যাখ্যা কর। ৩ করা হয়।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "'সুকোমল বাবুর কমর্কাে-র মাধ্যমে মোÿপ্রাপ্তি সম্ভব'− পাঠ্যের হাত থেকে রÿা আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "অতুল খুবই নম্র ও ভদ্র। সে মাতা-পিতা, শিÿক ও গুরম্নজনদের প্রণাম শুভেচ্ছা জানাতে ভোলে না। ছোটদের প্রতি রয়েছে তার অগাধ স্নেহ। অন্যদিকে, কালু অসৎ সঙ্গের কবলে পড়ে মাদকে আসক্ত হয়ে পড়ে। কালুর মাতা-পিতা বিষয়ট",
+  "question_number": 10,
+  "stimulus": "অতুল খুবই নম্র ও ভদ্র। সে মাতা-পিতা, শিÿক ও গুরম্নজনদের প্রণাম শুভেচ্ছা জানাতে ভোলে না। ছোটদের প্রতি রয়েছে তার অগাধ স্নেহ। অন্যদিকে, কালু অসৎ সঙ্গের কবলে পড়ে মাদকে আসক্ত হয়ে পড়ে। কালুর মাতা-পিতা বিষয়টি জানতে পেরে কালুকে যথেষ্ট সময় দেওয়ার চেষ্টা করে। তাকে ধূমপান ও মাদকাসক্তির কুফল সম্পকের্ সচেতন করে। অবশেষে মাতা-পিতা কালুকে স্বাভাবিক জীবনে ফিরিয়ে আনতে সÿম হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রণামের প্রতি শব্দ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধমার্ধমর্ নিণের্য়র দ্বিতীয় প্রমাণ সম্পকের্ বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অতুলের কমর্কাে-ধমর্পথের কোন ধারণাটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পাঠ্যের আলোকে কালুর মাতা-পিতার কাজটির যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-chattogram-collegiate-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-chattogram-collegiate",
+  "question_text": "প্রাপ্তি একবার এক সমস্যায় পড়ে। সে বেদ ও স্মৃতিশাস্ত্রের সাহায্য নিয়ে সমস্যাটি সমাধানের চেষ্টা করে কিন্তু পারে না। শেষ পযর্ন্ত্ম একজন মহাপুরম্নষের আদশর্ অনুসরণ করে সমস্যাটি সমাধান করতে সÿম হয়। অন্যদ",
+  "question_number": 11,
+  "stimulus": "প্রাপ্তি একবার এক সমস্যায় পড়ে। সে বেদ ও স্মৃতিশাস্ত্রের সাহায্য নিয়ে সমস্যাটি সমাধানের চেষ্টা করে কিন্তু পারে না। শেষ পযর্ন্ত্ম একজন মহাপুরম্নষের আদশর্ অনুসরণ করে সমস্যাটি সমাধান করতে সÿম হয়। অন্যদিকে হৃদয়ও একটা সমস্যায় পড়ে। যখন কোনোমতেই সমাধান খুঁজে পাচ্ছিল না তখন সে একটি জায়গায় ধীর-স্থিরভাবে বসে চিন্ত্মা করে এবং সমাধানের পথ খুঁজে পায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হিরণ্যকশিপুকে কিসের সাহায্যে হত্যা করা হয়েছিল?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মনুষ্যত্বের অন্যতম প্রধান উপাদান সম্পকের্ বুঝিয়ে লেখ। ২ প্রাপ্তি ধমার্ধমর্ নিণের্য় কোন প্রমাণের সাহায্যে সমস্যাটির সমাধান ব্যাখ্যা কর। ৩ ও হৃদয় তাদের সমস্যা সমাধানের ÿেত্রে কি ধমার্ধমর্ নিণের্য়র অনুসরণ করেছে? পাঠ্যের আলোকে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — chattogram-collegiate",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p19",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

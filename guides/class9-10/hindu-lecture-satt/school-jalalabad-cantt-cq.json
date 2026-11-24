@@ -1,0 +1,622 @@
+[
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "মেধাবী ছাত্র নিখিল তার শিক্ষাজীবন শেষ করে সমাজসেবায়",
+  "question_number": 1,
+  "stimulus": "মেধাবী ছাত্র নিখিল তার শিক্ষাজীবন শেষ করে সমাজসেবায়",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কূমর্ অথর্ কী? ১ আত্মনিয়োগ করেন। সারা ভারত ভ্রমণ করে তিনি মানুষের দুঃখ-দুদর্শার",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "প্রতিটি মানুষই নিজ জীবনে সুখ চায়− কেন? ২ এক ভয়াবহ চিত্র দেখতে পান। এখানে নারী ছিল শিÿা ও কমের্ÿত্রে",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "অনিল কীভাবে অধর্কূমার্সন করে? ব্যাখ্যা কর। ৩ অনেক পেছনে। তিনি নারীদের শিÿার জন্য নানা কমর্কা-শুরম্ন করেন।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "'অধর্কূমার্সন' অনুশীলনে অনিলের জীবনে পড়বে গভীর প্রভাব'− কারণ তিনি বুঝতে পেরেছিলেন, যে জাতি নারীদের সম্মান দেয় না সেই মূল্যায়ন কর। ৪ জাতি কখানো বড় হতে পারে না।  পৃথিবীতে কিছু মানুষ আসে সমাজ তথা মানুষের মঙ্গলের জন্য। এমনই",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "'খালি পেটে ধমর্ হয় না'− কে বোঝাতে পেরেছিলেন? ১ একজন তিনি সারা পৃথিবীর বুকে হিন্দুধমের্ক নতুনভাবে চিনিয়ে দিলেন।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'বেলুড় মঠ' প্রতিষ্ঠার উদ্দেশ্য ব্যাখ্যা কর। ২ মানুষের দুঃখ-দুদর্শা তিনি নিজের চোখে ঘুরে ঘুরে দেখতেন। ধ্যানের",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের নিখিলের সাথে তোমার পাঠ্যবইয়ের যে চরিত্রের মিল মাধ্যমে তিনি বুঝতে পেরেছিলেন মানুষের জীবনীশক্তির উৎস হচ্ছে ধমর্। পাওয়া যায় তার তুলনামূলক ব্যাখ্যা দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ক",
+    "text": "শঙ্করাচাযর্ কে ছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "ঘ",
+    "text": "\"যে জাতি নারীদের সম্মান দেয় না, সেই জাতি কখনো বড় হতে",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "মীরাবাঈ-এর ভজন সম্পকের্ লেখ। ২ পারে না\"− বিষয়টির যথাথর্তা ব্যাখ্যা দাও।",
+    "marks": 4
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে যে মহামানবের ইঙ্গিত দেওয়া হয়েছে তিনি কীভাবে ভারতবাসীকে জাগিয়ে তুলেছিলেন? তোমার পাঠ্যবইয়ের",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 11টি অংশ (ক,খ,গ,ঘ,ক,খ,গ,ক,ঘ,খ,গ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "দীনবন্ধু বাবু ঠিক করলেন, শেষ জীবনে তিনি বিভিন্ন তীথার্স্থানে ঘুরে আলোকে ব্যাখ্যা কর। ৩ বেড়াবেন। চৈত্র মাসে তিনি বারম্ননী স্নানের উদ্দেশ্যে সুনামগঞ্জ জেলার",
+  "question_number": 2,
+  "stimulus": "দীনবন্ধু বাবু ঠিক করলেন, শেষ জীবনে তিনি বিভিন্ন তীথার্স্থানে ঘুরে আলোকে ব্যাখ্যা কর। ৩ বেড়াবেন। চৈত্র মাসে তিনি বারম্ননী স্নানের উদ্দেশ্যে সুনামগঞ্জ জেলার",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ঘ",
+    "text": "'সকল ধমের্র লÿ্যই ঈশ্বর লাভ'− উক্ত মহামানবের বক্তব্যের একটি তীথর্স্থানে যান। মানবজীবনে এ সমস্ত্ম তীথর্স্থান ভ্রমণের গুরম্নত্ব অপরিসীম। আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "ক",
+    "text": "পুণ্যস্থানকে কী বলা হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধমার্নুষ্ঠান বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে তোমার পাঠ্যবইয়ের কোন তীথর্স্থানের ইঙ্গিত দেওয়া হয়েছে? পারিবারিক ও সামাজিক জীবনে এর প্রভাব ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'মানবজীবনে এ সমস্ত্ম তীথর্স্থানের গুরম্নত্ব অপরিসীম'− আলোচনা",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (ঘ,ক,খ,গ,ঘ,খ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "ধমর্শাস্ত্র অনুযায়ী যোগসাধনার গুরম্নত্ব অপরিসীম। জীবাত্মার সঙ্গে পরমাত্মার সংযোগই হলো যোগসাধনা। দেহকে সুস্থ ও মনকে শান্ত্ম রাখতে এবং ধমর্সাধনার ÿেত্রে যোগের গুরম্নত্ব অপরিসীম।",
+  "question_number": 3,
+  "stimulus": "ধমর্শাস্ত্র অনুযায়ী যোগসাধনার গুরম্নত্ব অপরিসীম। জীবাত্মার সঙ্গে পরমাত্মার সংযোগই হলো যোগসাধনা। দেহকে সুস্থ ও মনকে শান্ত্ম রাখতে এবং ধমর্সাধনার ÿেত্রে যোগের গুরম্নত্ব অপরিসীম।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যোগই হলো আধ্যাত্মিক কামধেনু− কার উক্তি?",
+    "marks": 1
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "বিভাস সবর্ত্র বন্ধুদের সাথে অথবা অন্য কারও সাথে না মিলে একাকী",
+  "question_number": 4,
+  "stimulus": "বিভাস সবর্ত্র বন্ধুদের সাথে অথবা অন্য কারও সাথে না মিলে একাকী",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "ঘুরে বেড়ায়। হঠাৎ একদিন মন্দিরে গিয়ে উপস্থিত হয়। সে কালীর ভজনা শুনে কালীর প্রেমে পড়ে যায়। তারপর সে সাধনায় সিদ্ধিলাভ করে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "পরমহংস কার উপাধি ছিল?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "গদাধরের সাধনজীবন কীভাবে শুরম্ন হয়।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "'তিনি ধমের্র জটিলতত্ত্ব গল্পের মাধ্যমে বোঝাতেন'− পাঠ্যবইয়ের পৌঁছেন আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শ্রীরামকৃষ্ণের দুটি উপদেশ উলেস্নখ করে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (গ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "কেশব চক্রবতীর্ ও তুষার দাশ দুই বন্ধু। কেশব পূজাপাবর্ণ করেন এবং তুষার ব্যবসায় করেন। গত সপ্তাহে কেশবের বাবা মারা গেছেন এবং তুষারের স্ত্রীর দ্বিতীয় সন্ত্মান জন্ম হয়েছে। এ সময় উভয়ে অশৌচ পালন করতে লাগলেন।",
+  "question_number": 5,
+  "stimulus": "কেশব চক্রবতীর্ ও তুষার দাশ দুই বন্ধু। কেশব পূজাপাবর্ণ করেন এবং তুষার ব্যবসায় করেন। গত সপ্তাহে কেশবের বাবা মারা গেছেন এবং তুষারের স্ত্রীর দ্বিতীয় সন্ত্মান জন্ম হয়েছে। এ সময় উভয়ে অশৌচ পালন করতে লাগলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অশৌচ শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কীভাবে আদ্যশ্রাদ্ধ পালন করতে হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কেশব ও তুষারের অশৌচ পালনের তুলনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বণের্ভদে অশৌচ পালনের তাৎপযর্ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "অনিল প্রতিদিন সকালে উঠে শরীর সুস্থ রাখার জন্য বিভিন্ন যোগব্যায়াম",
+  "question_number": 6,
+  "stimulus": "অনিল প্রতিদিন সকালে উঠে শরীর সুস্থ রাখার জন্য বিভিন্ন যোগব্যায়াম",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "গ",
+    "text": "অনুশীলন করে। এ যোগসাধনা হলো সকল সুখ লাভের একমাত্র উপায় বা পন্থা। প্রতিটি মানুষই নিজ জীবনে সুখ চায়। অনিল নিয়মিত অধর্কূমার্সন করে।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 1টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "মুকুন্দরাম আধুনিক যুগের মানুষ হয়েও একজন প্রকৃত ধামির্ক। তিনি বৃÿের মতো সহিষ্ণু। কালো-ধলো তার কাছে বিবেচ্য নয়। উঁচু-নীচু নিয়ে কখনই তিনি মাথা ঘামাননি।",
+  "question_number": 8,
+  "stimulus": "মুকুন্দরাম আধুনিক যুগের মানুষ হয়েও একজন প্রকৃত ধামির্ক। তিনি বৃÿের মতো সহিষ্ণু। কালো-ধলো তার কাছে বিবেচ্য নয়। উঁচু-নীচু নিয়ে কখনই তিনি মাথা ঘামাননি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধামির্ক ব্যক্তি কেমন হন? ১ জীব ব্রহ্মা ছাড়া আর কিছুই নয়− ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের মুকুন্দরামের আচরণ থেকে বতর্মান তরম্নণ সমাজ কী শিÿা পেতে পারবে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'একজন প্রকৃত ধামির্ক বৃÿের মতো সহিষ্ণু এবং সমদশীর্'− তোমার পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর। প্রণব বাবু শ্রেণিকÿে 'ধমের্র জয়' পাঠটি অধ্যয়ন করাচ্ছেন। ছাত্ররা তাকে প্রশ্ন করল, ভক্ত প্রহ্লাদকে কি তার পিতা শাস্ত্মি দিতে পেরেছিল? প্রত্যুত্তরে প্রণব বাবু তাদেরকে বললেন, এ ধমের্র জন্যই প্রহ্লাদ রÿা পেয়েছে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "ধমের্র ভিত্তি কয়টি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধমর্ ধামির্ককে রÿা করে কেন? ২ কী উপায়ে হিরণ্যকশিপু প্রহ্লাদকে হত্যার পরিকল্পনা করেছিল? প্রণব বাবুর বক্তব্যের আলোকে বণর্না কর।",
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "'ধমের্র জয় অবশ্যম্ভাবী'−উক্তিটি ব্যাখ্যা কর।",
+    "marks": 3
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (ক,গ,ঘ,ক,খ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "সৃজনশীল প্রশ্ন ৯",
+  "question_number": 9,
+  "stimulus": "",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "সমাধি বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "পাঠ্যবইয়ের আলোকে যোগসাধনার ধারণা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দেহকে সুস্থ ও মনকে শান্ত্ম রাখতে এবং ধমর্সাধনার ÿেত্রে যোগের গুরম্নত্ব অপরিসীম− বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উদ্দীপক খালি; অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "ঢাকা বিশ্ববিদ্যালয়ের জগন্নাথ হলে শ্রীরামকৃষ্ণের জীবনী নিয়ে একটি ডকুমেন্টারি দেখানো হয়। শ্রীরামকৃষ্ণ বলেছেন, আন্ত্মরিক হলেই সব ধমের্র ভিতর দিয়েই ঈশ্বরকে পাওয়া যায়। ঈশ্বরের কাছে নানা পথ দিয়ে তারা। তিন",
+  "question_number": 10,
+  "stimulus": "ঢাকা বিশ্ববিদ্যালয়ের জগন্নাথ হলে শ্রীরামকৃষ্ণের জীবনী নিয়ে একটি ডকুমেন্টারি দেখানো হয়। শ্রীরামকৃষ্ণ বলেছেন, আন্ত্মরিক হলেই সব ধমের্র ভিতর দিয়েই ঈশ্বরকে পাওয়া যায়। ঈশ্বরের কাছে নানা পথ দিয়ে তারা। তিনি বলেন, 'যত মত তত পথ'।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শ্রীরামকৃষ্ণ কত খ্রিষ্টাব্দে পরলোকগমন করেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শ্রীরামকৃষ্ণের অন্য ধমের্র প্রতি কেমন মনোভাব লÿ করা যায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সকল ধমের্র মধ্যে তুমি কীভাবে সমন্বয় রÿা করতে পার? শ্রীরামকৃষ্ণের শিÿার আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"যত মত তত পথ\" বাণীটি কীভাবে বহু জাতিকে আদশর্ মানুষে পরিণত করে? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-jalalabad-cantt-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-jalalabad-cantt",
+  "question_text": "রতন ও সঞ্জয় প্রতিবেশী। তাদের মধ্যে দ্বন্দ্ব বিরাজ করছে। কেউ কারও সাথে কথা বলে না। কিন্তু আজ হোলি উৎসব। তারা অতীতের বিভেদ ভুলে একে অপরকে আবির মাখিয়ে বুকে টেনে নেয়।",
+  "question_number": 11,
+  "stimulus": "রতন ও সঞ্জয় প্রতিবেশী। তাদের মধ্যে দ্বন্দ্ব বিরাজ করছে। কেউ কারও সাথে কথা বলে না। কিন্তু আজ হোলি উৎসব। তারা অতীতের বিভেদ ভুলে একে অপরকে আবির মাখিয়ে বুকে টেনে নেয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফাল্গুনী পূণির্মার অপর নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মেড়া পোড়ানো হয় কেন? ব্যাখ্যা কর। ২ উদ্দীপকে রতন ও সঞ্জয় কীভাবে দোল উৎসব উদযাপন করে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'যেকোনো ধমীর্য় অনুষ্ঠানই সামাজিক সম্প্রীতি ও মিলনের এক অন্যতম মাধ্যম'− উক্তিটির তাৎপযর্ মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — jalalabad-cantt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 3টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p20",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

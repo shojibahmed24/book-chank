@@ -1,0 +1,621 @@
+[
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-001",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "ঈশ্বরকে ডাকার বিভিন্ন উপায় আছে। পূজা, জপ, ধ্যান, যোগসাধনা,",
+  "question_number": 1,
+  "stimulus": "ঈশ্বরকে ডাকার বিভিন্ন উপায় আছে। পূজা, জপ, ধ্যান, যোগসাধনা,",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভ্রাতৃদ্বিতীয়া কখন পালিত হয়? ১ তন্ত্রসাধনা প্রভৃতিকে উপাসনার উপায় হিসেবে ধরা হয়। উপাসনা",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "'রাখীবন্ধন' বলতে কী বোঝায়? ২ ঈশ্বরের সান্নিধ্য লাভের একটি মাধ্যম বা পথ। উপাসনা ও প্রাথর্নার",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের পুষ্পার পালনকৃত ধমার্নুষ্ঠানটির পাঠ্যবইয়ের আলোকে জন্য হিন্দুধমের্র অনেক মন্ত্র বা শেস্নাক আছে। বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ক",
+    "text": "আÿরিকভাবে উপাসনা বলতে কী বোঝায়?",
+    "marks": 1
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের দোলার দেখা ধমার্নুষ্ঠানটির বণর্না ও তাৎপযর্ বিশেস্নষণ কর।",
+    "marks": 4
+   },
+   {
+    "part": "খ",
+    "text": "সাকার উপাসনা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের আলোকে উপাসনার প্রয়োজনীয়তা আছে কি? তোমার পাঠ্যবইয়ের আলোকে মতামত দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উপাসনা থেকে যেসব শিÿা গ্রহণ করা যায় তার ব্যাখ্যা দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 8টি অংশ (ক,খ,গ,ক,ঘ,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-002",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "দেবেন্দ্র তার গুরম্নদেবের পরামশের্ একটি আসন অনুশীলন করে। আসনটি অনুশীলনের সময় দুই পা জোড়া করে সে সোজা হয়ে দাঁড়ায়। হাত-পা বদল করে আসনটি সে চারবার অনুশীলন করে। অপরদিকে, বিমল নিয়মিত একটি আসন অনুশীলন করায় ",
+  "question_number": 2,
+  "stimulus": "দেবেন্দ্র তার গুরম্নদেবের পরামশের্ একটি আসন অনুশীলন করে। আসনটি অনুশীলনের সময় দুই পা জোড়া করে সে সোজা হয়ে দাঁড়ায়। হাত-পা বদল করে আসনটি সে চারবার অনুশীলন করে। অপরদিকে, বিমল নিয়মিত একটি আসন অনুশীলন করায় কোষ্ঠবদ্ধতা, অজীণর্, পেট ফাঁপা প্রভৃতি পেটের যাবতীয় রোগ থেকে মুক্তি পায়। এই আসনটির ফলে তার মেরম্নদ-সুস্থ ও নমনীয় হয়েছে এবং পিঠের ব্যথা দূর হয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যোগসূত্রের প্রণেতা কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রত্যাহার বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দেবেন্দ্র যে আসনটি অনুশীলন করে তার ধারণা ও পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিমলের অনুশীলনকৃত আসনটির প্রভাব তোমার পাঠ্যবইয়ের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-003",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "সুজয় বিয়ের পর সন্ত্মান-সন্ত্মতি লাভের আশায় এক দেবতার পূজা",
+  "question_number": 3,
+  "stimulus": "সুজয় বিয়ের পর সন্ত্মান-সন্ত্মতি লাভের আশায় এক দেবতার পূজা",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "'আরম্নণি ও করে। তার হাতে তীর, ধনুক ও বলস্নম দেখা যায়। তিনি অত্যন্ত্ম সুন্দর-",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সুঠাম দেহ এবং অসীম শক্তির অধিকারী। অপরদিকে, প্রদীপ দীঘির্দন ধরে অসুস্থ। তার এক বন্ধু তাকে দেখতে এসে এক পূজার আয়োজন করতে বলে। প্রদীপ বাজার থেকে বিভিন্ন উপকরণ যেমন− পেঁপে, সারকথা নারিকেল, তরমুজ, কলা ও অন্যান্য মিষ্টি জাতীয় দ্রব্য ক্রয় করেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "কাত্তির্ক দেবের বাহন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পুরোহিত বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুজয় বাবুর পূজা পাঠ্যবইয়ের কোন দেবতার সঙ্গে মিল রয়েছে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রদীপ বাবুর আয়োজিত পূজার পূজা পদ্ধতি ও গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (খ,গ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-004",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "সুধীর ও ধীমান দুই ভাই। তারা ছোটবেলা থেকেই বিভিন্ন গুরম্নর কাছ",
+  "question_number": 4,
+  "stimulus": "সুধীর ও ধীমান দুই ভাই। তারা ছোটবেলা থেকেই বিভিন্ন গুরম্নর কাছ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "থেকে শিÿা লাভ করেন। সুধীর কোনো দেব-দেবীর উপাসনা না করে",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "রিপার এক ঈশ্বর সাধনায় নিজেকে নিমগ্ন রাখেন। অপরপÿে, ধীমান বাবু সাংসারিক সকল কামনা-বাসনা, আসক্তি ত্যাগ করে ঈশ্বর সাধনায় বেরিয়ে পড়েন। তিনি দেশ-বিদেশে ঘুরে ঘুরে ভগবানের নাম বিতরণ করেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "আশ্রম কত প্রকার?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিষ্কাম কমর্ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুধীর বাবুর ঈশ্বর লাভের উপায় পাঠ্যবইয়ের আলোকে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের ধীমান বাবুর জীবনযাপনের সাথে কোন প্রকার আশ্রমের মিল রয়েছে তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 6টি অংশ (খ,গ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-005",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "শৈশবকাল থেকেই দেবকীর মধ্যে আধ্যাত্মিক ভাব জেগে ওঠে। তার বয়স",
+  "question_number": 5,
+  "stimulus": "শৈশবকাল থেকেই দেবকীর মধ্যে আধ্যাত্মিক ভাব জেগে ওঠে। তার বয়স",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যখন চার, তখনই সে মাঝে মাঝে ধ্যানমগ্ন হয়ে পড়তেন। তার বয়স যখন ঊনিশ বছর তখন তেঁও নামে একজন বিখ্যাত গুণীর কাছে হঠযোগ ও গুপ্ত বিদ্যা শিÿা করেন। এক সময় ভারতবষের্ তার অক্লান্ত্ম পরিশ্রমে অরোভিল নামে একটি আধুনিক নগর গড়ে তোলেন। তার প্রতিষ্ঠিত অরবিন্দ আশ্রম সারা ভারতে এক আদশর্ স্থান হিসেবে খ্যাতি লাভ করে।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "শ্রীমার প্রকৃত নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'আন্ত্মজাির্তক শিল্পকেন্দ্র' প্রতিষ্ঠার উদ্দেশ্য ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের দেবকীর সাথে তোমার পাঠ্যবইয়ের কোন আদশর্ জীবনচরিতের মিল রয়েছে? তার শৈশব ও সাধন জীবন বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'অরোভিল নগর ও অরবিন্দ আশ্রম প্রতিষ্ঠাই ছিল দেবকীর শ্রেষ্ঠ অবদান'− উক্তিটির যথাথর্তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 5টি অংশ (ক,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-006",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "পুষ্পা ফাল্গুনী পূণির্মার দিন রাধা-কৃষ্ণকে দোলায় রেখে আবীর, কুমকুমে রাঙিয়ে পূজা করে। এ পূজায় আগের দিন 'মেড়া' পুড়িয়ে অমঙ্গলকে দূর করে। অপরপÿে, দোলা আষাঢ় মাসের শুক্লা দ্বিতীয়া তিথিতে একটি অনুষ্ঠানে যায়",
+  "question_number": 6,
+  "stimulus": "পুষ্পা ফাল্গুনী পূণির্মার দিন রাধা-কৃষ্ণকে দোলায় রেখে আবীর, কুমকুমে রাঙিয়ে পূজা করে। এ পূজায় আগের দিন 'মেড়া' পুড়িয়ে অমঙ্গলকে দূর করে। অপরপÿে, দোলা আষাঢ় মাসের শুক্লা দ্বিতীয়া তিথিতে একটি অনুষ্ঠানে যায় যেখানে চাকাওয়ালা একটি যান থাকে। এখানে বহু ভক্তের মিলন মেলা হয়। ঢাকা জেলার ধামরাইয়ে অনুষ্ঠিত উৎসবটি বাংলাদেশে বিখ্যাত।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "সৃজনশীল অংশ (ক/খ/গ/ঘ) পাওয়া যায়নি; উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-007",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "অসিত তার পিতার মৃতদেহটিকে আত্মীয়স্বজন নিয়ে সৎকার করল। অশৌচের সমস্ত্ম নিয়ম ধমীর্য় বিধি অনুসারে শেষ করলেও অথার্ভাবে সাড়ম্বরে শ্রাদ্ধ অনুষ্ঠান করতে পারেনি। কিন্তু শ্রদ্ধার সাথে সমস্ত্ম আচার-অনুষ্ঠান শে",
+  "question_number": 7,
+  "stimulus": "অসিত তার পিতার মৃতদেহটিকে আত্মীয়স্বজন নিয়ে সৎকার করল। অশৌচের সমস্ত্ম নিয়ম ধমীর্য় বিধি অনুসারে শেষ করলেও অথার্ভাবে সাড়ম্বরে শ্রাদ্ধ অনুষ্ঠান করতে পারেনি। কিন্তু শ্রদ্ধার সাথে সমস্ত্ম আচার-অনুষ্ঠান শেষ করেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আদ্যশ্রাদ্ধের পূণর্নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৃদ্ধিশ্রাদ্ধ বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অসিত অশৌচের জন্য কীভাবে নিয়ম পালন করেছিল? পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অসিতের বাবার শ্রাদ্ধ অনুষ্ঠান যথাযথভাবেই হয়েছে− উক্তিটির সপÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-008",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "নিধিবাবু প্রতিদিন রামায়ণ পাঠ করেন। এটি পাঠ করে রাজা দশরথ সম্পকের্ জানতে পারেন। রামায়ণ পাঠ করে একজন দস্যুর কাহিনিটি জানতে পারেন। রাবণ কতৃর্ক সীতাকে হরণ, রাম কতৃর্ক লঙ্কা আক্রমণ এবং দুষ্টের দমন সম্পকের",
+  "question_number": 8,
+  "stimulus": "নিধিবাবু প্রতিদিন রামায়ণ পাঠ করেন। এটি পাঠ করে রাজা দশরথ সম্পকের্ জানতে পারেন। রামায়ণ পাঠ করে একজন দস্যুর কাহিনিটি জানতে পারেন। রাবণ কতৃর্ক সীতাকে হরণ, রাম কতৃর্ক লঙ্কা আক্রমণ এবং দুষ্টের দমন সম্পকের্ জানতে পারেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উপনিষদ কোন কাে-র অন্ত্মগর্ত? ১ শ্বেতকেতুর সংবাদ' উপাখ্যানের শিÿা ব্যাখ্যা কর। ২ রামায়ণে যে দস্যুর কাহিনি বণির্ত হয়েছে তা থেকে আমরা যে শিÿা পাই তার বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তোমার পাঠ্যবইয়ের আলোকে রামচন্দ্রের বন গমন কাহিনিটির বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-009",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "জন্মের পর রিপা তার বাবাকে দেখেনি। তার মায়ের মুখে শুনেছে বাবা দেশের জন্য জীবন বাজি রেখে যুদ্ধে গিয়েছিল। আর ফিরে আসেনি। একদিন রিপা শিব চতুদর্শী পালনের পর সবেমাত্র খেতে বসেছে। এমন সময় ভিÿুক এসে খেতে চাই",
+  "question_number": 9,
+  "stimulus": "জন্মের পর রিপা তার বাবাকে দেখেনি। তার মায়ের মুখে শুনেছে বাবা দেশের জন্য জীবন বাজি রেখে যুদ্ধে গিয়েছিল। আর ফিরে আসেনি। একদিন রিপা শিব চতুদর্শী পালনের পর সবেমাত্র খেতে বসেছে। এমন সময় ভিÿুক এসে খেতে চাইল। রিপা নিজে না খেয়ে তার সমস্ত্ম খাবার ভিÿুককে দিয়ে দিল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিভীষণের স্ত্রীর নাম কী? ১ 'মানবতা ধমের্র অঙ্গ'−ব্যাখ্যা কর। ২ বাবার চরিত্রে তোমার পাঠ্যবইয়ের কোন গুণের প্রকাশ − ঘটেছে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "রিপার কাযর্ক্রমের শিÿাটি তোমার সমাজ ও পারিবারিক জীবনে কী প্রভাব ফেলবে তা তোমার পাঠ্যপুস্ত্মকের আলোকে মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "অংশ কম: 2টি (ক/খ/গ/ঘ আশা করা); উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "hindu-lec-school-cumilla-zilla-cq-010",
+  "book_id": "class9-10-hindu-lecture",
+  "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+  "subject_slug": "hindu",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "school-cumilla-zilla",
+  "question_text": "আমাদের এলাকায় তাপস বাবু একজন অত্যাচারী মানুষ ছিলেন। তিনি ছিলেন নাস্ত্মিক। তিনি নিজেকে সবের্সবার্ মনে করতেন। কিন্তু তার − ছেলের ঈশ্বরের প্রতি ছিল অবিচল ভক্তি। তার বিশ্বাস ঈশ্বরই তাকে রÿা করেন এবং ঈশ্ব",
+  "question_number": 10,
+  "stimulus": "আমাদের এলাকায় তাপস বাবু একজন অত্যাচারী মানুষ ছিলেন। তিনি ছিলেন নাস্ত্মিক। তিনি নিজেকে সবের্সবার্ মনে করতেন। কিন্তু তার − ছেলের ঈশ্বরের প্রতি ছিল অবিচল ভক্তি। তার বিশ্বাস ঈশ্বরই তাকে রÿা করেন এবং ঈশ্বর সবর্ময়। প্রহ্লাদ কে ছিলেন? ১",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "খ",
+    "text": "ধামিের্কর স্বরূপ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "পাঠ্যবইয়ের কোন চরিত্রের সাথে তাপস বাবুর চরিত্রের মিল পাওয়া যায় তা আলোচনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ঈশ্বর সবর্ময় এবং তিনিই ধামির্ককে রÿা করেন− উক্তিটি বিশেস্নষণ কর। ৪  ভারতবষের্ এক মহান চিকিৎসক ছিলেন। তিনি ছিলেন বিশ্বামিত্র মুনির পুত্র। তাকে 'ভারতীয় শল্যবিদ্যার জনক' বলা হয়। অপরদিকে, ভারতের আরও একজন মহান চিকিৎসক ছিলেন। তাকে 'ভারতীয় চিকিৎসাশাস্ত্রের জনক' বলা হয়। তিনি মানবদেহে দাঁতসহ ৩৬০টি অস্থির কথা বলেছেন।",
+    "marks": null
+   },
+   {
+    "part": "ক",
+    "text": "অবতার কয় রকমের ও কী কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভগবান কেন অবতার হয়ে পৃথিবীতে আসেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে ভারতীয় শল্যবিদ্যার জনক কে? চিকিৎসাশাস্ত্রে তার অবদান বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ভারতীয় চিকিৎসাশাস্ত্রের জনকের চিকিৎসাপদ্ধতি, প্রজননবিদ্যা ও মানবদেহ সম্পকের্ যা বলেছেন তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Hindu School Question — cumilla-zilla",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "উত্তর ছাপা নেই; সেকশন সংশোধন (normalization 2026-11-24): lecture-school → lecture-cq; marks_parts অস্বাভাবিক: 7টি অংশ (খ,গ,ঘ,ক,খ,গ,ঘ) — ক/খ/গ/ঘ (৪টি) আশা করা; সেট-বিভাজন বাকি",
+  "guide_source": "Test paper/School Question.pdf p18",
+  "key_format": null,
+  "source_file": "Test paper/School Question.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
