@@ -1,0 +1,482 @@
+[
+  {
+    "id": "civics-lec-mt-ssc-2027-model-3-cq-001",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-3",
+    "question_text": "সৈকত আহমেদের মাতার নাম ভতির্ বহিতে লিপিবদ্ধ করতে চাইলে তিনি বলেন, আমার ছেলে আমার পরিচয়ে পরিচিত হবে।",
+    "question_number": 1,
+    "stimulus": "সৈকত আহমেদের মাতার নাম ভতির্ বহিতে লিপিবদ্ধ করতে চাইলে তিনি বলেন, আমার ছেলে আমার পরিচয়ে পরিচিত হবে। প্রধান শিÿক বিষয়টি বুঝিয়ে বলার পর তিনি সৈকত আহমেদের মায়ের নামটি ভতির্ বহিতে লিপিবদ্ধ করেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "পৌরনীতির ইংরেজি প্রতিশব্দ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "খুলনা রাষ্ট্র নয় কেন? ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "সৈয়দ শফিক আহমেদের সন্ত্মান তার পরিচয়ে পরিচিত হওয়া কোন শ্রেণিভুক্ত পরিবারকে বোঝায়? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "\"সৈয়দ আহমেদের সন্ত্মানকে বিদ্যালয়ে ভতির্ করা পরিবারের একটি আংশিক কাজ মাত্র।\"—উক্তিটির যথাথর্তা মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-3-cq-002",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-3",
+    "question_text": "সম্পকর্ ও সহানুভূতির ভিত্তিতে বসবাস করে।",
+    "question_number": 2,
+    "stimulus": "সম্পকর্ ও সহানুভূতির ভিত্তিতে বসবাস করে। কারও বিপদে-আপদে তারা দলগতভাবে সহযোগিতার হাত বাড়িয়ে দেয়। তাদের মধ্যে আদশর্গত ভিন্নতা থাকলেও দলবদ্ধভাবে বসবাসের ফলে তাদের মধ্যে নিভর্রশীলতার সম্পকর্ স্থাপিত হয়েছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বৈবাহিক সূত্রের ভিত্তিতে পরিবার কয় ধরনের?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "পারিবারিক কাঠামোর ভিত্তিতে পরিবারের শ্রেণিবিভাগ ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে রূপসা গ্রামের বণর্নায় কীসের ধারণা পরিলÿিত হয়েছে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত ধারণার সাথে পরিবারের সম্পকর্ অবিচ্ছেদ্য—মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-3-cq-003",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-3",
+    "question_text": "অনিক কমর্কার আইন প্রয়োগকারী সংস্থার কাছে এর প্রতিকার চান।",
+    "question_number": 3,
+    "stimulus": "অনিক কমর্কার আইন প্রয়োগকারী সংস্থার কাছে এর প্রতিকার চান। কিন্তু শেষ পযর্ন্ত্ম অনিক কমর্কার নিজেই জুলুমের শিকার হয়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "আইনের মূলকথা কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "জনগণ আইন মান্য করে কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "নাগরিক জীবনে কোনটি না থাকার কারণে অনিক কমর্কার জুলুমের শিকার হয়? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "আইনের শাসন না থাকার কারণে শুধুমাত্র অনিক কমর্কারের মতো ব্যক্তিরা জুলুমের শিকার হয়? মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-3-cq-004",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-3",
+    "question_text": "রয়েছে।",
+    "question_number": 4,
+    "stimulus": "রয়েছে। বিপস্নবের কোনো আভাস নেই। তমার দেশে এতসব সুবিধা থাকলেও অনেক অসুবিধা বিদ্যমান। যেমন: জাতীয় নিবার্চনের মাধ্যমে অনেক অযোগ্য ব্যক্তি রাষ্ট্রীয় ÿমতায় অধিষ্ঠিত হন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "গণতন্ত্রের প্রাণ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "গণতান্ত্রিক রাষ্ট্রব্যবস্থায় দেশে দায়িত্বশীল শাসন প্রতিষ্ঠিত হয় কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে তমার বসবাসরত দেশটির সরকারব্যবস্থার কোন গুণগুলো প্রকাশ পেয়েছে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "তমার দেশটির শাসনব্যবস্থা সফল করার উপায়সমূহ বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-3-cq-005",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-3",
+    "question_text": "থাকেন।",
+    "question_number": 5,
+    "stimulus": "থাকেন। তার নেতৃত্বেই ভূমির খাজনা আদায় করা হয়। এছাড়া তিনি করসংক্রান্ত্ম বিরোধ মীমাংসা করে থাকেন। কমর্কা-ের ব্যাপকতার জন্য তাকে তার প্রশাসনের মূল স্ত্মম্ভ বলা হয়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "মন্ত্রণালয়ের প্রধান প্রশাসনিক কমর্কতার্ কে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "রাষ্ট্রপতির আইনসংক্রান্ত্ম কাজ বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে উলিস্নখিত কাজটি জনাব হাসান জাকিরের প্রশাসনের কোন ধরনের কাজ? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "'উদ্দীপকে বণির্ত কাজটি ছাড়াও জনাব হাসান জাকির আরও অনেক গুরম্নত্বপূণর্ কাজ করেন' উক্তিটির যথাথর্তা মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-3-cq-006",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-3",
+    "question_text": "প্রদানের নীতিমালা গৃহীত হয়।",
+    "question_number": 6,
+    "stimulus": "প্রদানের নীতিমালা গৃহীত হয়। যানবাহনভেদে সবির্নম্ন পাঁচ টাকা থেকে সবোর্চ্চ এক হাজার টাকা টোল ধরার কথা উলেস্নখ করা হয়। অবশেষে এসব বিধান রেখে মন্ত্রিসভা বৈঠকে টোল নীতিমালা ২০১৪ আইন পাস করা হয়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "মন্ত্রিপরিষদের কেন্দ্রবিন্দু কে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বাংলাদেশের রাষ্ট্রপতি কীভাবে নিবাির্চত হন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের নীতিমালাটি আইনে রূপান্ত্মরকরণে জাতীয় সংসদ যেভাবে ভূমিকা রাখে তা ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত নীতিমালা রূপান্ত্মরকরণের মধ্যেই কি জাতীয় সংসদের কাযার্বলি সীমাবদ্ধ? উক্তিটির পÿে যুক্তি উপস্থাপন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-3-cq-007",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-3",
+    "question_text": "প্রধানের ডাকে তিনি মুক্তিযুদ্ধে অংশগ্রহণ করেন এবং শত্রম্নপÿকে পরাজিত করেন।",
+    "question_number": 7,
+    "stimulus": "প্রধানের ডাকে তিনি মুক্তিযুদ্ধে অংশগ্রহণ করেন এবং শত্রম্নপÿকে পরাজিত করেন। স্বাধীন সাবের্ভৗম বাংলাদেশ সৃষ্টিতে আরমান সাহেবের ন্যায় তার দলটির ভূমিকাও অনেক।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "নিবার্চন কমিশন কয়জন সদস্য নিয়ে গঠিত হয়?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "প্রকাশ্য ভোটদান পদ্ধতি বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "'আরমান সাহেব বাংলাদেশের কোন রাজনৈতিক দলের নেতা? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "'আরমান সাহেবের দলের নেতৃত্বেই স্বাধীন বাংলাদেশের জন্ম'—উক্তিটির যথাথর্তা নিরূপণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-3-cq-008",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-3",
+    "question_text": "কাজ করে থাকেন।",
+    "question_number": 8,
+    "stimulus": "কাজ করে থাকেন। গ্রামের রাস্ত্মাঘাট রÿণাবেÿণ, কৃষকদের বীজ, সার সরবরাহ সকল কাজ সমান গুরম্নত্বের সাথে করে থাকেন। এ কারণে পাঁচ বছর পর পর নতুন নিবার্চন অনুষ্ঠিত হলেও জনগণ প্রতিবার জহুরম্নল ইসলামকেই ভোট দিয়ে চেয়ারম্যান নিবাির্চত করে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বতর্মানে বাংলাদেশে কয়টি পৌরসভা রয়েছে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "স্থানীয় সরকারের সবোর্চ্চ স্ত্মরের ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে জহুরম্নল ইসলামের কাজের আলোকে স্থানীয় সরকার ব্যবস্থায় তার অবস্থান ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "জহুরম্নল ইসলাম এছাড়া আরো অনেক কাজ করেন বিশেস্নষণ কর। [সংÿিপ্ত-উত্তর অংশ:১৫টি প্রশ্নের মধ্যে থেকে যেকোনো ১০টি সংÿিপ্তপ্রশ্নের উত্তর দাও, প্রতিটির মান—২] ১. রাষ্ট্র সৃষ্টির সবচেয়ে প্রাচীন মতবাদটি ব্যাখ্যা কর। ২. সরকারের তিনটি বিভাগের কাজ উলেস্নখ কর। ৩. আইনের উৎস হিসেবে প্রথার ভূমিকা উলেস্নখ কর। ৪. স্বাধীনতা বলতে কী বোঝায়? ৫. অতি দলীয় মনোভাব সম্পকের্ কী জান লেখ। ৬. একনায়কতান্ত্রিক সরকার কেন কাম্য নয়? পÿে যুক্তি দাও। ৭. গণতান্ত্রিক রাষ্ট্রব্যবস্থায় দেশে দায়িত্বশীল শাসন প্রতিষ্ঠিত হয় কেন? ৮. হাইকোটর্ বিভাগের ÿমতা ও কাজের ব্যাখ্যা দাও। ৯. দেশের সাবের্ভৗমত্ব ও নিরাপত্তা রÿা মন্ত্রিপরিষদের গুরম্নত্বপূণর্ দায়িত্ব—ব্যাখ্যা কর। ১০. উপজেলা নিবার্হী কমর্কতার্র কাযার্বলি ব্যাখ্যা কর। ১১. 'এক ব্যক্তি এক ভোট' বলতে কী বোঝায়? ১২. নিবার্চন কমিশনের কাযার্বলি ব্যাখ্যা কর। ১৩. উপজেলা পরিষদের আয়ের উৎসগুলো লেখ। ১৪. কীভাবে সিটি কপোের্রশন গড়ে ওঠে? ১৫. স্থানীয় সরকারের গুরম্নত্ব ব্যাখ্যা কর। সৃজনশীল প্রশ্নেরউত্তরমালার জন্যগুগল ড্রাইভে 'পৌরনীতি ও নাগরিকতা' অধ্যায়ভিত্তিকফোল্ডাগুলো এক্সপেস্নার করম্নন প্রশ্ন উত্তর সংকেত প্রশ্ন উত্তর সংকেত ১ অধ্যায়—১ এর ৪নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৫ অধ্যায়—৬ এর ৩নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ২ অধ্যায়—১ এর ২৩নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৬ অধ্যায়—৬ এর ১৭নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৩ অধ্যায়—৩ এর ৩নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৭ অধ্যায়—৭ এর ৯নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৪ অধ্যায়—৪ এর ১০নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৮ অধ্যায়—৮ এর ১৬নম্বর প্রশ্ন উত্তর দ্রষ্টব্য সংÿিপ্ত প্রশ্নেরউত্তরমালার জন্যগুগল ড্রাইভে'পৌরনীতি ও নাগরিকতা' অধ্যায়ভিত্তিকফোল্ডাগুলো এক্সপেস্নার করম্নন ১ অধ্যায়—১ এর ২৫ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৯ অধ্যায়—৬ এর ১৬ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ২ অধ্যায়—১ এর ৮ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১০ অধ্যায়—৬ এর ২২ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৩ অধ্যায়—৩ এর ১৩ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১১ অধ্যায়—৭ এর ১৬ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৪ অধ্যায়—৩ এর ২৩ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১২ অধ্যায়—৭ এর ৯ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৫ অধ্যায়—৪ এর ১৩ নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ১৩ অধ্যায়—৮ এর ৪০ নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৬ অধ্যায়—৪ এর ৪ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১৪ অধ্যায়—৮ এর ৩২ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৭ অধ্যায়—৪ এর ২৬ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১৫ অধ্যায়—৮ এর ২৪ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৮ অধ্যায়—৬ এর ১০ নম্বর প্রশ্ন উত্তর দ্রষ্টব্য",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-3 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

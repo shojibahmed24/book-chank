@@ -1,0 +1,542 @@
+[
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-001",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "জিম ও আফিফা দুজনই নবম শ্রেণির ছাত্রী।",
+    "question_number": 1,
+    "stimulus": "জিম ও আফিফা দুজনই নবম শ্রেণির ছাত্রী। একদিন তারা রাষ্ট্রের ক. সচিবালয় কী? ১ উৎপত্তি সম্পকের্ আলোচনা করছিল। আলোচনার একপযার্য় জিম বলল, খ. বাংলাদেশের রাষ্ট্রপতি নিবার্চনের পদ্ধতিটি বণর্না কর। ২ এই পৃথিবীর সমস্ত্ম কিছুই এক স্রষ্টার সৃষ্টি। তাই বলা যায়, স্রষ্টাই রাষ্ট্র গ. উদ্দীপকের সেলিম সাহেব সরকারের কোন বিভাগের প্রধান? তার সৃষ্টি করেছেন। আফিফা দ্বিমত পোষণ করে বলল, রাষ্ট্র সৃষ্টিতে গঠন ব্যাখ্যা কর। ৩ ঐতিহাসিক প্রেÿাপটের গুরম্নত্বপূণর্ ভূমিকা রয়েছে। ঘ. উদ্দীপকের বিভাগটি ন্যায়বিচার সংরÿণে গুরম্নত্বপূণর্ ভূমিকা পালন",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "নাগরিকতা কাকে বলে? ১ করে- তোমার উত্তরের পÿে যুক্তি দাও। ৪ বাংলাদেশের সবচেয়ে পুরাতন রাজনৈতিক দল কোনটি?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "পরিবারকে ÿুদ্র সামাজিক প্রতিষ্ঠান বলা হয় কেন? ২ ৭  জনাব গোলাম মৌলা একটি প্রতিষ্ঠানের প্রধান, তিনি এ বছর প্রতিষ্ঠানটির",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে জিমের মতামতটি তোমার পাঠ্যপুস্ত্মকের আলোকে পÿ থেকে তার দেশের সাধারণ নিবার্চনে অংশগ্রহণ করেছেন। তার ব্যাখ্যা কর। ৩ প্রতিষ্ঠানটির প্রধান লÿ্য হচ্ছে ÿমতায় গিয়ে দলের নীতি ও আদশর্ অনুযায়ী",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "রাষ্ট্রের উৎপত্তি সম্পকির্ত মতবাদে আফিফার বক্তব্যটি অধিক দেশ পরিচালনা করা এবং নিবার্চনি কমর্সূচি বাস্ত্মাবায়ন করা। গ্রহণযোগ্য ও বিজ্ঞানসম্মত বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-002",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "জনাব কায়সার উচ্চ শিÿার জন্য কানাডায় গমন করেন।",
+    "question_number": 2,
+    "stimulus": "জনাব কায়সার উচ্চ শিÿার জন্য কানাডায় গমন করেন। উচ্চতর ডিগ্রি",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": null,
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "গণতন্ত্রে রাজনৈতিক দলের প্রয়োজনীয়তা ব্যাখ্যা কর। ২ অজের্নর জন্য সেদেশে সরকারি চাকরি লাভ করেন এবং দীঘির্দন চাকরি",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "জনাব গোলাম মৌলা যে ধরনের প্রতিষ্ঠানের প্রতিনিধিত্ব করছেন করার পর সেদেশের নাগরিকত্ব লাভের জন্য আবেদন করেন এবং সেই প্রতিষ্ঠানের ব্যাখ্যা দাও। ৩ সেদেশের নাগরিকত্ব লাভ করার কিছুদিন পর স্ত্রী ও সন্ত্মানদেরকে",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "এ ধরনের প্রতিষ্ঠান জনমত গঠনে অপরিহাযর্−বিশেস্নষণ কর। ৪ কানাডায় নিয়ে যান। তারাও সেদেশের নাগরিকত্ব লাভ করে।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper; missing part(s): ক",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-008",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "'ক' নামক একটি দেশের জেলাগুলোর মধ্যে তিনটি জেলা পরিষদের",
+    "question_number": 8,
+    "stimulus": "'ক' নামক একটি দেশের জেলাগুলোর মধ্যে তিনটি জেলা পরিষদের",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "নাগরিক কাকে বলে? ১ কাযর্ক্রম ভিন্নতর এ তিনটি জেলা পরিষদের একটি আঞ্চলিক পরিষদও স্থানীয় সরকার কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "দ্বৈত নাগরিকতা কী? ব্যাখ্যা কর। ২ রয়েছে। উক্ত জেলা পরিষদের সবের্মাট সদস্য ৩৪ জন। তারা জেলার নারীর ÿমতায়ন বলতে কী বোঝায়? ব্যাখ্যা কর। ২ পেল? উক্ত নাগরিকত্ব লাভের নীতিগুলো বিশেস্নষণ কর। ৪",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের জনাব কায়সার যে পদ্ধতিতে কানাডার নাগরিকত্ব লাভ সাবির্ক উন্নয়নে কাজ করে থাকে। করল- তা বিশেস্নষণ কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "জনাব কায়সারের পরিবার কীভাবে কানাডায় বসবাসের অনুমতি",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-003",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "জুঁই নিজের ইচ্ছেমতো যেকোনো কাজ করতে চায়।",
+    "question_number": 3,
+    "stimulus": "জুঁই নিজের ইচ্ছেমতো যেকোনো কাজ করতে চায়। অন্যের সুবিধা- গ. উদ্দীপকে 'ক' নামক দেশটির যে জেলা পরিষদের কাযর্ক্রম অসুবিধার প্রতি সে সচেতন নয়। এভাবে দেখা যায়, জুঁই অপরের কাজে ভিন্নতর তা ব্যাখ্যা কর। ৩ বাধার সৃষ্টি করছে। সে মনে করে এটি তার সাংবিধানিক অধিকার। ঘ. উক্ত জেলা পরিষদের কাযর্ক্রম অন্যান্য জেলার থেকে ভিন্ন− তুমি",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "আইন কী? ১ কি মতামত? মতামত দাও। ৪",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "রাজনৈতিক সাম্য ব্যাখ্যা কর। ২ ৯  করিমের সাথে রহিমার বিয়ে হয়েছে মাস তিনেক আগে। তার",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে তোমার পাঠ্যবইয়ের কোন বিষয়ের ওপর ইঙ্গিত করা চাকরিজীবী পিতা মেয়ের সুখের কথা ভেবে বিয়ের শতর্ অনুযায়ী হয়েছে? ব্যাখ্যা কর। ৩ করিমকে এক লÿ টাকার মধ্যে আথির্ক অনটনের কারণে পঞ্চাশ হাজার",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত বিষয়ের সাথে আইনের সম্পকর্ ব্যাখ্যা কর। ৪ টাকা দেন। রহিমার শ্বশুর-শাশুড়ি তাতে সন্তুষ্ট হতে পারেনি। তাই তারা",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-004",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "1. i vÓ¡ÇcwZ bvggvò kvmK রহিমাকে নিযার্তন করতে শুরম্ন করে এবং কিছুদিন পর বাড়ি থেকে QK-K 2. gw¯¨mf v AvBbmf vi wbKU ` vqx তাড়িয়ে দেয়।",
+    "question_number": 4,
+    "stimulus": "1. i vÓ¡ÇcwZ bvggvò kvmK রহিমাকে নিযার্তন করতে শুরম্ন করে এবং কিছুদিন পর বাড়ি থেকে QK-K 2. gw¯¨mf v AvBbmf vi wbKU ` vqx তাড়িয়ে দেয়। রহিমার মা-বাবা এই নিযার্তন মুখ বুঁজে মেনে না নিয়ে mi Kvi আদালতের দ্বারস্থ হন। 1. i vÓ¡ÇcwZ cÉK‡Z kvmK ক. খাদ্য নিরাপত্তা কী? ১ QK-L 2. gw¯¨mf v i vÓ¡ÇcwZi wbKU ` vqx খ. জনসংখ্যা বৃদ্ধির অন্যতম কারণ নিরÿরতা−ব্যাখ্যা কর। ২",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "গণতন্ত্রের মূলমন্ত্র কী? ১ গ. উদ্দীপকে কোন সমস্যার ইঙ্গিত করা হয়েছে? ব্যাখ্যা কর। ৩",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "পুঁজিবাদী রাষ্ট্র বলতে কী বোঝায়? ২ ঘ. শুধু সামাজিক সচেতনতাই রহিমাদের মতো নারীদের সমস্যা",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "'খ' চিহ্নিত সরকারের কাযর্ক্রম ব্যাখ্যা কর। ৩ − সমাধানে ভূমিকা রাখতে পারে না বিশেস্নষণ কর। ৪",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ছক 'ক' ও ছক 'খ' এ উলিস্নখিত কোন সরকারব্যবস্থা অধিক",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-010",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "প্রভাতফেরির মিছিল যাবে ছড়াও ফুলের বন্যা, গণতান্ত্রিক? বিশেস্নষণ কর।",
+    "question_number": 10,
+    "stimulus": "প্রভাতফেরির মিছিল যাবে ছড়াও ফুলের বন্যা, গণতান্ত্রিক? বিশেস্নষণ কর। ৪ বিষাদগীতি গাইছে পথে তিতুমীরের কন্যা।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": null,
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": null,
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": null,
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": null,
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper; missing part(s): ক,খ,গ,ঘ",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-005",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "'ক' রাষ্ট্রের মূল দলিলে রাষ্ট্রের বেশিরভাগ বিষয় চুক্তি, চাটার্র ও পূবর্",
+    "question_number": 5,
+    "stimulus": "'ক' রাষ্ট্রের মূল দলিলে রাষ্ট্রের বেশিরভাগ বিষয় চুক্তি, চাটার্র ও পূবর্",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "অসহযোগ আন্দোলন কী? ১ প্রচলিত রীতিনীতিগুলো স্থান পেয়েছে। অন্যদিকে 'খ' রাষ্ট্রের মূল সংসদীয় সরকারব্যবস্থার পুনঃপ্রবতর্ন করা হয় বাংলাদেশ বীজ বপিত হয়-বিশেস্নষণ কর। ৪ সংবিধানের কততম সংশোধনীর মাধ্যমে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "লাহোর প্রস্ত্মাবকে 'পাকিস্ত্মান প্রস্ত্মাব' বলা হয় কেন? ২ দলিলটির বিষয়বস্তু সুস্পষ্ট ও সহজ ভাষায় রচিত। এতে জনগণের",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে ইঙ্গিতকৃত আন্দোলনের পটভূমি ব্যাখ্যা কর। ৩ মৌলিক অধিকারগুলো উলেস্নখ রয়েছে।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত আন্দোলনের ফলে বাঙালিদের মাঝে বাঙালি জাতীয়তাবাদের",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-011",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "QqwU kvLv",
+    "question_number": 11,
+    "stimulus": "QqwU kvLv",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": null,
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "রাষ্ট্রের সবোর্চ্চ আইন কোনটি? ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "'ক' রাষ্ট্রে কোন ধরনের সংবিধান রয়েছে? ব্যাখ্যা কর। ৩ wek¼kvw¯¦ A 1945 mvGj cÉwZÓ¤v",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "'খ' রাষ্ট্রের মূল দলিলকে কি উত্তম সংবিধান বলা যায়? যুক্তি দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper; missing part(s): ক",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-04-cq-006",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-04",
+    "question_text": "জনাব সেলিম সাহেব সরকার পরিচালনার একটি বিভাগের প্রধান।",
+    "question_number": 6,
+    "stimulus": "জনাব সেলিম সাহেব সরকার পরিচালনার একটি বিভাগের প্রধান। তিনি m`mÅ ˆ`k : 193 রাষ্ট্রপতি কতৃর্ক নিয়োগ লাভ করেন। এই বিভাগের সদস্যগণ ৬৭ বছর ক. বাংলাদেশ কখন কমনওয়েলথের সদস্যপদ লাভ করে? ১ বয়স পূণর্ হওয়া পযর্ন্ত্ম স্বীয় পদে কমর্রত থাকতে পারেন। তার বিভাগের খ. সাকের্র গঠন বণর্না কর। ২ কাছে রাষ্ট্রপতি কোনো আইনের ব্যাখ্যা চাইলে এ বিভাগ রাষ্ট্রপতিকে গ. উদ্দীপকে উলিস্নখিত সংস্থাটির প্রতিষ্ঠার উদ্দেশ্যগুলো বণর্না কর। ৩ পরামশর্ দিয়ে থাকেন। ঘ. উক্ত সংস্থার সাথে বাংলাদেশের সম্পকের্র গভীরতা মূল্যায়ন কর। ৪ ৬৯ স্পেশাল মডেল টেস্ট ১০ wel q ˆKvW : 1 4 0",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": null,
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": null,
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": null,
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": null,
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper; missing part(s): ক,খ,গ,ঘ",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

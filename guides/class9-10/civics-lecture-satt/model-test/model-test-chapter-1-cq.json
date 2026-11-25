@@ -1,0 +1,242 @@
+[
+  {
+    "id": "civics-lec-mt-model-test-chapter-1-cq-001",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-1",
+    "question_text": "সৈকত আহমেদের মাতার নাম ভতির্ বহিতে লিপিবদ্ধ করতে চাইলে তিনি বলেন, আমার ছেলে আমার পরিচয়ে পরিচিত হবে।",
+    "question_number": 1,
+    "stimulus": "সৈকত আহমেদের মাতার নাম ভতির্ বহিতে লিপিবদ্ধ করতে চাইলে তিনি বলেন, আমার ছেলে আমার পরিচয়ে পরিচিত হবে। প্রধান শিÿক বিষয়টি বুঝিয়ে বলার পর তিনি সৈকত আহমেদের মায়ের নামটি ভতির্ বহিতে লিপিবদ্ধ করেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "পৌরনীতির ইংরেজি প্রতিশব্দ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "খুলনা রাষ্ট্র নয় কেন? ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "সৈয়দ শফিক আহমেদের সন্ত্মান তার পরিচয়ে পরিচিত হওয়া কোন শ্রেণিভুক্ত পরিবারকে বোঝায়? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "\"সৈয়দ আহমেদের সন্ত্মানকে বিদ্যালয়ে ভতির্ করা পরিবারের একটি আংশিক কাজ মাত্র।\"—উক্তিটির যথাথর্তা মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-1-cq-002",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-1",
+    "question_text": "বাস করত।",
+    "question_number": 2,
+    "stimulus": "বাস করত। কিন্তু জনসংখ্যা বৃদ্ধির ফলে ব্যক্তিগত সম্পত্তির উদ্ভব হয়। তাদের সামাজিক জীবনে অরাজকতা ও বিশৃঙ্খলা সৃষ্টি হয়। এ অরাজকতা থেকে মুক্তি পাওয়ার জন্য তারা নিজেদের মধ্যে চুক্তি করে রাষ্ট্রের সৃষ্টি করে। সৌখিন বলল, আমার মতে শক্তিশালী গোষ্ঠী দুবর্ল গোষ্ঠীকে গ্রাস করে রাষ্ট্র সৃষ্টি করেছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "পৌরনীতিকে কী বিষয়ক বিজ্ঞান বলা হয়?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "মানুষ সমাজে বাস করে কেন? ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "শাওনের বক্তব্যে রাষ্ট্রের উৎপত্তিগত কোন মতবাদের সমথর্ন পাওয়া যায়? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "সৌখিনের বক্তব্যে রাষ্ট্র সৃষ্টির যে মতবাদ প্রতিফলিত হয়েছে তার যথাথর্তা বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-1-cq-003",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-1",
+    "question_text": "হিমেলের বাবার কথাই মুখ্য।",
+    "question_number": 3,
+    "stimulus": "হিমেলের বাবার কথাই মুখ্য। তিনিই সন্ত্মানদের সকল ব্যয়ভার এবং পরিবারের যাবতীয় খরচ বহন করেন। তাই যেকোনো প্রয়োজনের কথা হিমেল ও তার ভাইয়েরা বাবার কাছেই জানায়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "গারোদের মধ্যে কোন ধরনের পারিবারিক কাঠামো দেখা যায়?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "পৌরনীতিকে নাগরিকতা বিষয়ক বিজ্ঞান বলা হয় কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "হিমেলের পরিবারকে পরিবারের শ্রেণিবিভাগের কোন নীতির অন্ত্মভুর্ক্ত বলা যায়? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "হিমেলের পরিবার পরিবারের শ্রেণিবিভাগ সম্পকের্ সামগ্রিক ধারণা প্রদানে যথেষ্ট কি? তোমার মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-1-cq-004",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-1",
+    "question_text": "একটি নিদির্ষ্ট কতৃর্পÿ থাকলেও তাকে রাষ্ট্র বলা যায় না।",
+    "question_number": 4,
+    "stimulus": "একটি নিদির্ষ্ট কতৃর্পÿ থাকলেও তাকে রাষ্ট্র বলা যায় না।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "নাগরিকতা কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "নগর-রাষ্ট্র সম্পকের্ ধারণা দাও।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে বণির্ত তাইওয়ায় রাষ্ট্র গঠনের কোন উপাদানের অভাব রয়েছে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত উপাদানটি রাষ্ট্র গঠনের সবচেয়ে গুরম্নত্বপূণর্ ও অত্যাবশ্যকীয় উপাদান—উক্তিটির যৌক্তিকতা নিরূপণ কর। [সংÿিপ্ত-উত্তর অংশ:যেকোনো ৫টি সংÿিপ্ত প্রশ্নের উত্তর লেখ। প্রতিটির মান—২] ১. পৌরনীতিকে নাগরিকতা বিষয়ক বিজ্ঞান বলা হয় কেন? ২. সমাজ বলতে কী বোঝায়? ৩. সরকারের তিনটি বিভাগের কাজ উলেস্নখ কর। ৪. যৌথ পরিবার বলতে কী বোঝ? ৫. রাষ্ট্রের চরম ক্ষমতা কোনটি? ব্যাখ্যা কর। ৬. পরিবারের অথৈর্নতিক কাজ ব্যাখ্যা কর। ৭. মানুষ সমাজে বাস করে কেন? ব্যাখ্যা কর। ৮. নগর-রাষ্ট্র সম্পকের্ ধারণা দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-1.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "civics-lec-mt-ssc-2027-model-4-cq-001",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-4",
+    "question_text": "নিয়ে দেশ পরিচালনা করেন।",
+    "question_number": 1,
+    "stimulus": "নিয়ে দেশ পরিচালনা করেন। জাতিসংঘসহ বিভিন্ন আন্ত্মজাির্তক সংস্থায় তিনিই বাংলাদেশ রাষ্ট্রের প্রতিনিধিত্ব করেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "'আমিই রাষ্ট্র' কে বলতেন?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বলপ্রয়োগ মতবাদ অনুসারে কীভাবে রাষ্ট্রের উৎপত্তি হয়েছে?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের বণর্নায় রাষ্ট্রের সাথে অপর কোন বিষয়টির সম্পকর্ খুঁজে পাওয়া যায়? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত বিষয়টিকেও কি রাষ্ট্র বলা যাবে? উত্তরের পÿে যুক্তি দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-4-cq-002",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-4",
+    "question_text": "জাকিয়া ভাইয়ের নিকট পিতৃসম্পত্তি দাবি করলে আরফান বোনদের সম্পত্তি দিতে অস্বীকৃতি জানায়।",
+    "question_number": 2,
+    "stimulus": "জাকিয়া ভাইয়ের নিকট পিতৃসম্পত্তি দাবি করলে আরফান বোনদের সম্পত্তি দিতে অস্বীকৃতি জানায়। সাদিয়া ও জাকিয়া বাধ্য হয়ে মামলা করে। মামলার রায়ে তারা তাদের সম্পত্তির অধিকার অজর্ন করে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "আইনকে সাধারণত কতভাগে ভাগ করা যায়?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "স্বাধীনতা বলতে কী বোঝায়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "সাদিয়া ও জাকিয়া যে আইন বলে সম্পত্তির অধিকার অজর্ন করে সে আইনের উৎস ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "তুমি কি মনে কর, উক্ত উৎসটিই আইনের একমাত্র উৎস? তোমার উত্তরের পÿে যুক্তি দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-4-cq-003",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-4",
+    "question_text": "করেন।",
+    "question_number": 3,
+    "stimulus": "করেন। একবার তিনি একটি মামলা নিয়ে জটিলতায় পড়েন। একই গ্রামের দুটি পÿ একটি জমি নিজেদের বলে দাবি করে। উভয় পÿের কারোরই কোনো উপযুক্ত কাগজপত্র নেই। তাই তিনি কোনো সুস্পষ্ট আইন দ্বারা সমস্যার সমাধান করতে পারছেন না। তখন তিনি তার মতো করে মামলার রায় দেন। এতে উভয়পÿই সন্তুষ্ট হয়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "স্বাধীনতার রূপ কয়টি?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "সাম্য ও স্বাধীনতা গণতন্ত্রের ভিত্তিরূপে কাজ করে-ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে বণির্ত শাহাদাত সাহেব প্রদত্ত রায়টি আইনের কোন উৎসকে নিদের্শ করছে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকে উলিস্নখিত সমস্যা সমাধানে শাহাদাত হোসেনের সিদ্ধান্ত্মটি গুরম্নত্বপূণর্ ভূমিকা রেখেছে—বক্তব্যটি মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-4-cq-004",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-4",
+    "question_text": "রাষ্ট্রপ্রধানকে বাদশা বলা হয়।",
+    "question_number": 4,
+    "stimulus": "রাষ্ট্রপ্রধানকে বাদশা বলা হয়। যিনি রাষ্ট্রের সবর্ময় ÿমতার অধিকারী। রাষ্ট্রবিজ্ঞানে পড়া তার বড় ভাইয়ের সাথে রাসেল এ বিষয়ে আলোচনা করলে সে বলল, রাজা-বাদশার প্রচলন এখনও আছে। মালয়েশিয়াতেও রাজা রয়েছেন, কিন্তু তিনি রাষ্ট্রের সব ÿমতার অধিকারী নন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "রাষ্ট্রের বিভিন্ন অংশের মধ্যে ÿমতা বণ্টনের নীতির ভিত্তিতে রাষ্ট্র কয় ধরনের হয়?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "এককেন্দ্রিক সরকারব্যবস্থায় আঞ্চলিক সরকারগুলো কেন্দ্রের প্রতিনিধি হিসেবে কাজ করে কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "রাসেলকে অবাক করে দেওয়া দেশটির রাষ্ট্রব্যবস্থা ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "রাসেলের বড় ভাইয়ের বক্তব্য পযাের্লাচনা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-4-cq-005",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-4",
+    "question_text": "আওয়ামী লীগ নেতৃত্বাধীন মহাজোট সরকার বিপুল ভোটে জয়ী হয়ে সরকার গঠন করল।",
+    "question_number": 5,
+    "stimulus": "আওয়ামী লীগ নেতৃত্বাধীন মহাজোট সরকার বিপুল ভোটে জয়ী হয়ে সরকার গঠন করল। সরকারের গুরম্নত্বপূণর্ একটি বিভাগের দায়িত্ব পেলেন একজন প্রবীণ রাজনৈতিক ব্যক্তি। তিনি আলঙ্কারিক প্রধান হিসেবে নিয়োগ পেয়ে দেশের সবোর্চ্চ মযার্দার আসনে অধিষ্ঠিত হন। গুরম্নত্বপূণর্ এ পদটিতে বসে তিনি দেশের সাবির্ক ব্যবস্থাপনার কাজে নানা পরামশর্ প্রদান করে থাকেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "মন্ত্রণালয়ের সকল প্রশাসনিক ÿমতা কার হাতে ন্যস্ত্ম থাকে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "মন্ত্রিপরিষদের প্রধান কাজগুলো ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে প্রবীণ রাজনৈতিক ব্যক্তি কোন পদে নিয়োগ লাভ করেছেন? উক্ত ব্যক্তির পদমযার্দা ও অপসারণ পদ্ধতি উলেস্নখ কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত পদের অধিকারী রাজনৈতিক ব্যক্তিত্বের কমর্কা-বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-4-cq-006",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-4",
+    "question_text": "প্যানেলের সদস্যরা একই আদশর্ ও নীতিতে বিশ্বাসী।",
+    "question_number": 6,
+    "stimulus": "প্যানেলের সদস্যরা একই আদশর্ ও নীতিতে বিশ্বাসী। আদনান সাহেব ও তার দলের সদস্যরা স্কুলের উন্নয়ন করার প্রতিশ্রম্নতি দেন এবং নিবার্চনে বিপুল ভোটে জয় লাভ করেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বাংলাদেশের জাতীয় সংসদের নিবার্চনি এলাকা কয়টি?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "নিবার্চন বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "আদনান সাহেবের গঠিত প্যানেল গণতান্ত্রিক শাসনব্যবস্থায় কার প্রতিনিধিত্ব করে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "গণতন্ত্র বিকাশে উদ্দীপকে উলিস্নখিত আদনান সাহেবের দলের ভূমিকা মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-4-cq-007",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-4",
+    "question_text": "হলেন সরদার আখতার মেঙ্গাল।",
+    "question_number": 7,
+    "stimulus": "হলেন সরদার আখতার মেঙ্গাল। যুক্তরাজ্যে তিন বছর স্বেচ্ছায় নিবার্সন কাটানোর পর দেশে ফিরে সম্প্রতি তিনি বেলুচিস্ত্মানের সমস্যা সমাধানের জন্য কেন্দ্রীয় সরকারের কাছে ছয় দফা দাবি তুলে ধরেন। এ দাবির মধ্যে উলেস্নখযোগ্য হলো বেলুচিস্ত্মানের স্বায়ত্তশাসন এবং স্বাধীনতার আন্দোলনকে জোরদার করা। তার ছয় দফা দাবিকে বঙ্গবন্ধুর ছয় দফা দাবির সাথে তুলনা করা যায়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বিএনপি কত সালে প্রতিষ্ঠিত হয়?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বাংলাদেশ জাতীয়তাবাদী দল সম্পকের্ ধারণা দাও।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে উলিস্নখিত মেঙ্গালের রাজনৈতিক দলের কমর্সূচির সাথে বাংলাদেশের কোন রাজনৈতিক দলের মিল রয়েছে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "বাংলাদেশের স্বাধীনতা আন্দোলনে উক্ত রাজনৈতিক দলের ভূমিকা মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-ssc-2027-model-4-cq-008",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-model-4",
+    "question_text": "বতর্মান সরকার পরিকল্পিত সিদ্ধান্ত্ম গ্রহণ করে বিভক্ত করেছে, যা সকল মহলেই সাদরে গৃহীত হয়েছে।",
+    "question_number": 8,
+    "stimulus": "বতর্মান সরকার পরিকল্পিত সিদ্ধান্ত্ম গ্রহণ করে বিভক্ত করেছে, যা সকল মহলেই সাদরে গৃহীত হয়েছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "জেলা পরিষদের ঐচ্ছিক কাজ কয়টি?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ভেজাল খাদ্যরোধে পৌরসভার ভূমিকা ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকটিতে উলিস্নখিত বতর্মান সরকারের বিভক্তি প্রশাসনিক স্ত্মরের গঠন কাঠামোয় কীরূপ প্রভাব ফেলবে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "শহরের প্রশাসনিক ব্যবস্থার আয়ের নিদির্ষ্ট উৎস বিভক্তির পরেও অভিন্ন। তুমি কি এ বক্তব্যের সাথে একমত পোষণ কর? আলোচনা কর। [সংÿিপ্ত-উত্তর অংশ:১৫টি প্রশ্নের মধ্যে থেকে যেকোনো ১০টি সংÿিপ্তপ্রশ্নের উত্তর দাও, প্রতিটির মান—২] ১. আত্মসংযমের শিক্ষা পরিবারের কোন ধরনের কাজ? ব্যাখ্যা কর। ২. খুলনা রাষ্ট্র নয় কেন? ব্যাখ্যা কর। ৩. নগর-রাষ্ট্র সম্পকের্ ধারণা দাও। ৪. সাম্য ও স্বাধীনতা গণতন্ত্রের ভিত্তিরূপে কাজ করে- ব্যাখ্যা কর। ৫. অথৈর্নতিক স্বাধীনতা বলতে কী বোঝ? ব্যাখ্যা কর। ৬. ন্যায়বোধ দ্বারা কীভাবে বিচারকাজ সম্পন্ন হয়? ৭. যুক্তরাষ্ট্রীয় সরকারব্যবস্থা জটিল পদ্ধতির সরকারব্যবস্থা কেন? ৮. কল্যাণমূলক রাষ্ট্র বলতে কী বোঝ? ৯. সুপ্রিমকোটের্র বিচারক হওয়ার জন্য কী কী গুণ থাকতে হবে? ১০. জাতীয় সংসদের বিচারসংক্রান্ত্ম ÿমতার প্রয়োগ আলোচনা কর। ১১. বাংলাদেশ সরকারের স্বরূপ বণর্না কর। ১২. নিবার্চন কমিশনের কাযার্বলি লেখ। ১৩. রাজনীতিতে নেতা তৈরির কাজটি বণর্না কর। ১৪. স্থানীয় পযাের্য় নাগরিকদের জন্য ভোটাধিকার চচার্ প্রয়োজনীয় কেন? ১৫. জেলা পরিষদের গঠন ব্যাখ্যা কর। সৃজনশীল প্রশ্নেরউত্তরমালার জন্যগুগল ড্রাইভে 'পৌরনীতি ও নাগরিকতা' অধ্যায়ভিত্তিকফোল্ডাগুলো এক্সপেস্নার করম্নন প্রশ্ন উত্তর সংকেত প্রশ্ন উত্তর সংকেত ১ অধ্যায়—১ এর ২০নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৫ অধ্যায়—৬ এর ৮নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ২ অধ্যায়—৩ এর ৭নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৬ অধ্যায়—৭ এর ১২নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৩ অধ্যায়—৩ এর ১১নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৭ অধ্যায়—৭ এর ৭নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৪ অধ্যায়—৪ এর ১৪নম্বর প্রশ্ন উত্তর দ্রষ্টব্য ৮ অধ্যায়—৮ এর ১০ নম্বর প্রশ্ন উত্তর দ্রষ্টব্য সংÿিপ্ত প্রশ্নেরউত্তরমালার জন্যগুগল ড্রাইভে'পৌরনীতি ও নাগরিকতা' অধ্যায়ভিত্তিকফোল্ডাগুলো এক্সপেস্নার করম্নন ১ অধ্যায়—১ এর ১৬ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৯ অধ্যায়—৬ এর ২৫ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ২ অধ্যায়—১ এর ১৮ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১০ অধ্যায়—৬ এর ৩২ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৩ অধ্যায়—১ এর ১৯ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১১ অধ্যায়—৬ এর ৫ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৪ অধ্যায়—৩ এর ২৬ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১২ অধ্যায়—৭ এর ৩১ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৫ অধ্যায়—৩ এর ৩২ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১৩ অধ্যায়—৭ এর ৪ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৬ অধ্যায়—৩ এর ১৫ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১৪ অধ্যায়—৮ এর ১২ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৭ অধ্যায়—৪ এর ৩৪ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ১৫ অধ্যায়—৮ এর ২৬ নম্বরপ্রশ্ন উত্তর দ্রষ্টব্য ৮ অধ্যায়—৪ এর ২৪নম্বর প্রশ্ন উত্তর দ্রষ্টব্য",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/#SSC-2027/CQ/Model-4 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

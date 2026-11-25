@@ -1,0 +1,242 @@
+[
+  {
+    "id": "civics-lec-mt-model-test-chapter-3-cq-001",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-3",
+    "question_text": "চিত্র।",
+    "question_number": 1,
+    "stimulus": "চিত্র। কোনো এক নিবার্চনে এলাকার প্রভাবশালী প্রাথীর্র কারণে স্বাধীনভাবে ভোট প্রদানের অধিকার থেকে বঞ্চিত হয় তারা। সন্ত্রাসীদের ভয়ে সুজনের পরিবারের প্রত্যেকের স্বাধীনভাবে চলা দুষ্কর হয়ে পড়ে। সুজনদের শুভাকাঙ্ÿী একজন প্রতিবেশী এ ব্যাপারে আইনের সহায়তা চাইলে স্থানীয় পুলিশ প্রশাসন এ ব্যাপারে উদ্যোগ গ্রহণ করে এবং সুজন পরিবারকে মুক্ত করে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "'সাম্য' অথর্ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আইনের উৎসগুলো কী কী?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে উলিস্নখিত সুজন-পরিবার কোন ধরনের স্বাধীনতা থেকে বঞ্চিত হয়েছে? বণর্না কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "সুজন-পরিবারের বাস্ত্মবতার আলোকে আইনের শাসনের গুরম্নত্ব পযাের্লাচনা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-3-cq-002",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-3",
+    "question_text": "হাজার টাকায় বন্ধক রাখেন।",
+    "question_number": 2,
+    "stimulus": "হাজার টাকায় বন্ধক রাখেন। দুই বছর পর তিনি জমি ফেরত নিতে গেলে মেম্বার তাকে জানান, তিনি ৫০,০০০ টাকা দিয়ে জমি কিনে নিয়েছেন। এদিকে মেম্বার ঘুষ দিয়ে থানার পুলিশকেও হাত করে নেন। ফলে শেফালী বেগম থানায় মামলা করতে গেলে পুলিশ মামলা নিতে অস্বীকৃতি জানায়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কোন স্বাধীনতার মাধ্যমে ব্যক্তি রাষ্ট্রীয় শাসনকাজে অংশগ্রহণের সুযোগ লাভ করে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "'সাম্য মানে স্বাধীনতা এবং স্বাধীনতা মানেই সাম্য'—উক্তিটি ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "শেফালী বেগমের ÿেত্রে যে বিষয়টির অভাব পরিলÿিত হয়েছে তা ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "'উক্ত বিষয়টির অভাবে সমাজে অনাচার, অরাজকতা বৃদ্ধি পায়'—উক্তিটির যথাথর্তা বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-3-cq-003",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-3",
+    "question_text": "আমরা স্বাধীন।",
+    "question_number": 3,
+    "stimulus": "আমরা স্বাধীন। আমরা যা ইচ্ছা তাই করব। একদিন প্রধান শিক্ষক তাদের বিষয়টি বুঝিয়ে বললেন, নিজের খেয়াল খুশিমতো কাজ করলে তা সমাজে বিশৃঙ্খলা সৃষ্টি করে। তাই অন্যের কাজে বাধা সৃষ্টি না করে নিদির্ষ্ট সীমার মধ্যে কাজ করা সমাজের জন্য মঙ্গলজনক।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "প্রথা কাকে বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ব্যক্তি স্বাধীনতা বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে বণির্ত প্রধান শিÿকের বক্তব্যে কোন বিষয়টি ফুটে উঠেছে?",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "তুমি কি মনে কর, প্রধান শিÿকের আলোচিত বিষয়টির সাথে আইনের কোনো সম্পকর্ রয়েছে? উত্তরের পক্ষে যুক্তি দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-3-cq-004",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-3",
+    "question_text": "তুলনায় যথেষ্ট নয়।",
+    "question_number": 4,
+    "stimulus": "তুলনায় যথেষ্ট নয়। বিশ্বের বিভিন্ন দেশের অভিবাসী শ্রমিকদের বেতন মজুরি কাঠামোভিত্তিক হলেও বাংলাদেশি শ্রমিকদের ÿেত্রে তা অকাযর্কর। একই মানের কাজ করেও বাংলাদেশের শ্রমিকরা অন্য দেশের শ্রমিকের চেয়ে অনেক কম মজুরি পেয়ে থাকেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কার আইন মানবতাবিরোধী ছিল?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আন্ত্মজাির্তক আইন বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে বাংলাদেশের শ্রমিকরা কোন ধরনের সাম্য থেকে বঞ্চিত? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "তুমি কি সাম্যের কেবল উক্ত রূপটিই দেখতে পাও? মতামতের পÿে যুক্তি দাও। [সংÿিপ্ত-উত্তর অংশ:যেকোনো ৫টি সংÿিপ্ত প্রশ্নের উত্তর লেখ। প্রতিটির মান—২] ১. সাম্য কাকে বলে? ২. জনগণ আইন মান্য করে কেন? ৩. রাজনৈতিক স্বাধীনতার গুরম্নত্ব বণর্না কর। ৪. আইনের উৎস হিসেবে প্রথার ভূমিকা উলেস্নখ কর। ৫. স্বাধীনতা কী? ৬. আন্ত্মজাির্তক আইন কী? ব্যাখ্যা কর। ৭. আইনের উৎসগুলো কী কী? ৮. আন্ত্মজাির্তক আইন বলতে কী বোঝ?",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-3.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

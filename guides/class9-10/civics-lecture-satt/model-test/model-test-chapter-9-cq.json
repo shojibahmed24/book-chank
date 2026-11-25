@@ -1,0 +1,242 @@
+[
+  {
+    "id": "civics-lec-mt-model-test-chapter-9-cq-001",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-9",
+    "question_text": "পীড়ায় আক্রান্ত্ম হলো।",
+    "question_number": 1,
+    "stimulus": "পীড়ায় আক্রান্ত্ম হলো। মকবুল সাহেব আফসোস করতে লাগলেন, তার টাকাগুলো পানিতে গেল।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "খাদ্য নিরাপত্তা নিশ্চিত করতে কী প্রয়োজন?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আমাদের দেশে জাতীয় পযাের্য় খাদ্যলভ্যতা কীসের ওপর নিভর্র করে? ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে খাদ্য নিরাপত্তার কোন দিকটি বিঘ্নিত হয়েছে—ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত ব্যাপারে মকবুল সাহেবের করণীয় কী ছিল? বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-9-cq-002",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-9",
+    "question_text": "বিপুলভাবে বৃদ্ধি পেয়েছে।",
+    "question_number": 2,
+    "stimulus": "বিপুলভাবে বৃদ্ধি পেয়েছে। স্বল্প আয়তন ও জনসংখ্যার উচ্চ ঘনত্বের কারণে বাংলাদেশের জন্য এসব সমস্যা প্রকট আকার ধারণ করেছে। এসব ভয়াবহ পরিস্থিতি থেকে পরিত্রাণের জন্য আশু পদÿেপ গ্রহণ করা প্রয়োজন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কোনটিকে ঘিরে মানুষ বেড়ে ওঠে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আমাদের দেশে কম খাদ্য উৎপাদন খাদ্যনিরাপত্তাহীনতা সৃষ্টি করে কেন? ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে যে সংকট থেকে উত্তরণের জন্য পদÿেপের কথা বলা হয়েছে, সেÿেত্রে নাগরিক হিসেবে আমাদের করণীয় বণর্না কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত সংকট মোকাবিলায় সরকারি ও বেসরকারি উদ্যোগ আলোচনা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-9-cq-003",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-9",
+    "question_text": "চান।",
+    "question_number": 3,
+    "stimulus": "চান। এজন্য তিনি অন্যায় পথ বেছে নেন, সন্ত্রাসী লালন করতে থাকেন। তার কাযর্কলাপে জনগণ অতিষ্ঠ হয়ে ওঠে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "সন্ত্রাসের মূল কথা কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "সন্ত্রাসের বহিঃস্থ কারণ ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "মি. জামানের কাযর্ক্রমে সন্ত্রাসের কোন কারণটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "মি. জামানের সন্ত্রাস প্রতিরোধে করণীয় বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-9-cq-004",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-9",
+    "question_text": "আর অবজ্ঞা করতে থাকে শ্বশুরবাড়ির লোকজন।",
+    "question_number": 4,
+    "stimulus": "আর অবজ্ঞা করতে থাকে শ্বশুরবাড়ির লোকজন। এর প্রতি-উত্তর করলে তাকে সইতে হয় শারীরিক ও মানসিক যন্ত্রণা। কিন্তু অথের্র অভাবে সে আদালতেও যেতে পারছে না।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বাংলাদেশের অথৈর্নতিক ও সামাজিক উন্নয়নের জন্য কীসের নিয়ন্ত্রণ জরম্নরি?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "সামাজিক বিশৃঙ্খলা বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ঝনার্ কোন সামাজিক সমস্যার শিকার? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "আদালতে যাওয়ার অথর্ থাকলেই ঝনার্র সমস্যার সুরাহা হয়ে যেত বলে তুমি মনে কর কী? যুক্তিসহ মতামত দাও। [সংÿিপ্ত-উত্তর অংশ:যেকোনো ৫টি সংÿিপ্ত প্রশ্নের উত্তর লেখ। প্রতিটির মান—২] ১. খাদ্যনিরাপত্তা বলতে কী বোঝায়? ২. বাংলাদেশের নতুন জনসংখ্যা নীতির উলেস্নখযোগ্য দিক উলেস্নখ কর। ৩. রাষ্ট্রীয় সন্ত্রাস কী? ব্যাখ্যা কর। ৪. কখন পরিবেশেয় দুযোর্গ সৃষ্টি হয়? ৫. জনসংখ্যা সমস্যা কী? ব্যাখ্যা কর। ৬. সামাজিক বিশৃঙ্খলা বলতে কী বোঝ? ৭. নিরÿর ব্যক্তি সমাজের বোঝাস্বরূপ—ব্যাখ্যা কর। ৮. জেলা পরিষদ কীভাবে গঠিত হয়?",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-9.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "civics-lec-mt-model-test-chapter-8-cq-001",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-8",
+    "question_text": "মোট ২৫ জন সদস্য আছে।",
+    "question_number": 1,
+    "stimulus": "মোট ২৫ জন সদস্য আছে। তিনি সদস্যদের উন্নয়ন, তত্ত্বাবধান, দুযোর্গ ব্যবস্থাপনা ও আইনশৃঙ্খলা রÿা ও সমন্বয়সহ অনেক দায়িত্ব পালন করেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "উপজেলা পরিষদের সচিব কে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "কৃষির উন্নয়নে উপজেলা পরিষদের ভূমিকা তুলে ধর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে উন্নয়ন ও সমন্বয়মূলক কাজগুলো সম্পাদনের অথর্প্রাপ্তির উৎসের একটি তালিকা প্রস্তুত কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের জগন্নাথ চাকমার পরিষদের সাথে বাংলাদেশ সরকারের সম্পকর্ পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-8-cq-002",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-8",
+    "question_text": "পযাের্য়র সমস্যা সমাধানের জন্য তৃণমূল পযাের্য় এই ধরনের সরকার গড়ে ওঠে।",
+    "question_number": 2,
+    "stimulus": "পযাের্য়র সমস্যা সমাধানের জন্য তৃণমূল পযাের্য় এই ধরনের সরকার গড়ে ওঠে। বাংলাদেশে এই ধরনের সরকারব্যবস্থা বিদ্যমান। এ ধরনের সরকারব্যবস্থায় জনগণ রাষ্ট্রের শাসনকাযের্ প্রত্যÿভাবে অংশগ্রহণের সুযোগ পায়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কত সালে স্বাধীন বাংলাদেশের অভ্যুদয় ঘটে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ইউনিয়ন পরিষদের সদস্যদের মধ্যে কারা জনগণের প্রত্যÿ ভোটে নিবাির্চত হন? ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে উলিস্নখিত বাংলাদেশের তৃণমূল পযাের্য় গঠিত সরকার ছকে উলেস্নখ কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত সরকারব্যবস্থার স্বরূপ বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-8-cq-003",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-8",
+    "question_text": "নিবার্চনে সেলিনা হায়াত আইভী বিপুল ভোটের ব্যবধানে প্রথম মহিলা মেয়র নিবাির্চত হন।",
+    "question_number": 3,
+    "stimulus": "নিবার্চনে সেলিনা হায়াত আইভী বিপুল ভোটের ব্যবধানে প্রথম মহিলা মেয়র নিবাির্চত হন। শপথ গ্রহণের দিন তার এলাকার মানুষের উদ্দেশ্যে দেয়া ভাষণে তিনি তাকে নিবাির্চত করার জন্য এলাকাবাসীর প্রতি কৃতজ্ঞতা প্রকাশ করেন। নারায়ণগঞ্জবাসী আশা করছে তার মাধ্যমে অচিরেই শহরের জনস্বাস্থ্য রÿা পাবে, নিরাপদ পানি ও নিরাপদ খাদ্য নিশ্চিত হবে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "সিটি কপোের্রশনের মেয়র কার মতো মযার্দা ভোগ করেন?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বাংলাদেশের সিটি কপোের্রশনগুলো উলেস্নখ কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "জনাব সেলিনা হায়াত আইভির প্রতিষ্ঠান নারায়ণগঞ্জবাসীর আশা পূরণে কী কাজ করে? বণর্না কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত কাযার্বলি ছাড়াও উক্ত স্বায়ত্তশাসিত প্রতিষ্ঠান আরও অনেক কাজ করে—বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-model-test-chapter-8-cq-004",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "model-test-chapter-8",
+    "question_text": "আরও শক্তিশালী করেছে।",
+    "question_number": 4,
+    "stimulus": "আরও শক্তিশালী করেছে। সুবীরের বন্ধু সেলিম রহমান স্থানীয় সরকারের একটি স্ত্মরে ভোট প্রদান করে নাগরিক দায়িত্ব পালন করেছে",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ILO-এর পূণর্ রূপ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "'পাবর্ত্য জেলা পরিষদ' বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "সংবিধানের পঞ্চদশ সংশোধনীর সাথে সুবীর বড়ুয়ার মযার্দা প্রতিষ্ঠার যোগসূত্র নিরূপণ কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "জাতীয় ও স্থানীয় পযাের্য় সেলিম রহমানের ভোটাধিকার প্রয়োগের বিষয়টি কতখানি গুরম্নত্বপূণর্—যুক্তি দ্বারা ব্যাখ্যা কর। [সংÿিপ্ত-উত্তর অংশ:যেকোনো ৫টি সংÿিপ্ত প্রশ্নের উত্তর লেখ। প্রতিটির মান—২] ১. স্থানীয় সরকারের সবোর্চ্চ স্ত্মরের ব্যাখ্যা কর। ২. ইউনিয়ন পরিষদের বিচারব্যবস্থা বলতে কী বোঝায়? ৩. জেলা পরিষদের গঠন ব্যাখ্যা কর। ৪. কীভাবে সিটি কপোের্রশন গড়ে ওঠে? ৫. ÿুদ্র নৃগোষ্ঠীর পরিচয় দাও। ৬. 'পাবর্ত্য জেলা পরিষদ' বলতে কী বোঝ? ৭. গণতান্ত্রিক ব্যবস্থায় স্থানীয় সরকারের গুরম্নত্ব লেখ। ৮. সাম্য ও স্বাধীনতা গণতন্ত্রের ভিত্তিরূপে কাজ করে— ব্যাখ্যা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (model test)",
+    "guide_source": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/5. Model Test/CQ/chapter-8.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "civics-lec-mt-board-model-test-02-cq-001",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-02",
+    "question_text": "মিনা ও কণা দুই বান্ধবী।",
+    "question_number": 1,
+    "stimulus": "মিনা ও কণা দুই বান্ধবী। মিনার পরিবারের যাবতীয় কাজ, যেমন− গ. চিত্রের 'খ' দ্বারা সরকারের কোন বিভাগকে নিদের্শ করেছে? তার হালচাষ, বাজার করা এবং পরিবারের সদস্যদের দেখাশুনা তার পিতাই কাজ ব্যাখ্যা কর। ৩ করে থাকেন। স্কুলের ভতির্ রেজিস্টারে সন্ত্মানেরা নিজের নামের পর শুধু ঘ. উদ্দীপকে 'খ' বিভাগটি নিয়ন্ত্রিত হয় 'ক' বিভাগ দ্বারা− উক্তিটি বিশেস্নষণ কর। ৪ পিতার নাম লেখে থাকেন। অপরপÿে, কণার পরিবারে মিনার ৭  মি. আমান একটি প্রতিষ্ঠানের প্রধান। জনগণের সুখে-দুঃখে তিনি পরিবারের বিপরীত চিত্র দেখা যায়। কণার পরিবারে তার মায়ের কথাই জনগণের পাশে থাকেন। তার প্রতিষ্ঠানের সদস্যদের মতামতের ভিত্তিতে প্রাধান্য পায়। মায়ের মতামতকে সবাই গুরম্নত্ব দিতে বাধ্য থাকে। কমর্সূচি গ্রহণ করার এবং অন্যান্য প্রতিষ্ঠানের কাজের গঠনমূলক",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "পৌরনীতি বলতে কী বোঝ? ১ সমালোচনা করার রীতি রয়েছে। জনমত সৃষ্টির মাধ্যমে ÿমতায় যাওয়ার প্রচেষ্টাই তাদের প্রতিষ্ঠানের অন্যতম লÿ্য। নিবার্চন কাকে বলে? ১ কেন? ব্যাখ্যা কর। ২",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "সাবের্ভৗমত্বকে রাষ্ট্র গঠনের সবচেয়ে গুরম্নত্বপূণর্ উপাদান বলা হয় পরোÿ নিবার্চন পদ্ধতি ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের মিনার পরিবারটি কোন ধরনের পরিবারের ইঙ্গিত বহন মি. আমানের প্রতিষ্ঠানের সাথে দেশ পরিচালনায় মুখ্য ভূমিকা করে? ব্যাখ্যা কর। ৩ পালনকারী কোন প্রতিষ্ঠানের মিল বিদ্যমান? উক্ত প্রতিষ্ঠানের",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "তুমি কি মনে কর, কণার পরিবারটির প্রকৃতি ও বাংলাদেশের বৈশিষ্ট্য ব্যাখ্যা কর। ৩ অধিকাংশ পরিবারের প্রকৃতি একই? মতামত দাও। ৪ গণতন্ত্রের বিকাশে উদ্দীপকে ইঙ্গিতকারী প্রতিষ্ঠানের ভূমিকা বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-02-cq-002",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-02",
+    "question_text": "?",
+    "question_number": 2,
+    "stimulus": "?",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": null,
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": null,
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": null,
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": null,
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper; missing part(s): ক,খ,গ,ঘ",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-02-cq-008",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-02",
+    "question_text": "রহিমা বেগম পলাশপুর এলাকার একজন মহিলা মেম্বার।",
+    "question_number": 8,
+    "stimulus": "রহিমা বেগম পলাশপুর এলাকার একজন মহিলা মেম্বার। তিনি এলাকায় দÿ ও কমর্ঠ হিসেবে পরিচিত। তিনি এলাকায় মানুষদের বিভিন্নভাবে A B সাহায্য ও সহযোগিতা করে থাকেন। সরকারের পÿ থেকে বিভিন্ন সেবা C eyw«¬ weGeK সামগ্রী দিয়ে তিনি এলাকায় জনসেবা করে থাকেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "অধিকার কাকে বলে? ১ ক. বতর্মানে বাংলাদেশে পৌরসভার সংখ্যা কত?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "দ্বৈত নাগরিকতা কী? ব্যাখ্যা কর। ২ খ. স্থানীয় সরকার কীভাবে নাগরিকসেবা প্রদান করে থাকে?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ছকে '?' চিহ্নিত স্থানে কোনটি নিদের্শ করে? ব্যাখ্যা কর। ৩ গ. উদ্দীপকে রহিমা বেগম কোন ধরনের সরকারের প্রতিনিধিত্ব করে?",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ছকের ' ' চিহ্নিত বিষয়টির মাধ্যমে গণতান্ত্রিক মূল্যবোধ জাগ্রত এর গঠন ব্যাখ্যা কর। ৩ C হয়। বিশেস্নষণ কর। ৪ ঘ. রহিমা বেগমের উক্ত পরিষদ কী কী কাযার্বলি সম্পন্ন করে? উলেস্নখ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-02-cq-003",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-02",
+    "question_text": "জনাব 'ক' সাহেব বাংলাদেশের উচ্চ আদালতের একজন বিচারক।",
+    "question_number": 3,
+    "stimulus": "জনাব 'ক' সাহেব বাংলাদেশের উচ্চ আদালতের একজন বিচারক। তিনি ৯  জহির মিয়া পেশায় রিকসাচালক, পাঁচ মেয়ে ও স্ত্রী জরিনাকে নিয়ে তার এক আসামির সাজা নিধার্রণের সময় প্রচলিত আইনের সাথে মিল না পরিবার। ইতোমধ্যে তিনটি মেয়ে বড় হয়ে উঠেছে। কখন কোথায় পেয়ে নিজের প্রজ্ঞা ও অভিজ্ঞতার ভিত্তিতে সাজা নিধার্রণ করেন। কোন খারাপ কাজ করে বসবে। এই ভয়ে তিনি মেয়েদের বিয়ে দিয়ে",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "সাম্য অথর্ কী? ১ যেন দায়ভার মুক্ত হন। অন্যদিকে রসুলপুর গ্রামের আয়তন খুব কম কিন্তু",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আইন ও স্বাধীনতার সম্পকের্র স্বরূপ ব্যাখ্যা কর। ২ সেখানে জনসংখ্যার ঘনত্ব অনেক বেশি। তাছাড়া তাদের কমর্সংস্থানেরও কোনো সুযোগ-সুবিধা নেই। তারা খুব কষ্টে জীবনযাপন করছে। সন্ত্রাস দমনে পুলিশ প্রশাসনের পুনগর্ঠন আবশ্যক− ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের বিচারক আইনের যে উৎসের সহায়তা নিয়েছেন তা ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত উৎসই কি আইনের একমাত্র উৎস? উত্তরের পÿে যুক্তি দাও। ৪ ক. নিরÿরতা কাকে বলে? ১",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-02-cq-004",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-02",
+    "question_text": "অশোক ও আতিক ভিন্ন ভিন্ন দেশে বসবাসকারী ফেসবুক বন্ধু।",
+    "question_number": 4,
+    "stimulus": "অশোক ও আতিক ভিন্ন ভিন্ন দেশে বসবাসকারী ফেসবুক বন্ধু। ফেসবুকে",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": null,
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": null,
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "জহির মিয়ার মধ্যে জনসংখ্যা বৃদ্ধির কোন কারণটি ফুটে উঠেছে তারা তাদের দেশের সরকারব্যবস্থা নিয়ে আলোচনা করতে গিয়ে অশোক তা ব্যাখ্যা কর। ৩ বলল, আমাদের দেশের সরকারপ্রধান তার কাজের জন্য কারো নিকট দায়ী",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "রসুলপুর গ্রামের জনসাধারণের দুদর্শা দূরীকরণে সরকারি ও বেসরকারি থাকে না এবং জরম্নরি সময়ে আইন বিভাগের সাথে পরামশর্ ছাড়া নিজেই উদ্যোগই মুখ্য ভূমিকা পালন করতে পারে−বিশেস্নষণ কর। ৪ দ্রম্নত সিদ্ধান্ত্ম নেন। অন্যদিকে, আতিক বলল, আমাদের দেশের সরকারপ্রধান",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper; missing part(s): ক,খ",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-02-cq-010",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-02",
+    "question_text": "ঘটনা-১ : ভাষা সৈনিক আব্দুল মতিন ২০০১ সালে বাংলাদেশের জাতীয় জনগণের প্রতিনিধি হিসেবে জনগণের নিকট দায়ী থাকে এবং জনগণ এবং দ্বিতীয় সবোর্চ্চ বেসামরিক পুরস্কার 'একুশে পদক' পান।",
+    "question_number": 10,
+    "stimulus": "ঘটনা-১ : ভাষা সৈনিক আব্দুল মতিন ২০০১ সালে বাংলাদেশের জাতীয় জনগণের প্রতিনিধি হিসেবে জনগণের নিকট দায়ী থাকে এবং জনগণ এবং দ্বিতীয় সবোর্চ্চ বেসামরিক পুরস্কার 'একুশে পদক' পান। এই স্বাধীনভাবে তাদের মত প্রকাশ করতে পারে। মহান ব্যক্তি ৮ অক্টোবর, ২০১৪ সালে পরলোকগমন করেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "যুক্তরাষ্ট্র কাকে বলে? ১ ঘটনা-২ : 'X' অঞ্চলটি 'P' অঞ্চল দ্বারা শোষিত ও নিযাির্তত হচ্ছিল। বাঙালি জাতির মুক্তির সনদ কোনটি?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আইনের শাসনকে গণতন্ত্রের প্রাণ বলা হয় কেন? ২ 'X' অঞ্চলের একটি দল নিবার্চনে বিপুল ভোটে জয়ী হলেও 'P' অঞ্চলটি",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "অশোক যে দেশে বসবাস করে সে দেশে কোন ধরনের সরকার কোনোভাবেই ওই দলটিকে ÿমতার মসনদে বসতে দেয়নি বরং নানা ব্যবস্থা প্রচলিত? ব্যাখ্যা কর। ৩ ষড়যন্ত্র করতে শুরম্ন করে।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "অশোক ও আতিকের দেশের সরকারব্যবস্থার পাথর্ক্য নিরূপণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-02-cq-005",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-02",
+    "question_text": "চতুথর্ সংশোধনী রাষ্ট্রপতি শাসিত সরকার প্রবতর্ন",
+    "question_number": 5,
+    "stimulus": "চতুথর্ সংশোধনী রাষ্ট্রপতি শাসিত সরকার প্রবতর্ন",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "'ম্যাগনাকাটার্' স্বাÿরিত হয় কত সালে? ১ ছিলেন? ব্যাখ্যা কর। ৩",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "অসহযোগ আন্দোলন বলতে কী বোঝ? ব্যাখ্যা কর। ২ ১৯৭৫ উপরাষ্ট্রপতির পদ সৃষ্টি লিখিত সংবিধানের বৈশিষ্ট্যগুলো উলেস্নখ কর। ২ ঘ. \"ঘটনা-২-এ উলিস্নখিত নিবার্চন ' ' অঞ্চলের স্বাধীনতাকে X",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ঘটনা-১-এ উলিস্নখিত ব্যক্তিটি কোন আন্দোলনের সাথে যুক্ত \"উদ্দীপকে চতুথর্ সংশোধনী মূলত গণতন্ত্রের প্রতি বাধাস্বরূপ ত্বরান্বিত করে\"- বিশেস্নষণ কর। ৪ ছিল\"− বিষয়টি আলোচনা কর। ৩ ১১  দÿিণ এশিয়ার উন্নয়নশীল দেশগুলোর বিভিন্ন সমস্যা সমাধান ও পারস্পরিক",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "\"যুগ ও কালের বিবতের্নর সাথে সাথে সংবিধান যুগোপযোগী করা উন্নয়নের লÿ্যে একটি আঞ্চলিক সহযোগিতা সংস্থা গঠিত হয়। উক্ত সংস্থাটির অপরিহাযর্\"− উক্তিটির যথাথর্তা যাচাই কর। ৪ সাথে বাংলাদেশের নিবিড় সম্পকর্। সংস্থাটির উদ্যোক্তা হিসেবে বিভিন্ন",
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "civics-lec-mt-board-model-test-02-cq-006",
+    "book_id": "class9-10-civics-lecture",
+    "subject": "পৌরনীতি",
+    "subject_slug": "civics",
+    "class_id": 9,
+    "chapter": 0,
+    "chapter_number": 0,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "board-model-test-02",
+    "question_text": "কমর্কা-ে বাংলাদেশ বলিষ্ঠ ও গুরম্নত্বপূণর্ ভূমিকা পালন করছে।",
+    "question_number": 6,
+    "stimulus": "কমর্কা-ে বাংলাদেশ বলিষ্ঠ ও গুরম্নত্বপূণর্ ভূমিকা পালন করছে। mi Kvi",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "\"The Cream of UN Peacekeepers\" হিসেবে কারা আখ্যায়িত? ১ বাংলাদেশের আইনসভার নাম কী? ১ ঘ. উদ্দীপকে বণির্ত সংস্থাটির সাথে বাংলাদেশের সম্পকর্ সম্বন্ধে যা",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আন্ত্মজাির্তক আদালত কী? ব্যাখ্যা কর। ২ K. wewaweavb cÉYqb L. ? M. bÅvqwePvi wbwøZ Ki v গ. উদ্দীপকে কোন সংস্থাকে ইঙ্গিত করা হয়েছে? ব্যাখ্যা কর। ৩ কেন্দ্রীয় প্রশাসন বলতে কী বোঝায়? ব্যাখ্যা কর। ২ বলা হয়েছে তার সত্যতা নিরূপণ কর। ৪ ৬৭ স্পেশাল মডেল টেস্ট ০৮ wel q ˆKvW : 1 4 0",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": null,
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": null,
+        "marks": 4
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "no printed answer (board paper); board not printed on CQ paper; missing part(s): গ,ঘ",
+    "guide_source": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "key_format": null,
+    "source_file": "3. SSC Humanities/SSC Civics/6. Board Question 2023-25/Model Question.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]
