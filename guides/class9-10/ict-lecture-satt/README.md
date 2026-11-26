@@ -19,10 +19,10 @@
 | CQ | ৮৯ |
 | Lecture-note | ৪৮ |
 | Handnote | ২৫ |
-| Flagged row | ৬,৮৭৩ (আগে ৬,৮৭৪; বাদ পড়া row-টি flagged ছিল) |
+| Flagged row | ৬,৯৭২ (মেরামতের পর; আগে ৬,৮৭৩) |
 | question_text নেই | ১২ → ১১ (বাদ পড়া row-টির question_text ছিল না) |
-| answer_key আছে | ৩,১৪৮ (সব MCQ; printed-marker ২,৭৮০ + answer-key-table ৩৬৮) |
-| ৪টি অপশন পূর্ণ MCQ | ২,৭০০ / ৬,৯৮৬ |
+| answer_key আছে | ৪,৩৩০ (আগে ৩,১৪৮; মেরামত ২০২৬-১১-২৫-এ +১,১৮২ — ছাপা ●/উত্তর-তালিকা থেকে; printed-marker ২,৭৮০ + answer-key-table ৩৬৮ + মেরামত-উদ্ধার ১,১৮২) |
+| ৪টি অপশন পূর্ণ MCQ | ৪,২১৯ / ৬,৯৮৬ (আগে ২,৭০০; মেরামত ২০২৬-১১-২৫-এ +১,৫১৯) |
 | stimulus আছে | ৩৯৫ |
 | guide_solution আছে | ২৩৬ |
 | id unique | হ্যাঁ (০ duplicate) |
@@ -75,6 +75,13 @@
 **যাচাই করা ডুপ্লিকেট (০ row = স্কিপ):** ১. Chapter Wise Practise ch1–6.docx, ICT-2025.docx-এর বাইরে বাকি Board/TEST PAPER doc, Chapterwise mcq & saq.docx, NEW LECTURESHEET-এর কিছু — parse-and-compare করে ০ নতুন row পাওয়া গেছে বলেই ডুপ্লিকেট ধরা হয়েছে (শুধু নাম মিলিয়ে নয়)।
 
 **বাদ পড়া / স্কিপ:** Hand Note ch6.docx — PDF ও docx দুটোতেই গার্বেজ (visual/OCR দরকার)। ICT-2024.pdf — স্ক্যান করা ছবি-PDF (decode rc=2), OCR দরকার।
+
+## মেরামত নোট (২০২৬-১১-২৫)
+
+- অধ্যায় ১–৪ MCQ (৩,১৭১ row) মেরামত: চাবি ১,৪০৭ → ২,৫৮৯ (নতুন ১,১৮২ — ছাপা ●/উত্তর-তালিকা থেকে, কখনো অনুমান নয়; আগের ভুল চাবি শুধরানো ৬২২); ৪-অপশন MCQ ৮০৬ → ২,৩২৫; null-অপশন ৬৩০ → ২৫৮; চাবিহীন ১,৭৬৪ → ৫৮২।
+- হারানো অপশন বেশিরভাগ ছাপা থেকে উদ্ধার হয়েছে; AI-বানানো distractor মাত্র ২৪টি (১৫ row-তে), প্রতিটায় flag_note-এ "AI-generated distractor — not from source" চিহ্নিত।
+- সাইডকার `_answer-keys/` তালিকা চাবি ভরতে ব্যবহার করা যাবে না — ছাপা ●-চাবির সঙ্গে মেলে মাত্র ~২৫–৩৪%।
+- খোলা: ৪টা সন্দেহজনক আগের চাবি (ch1 mcq-088/582/891/315); ~৭৫টা row MCQ নয় (SAQ/CQ ভুল-শ্রেণিভুক্ত, flagged); বাকি ৫৮২ চাবিহীন + ২৫৮ null-অপশন (visual/OCR পাসে উদ্ধারের চেষ্টা হবে)।
 
 ## জানা সীমা (pre-push-এ দেখতে হবে)
 
