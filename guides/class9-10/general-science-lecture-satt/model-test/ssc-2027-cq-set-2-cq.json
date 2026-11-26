@@ -1,0 +1,482 @@
+[
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-2-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-2",
+    "question_text": "সানোয়ারা বেগম আচার সংরÿণে ভিনেগার ব্যবহার করেন এবং ফল, মাছ, মাংস, শাকসবজি, চাল, গম বিভিন্ন পদ্ধতিতে সংরÿণ করেন। কিন্তু ফল ব্যবসায়ী সোহেল মিয়া ফল সংরÿণে ফরমালিন ব্যবহার করেন।",
+    "question_number": 1,
+    "stimulus": "সানোয়ারা বেগম আচার সংরÿণে ভিনেগার ব্যবহার করেন এবং ফল, মাছ, মাংস, শাকসবজি, চাল, গম বিভিন্ন পদ্ধতিতে সংরÿণ করেন। কিন্তু ফল ব্যবসায়ী সোহেল মিয়া ফল সংরÿণে ফরমালিন ব্যবহার করেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "সুষম খাদ্য কাকে বলে?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "ক্যালরি বলতে কী বোঝায়?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "সানোয়ারা বেগমের ব্যবহৃত পদ্ধতিগুলো বণর্না কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "সানোয়ারা বেগম ও সোহেল মিয়ার ব্যবহৃত পদ্ধতির মধ্যে কোনটি স্বাস্থ্যের জন্য ÿতিকর? যুক্তি সহকারে আলোচনা কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-2 — CQ set ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-2-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 2,
+    "chapter_number": 2,
+    "chapter_name": "জীবনের জন্য পানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-2",
+    "question_text": "শ্রেণিশিÿক ক্লাসে জলজ উদ্ভিদ ও প্রাণী সম্বন্ধে শিÿাথীের্দর বোঝালেন। জলজ উদ্ভিদগুলোর দৈহিক গঠন ও এদের অন্যান্য বৈশিষ্ট্য জানালেন। মাছ কীভাবে পানিতে বাস করে এবং বংশবিস্ত্মার করে এ বিষয়ে শিÿাথীের্দর ধারণা দিলেন।",
+    "question_number": 2,
+    "stimulus": "শ্রেণিশিÿক ক্লাসে জলজ উদ্ভিদ ও প্রাণী সম্বন্ধে শিÿাথীের্দর বোঝালেন। জলজ উদ্ভিদগুলোর দৈহিক গঠন ও এদের অন্যান্য বৈশিষ্ট্য জানালেন। মাছ কীভাবে পানিতে বাস করে এবং বংশবিস্ত্মার করে এ বিষয়ে শিÿাথীের্দর ধারণা দিলেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "পানির স্ফুটনাংক কত?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "জলজ প্রাণীদের বেঁচে রাখতে জলজ উদ্ভিদ কী ভূমিকা রাখে? ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "পানির কোন কোনমানদন্ডউদ্দীপকের জলজ প্রাণীর বংশবিস্ত্মারে প্রভাব রাখে? ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকে উলিস্নখিত জলজ উদ্ভিদ ও মাছের মতো তুমি কি পানিতে বাস করতে পারবে? ব্যাখ্যাসহ লেখ।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-2 — CQ set ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-2-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 2,
+    "chapter_number": 2,
+    "chapter_name": "জীবনের জন্য পানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-2",
+    "question_text": "বাংলাদেশে শহর অঞ্চলের আশে পাশে মিঠা পানির উৎসে শাপলা, শ্যাওলা, হেলেঞ্চা, কচুরিপানা ও বিভিন্ন রকমের জলজ উিদ্ভদ জন্মাতো। এছাড়া এগুলো বিভিন্ন জলজ প্রাণীরও আবাস ছিল। কিন্তু বতর্মানে বিভিন্ন আবাসন ব্যবসায়ীরা এই সমস্ত্ম মিঠা পানির উৎসগুলো ভরাট করে আবাসিক এলাকা গড়ে তুলছে।",
+    "question_number": 3,
+    "stimulus": "বাংলাদেশে শহর অঞ্চলের আশে পাশে মিঠা পানির উৎসে শাপলা, শ্যাওলা, হেলেঞ্চা, কচুরিপানা ও বিভিন্ন রকমের জলজ উিদ্ভদ জন্মাতো। এছাড়া এগুলো বিভিন্ন জলজ প্রাণীরও আবাস ছিল। কিন্তু বতর্মানে বিভিন্ন আবাসন ব্যবসায়ীরা এই সমস্ত্ম মিঠা পানির উৎসগুলো ভরাট করে আবাসিক এলাকা গড়ে তুলছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "আসেির্নক কী?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "বুড়িগঙ্গা ও শীতলক্ষ্যা নদী দুটির ভবিষ্যৎ কী?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "আমিষের চাহিদা মেটাতে উদ্দীপকের জলজ উদ্ভিদের অবদান আছে কি? উত্তরের সপক্ষে ব্যাখ্যা লেখ।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "প্রাকৃতিক জলজ পরিবেশ বিপযের্য় উদ্দীপকের উলি-খিত ঘটনা কীভাবে যুক্ত এবং এ বিপযর্য়কে কীভাবে প্রতিরোধ করা যায় বিশেস্নষণ কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-2 — CQ set ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-2-cq-004",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 3,
+    "chapter_number": 3,
+    "chapter_name": "হৃদযন্ত্রের কথা এবং অন্যান্য",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-2",
+    "question_text": "কামাল সাহেব হঠাৎ করে বুকে ব্যথা ও চাপ অনুভব করছিলেন। ডাক্তার তার রক্তচাপ পরীÿা করে চবির্যুক্ত খাবার পরিহার করতে বললেন পাশাপাশি তাকে সুস্থতার জন্য সতকর্ ও দুশ্চিন্ত্মামুক্ত জীবনযাপনের ব্যবস্থা করার পরামশর্ দিলেন।",
+    "question_number": 4,
+    "stimulus": "কামাল সাহেব হঠাৎ করে বুকে ব্যথা ও চাপ অনুভব করছিলেন। ডাক্তার তার রক্তচাপ পরীÿা করে চবির্যুক্ত খাবার পরিহার করতে বললেন পাশাপাশি তাকে সুস্থতার জন্য সতকর্ ও দুশ্চিন্ত্মামুক্ত জীবনযাপনের ব্যবস্থা করার পরামশর্ দিলেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "হাটর্ ফেইলিওর কী?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "বিভিন্ন বয়সে হাটির্বটের স্বাভাবিক গতি লেখ।",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে আলোচিত সমস্যাটি ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "কামাল সাহেবের সুস্থতার জন্য তোমার পরামশর্ প্রদান কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-2 — CQ set ৪",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-2-cq-005",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 7,
+    "chapter_number": 7,
+    "chapter_name": "অম্স্ন, ÿারক ও লবণের ব্যবহার",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-2",
+    "question_text": "জামাল দশম শ্রেণির ছাত্র। সে টক জাতীয় ফল যেমন- লেবু, কমলা, পেয়ারা, আমলকি খেতে পছন্দ করে না। হঠাৎ একদিন জামাল দেখে তার শরীরে কতকগুলো ÿতের সৃষ্টি হয়েছে। অতঃপর সে ডাক্তারের কাছে গেলে ডাক্তার ÿতের প্রতিষেধক হিসেবে টকজাতীয় খাবার খেতে বললেন। পরে ঐ টকজাতীয় খাবার খেলে ধীরে ধীরে সুস্থ হয়ে উঠে।",
+    "question_number": 5,
+    "stimulus": "জামাল দশম শ্রেণির ছাত্র। সে টক জাতীয় ফল যেমন- লেবু, কমলা, পেয়ারা, আমলকি খেতে পছন্দ করে না। হঠাৎ একদিন জামাল দেখে তার শরীরে কতকগুলো ÿতের সৃষ্টি হয়েছে। অতঃপর সে ডাক্তারের কাছে গেলে ডাক্তার ÿতের প্রতিষেধক হিসেবে টকজাতীয় খাবার খেতে বললেন। পরে ঐ টকজাতীয় খাবার খেলে ধীরে ধীরে সুস্থ হয়ে উঠে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "প্রশমন বিক্রিয়া কাকে বলে?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "শক্তিশালী এসিড বলতে কী বোঝ?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "জামালের শরীরে ÿত হওয়ার কারণ- ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "ডাক্তার জামালকে টকজাতীয় ফল খেতে বললেন কেন?- যুক্তিসহ আলোচনা কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-2 — CQ set ৫",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-2-cq-006",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 7,
+    "chapter_number": 7,
+    "chapter_name": "অম্স্ন, ÿারক ও লবণের ব্যবহার",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-2",
+    "question_text": "এসিড ও ÿারকের বিক্রিয়ার ফলে যে রাসায়নিক দ্রব্যটি তৈরি হয় তা আমাদের খাদ্যদ্রব্যকে সুস্বাদু করতে অত্যন্ত্ম গুরম্নত্বপূণর্ ভূমিকা পালন করে। খাবার সুস্বাদু ছাড়াও আরও অনেক ÿেত্রে এ দ্রব্যটির বহুল ব্যবহার আছে।",
+    "question_number": 6,
+    "stimulus": "এসিড ও ÿারকের বিক্রিয়ার ফলে যে রাসায়নিক দ্রব্যটি তৈরি হয় তা আমাদের খাদ্যদ্রব্যকে সুস্বাদু করতে অত্যন্ত্ম গুরম্নত্বপূণর্ ভূমিকা পালন করে। খাবার সুস্বাদু ছাড়াও আরও অনেক ÿেত্রে এ দ্রব্যটির বহুল ব্যবহার আছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "আচার সংরÿণে কোন এসিড ব্যবহৃত হয়?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "পাউরম্নটি কীভাবে ফোলানো হয়?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের উপাদান দুটির পাথর্ক্য কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকে যে রাসায়নিক দ্রব্যটির কথা বলা হয়েছে তার ব্যবহার বিশেস্নষণ কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-2 — CQ set ৬",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-2-cq-007",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-2",
+    "question_text": "তূযর্ দৈনন্দিন জীবনের বিভিন্ন ঘটনা নিয়ে পরীক্ষা-নিরীক্ষা করে থাকে। একদিন সে বাসায় একটি ভারী টেবিলের সামনে চেয়ারে বসে টেবিলকে টানতে শুরম্ন করলো। কিন্তু চেয়ারসহ সে নিজেই টেবিলের দিকে সরে গেল। পরদিন সে একটি মাবের্লকে রম্নমের মসৃণ মেঝেতে নিদির্ষ্ট বলে গড়িয়ে দিল। এরপর বাসার বাইরে পিচের রাস্ত্মায় একই মাবের্লকে একই বলে গড়িয়ে দিল। তখন এটি তার চেয়ে কম দূরত্ব অতিক্রম করলো।",
+    "question_number": 7,
+    "stimulus": "তূযর্ দৈনন্দিন জীবনের বিভিন্ন ঘটনা নিয়ে পরীক্ষা-নিরীক্ষা করে থাকে। একদিন সে বাসায় একটি ভারী টেবিলের সামনে চেয়ারে বসে টেবিলকে টানতে শুরম্ন করলো। কিন্তু চেয়ারসহ সে নিজেই টেবিলের দিকে সরে গেল। পরদিন সে একটি মাবের্লকে রম্নমের মসৃণ মেঝেতে নিদির্ষ্ট বলে গড়িয়ে দিল। এরপর বাসার বাইরে পিচের রাস্ত্মায় একই মাবের্লকে একই বলে গড়িয়ে দিল। তখন এটি তার চেয়ে কম দূরত্ব অতিক্রম করলো।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "নিউটনের গতিবিষয়ক দ্বিতীয় সূত্রটি কী?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "জড়তা বলতে কী বুঝায়?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "চেয়ারসহ তূযর্ টেবিলের দিকে সরে আসলো কেন? ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "মাবের্লটির দুইটি স্থানে অতিক্রান্ত্ম দূরত্ব ভিন্ন হওয়ার কারণ বিশেস্নষণ কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-2 — CQ set ৭",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-2-cq-008",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 11,
+    "chapter_number": 11,
+    "chapter_name": "জীব প্রযুক্তি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-2",
+    "question_text": "শাহানা একটি জড়োয়া সোনার গহনা পরেছে। তার বান্ধবী বলল, নিশ্চয়ই এটি অনেক দামি। কিন্তু শাহানা বলল, এটি রুপার উপর গোল্ড পেস্নটিং করা। শাহানার বান্ধবী বলল, এটি কীভাবে সম্ভব? শাহানা বলল, তড়িৎ বিশেস্নষণের মাধ্যমে আরও অনেক কিছুই করা সম্ভব।",
+    "question_number": 8,
+    "stimulus": "শাহানা একটি জড়োয়া সোনার গহনা পরেছে। তার বান্ধবী বলল, নিশ্চয়ই এটি অনেক দামি। কিন্তু শাহানা বলল, এটি রুপার উপর গোল্ড পেস্নটিং করা। শাহানার বান্ধবী বলল, এটি কীভাবে সম্ভব? শাহানা বলল, তড়িৎ বিশেস্নষণের মাধ্যমে আরও অনেক কিছুই করা সম্ভব।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "এক মেগাওয়াট কত ওয়াটের সমান?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "তড়িৎ বিশেস্নষণ সংক্রান্ত্ম আরহেনিয়াসের মতবাদ সংÿেপে ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "AgNO3 দ্রবণের ÿেত্রে উপরিউক্ত প্রক্রিয়াটি বণর্না কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "শাহানার গহনার ÿেত্রে সংঘটিত প্রক্রিয়াটি সম্পকের্ আলোচনা কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-2 — CQ set ৮",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "অধ্যায়ের নাম সংশোধন (normalization 2026-11-25): আগের নাম 'প্রাত্যাহিক জীবনে তড়িৎ' — SAQ/CQ শিটের হেডার থেকে নেওয়া ভুল নাম; লেকচার-শিট বইয়ে অধ্যায় ১১ = 'জীব প্রযুক্তি' (প্রমাণ: Sheet2 11TH, Sheet3 ch11, Practice 2024-11)।",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-2 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-1-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-1",
+    "question_text": "হক সাহেবের বয়স ৬৫ বছর। উচ্চতা ১.৭ মিটার এবং ওজন ৭০ কেজি। উনি মাংসও চবির্ জাতীয় খাদ্য বেশি পছন্দ করেন। ইদানীং তিনি কিছু কিছু শারীরিক সমস্যায় ভুগছেন।",
+    "question_number": 1,
+    "stimulus": "হক সাহেবের বয়স ৬৫ বছর। উচ্চতা ১.৭ মিটার এবং ওজন ৭০ কেজি। উনি মাংসও চবির্ জাতীয় খাদ্য বেশি পছন্দ করেন। ইদানীং তিনি কিছু কিছু শারীরিক সমস্যায় ভুগছেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "BMI কী?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "রাফেজ বলতে কী বোঝায়?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "হক সাহেবের ভরসূচি নিণর্য় কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "হক সাহেবের সুস্থতা ও দৈনিক ক্যালরির চাহিদা পূরণের জন্য বিকল্প কোন খাদ্য গ্রহণ করা উচিত? তোমার মতামত দাও।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-1 — CQ set ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-1-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 2,
+    "chapter_number": 2,
+    "chapter_name": "জীবনের জন্য পানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-1",
+    "question_text": "জমিলা খাতুন বাড়ির পাশের পুকুরের ঘোলা পানিকে বিশেষ প্রক্রিয়ায় রান্নার উপযোগী করেন। অপরদিকে রতন সাহেব তার পানি বোতলজাতকরণ কারখানায় ও ঔষধ তৈরির কারখানায় পানিকে জীবাণুমুক্ত করে ব্যবহার করেন।",
+    "question_number": 2,
+    "stimulus": "জমিলা খাতুন বাড়ির পাশের পুকুরের ঘোলা পানিকে বিশেষ প্রক্রিয়ায় রান্নার উপযোগী করেন। অপরদিকে রতন সাহেব তার পানি বোতলজাতকরণ কারখানায় ও ঔষধ তৈরির কারখানায় পানিকে জীবাণুমুক্ত করে ব্যবহার করেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "পানির স্ফুটনাঙ্ক কাকে বলে?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "জলজ উিদ্ভদ পানির স্রোতে ভেঙে যায় না কেন?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "জমিলা খাতুন পুকুরের পানিকে কীভাবে রান্নার উপযোগী করেন? ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "রতন সাহেব তার দুই কারখানার কাজে ব্যবহার করা পানি কি একইভাবে জীবাণুমুক্ত করেন? যুক্তিসহ মতামত দাও।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-1 — CQ set ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-1-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 3,
+    "chapter_number": 3,
+    "chapter_name": "হৃদযন্ত্রের কথা এবং অন্যান্য",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-1",
+    "question_text": "সূচনার প্রথম সন্ত্মান নিরাপদে জন্মগ্রহণ করলেও এ সময় তার দেহ থেকে প্রচুর রক্তÿরণ হলো। তার ছোট বোন ইতি তাকে রক্ত দিতে আগ্রহ প্রকাশ করলে ডাক্তার ইতি, সূচনা ও তার স্বামীর রক্ত পরীÿা করলেন। রক্তের রিপোটর্ দেখে ডাক্তার জানালেন, ইতি সবাইকেই রক্ত দিতে পারবে। কিন্তু সূচনা ও তার স্বামীকে জানালেন তাদের দেহে জয ফ্যাক্টরের সমস্যাজনিত কারণে পরবতীের্ত সন্ত্মান নেয়া খুব অনিরাপদ ও ঝুঁকিপূণর্ হবে।",
+    "question_number": 3,
+    "stimulus": "সূচনার প্রথম সন্ত্মান নিরাপদে জন্মগ্রহণ করলেও এ সময় তার দেহ থেকে প্রচুর রক্তÿরণ হলো। তার ছোট বোন ইতি তাকে রক্ত দিতে আগ্রহ প্রকাশ করলে ডাক্তার ইতি, সূচনা ও তার স্বামীর রক্ত পরীÿা করলেন। রক্তের রিপোটর্ দেখে ডাক্তার জানালেন, ইতি সবাইকেই রক্ত দিতে পারবে। কিন্তু সূচনা ও তার স্বামীকে জানালেন তাদের দেহে জয ফ্যাক্টরের সমস্যাজনিত কারণে পরবতীের্ত সন্ত্মান নেয়া খুব অনিরাপদ ও ঝুঁকিপূণর্ হবে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "রক্ত কোন প্রকারের টিস্যু?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "হাইপারটেনশন বলতে কী বোঝায়?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপক অনুযায়ী ইতির ÿেত্রে ডাক্তারের এরূপ বলার কারণ ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "ডাক্তার সূচনা ও তার স্বামীকে পরবতীের্ত আর কোনো সন্ত্মান নেয়ায় নিরম্নৎসাহিত করলেন কেন? বিশেস্নষণ কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-1 — CQ set ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-1-cq-004",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 3,
+    "chapter_number": 3,
+    "chapter_name": "হৃদযন্ত্রের কথা এবং অন্যান্য",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-1",
+    "question_text": "প্রাণীদেহের ত্রিকোণাকার ফাঁপা প্রকোষ্ঠযুক্ত পাম্পের মতো একটি অঙ্গ তার সংকোচন ও প্রসারণ প্রক্রিয়ার মাধ্যমে কোষে কোষে উপাদানসমূহ সরবরাহ ও সংগ্রহ করে থাকে। যন্ত্র নিয়ে গঠিত তন্ত্রটির সংগ্রহ ও সরবরাহের সংযোগস্থলে আছে এক বিশেষ প্রক্রিয়া যার দ্বারা তন্ত্রটি সমন্বয় সাধন করে থাকে।",
+    "question_number": 4,
+    "stimulus": "প্রাণীদেহের ত্রিকোণাকার ফাঁপা প্রকোষ্ঠযুক্ত পাম্পের মতো একটি অঙ্গ তার সংকোচন ও প্রসারণ প্রক্রিয়ার মাধ্যমে কোষে কোষে উপাদানসমূহ সরবরাহ ও সংগ্রহ করে থাকে। যন্ত্র নিয়ে গঠিত তন্ত্রটির সংগ্রহ ও সরবরাহের সংযোগস্থলে আছে এক বিশেষ প্রক্রিয়া যার দ্বারা তন্ত্রটি সমন্বয় সাধন করে থাকে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "থ্যালাসিমিয়া কী?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "'অণুচক্রিকার প্রধান কাজ রক্ততঞ্চন'-ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের অঙ্গটি কোষে কোষে কী সরবরাহ করে এবং কোন বিশেষ প্রক্রিয়া দ্বারা সমন্বয়সাধন করে?",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "আলোচ্য তন্ত্রটি জীবদেহের অন্যান্য তন্ত্র অপেÿা অধিকতর উলেস্নখযোগ্য কেন-বিশেস্নষণ কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-1 — CQ set ৪",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-1-cq-005",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 7,
+    "chapter_number": 7,
+    "chapter_name": "অম্স্ন, ÿারক ও লবণের ব্যবহার",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-1",
+    "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : কলাম A কলাম B CaO  HgSO 4 NaOH  AgSO4 KOH  CuSO4 5H2O NH OH  Na CO  10H O 4 2 3 2",
+    "question_number": 5,
+    "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : কলাম A কলাম B CaO  HgSO 4 NaOH  AgSO4 KOH  CuSO4 5H2O NH OH  Na CO  10H O 4 2 3 2",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বিশুদ্ধ পানিরpH মান কত?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "পাউরম্নটি তৈরিতে বেকিং সোডা ব্যবহার করা হয় কেন?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "A কলামভুক্ত যৌগগুলোর সাধারণ বৈশিষ্ট্য ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "আমাদের শিল্পকারখানায়B কলামভুক্ত যৌগগুলোর ব্যবহার বিশেস্নষণ কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-1 — CQ set ৫",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-1-cq-006",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-1",
+    "question_text": "অপু একটি গস্নাসের ওপর একটি কাডর্ বা শক্ত কাগজ রেখে তার উপর একটি পাঁচ টাকার কয়েন রাখল। তারপর হঠাৎ কাডির্টকে জোরে টোকা দিলে কয়েনটি গস্নাসের মধ্যে পড়ে গেল।",
+    "question_number": 6,
+    "stimulus": "অপু একটি গস্নাসের ওপর একটি কাডর্ বা শক্ত কাগজ রেখে তার উপর একটি পাঁচ টাকার কয়েন রাখল। তারপর হঠাৎ কাডির্টকে জোরে টোকা দিলে কয়েনটি গস্নাসের মধ্যে পড়ে গেল।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "নিউটনের প্রথম সূত্রটি লেখ।",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "বল বস্তুর গতির ওপর কী প্রভাব ফেলে তা ব্যাখ্যা কর।",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "কয়েনটি গস্নাসের মধ্যে পড়ে গেল কেন?",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "কয়েনটি যে ধমর্ প্রদশর্ন করে দৈনন্দিন জীবনে যানবাহন চলাচলের সময় আমরা কীভাবে বস্তুর উক্ত ধমর্ সংক্রান্ত্ম অভিজ্ঞতা লাভ করি? মতামত দাও।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-1 — CQ set ৬",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-1-cq-007",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-1",
+    "question_text": "নিশাদদের বাড়ির পাশে নতুন পিচের রাস্ত্মা এবার মসৃণ করে তৈরি করেনি। একজন ড্রাইভার বলল টায়ার ক্ষয় হচ্ছে। প্রায় টায়ার বস্নাস্ট হচ্ছে। নিশাদ বলল পূবের্ যখন রাস্ত্মা মসৃণ ছিল তখন গাড়িগুলো বেশ জোরে চলত এবং বষার্কালে প্রায়ই দুঘর্টনা ঘটত। ড্রাইভার বলল টায়ার ক্ষয় হলেও রাস্ত্মাসহ কোনো বস্তুই খুব বেশি মসৃণ হওয়া উচিত নয়। এতে দুঘর্টনা বাড়ে।",
+    "question_number": 7,
+    "stimulus": "নিশাদদের বাড়ির পাশে নতুন পিচের রাস্ত্মা এবার মসৃণ করে তৈরি করেনি। একজন ড্রাইভার বলল টায়ার ক্ষয় হচ্ছে। প্রায় টায়ার বস্নাস্ট হচ্ছে। নিশাদ বলল পূবের্ যখন রাস্ত্মা মসৃণ ছিল তখন গাড়িগুলো বেশ জোরে চলত এবং বষার্কালে প্রায়ই দুঘর্টনা ঘটত। ড্রাইভার বলল টায়ার ক্ষয় হলেও রাস্ত্মাসহ কোনো বস্তুই খুব বেশি মসৃণ হওয়া উচিত নয়। এতে দুঘর্টনা বাড়ে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ভরবেগ কাকে বলে?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "একটি ফোলানো বেলুন মুখ খোলা অবস্থায় ছেড়ে দিলে খোলা মুখের বিপরীত দিকে ছুটতে দেখা যায় কেন?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "রাস্ত্মার পূবের্র অবস্থা সম্পকের্ নিশাদের মতামতের কারণ কী? বণর্না কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "ড্রাইভারের শেষ উক্তিটি কি ঠিক? গাড়ির ইঞ্জিনের ক্ষেত্রে এর প্রয়োগ কেমন হবে? তুলনা কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-1 — CQ set ৭",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-ssc-2027-cq-set-1-cq-008",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 11,
+    "chapter_number": 11,
+    "chapter_name": "জীব প্রযুক্তি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "ssc-2027-cq-set-1",
+    "question_text": "নিচের চিত্রটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : A¨v‡bvW CuSO K¨v‡_vW 4",
+    "question_number": 8,
+    "stimulus": "নিচের চিত্রটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : A¨v‡bvW CuSO K¨v‡_vW 4",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "লোডশেডিং কাকে বলে?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "সিস্টেম লস বলতে কী বোঝায়?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের প্রক্রিয়াটিতে বিদ্যুৎ চালনা করলে কী ঘটবে বণর্না কর।",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "প্রাত্যহিক জীবনে উদ্দীপকের প্রক্রিয়াটির গুরম্নত্ব বিশেস্নষণ কর।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC-2027 Model Test set-1 — CQ set ৮",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "অধ্যায়ের নাম সংশোধন (normalization 2026-11-25): আগের নাম 'প্রাত্যাহিক জীবনে তড়িৎ' — SAQ/CQ শিটের হেডার থেকে নেওয়া ভুল নাম; লেকচার-শিট বইয়ে অধ্যায় ১১ = 'জীব প্রযুক্তি' (প্রমাণ: Sheet2 11TH, Sheet3 ch11, Practice 2024-11)।",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/#SSC-2027/CQ/set-1 (CQ).pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

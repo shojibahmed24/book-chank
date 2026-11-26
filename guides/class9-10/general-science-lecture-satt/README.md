@@ -1,0 +1,202 @@
+# সাধারণ বিজ্ঞান — SSC Lecture Sheets (chunked)
+সাবজেক্ট: সাধারণ বিজ্ঞান (slug: general-science) • ক্লাস ৯-১০ • সোর্স: SSC Chapter Wise লেকচার শিট
+মোট row: **1615** (flag করা: 607 — normalization-এর পর) • প্রসেস করা ফাইল: 333 • মিসিং: 0 (ফাইনাল পাস সম্পূর্ণ)
+## Type ভাগ
+- board: 296
+- cq: 348
+- gyanmulok: 65
+- handnote: 11
+- lecture-note: 209
+- mcq: 98
+- saq: 588
+
+## ফাইল তালিকা
+- `chapter-00-board.json`: 296 rows
+- `chapter-01-cq.json`: 26 rows
+- `chapter-01-gyanmulok.json`: 5 rows
+- `chapter-01-handnote.json`: 1 rows
+- `chapter-01-lecture-note.json`: 9 rows
+- `chapter-01-mcq.json`: 3 rows
+- `chapter-01-saq.json`: 65 rows
+- `chapter-02-cq.json`: 4 rows
+- `chapter-02-gyanmulok.json`: 5 rows
+- `chapter-02-handnote.json`: 1 rows
+- `chapter-02-lecture-note.json`: 20 rows
+- `chapter-02-mcq.json`: 3 rows
+- `chapter-02-saq.json`: 54 rows
+- `chapter-03-cq.json`: 21 rows
+- `chapter-03-gyanmulok.json`: 5 rows
+- `chapter-03-lecture-note.json`: 11 rows
+- `chapter-03-mcq.json`: 3 rows
+- `chapter-03-saq.json`: 52 rows
+- `chapter-04-cq.json`: 4 rows
+- `chapter-04-gyanmulok.json`: 5 rows
+- `chapter-04-handnote.json`: 1 rows
+- `chapter-04-lecture-note.json`: 9 rows
+- `chapter-04-mcq.json`: 5 rows
+- `chapter-04-saq.json`: 55 rows
+- `chapter-05-cq.json`: 27 rows
+- `chapter-05-gyanmulok.json`: 5 rows
+- `chapter-05-handnote.json`: 1 rows
+- `chapter-05-lecture-note.json`: 19 rows
+- `chapter-05-mcq.json`: 3 rows
+- `chapter-05-saq.json`: 39 rows
+- `chapter-06-cq.json`: 7 rows
+- `chapter-06-gyanmulok.json`: 5 rows
+- `chapter-06-handnote.json`: 1 rows
+- `chapter-06-lecture-note.json`: 21 rows
+- `chapter-06-mcq.json`: 3 rows
+- `chapter-06-saq.json`: 46 rows
+- `chapter-07-cq.json`: 4 rows
+- `chapter-07-gyanmulok.json`: 5 rows
+- `chapter-07-lecture-note.json`: 16 rows
+- `chapter-07-mcq.json`: 3 rows
+- `chapter-07-saq.json`: 55 rows
+- `chapter-08-cq.json`: 5 rows
+- `chapter-08-gyanmulok.json`: 5 rows
+- `chapter-08-lecture-note.json`: 19 rows
+- `chapter-08-mcq.json`: 3 rows
+- `chapter-08-saq.json`: 58 rows
+- `chapter-09-cq.json`: 24 rows
+- `chapter-09-gyanmulok.json`: 5 rows
+- `chapter-09-handnote.json`: 1 rows
+- `chapter-09-lecture-note.json`: 6 rows
+- `chapter-09-mcq.json`: 3 rows
+- `chapter-09-saq.json`: 48 rows
+- `chapter-10-cq.json`: 5 rows
+- `chapter-10-gyanmulok.json`: 5 rows
+- `chapter-10-handnote.json`: 1 rows
+- `chapter-10-lecture-note.json`: 8 rows
+- `chapter-10-mcq.json`: 3 rows
+- `chapter-10-saq.json`: 47 rows
+- `chapter-11-cq.json`: 3 rows
+- `chapter-11-gyanmulok.json`: 5 rows
+- `chapter-11-handnote.json`: 1 rows
+- `chapter-11-lecture-note.json`: 8 rows
+- `chapter-11-mcq.json`: 5 rows
+- `chapter-11-saq.json`: 54 rows
+- `chapter-12-cq.json`: 3 rows
+- `chapter-12-gyanmulok.json`: 5 rows
+- `chapter-12-handnote.json`: 1 rows
+- `chapter-12-lecture-note.json`: 18 rows
+- `chapter-12-mcq.json`: 2 rows
+- `chapter-12-saq.json`: 5 rows
+- `chapter-13-cq.json`: 3 rows
+- `chapter-13-gyanmulok.json`: 5 rows
+- `chapter-13-handnote.json`: 1 rows
+- `chapter-13-lecture-note.json`: 27 rows
+- `chapter-13-mcq.json`: 4 rows
+- `chapter-13-saq.json`: 5 rows
+- `chapter-14-cq.json`: 1 rows
+- `chapter-14-handnote.json`: 1 rows
+- `chapter-14-lecture-note.json`: 18 rows
+- `chapter-14-mcq.json`: 2 rows
+- `model-test/mt-chapter-1-cq.json`: 3 rows
+- `model-test/mt-chapter-1-mcq.json`: 1 rows
+- `model-test/mt-chapter-12-cq.json`: 3 rows
+- `model-test/mt-chapter-12-mcq.json`: 1 rows
+- `model-test/mt-chapter-13-cq.json`: 3 rows
+- `model-test/mt-chapter-13-mcq.json`: 1 rows
+- `model-test/mt-chapter-14-cq.json`: 3 rows
+- `model-test/mt-chapter-14-mcq.json`: 1 rows
+- `model-test/mt-chapter-5-cq.json`: 3 rows
+- `model-test/mt-chapter-5-mcq.json`: 1 rows
+- `model-test/mt-chapter-6-cq.json`: 3 rows
+- `model-test/mt-chapter-6-mcq.json`: 1 rows
+- `model-test/mt-chapter-9-cq.json`: 3 rows
+- `model-test/mt-chapter-9-mcq.json`: 1 rows
+- `model-test/mt-cq-chapter-1-cq.json`: 7 rows
+- `model-test/mt-cq-chapter-10-cq.json`: 13 rows
+- `model-test/mt-cq-chapter-11-cq.json`: 5 rows
+- `model-test/mt-cq-chapter-12-cq.json`: 3 rows
+- `model-test/mt-cq-chapter-13-cq.json`: 5 rows
+- `model-test/mt-cq-chapter-2-cq.json`: 8 rows
+- `model-test/mt-cq-chapter-3-cq.json`: 3 rows
+- `model-test/mt-cq-chapter-4-cq.json`: 9 rows
+- `model-test/mt-cq-chapter-5-cq.json`: 5 rows
+- `model-test/mt-cq-chapter-6-cq.json`: 4 rows
+- `model-test/mt-cq-chapter-7-cq.json`: 5 rows
+- `model-test/mt-cq-chapter-8-cq.json`: 4 rows
+- `model-test/mt-cq-chapter-9-cq.json`: 5 rows
+- `model-test/mt-cqmcq-chapter-1-cq.json`: 2 rows
+- `model-test/mt-cqmcq-chapter-12-cq.json`: 3 rows
+- `model-test/mt-cqmcq-chapter-13-cq.json`: 3 rows
+- `model-test/mt-cqmcq-chapter-14-cq.json`: 3 rows
+- `model-test/mt-cqmcq-chapter-5-cq.json`: 3 rows
+- `model-test/mt-cqmcq-chapter-6-cq.json`: 3 rows
+- `model-test/mt-cqmcq-chapter-9-cq.json`: 3 rows
+- `model-test/mt-mcq2-chapter-1-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-10-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-11-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-12-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-13-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-14-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-2-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-3-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-4-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-5-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-6-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-7-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-8-mcq.json`: 1 rows
+- `model-test/mt-mcq2-chapter-9-mcq.json`: 1 rows
+- `model-test/school-adamjee-cantonment-public-school-cq.json`: 2 rows
+- `model-test/school-barishal-zilla-school-mcq.json`: 1 rows
+- `model-test/school-birshreshtho-noor-mohammad-public-cq.json`: 2 rows
+- `model-test/school-blue-board-high-school-mcq.json`: 2 rows
+- `model-test/school-cantonment-public-school-and-2-cq.json`: 2 rows
+- `model-test/school-cantonment-public-school-and-3-mcq.json`: 2 rows
+- `model-test/school-cantonment-public-school-and-4-mcq.json`: 1 rows
+- `model-test/school-cantonment-public-school-and-cq.json`: 2 rows
+- `model-test/school-cumilla-modern-high-school-2-mcq.json`: 1 rows
+- `model-test/school-cumilla-modern-high-school-cq.json`: 2 rows
+- `model-test/school-dhaka-model-college-2-mcq.json`: 1 rows
+- `model-test/school-dhaka-model-college-cq.json`: 2 rows
+- `model-test/school-govt-agragami-balika-high-cq.json`: 2 rows
+- `model-test/school-govt-laboratory-high-school-cq.json`: 2 rows
+- `model-test/school-ispahani-public-school-and-2-mcq.json`: 2 rows
+- `model-test/school-ispahani-public-school-and-3-mcq.json`: 2 rows
+- `model-test/school-ispahani-public-school-and-cq.json`: 2 rows
+- `model-test/school-jalalabad-cantonment-public-school-2-mcq.json`: 1 rows
+- `model-test/school-jalalabad-cantonment-public-school-cq.json`: 2 rows
+- `model-test/school-laboratory-high-school-rajshahi-cq.json`: 2 rows
+- `model-test/school-milestone-college-dhaka-2-mcq.json`: 2 rows
+- `model-test/school-milestone-college-dhaka-cq.json`: 2 rows
+- `model-test/school-mohila-samity-balika-high-cq.json`: 2 rows
+- `model-test/school-rajuk-uttara-model-college-2-mcq.json`: 2 rows
+- `model-test/school-rajuk-uttara-model-college-cq.json`: 2 rows
+- `model-test/school-school-and-college-motijheel-2-mcq.json`: 2 rows
+- `model-test/school-school-and-college-motijheel-cq.json`: 2 rows
+- `model-test/school-viqarunnisa-noon-school-and-2-mcq.json`: 2 rows
+- `model-test/school-viqarunnisa-noon-school-and-cq.json`: 2 rows
+- `model-test/ssc-2026-cq-1-cq.json`: 11 rows
+- `model-test/ssc-2026-cq-2-cq.json`: 11 rows
+- `model-test/ssc-2026-mcq-1-mcq.json`: 1 rows
+- `model-test/ssc-2026-mcq-2-mcq.json`: 1 rows
+- `model-test/ssc-2026-mcq-3-mcq.json`: 1 rows
+- `model-test/ssc-2026-mcq-4-mcq.json`: 1 rows
+- `model-test/ssc-2026-mcq-5-mcq.json`: 1 rows
+- `model-test/ssc-2026-mcq-6-mcq.json`: 1 rows
+- `model-test/ssc-2026-mcq-7-mcq.json`: 1 rows
+- `model-test/ssc-2027-cq-set-1-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-1-saq.json`: 1 rows
+- `model-test/ssc-2027-cq-set-2-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-2-saq.json`: 1 rows
+- `model-test/ssc-2027-cq-set-3-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-3-saq.json`: 1 rows
+- `model-test/ssc-2027-cq-set-4-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-4-saq.json`: 1 rows
+- `model-test/ssc-2027-cq-set-5-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-5-saq.json`: 1 rows
+- `model-test/ssc-2027-mcq-set-1-mcq.json`: 1 rows
+- `model-test/ssc-2027-mcq-set-2-mcq.json`: 1 rows
+- `model-test/ssc-2027-mcq-set-3-mcq.json`: 1 rows
+- `model-test/ssc-2027-mcq-set-4-mcq.json`: 1 rows
+
+## Normalization পাস (2026-11-25)
+- মোট row: **1615** (আগে-পরে একই — কোনো row মোছা/যোগ করা হয়নি); flag করা: 552 → **607**।
+- **অধ্যায় ১১-এর নাম এক করা:** 59টি row-তে ভুল নাম "প্রাত্যাহিক জীবনে তড়িৎ" (SAQ হেডার থেকে) ছিল, 30টিতে "জীব প্রযুক্তি" ছিল — এখন 89টি row-তেই "জীব প্রযুক্তি"। প্রমাণ (ডিকোড করা সোর্স): Sheet2 11TH "একাদশ অধ্যায় / জীব প্রযুক্তি", Sheet3 ch11 "অধ্যায় ১১ - জীব প্রযুক্তি", Practice 2024-11 "একাদশ অধ্যায় / জীব প্রযুক্তি", NEW LECTURE SHEET 11-এ "জীব প্রযুক্তি এবং জেনেটিক ইঞ্জিনিয়ারিং"; আর তড়িৎ অধ্যায় ১২-এর (Sheet3 ch12 "অধ্যায় - ১২: (প্রত্যাহিক জীবনে তড়িৎ)", Sheet2 12TH "দ্বাদশ অধ্যায় / প্রাত্যহিক জীবনে তড়িৎ")। SAQ ch11 হেডার ("অধ্যায়—১১: প্রাত্যাহিক জীবনে তড়িৎ", বাসাবাড়ির সার্কিটের প্রশ্ন) অধ্যায় ১২-এর বিষয়বস্তু ভুল নম্বরে ছেপেছে। পুরনো নাম প্রতিটি ঠিক করা row-এর flag_note-এ সংরক্ষিত আছে (আগের flag মুছে ফেলা হয়নি)।
+- **flagged.json মেরামত:** flagged.json-এ 552টি row ছিল কিন্তু মাত্র 525টির flag_note ছিল; বাকি 27টি CQ row (ছাপা উত্তর নেই) এখন প্রমাণভিত্তিক flag_note পেয়েছে — 24টি diagram_dependent (মানসম্মত চিত্র-নোট), 3টি আলাদা (ch01-cq-013 টেবিল-গরমিল, ch09-cq-009 ডিকোড-গার্বল, mt-cq-chapter-7-cq-002-এ 'গ' অংশ 'খ'-এ মিশে আছে)। এখন flagged.json = flag_note আছে এমন row (607)।
+- **য়-ট্র্যাপ (U+09AF+U+09BC → U+09DF) সুইপ:** row-এ মোট 1,042টি ভাঙা রূপ ছিল (flag_note 903, question_text 125, source 14) — সব ঠিক করা হয়েছে, এখন 0। উৎস-প্রমাণ: ডিকোড করা 174টি .uni.txt-এ ভাঙা রূপ 0টি, সঠিক য় 67,145টি — অর্থাৎ row-এর সব ভাঙা রূপ চাংকারের নিজের লিটারাল থেকে এসেছে (chunker-লেখা ফিল্ডেই সীমাবদ্ধ; ডিকোড-থেকে-হুবহু নেওয়া guide_solution/stimulus/options-এ 0টি ছিল)। কোনো answer_key/answer আন্দাজ করা হয়নি, কোনো row মোছা হয়নি (0টি ডুপ্লিকেট, 0টি placeholder মোছা; 15টি আক্ষরিক-খালি row-ই marks_parts-সহ আসল প্রশ্ন — রাখা হয়েছে, দেখুন dropped-placeholders.json)।
+- **Doc-twin যাচাই (সম্পূর্ণ, 158/158):** duplicate-confirmed 40, review-partial 57, review-unique 61; convert/decode ব্যর্থ 0। বিস্তারিত `_work/twin-check-v3/results.md` ও `ANALYSIS.md`-এ। সিদ্ধান্ত: এই পাসে কোনো twin chunk করা হয়নি — নিচের রিপোর্ট §4 দেখুন।
+- **যাচাই (2026-11-25):** সব JSON parse হয়; combined (1615) = chapter ফাইল (1346) + model-test ফাইল (269); id unique, null নেই; সব row 37 ফিল্ড; flagged.json ⊆ combined এবং flagged সংখ্যা = flag_note-আছে row (607); processed-files (333 লাইন) + missing (0) = ম্যানিফেস্ট 333 (এর মধ্যে doc-twin skip 158, PDF-ডুপ্লিকেট skip 1, chunked-from 174)। 3টি ডিকোড ফাইল চোখে মিলিয়ে দেখা হয়েছে (SAQ ch1 Q1, Sheet3 ch11, Biggan-2024) — row-গুলো ডিকোড টেক্সটের সাথে মেলে।
+- ব্যাকআপ (normalization-এর আগের combined + flagged): `_backup_pre_norm/` (2026-11-24 18:20)। স্ক্রিপ্ট: `_work/normalize.py` (ch11 + flag মেরামত), `_work/fix_trap.py` (ট্র্যাপ সুইপ), `_work/validate.py` (যাচাই), `_work/twin-check-v3.py` (doc-twin)।
