@@ -1,0 +1,302 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-cqmcq-chapter-13-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 13,
+    "chapter_number": 13,
+    "chapter_name": "সবাই কাছাকাছি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cqmcq-chapter-13",
+    "question_text": "রম্নবেল জেএসসি পরীÿায় ভালো ফলাফল করায় উপহার হিসেবে তার বাবা তাকে একটি প্রোগ্রামযোগ্য ডিজিটাল ইলেকট্রনিক ডিভাইস বাজার হতে কিনে দেয়। ডিভাইসটির সংগঠনের ভাগগুলো হচ্ছে-হাডর্ওয়্যার এবং সফটওয়্যার। হাডর্ওয়্যারের তিনটি অংশ: সিপিইউ, ইনপুট এবং আউটপুট ইউনিট।",
+    "question_number": 1,
+    "stimulus": "রম্নবেল জেএসসি পরীÿায় ভালো ফলাফল করায় উপহার হিসেবে তার বাবা তাকে একটি প্রোগ্রামযোগ্য ডিজিটাল ইলেকট্রনিক ডিভাইস বাজার হতে কিনে দেয়। ডিভাইসটির সংগঠনের ভাগগুলো হচ্ছে-হাডর্ওয়্যার এবং সফটওয়্যার। হাডর্ওয়্যারের তিনটি অংশ: সিপিইউ, ইনপুট এবং আউটপুট ইউনিট।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ইনপুট কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ইনপুট ও আউটপুট ডিভাইসের মধ্যে একটি প্রধান পাথর্ক্য বণর্না কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "রম্নবেলের প্রাপ্ত উপহারটির একটি গুরম্নত্বপূণর্ অংশের বণর্না দাও।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উপহারটি সক্রিয় করতে উদ্দীপকের কোন অংশটি মুখ্য ভূমিকা পালন করে- মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 13 — CQ সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-13.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-13.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cqmcq-chapter-13-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 13,
+    "chapter_number": 13,
+    "chapter_name": "সবাই কাছাকাছি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cqmcq-chapter-13",
+    "question_text": "মিঠুর বড় ভাই কম্পিউটার সায়েন্সে মাস্টাসর্ করছেন। নতুন একটি কম্পিউটার কিনে এনেছেন তিনি। কম্পিউটারটি অ্যাসেম্বলি করার সময় মিঠু মাউস, মনিটর এগুলো দেখিয়ে প্রশ্ন করল-এগুলো কী? ওর ভাইয়া বললেন- এগুলো হাডর্ওয়্যার। তিনি বললেন কম্পিউটারের জন্য হাডর্ওয়্যার ও সফ্‌টওয়্যার অবশ্যই প্রয়োজন। তিনি হাডর্ওয়্যার ও সফটওয়্যার সম্পকের্ মিঠুকে বুঝিয়ে বললেন। কম্পিউটার ব্যবহারের বিভিন্ন ÿেত্র সম্পকের্ও বললেন।",
+    "question_number": 2,
+    "stimulus": "মিঠুর বড় ভাই কম্পিউটার সায়েন্সে মাস্টাসর্ করছেন। নতুন একটি কম্পিউটার কিনে এনেছেন তিনি। কম্পিউটারটি অ্যাসেম্বলি করার সময় মিঠু মাউস, মনিটর এগুলো দেখিয়ে প্রশ্ন করল-এগুলো কী? ওর ভাইয়া বললেন- এগুলো হাডর্ওয়্যার। তিনি বললেন কম্পিউটারের জন্য হাডর্ওয়্যার ও সফ্‌টওয়্যার অবশ্যই প্রয়োজন। তিনি হাডর্ওয়্যার ও সফটওয়্যার সম্পকের্ মিঠুকে বুঝিয়ে বললেন। কম্পিউটার ব্যবহারের বিভিন্ন ÿেত্র সম্পকের্ও বললেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ফ্যাক্স কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "হাডর্ওয়্যার ও সফটওয়্যারের মধ্যে পাথর্ক্য ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "কম্পিউটারের হাডর্ওয়্যার ও সফটওয়্যার পারস্পরিক নিভর্রশীল এ ব্যাপারে মিঠুর ভাই যে যুক্তি দিয়েছে তা ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "মিঠু ভাই কম্পিউটার ব্যবহারের যেসব ÿেত্রের উলেস্নখ করেছেন সেগুলোর গুরম্নত্ব মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 13 — CQ সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-13.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-13.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cqmcq-chapter-13-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 13,
+    "chapter_number": 13,
+    "chapter_name": "সবাই কাছাকাছি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cqmcq-chapter-13",
+    "question_text": "গণনাকারী যন্ত্র হিসেবে কম্পিউটারের উদ্ভব। কিন্ত্মু এর কাজের ধরন ও কিছু অনন্য বৈশিষ্ট্যের কারণে কম্পিউটার অন্যান্য ইলেকট্রনিক্স যন্ত্র থেকে আলাদা। মানুষের তুলনায় কম্পিউটার দ্রম্নত কাজ করতে পারে। কম্পিউটার কাজের ÿেত্রে সময় ও শ্রম দুটোকেই কমিয়ে দিয়েছে। বতর্মানে আমরা প্রায় সকল কাজেই কম্পিউটার ব্যবহার করছি।",
+    "question_number": 3,
+    "stimulus": "গণনাকারী যন্ত্র হিসেবে কম্পিউটারের উদ্ভব। কিন্ত্মু এর কাজের ধরন ও কিছু অনন্য বৈশিষ্ট্যের কারণে কম্পিউটার অন্যান্য ইলেকট্রনিক্স যন্ত্র থেকে আলাদা। মানুষের তুলনায় কম্পিউটার দ্রম্নত কাজ করতে পারে। কম্পিউটার কাজের ÿেত্রে সময় ও শ্রম দুটোকেই কমিয়ে দিয়েছে। বতর্মানে আমরা প্রায় সকল কাজেই কম্পিউটার ব্যবহার করছি।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কম্পিউটার কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "মানুষ ও কম্পিউটারের মধ্যে দুটি পাথর্ক্য লেখ।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে উলিস্নখিত যন্ত্র কীভাবে আমাদের সময় ও শ্রমকে কমিয়ে দিয়েছে- ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "'উদ্দীপকের যন্ত্রটি অন্যান্য ইলেকট্রনিক যন্ত্র থেকে অনন্য বৈশিষ্ট্যের অধিকারী'-এর পÿে তোমার মতামত উপস্থাপন কর। বহুনিবার্চনী প্রশ্নঃ-২০ টেলিফোনে বলা কথাকে তড়িৎ সংকেতে রূপান্ত্মরিত করে টিভি এন্টেনা তার গ্রহণকৃত সংকেতকে কীভাবে ইলেকট্রনগানে কোনটি? প্রেরণ করে?",
+        "marks": 4
+      },
+      {
+        "part": "ক",
+        "text": "ইয়ারপিস খ.. মাউথ পিস ক.বিবধির্তকরে খ. হুবহু",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "ইয়ার অফিস ঘ. ডায়ালিং প্যাড গ খ- খ-করে ঘ কম্পাঙ্কে পরিণত করে নিচের কোন কাজে স্ক্যানিং আবশ্যক? পিকচার টিউবের পিছনে কী থাকে?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "ই-মেইল খ.টেলিগ্রাফ গ. ফ্যাক্স ঘ. ঝগঝ ক.ইলেকট্রন টিউব খ.ক্যাথেডার অডিও সংকেতকে কীভাবে দূরে পাঠানো হয়? গ.ভোল্টেজ সাপস্নাই ঘ.ইলেকট্রনগান",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "শক্তি বৃদ্ধি করে রঙিন টেলিভিশনে কে রং সরবরাহ করে?",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "বাহক তরঙ্গের সাথে মিশ্রিত করে ক.ইলেকট্রনগান খ.ইলৈকট্রন টিউব",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "নিম্ন কম্পাঙ্কের তরঙ্গের সাথে মিশিয়ে গ. ফসফরাস ঘ. সালফার",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "শক্তি হ্রাস করে নিচের কোনটি রঙিন টেলিভিশনের মৌলিক রং? ট্রানজিস্টর কী? ক. হলুদ খ. সবুজ গ. নীল ঘ. কমলা",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "গ্রাহক যন্্ত্রখ প্রেরক যন্ত্র টেলিভিশন পদার্ কী দিয়ে গঠিত?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "মাউথ পিস ঘ. স্পিকার ক. ফসফর দানা খ. কাচ বেতার তরঙ্গকে শব্দে পরিণত করে কোনটি? গ. পিকচার টিউব ঘ. বিম",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "লাউড স্পিকার খ. ট্রানজিস্টর টেলিফোনের মাউথ পিচ কী হিসেবে কাজ করে?",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "রেডিও ঘ. ইয়ারপিস ক.প্রেরক খ. গ্রাহক গ. ধারক ঘ. বাহক বেতার তরঙ্গ হলো- টেলিফোনের হ্যান্ডসেটের মাউথপিস কোনটি?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "মিশ্রিত তরঙ্গ খ. সরল তরঙ্গ ক. ফ্যাক্স খ.মডেম গ. স্পিকার ঘ.মাইক্রোফোন",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "নিম্ন কম্পাঙ্কের তরঙ্গ ঘ. বাহক তরঙ্গ ফ্যাক্স মেশিনে ডকুমেন্টকে ইলেকট্রনিক সংকেতে রূপান্ত্মরিত টেলিভিশন সম্প্রচারের েÿত্রে ছবিকে কীভাবে প্রেরণ করা হয়? করা হয় কীভাবে?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "তড়িৎ সংকেত হিসেবে খ.তড়িৎ চৌম্বক তরঙ্গ হিসেবে ক.স্ক্যান করে খ.ছবি তুলে",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "তরঙ্গ হিসেবে ঘ .অডিও সংকেত হিসেবে গ.টেলিফোনের সাহায্যে ঘ.বিদ্যুতের সাহায্যে টেলিভিশন সম্প্রচারের েÿত্রে শব্দ ও ছবি কীভাবে প্রেরণ করা হয়?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "পৃথক পৃথক প্রেরক যন্ত্রের সাহায্যে",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "একই প্রেরক যন্ত্রের সাহায্যে",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "অনেকগুলো প্রেরক যন্ত্রের সাহায্যে ঘ একক সময় একেক রকমভাবে টেলিভিশনে প্রেরিত ছবিকে কে সংকেতে রূপান্ত্মরিত করে? ক .এন্টেনা খ.ক্যামেরা গ.ইলেকট্রনটিউব ঘ. তরঙ্গ টেলিভিশন স্টেশনে তড়িৎ সংকেত কী প্রক্রিয়ায় বাহক সংকেতের সাথে মিশ্রিত করা হয়?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "মডুলেশন খ.অটোমেটিক",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "সেমিমডুলেশন ঘ .অটোমডুলেশন কোনটি মডুলেটরের কাজ?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "শব্দ তরঙ্গকে মিশ্রিত করা খ.তরঙ্গকে একত্রিত করা",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "কম্পাঙ্ক বৃদ্ধি করা ঘ.তরঙ্গ সৃষ্টি করা টেলিভিশন এন্টেনা ছবি ও শব্দকে কী হিসেবে গ্রহণ করে?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "বেতার তরঙ্গ খ.উচ্চ কম্পাঙ্ক",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "নিম্ন কম্পাঙ্ক ঘ.তড়িৎ চৌম্বক তরঙ্গ",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 13 — CQ সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-13.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-13.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-chapter-12-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-12",
+    "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও :",
+    "question_number": 1,
+    "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও :",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কিলোওয়াট-ঘণ্টাকে সংÿেপে কী বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ফিউজকে জীবন্ত্ম তারের সাথে সংযোগ দিতে হয় কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "অ বতর্নীর বৈশিষ্ট্য লেখ।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ই বতর্নীর বৈশিষ্ট্য উলেস্নখ করে সিদ্ধান্ত্ম দাও বাসাবাড়ির জন্য কোনটি উপযোগী?",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 12 — CQ set ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "উদ্দীপক/চিত্র টেক্সটে নেই বা প্রশ্নে চিত্রের উল্লেখ আছে (diagram_dependent)",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-12.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-12.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-12-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-12",
+    "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : শাহানা একটি জড়োয়া সোনার গহনা পরেছে। তার বান্ধবী বলল, নিশ্চয়ই এটি অনেক দামি। কিন্তু শাহানা বলল, এটি রুপার উপর গোল্ড পেস্নটিং করা। শাহানার বান্ধবী বলল, এটি কীভাবে সম্ভব? শাহানা বলল, তড়িৎ বিশেস্নষণের মাধ্যমে আরও অনেক কিছুই করা সম্ভব।",
+    "question_number": 2,
+    "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : শাহানা একটি জড়োয়া সোনার গহনা পরেছে। তার বান্ধবী বলল, নিশ্চয়ই এটি অনেক দামি। কিন্তু শাহানা বলল, এটি রুপার উপর গোল্ড পেস্নটিং করা। শাহানার বান্ধবী বলল, এটি কীভাবে সম্ভব? শাহানা বলল, তড়িৎ বিশেস্নষণের মাধ্যমে আরও অনেক কিছুই করা সম্ভব।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "এক মেগাওয়াট কত ওয়াটের সমান?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "তড়িৎ বিশেস্নষণ সংক্রান্ত্ম আরহেনিয়াসের মতবাদ সংÿেপে ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "অমঘঙ দ্রবণের ÿেত্রে উপরিউক্ত প্রক্রিয়াটি বণর্না কর। ৩",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "শাহানার গহনার ÿেত্রে সংঘটিত প্রক্রিয়াটি সম্পকের্ আলোচনা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 12 — CQ set ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-12.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-12.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-12-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-12",
+    "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : আনোয়ার সাহেব তার দোকানে200 W এর দুইটি ও100 W এর2টি বাল্ব ব্যবহার করেন। তিনি দৈনিক গড়ে200W এর একটি টিভি ৪ ঘণ্টা চালান। বাল্ব দুইটি তার গড়ে10 ঘণ্টা করে জ্বলে। প্রতি ইউনিটে বিদ্যুৎ মূল্য5 টাকা করে আসে।",
+    "question_number": 3,
+    "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : আনোয়ার সাহেব তার দোকানে200 W এর দুইটি ও100 W এর2টি বাল্ব ব্যবহার করেন। তিনি দৈনিক গড়ে200W এর একটি টিভি ৪ ঘণ্টা চালান। বাল্ব দুইটি তার গড়ে10 ঘণ্টা করে জ্বলে। প্রতি ইউনিটে বিদ্যুৎ মূল্য5 টাকা করে আসে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "তড়িৎদ্বার বা ইলেকট্রোড কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "সিস্টেম লস বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "আনোয়ার সাহেবের জুলাই মাসের বিল কত আসবে? ২",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "আনোয়ার সাহেবের মাইক্রো ওভেনের ÿমতা বতর্মান ÿমতার হলে টিভির তুলনায় দৈনিক বেশি না কম বিদ্যুৎ খরচ হবে? ৩",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 12 — CQ set ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-12.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-12.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-12-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": "প্রাত্যহিক জীবনে তড়িৎ",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-12",
+    "question_text": "ভাই আলিফ ২২০V-৪০W একটি টেবিল ল্যাম্প দৈনিক ৪ ঘণ্টা করে ব্যবহার করে। প্রতি ইউনিট বিদ্যুৎ শক্তির মূল্য ৩.৫ টাকা।",
+    "question_number": 1,
+    "stimulus": "ভাই আলিফ ২২০V-৪০W একটি টেবিল ল্যাম্প দৈনিক ৪ ঘণ্টা করে ব্যবহার করে। প্রতি ইউনিট বিদ্যুৎ শক্তির মূল্য ৩.৫ টাকা।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বিদ্যুৎ বিল হিসাব করার ব্যবহারিক এককের নাম কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ব্যাটারিতে অ্যানোড ও ক্যাথোডের মধ্যে তড়িৎ পাথের্ক্যর সৃষ্টি হয় কেন?২",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "আলিফের ব্যবহৃত বাতির প্রবাহমাত্রা নিণর্য় কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "আথির্ক দিক বিবেচনায় আলভি ও আলিফের মধ্যে কে মিতব্যয়ী? গাণিতিক যুক্তিসহ বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 12 — সৃজনশীল প্রশ্নব্যাংক সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/12TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/12TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-12-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": "প্রাত্যহিক জীবনে তড়িৎ",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-12",
+    "question_text": "এবং রান্নাবান্না করে খেয়ে বের হতে পারেন না। তাই এ সমস্যা থেকে কিছুটা পরিত্রাণের জন্য একটি রেফ্রিজারেটর ক্রয় করলেন। কিছুদিন ভালোভাবে কাটলেও একদিন তিনি রেফ্রিজারেটর খুলে পুড়ে যাওয়া কিছু গন্ধ পেলেন এবং দেখলেন সেটি বন্ধ হয়ে গেছে। তাড়াতাড়ি মেকানিক ডাকলে সে দেখে বলল অতিরিক্ত বিদ্যুৎ প্রবাহের ফলে ভিতরের যন্ত্রটি পুড়ে গেছে।",
+    "question_number": 2,
+    "stimulus": "এবং রান্নাবান্না করে খেয়ে বের হতে পারেন না। তাই এ সমস্যা থেকে কিছুটা পরিত্রাণের জন্য একটি রেফ্রিজারেটর ক্রয় করলেন। কিছুদিন ভালোভাবে কাটলেও একদিন তিনি রেফ্রিজারেটর খুলে পুড়ে যাওয়া কিছু গন্ধ পেলেন এবং দেখলেন সেটি বন্ধ হয়ে গেছে। তাড়াতাড়ি মেকানিক ডাকলে সে দেখে বলল অতিরিক্ত বিদ্যুৎ প্রবাহের ফলে ভিতরের যন্ত্রটি পুড়ে গেছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "UPS কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "কীভাবে ধাতু নিষ্কাশন ও শোধন করা হয়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "বিদ্যুৎ অপচয় রোধে ফিরোজা বেগমের করণীয় কী? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ফিরোজা বেগমের গৃহে বিদ্যুৎচালিত যন্ত্রপাতি ব্যবহারের সময় সম্ভাব্য দুঘর্টনার হাত থেকে রÿার জন্য তার কী কী সতকর্তা অবলম্বন করা অপরিহাযর্? এ ব্যাপারে তোমার মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 12 — সৃজনশীল প্রশ্নব্যাংক সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/12TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/12TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-12-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": "প্রাত্যহিক জীবনে তড়িৎ",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-12",
+    "question_text": "করেই একদিন তাকে রামপুরার ব্রাঞ্চ অফিস থেকে নারায়ণগঞ্জ ব্রাঞ্চে বদলি করা হয়। চাকরির স্থান পরিবতের্নর সাথে সাথে তিনি তার বাসাটিও পরিবতর্ন করে নারায়ণগঞ্জ চলে যান এবং নতুন বাসায় চারটি কÿের প্রত্যেকটিতে৫টি ৪০W  বাতি ও ১০০W সম্পন্ন ২টি ফ্যান সংযোগ করেন। এবার তিনি বিদ্যুৎ সাশ্রয়ের জন্য প্রতিদিন বাতি ও ফ্যানগুলোকে ৬ ঘণ্টা করে ব্যবহার করার সিদ্ধান্ত্ম নেন।",
+    "question_number": 3,
+    "stimulus": "করেই একদিন তাকে রামপুরার ব্রাঞ্চ অফিস থেকে নারায়ণগঞ্জ ব্রাঞ্চে বদলি করা হয়। চাকরির স্থান পরিবতের্নর সাথে সাথে তিনি তার বাসাটিও পরিবতর্ন করে নারায়ণগঞ্জ চলে যান এবং নতুন বাসায় চারটি কÿের প্রত্যেকটিতে৫টি ৪০W  বাতি ও ১০০W সম্পন্ন ২টি ফ্যান সংযোগ করেন। এবার তিনি বিদ্যুৎ সাশ্রয়ের জন্য প্রতিদিন বাতি ও ফ্যানগুলোকে ৬ ঘণ্টা করে ব্যবহার করার সিদ্ধান্ত্ম নেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ওয়াট কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ধনাত্মক ও ঋণাত্মক তার কীভাবে নিণর্য় করা যায়?২",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "জনাব হাসানকে ২০১৫ সালের সেপ্টেম্বর মাসে কত টাকা বিদ্যুৎ বিল পরিশোধ করতে হবে? (প্রতি ইউনিট বিদ্যুতের মূল্য ৩.১০ টাকা",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "জনাব হাসানের বাড়িতে বিদ্যুৎ উন্নয়ন বোডের্র কমর্কতার্রা কোন পদ্ধতিতে বিদ্যুৎ বিল হিসাব করে থাকে বলে তুমি মনে কর? তোমার মতামত গাণিতিকভাবে বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 12 — সৃজনশীল প্রশ্নব্যাংক সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/12TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/12TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

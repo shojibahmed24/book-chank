@@ -1,0 +1,182 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-chapter-5-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 5,
+    "chapter_number": 5,
+    "chapter_name": "দেখতে হলে আলো চাই",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-5",
+    "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : নবম শ্রেণির ছাত্রী মায়েসা একদিন পড়ার টেবিলে লÿকরল, সে বইয়ের অÿরগুলো পরিষ্কার দেখতে পাচ্ছে না। তার বাবা তাকে চোখের ডাক্তারের কাছে নিয়ে গেলেন। ডাক্তার বললেন, মায়েসার চোখের দূরদৃষ্টি ত্রম্নটি দেখা দিয়েছে। এজন্য তিনি মায়েসাকে +২.৫ উ ÿমতার লেন্সের চশমা ব্যবহার করার পরামশর্ দেন।",
+    "question_number": 1,
+    "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : নবম শ্রেণির ছাত্রী মায়েসা একদিন পড়ার টেবিলে লÿকরল, সে বইয়ের অÿরগুলো পরিষ্কার দেখতে পাচ্ছে না। তার বাবা তাকে চোখের ডাক্তারের কাছে নিয়ে গেলেন। ডাক্তার বললেন, মায়েসার চোখের দূরদৃষ্টি ত্রম্নটি দেখা দিয়েছে। এজন্য তিনি মায়েসাকে +২.৫ উ ÿমতার লেন্সের চশমা ব্যবহার করার পরামশর্ দেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "দূরদৃষ্টি বা দীঘর্দৃষ্টি কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "কী কী কারণে দীঘর্ দৃষ্টি ত্রম্নটি হয়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "মায়েসার চশমার লেন্সের প্রকৃতি এবং ফোকাস দূরত্ব নিণর্য় কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "মায়েসার চোখের ত্রম্নটির ফল এবং প্রতিকার পদ্ধতি বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 5 — CQ set ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-5.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-5.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-5-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 5,
+    "chapter_number": 5,
+    "chapter_name": "দেখতে হলে আলো চাই",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-5",
+    "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : মনি হঠাৎ একদিন বইয়ের লেখা ঝাপসা দেখছে, অথচ বইয়ের ও তার চোখের দূরত্ব (২৫-৩০) সেমি। এই কারণে তার বাবা তাকে ডাক্তারের কাছে নিয়ে গেলেন এবং ডাক্তার পরীÿা-নিরীÿা করে তাকে উত্তল লেন্সের চশমা ব্যবহার করতে বলেন এবং কম বয়স হতেই চোখ ভালো রাখার জন্য তাদের পরামশর্ দিলেন।",
+    "question_number": 2,
+    "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : মনি হঠাৎ একদিন বইয়ের লেখা ঝাপসা দেখছে, অথচ বইয়ের ও তার চোখের দূরত্ব (২৫-৩০) সেমি। এই কারণে তার বাবা তাকে ডাক্তারের কাছে নিয়ে গেলেন এবং ডাক্তার পরীÿা-নিরীÿা করে তাকে উত্তল লেন্সের চশমা ব্যবহার করতে বলেন এবং কম বয়স হতেই চোখ ভালো রাখার জন্য তাদের পরামশর্ দিলেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "স্বাভাবিক বয়স্ক লোকের স্পষ্ট দৃষ্টির ন্যূনতম দূরত্ব কত?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "নিরাপদ ড্রাইভিং-এ দপের্ণর ভূমিকা কী?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ডাক্তার মনিকে উত্তল লেন্সের চশমা ব্যবহার করতে বললেন কেন? চিত্রসহ ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ডাক্তার মনি ও তার বাবাকে কিসের জন্য এবং কী ধরনের পরামশর্ দিলেন- বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 5 — CQ set ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "উদ্দীপক/চিত্র টেক্সটে নেই বা প্রশ্নে চিত্রের উল্লেখ আছে (diagram_dependent)",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-5.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-5.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-5-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 5,
+    "chapter_number": 5,
+    "chapter_name": "দেখতে হলে আলো চাই",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-5",
+    "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : আনিস একদিন গোসল করতে পুকুর ঘাটে গেল। সে পুকুরের স্বচ্ছ পানির নিচের সিঁড়িতে পা রাখতে গেল। কিন্তু সিঁড়িটির প্রকৃত অবস্থান বুঝতে ভুল করায় সে পড়ে গেল। অন্যদিকে তার ছোট ভাই পুকুরে সুড়কি দিয়ে মাছ ধরতে গেল। কিন্তু সঠিক অবস্থানে নিÿেপ না করায় সে মাছ ধরতে ব্যথর্ হলো",
+    "question_number": 3,
+    "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : আনিস একদিন গোসল করতে পুকুর ঘাটে গেল। সে পুকুরের স্বচ্ছ পানির নিচের সিঁড়িতে পা রাখতে গেল। কিন্তু সিঁড়িটির প্রকৃত অবস্থান বুঝতে ভুল করায় সে পড়ে গেল। অন্যদিকে তার ছোট ভাই পুকুরে সুড়কি দিয়ে মাছ ধরতে গেল। কিন্তু সঠিক অবস্থানে নিÿেপ না করায় সে মাছ ধরতে ব্যথর্ হলো",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "চোখের দৃষ্টির ত্রম্নটি কয় ধরনের?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আলোক রশ্মির দিক পরিবতের্নর ঘটনা ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "পুকুরের পানির নিচের সিঁড়ির অবস্থান বুঝতে আনিসের ভুল হওয়ার কারণ ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "কী কৌশল অবলম্বন করলে আনিসের ছোট ভাইয়ের মাছ শিকার করা সম্ভব হতো? যুক্তিসহ মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 5 — CQ set ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-5.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-5.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

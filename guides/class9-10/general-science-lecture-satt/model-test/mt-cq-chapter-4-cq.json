@@ -1,0 +1,542 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "অজ্ঞান হয়ে যান। ডাক্তারের কাছে নেওয়ার পর ডাক্তার তাকে সিটি স্ক্যান করতে বলেন।",
+    "question_number": 1,
+    "stimulus": "অজ্ঞান হয়ে যান। ডাক্তারের কাছে নেওয়ার পর ডাক্তার তাকে সিটি স্ক্যান করতে বলেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "এক্সরে কে আবিষ্কার করেন?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "এনজিওগ্রাফি বলতে কী বোঝায়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "রহমান সাহেবের রোগ নিণের্য় সিটি স্ক্যান কীভাবে কাজ করে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "সিটি স্ক্যান রহমান সাহেবের জন্য ঝুঁকিযুক্ত না কিনা ঝুঁকিমুক্ত? মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/14TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/14TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "থেকে একটি ট্রাক ধাক্কা দিল, পড়ে গিয়ে হাত ও পায়ের হাড়ে সে মারাত্মক ব্যথা পায়। দ্রম্নত তাকে চিকিৎসকের কাছে নিয়ে যাওয়া হলে তিনি রিফাতের অবস্থা দেখে চেকআপ করতে বলেন।",
+    "question_number": 2,
+    "stimulus": "থেকে একটি ট্রাক ধাক্কা দিল, পড়ে গিয়ে হাত ও পায়ের হাড়ে সে মারাত্মক ব্যথা পায়। দ্রম্নত তাকে চিকিৎসকের কাছে নিয়ে যাওয়া হলে তিনি রিফাতের অবস্থা দেখে চেকআপ করতে বলেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ECG এর পূণর্ অথর্ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "রেডিওথেরাপি কেন দেওয়া হয়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "চিকিৎসক কতৃর্ক রিফাতের হাত-পা চেকআপ এর পদ্ধতিটি কাযর্প্রণালিসহ বণর্না কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "যে পদ্ধতি ব্যবহার করে রিফাতের চেকআপ করানো হলো তা আর কী কী কাজে ব্যবহৃত হয়- তোমার মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/14TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/14TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "করলেন। চিকিৎসায় ঝুমা অনেকটাই সুস্থ হয়ে উঠল। কিন্তু তার মাথার চুল পড়ে গেল, চামড়া পুড়ে গেল এবং রক্তশূন্যতা দেখা দিল।",
+    "question_number": 3,
+    "stimulus": "করলেন। চিকিৎসায় ঝুমা অনেকটাই সুস্থ হয়ে উঠল। কিন্তু তার মাথার চুল পড়ে গেল, চামড়া পুড়ে গেল এবং রক্তশূন্যতা দেখা দিল।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কোন পরীÿার পাশ্বর্প্রতিক্রিয়া নেই?১",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "MRI কেন করানো হয়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ঝুমার চিকিৎসা প্রণালি আলোচনা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "\"ঝুমার সমস্যাসমূহ সচেতনতার মাধ্যমে এড়ানো সম্ভব\"- উক্তিটির সপÿে যুক্তি দাও। -",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/14TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/14TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-004",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "ব্যথানাশক ওষুধ দেন। সেই সাথে তিনি তাকেECG করার পরামশর্ দেন তিনদিনের মধ্যে সুস্থ না হলে তাকে পরীÿা করতে হবে।",
+    "question_number": 4,
+    "stimulus": "ব্যথানাশক ওষুধ দেন। সেই সাথে তিনি তাকেECG করার পরামশর্ দেন তিনদিনের মধ্যে সুস্থ না হলে তাকে পরীÿা করতে হবে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "এক্সরে কে আবিষ্কার করেন?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "এন্ডোস্কোপি বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "শরিফা বেগমের উক্ত পরীÿাটি কীভাবে করা যাবে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "বুকের ব্যথায় ব্যবহৃত অন্য একটি পরীÿার সাথে এ পরীÿাটির তুলনা কর",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ৪",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/14TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/14TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-005",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "করে। সামিহা তার বিজ্ঞান বই থেকে দাদিকে ক্রোমোজোমের মাধ্যমে সন্ত্মানের লিঙ্গ নিধার্রণ বুঝিয়ে দিল। দাদি বুঝলেন অজ্ঞতা ও কুসংস্কারের কারণে আমাদের দেশে কন্যা সন্ত্মান প্রসবে মাকে অপবাদ দেওয়া হয়।",
+    "question_number": 1,
+    "stimulus": "করে। সামিহা তার বিজ্ঞান বই থেকে দাদিকে ক্রোমোজোমের মাধ্যমে সন্ত্মানের লিঙ্গ নিধার্রণ বুঝিয়ে দিল। দাদি বুঝলেন অজ্ঞতা ও কুসংস্কারের কারণে আমাদের দেশে কন্যা সন্ত্মান প্রসবে মাকে অপবাদ দেওয়া হয়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "সেক্স ক্রোমোসোম কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বিভিন্ন ক্রোমোসোম জোড়ার কাজ লেখ।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "সামিহা তার দাদিকে কী বোঝাল? আলোচনা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "দাদির উপলব্ধির সাথে তুমি কি একমত? যুক্তি দেখাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-006",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "স্ত্রীকে বলে রাখে, এবার কন্যা সন্ত্মান জন্মালে তাকে বাপের বাড়িতে চলে যেতে হবে।",
+    "question_number": 2,
+    "stimulus": "স্ত্রীকে বলে রাখে, এবার কন্যা সন্ত্মান জন্মালে তাকে বাপের বাড়িতে চলে যেতে হবে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বয়ঃসন্ধিকাল কাকে বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "মনোবিজ্ঞানীরা বয়ঃসন্ধিকালকে ঝড়ঝঞ্ঝাকাল বলেছেন কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "বশির দম্পতির তৃতীয় সন্ত্মানটি উৎপন্ন হওয়ার প্রবাহ চিত্রটি দেখাও",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "কন্যা সন্ত্মানের জন্য বশিরের স্ত্রী নয় বরং সে নিজেই দায়ী− বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "উদ্দীপক/চিত্র টেক্সটে নেই বা প্রশ্নে চিত্রের উল্লেখ আছে (diagram_dependent) — চিত্র ছাড়া প্রশ্ন অসম্পূর্ণ হতে পারে",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-007",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "পর কিছুদিন সে দুবর্লবোধ করে।",
+    "question_number": 3,
+    "stimulus": "পর কিছুদিন সে দুবর্লবোধ করে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "অটোসোম কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "টেস্টটিউব বেবি বলতে কী বুঝায়?২",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "শাহানার এ ধরনের দৈহিক ঘটনার কারণ ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "এ অবস্থায় শাহানার দৈহিক স্বাস্থ্য ঠিক রাখা জরম্নরি কেন?",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-008",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "বিজ্ঞান শিÿক তাকে ল্যামাকের্র মতবাদসহ এবং ডারউইনের মতবাদ ভালোভাবে বুঝিয়ে দিলেন।",
+    "question_number": 4,
+    "stimulus": "বিজ্ঞান শিÿক তাকে ল্যামাকের্র মতবাদসহ এবং ডারউইনের মতবাদ ভালোভাবে বুঝিয়ে দিলেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "নিউক্লিওপ্রোটিন কাকে বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "জীবন্ত্ম জীবাশ্ম বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "শিÿক কীভাবে বিবতর্ন সম্পকির্টর প্রমাণ ব্যাখ্যা করলেন?",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "শিÿকের ব্যাখ্যায় দেওয়া দুটি মতবাদের মধ্যে কোনটি বেশি গ্রহণযোগ্য? তুলনামূলক আলোচনার মাধ্যমে মতবাদ দাও। ৪ ",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ৪",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-4-cq-009",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 4,
+    "chapter_number": 4,
+    "chapter_name": "নবজীবনের সূচনা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-4",
+    "question_text": "সমস্যা সমাধানের জন্য একটি বিশেষ পদ্ধতিতে তার ডিম্বাণুর পরিস্ফুটন ঘটান। অন্যদিকে মিসেস শাহিনার চাচাতো বোন মিতা পুত্র সন্ত্মানের আশায় এখন পাঁচ কন্যা সন্ত্মানের জননী।",
+    "question_number": 5,
+    "stimulus": "সমস্যা সমাধানের জন্য একটি বিশেষ পদ্ধতিতে তার ডিম্বাণুর পরিস্ফুটন ঘটান। অন্যদিকে মিসেস শাহিনার চাচাতো বোন মিতা পুত্র সন্ত্মানের আশায় এখন পাঁচ কন্যা সন্ত্মানের জননী।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "প্রকরণ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "নিষ্ক্রিয় অঙ্গ বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে ডাক্তার কোন বিশেষ পদ্ধতি অবলম্বন করলেন? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "মিতার একই রকম সন্ত্মান হওয়ার বিষয়টি বৈজ্ঞানিক দৃষ্টিকোণ থেকে বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 4 — সৃজনশীল প্রশ্নব্যাংক সেট ৫",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/4TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

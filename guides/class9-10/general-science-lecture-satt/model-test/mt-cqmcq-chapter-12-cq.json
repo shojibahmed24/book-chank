@@ -1,0 +1,277 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-cqmcq-chapter-12-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": "প্রাত্যহিক জীবনে তড়িৎ",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cqmcq-chapter-12",
+    "question_text": null,
+    "question_number": 1,
+    "stimulus": null,
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কিলোওয়াট-ঘণ্টাকে সংÿেপে কী বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ফিউজকে জীবন্ত্ম তারের সাথে সংযোগ দিতে হয় কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "অ বতর্নীর বৈশিষ্ট্য লেখ।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ই বতর্নীর বৈশিষ্ট্য উলেস্নখ করে সিদ্ধান্ত্ম দাও বাসাবাড়ির জন্য কোনটি উপযোগী?",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 12 — CQ সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "উদ্দীপক ছবি/চিহ্নে — টেক্সটে পড়া যায় না।",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-12.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-12.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cqmcq-chapter-12-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": "প্রাত্যহিক জীবনে তড়িৎ",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cqmcq-chapter-12",
+    "question_text": "শাহানা একটি জড়োয়া সোনার গহনা পরেছে। তার বান্ধবী বলল, নিশ্চয়ই এটি অনেক দামি। কিন্তু শাহানা বলল, এটি রুপার উপর গোল্ড পেস্নটিং করা। শাহানার বান্ধবী বলল, এটি কীভাবে সম্ভব? শাহানা বলল, তড়িৎ বিশেস্নষণের মাধ্যমে আরও অনেক কিছুই করা সম্ভব।",
+    "question_number": 2,
+    "stimulus": "শাহানা একটি জড়োয়া সোনার গহনা পরেছে। তার বান্ধবী বলল, নিশ্চয়ই এটি অনেক দামি। কিন্তু শাহানা বলল, এটি রুপার উপর গোল্ড পেস্নটিং করা। শাহানার বান্ধবী বলল, এটি কীভাবে সম্ভব? শাহানা বলল, তড়িৎ বিশেস্নষণের মাধ্যমে আরও অনেক কিছুই করা সম্ভব।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "এক মেগাওয়াট কত ওয়াটের সমান?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "তড়িৎ বিশেস্নষণ সংক্রান্ত্ম আরহেনিয়াসের মতবাদ সংÿেপে ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "অমঘঙ দ্রবণের ÿেত্রে উপরিউক্ত প্রক্রিয়াটি বণর্না কর। ৩",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "শাহানার গহনার ÿেত্রে সংঘটিত প্রক্রিয়াটি সম্পকের্ আলোচনা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 12 — CQ সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-12.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-12.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cqmcq-chapter-12-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 12,
+    "chapter_number": 12,
+    "chapter_name": "প্রাত্যহিক জীবনে তড়িৎ",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cqmcq-chapter-12",
+    "question_text": "আনোয়ার সাহেব তার দোকানে200 W এর দুইটি ও100 W এর2টি বাল্ব ব্যবহার করেন। তিনি দৈনিক গড়ে200W এর একটি টিভি ৪ ঘণ্টা চালান। বাল্ব দুইটি তার গড়ে10 ঘণ্টা করে জ্বলে। প্রতি ইউনিটে বিদ্যুৎ মূল্য5 টাকা করে আসে।",
+    "question_number": 3,
+    "stimulus": "আনোয়ার সাহেব তার দোকানে200 W এর দুইটি ও100 W এর2টি বাল্ব ব্যবহার করেন। তিনি দৈনিক গড়ে200W এর একটি টিভি ৪ ঘণ্টা চালান। বাল্ব দুইটি তার গড়ে10 ঘণ্টা করে জ্বলে। প্রতি ইউনিটে বিদ্যুৎ মূল্য5 টাকা করে আসে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "তড়িৎদ্বার বা ইলেকট্রোড কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "সিস্টেম লস বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "আনোয়ার সাহেবের জুলাই মাসের বিল কত আসবে? ২",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "আনোয়ার সাহেবের মাইক্রো ওভেনের ÿমতা বতর্মান ÿমতার হলে টিভির তুলনায় দৈনিক বেশি না কম বিদ্যুৎ খরচ হবে? ৩ বহুনিবার্চনী প্রশ্নঃ-২০ ১) বিজ্ঞানী আরহেনিয়াস সবর্প্রথম কত সালে তড়িৎ বিশেস্নষণের ১৩) তড়িৎ মুদ্রণ পদ্ধতিতে তড়িৎ বিশেস্নষণ প্রক্রিয়ায় তড়িৎ দ্রব ব্যাখ্যা দেন? হিসেবে কী ব্যবহৃত হয়?",
+        "marks": 4
+      },
+      {
+        "part": "ক",
+        "text": "১৫৮১ খ. ১৭৮১ গ. ১৬৮১ ঘ.১৮৮১ ক.AgNO  খ.NaCl গ.CuSO  ঘ.NiSO 3 4 4 ২) \"সকল এসিড, ÿার বা লবণজাতীয় পদাথের্ক তরলে দ্রবীভূত ১৪) তড়িৎ মুদ্রণ কাজে ছাপার লেখায় কার প্রলেপ পড়ে? করলে তা আয়নিত হয়ে সমপরিমাণ ধনাত্মক ও ঋণাত্মক ক. তামার খ.টিনের গ.নিকেলের ঘ.ব্রোঞ্জের আয়নে বিভক্ত হয়।\" এ অভিমত সবর্প্রথম কে ব্যাখ্যা দেন? ১৫) তড়িৎ মুদ্রণে অ্যানোড হিসেবে কিসের পাত ব্যবহৃত হয়?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "বিজ্ঞানী আরহেনিয়াস খ.বিজ্ঞানী ফ্যারাডে ক.নিকেল খ. তামা গ. গ্রাফাইট ঘ.ব্রোঞ্জ",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "বিজ্ঞানী অ্যাভোগেড্রো ঘ. বিজ্ঞানী ডাল্টন ১৬) খনি থেকে প্রাপ্ত যে ধাতুর সাথে অন্যান্য ধাতুর মিশ্রণ থাকে ৩) তড়িৎ বিশেস্নষণের সময় তড়িৎ বিশেস্নষ্যের মধ্যে কয়টি তড়িৎদ্বার তাকে কী বলে? প্রবেশ করানো হয়? ক. ধাতুমল খ. খনিজমল",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "১ খ. ২ গ. ৩ ঘ. ৪ গ. আকরিক ঘ. অবিশুদ্ধ খনিজ ৪) CuSO পানিতে দ্রবীভূত হয়ে কী আয়নে বিশিস্নষ্ট হয়? ১৭) আকরিক থেকে বিশুদ্ধ ধাতু নিষ্কাশিত হয়ে কোথায় সঞ্চিত হয়? 4",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "Cu++ খ.SO -- গ.Cu++ ওSO -- ঘ.CuS 4 4 ৫) ধনাত্মক আয়নসমূহ ক্যাথোড কতৃর্ক আকৃষ্ট হয় বলে তাদের কী বলা ক.অ্যানোডে খ.ভোল্টামিটারে হয়? গ.তড়িৎ কোষে ঘ.ক্যাথোডে",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "অ্যানায়নখ. ক্যাটায়ন গ.তড়িৎ বিশেস্নষ্য কোষঘ. তড়িৎ ১৮) পাখা ঘুরলে আমরা কোন ধরনের শক্তি পাই? দ্বার ক.যান্ত্রিক শক্তি খ. তড়িৎ শক্তি ৬) ঈঁঝঙ দ্রবণের তড়িৎ বিশেস্নষণকালে সালফেট আয়ন কার দ্বারা গ. তাপ শক্তি ঘ. চুম্বক শক্তি ৪ আকৃষ্ট হয়ে নিস্ত্মড়িত হয়? ১৯) কোনো ডিসি মেইন লাইনের দুটি তারের মধ্যে কোনটি ধনাত্মক",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "ক্যাথোড খ. ক্যাটায়ন গ. অ্যানায়ন ঘ.অ্যানোড তা কিসের সাহায্যে নিণর্য় করা যায়? ৭) তুঁতের দ্রবণের তড়িৎ বিশেস্নষণকালে ক্যাথোডে কী জমা হয়? ক.তড়িৎ রিপেয়ারিং খ. তড়িৎ মুদ্রণ",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "তড়িৎ প্রলেপন ঘ.তড়িৎ বিশেস্নষণ",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "Cu খ. SO গ. CuS ঘ. CuO ২০) তড়িৎ বিশেস্নষ্য কোষে বিদ্যুেতরউৎস হিসেবে কী যুক্ত থাকে? 4 ৮) তুঁতের দ্রবণের তড়িৎ বিেশস্নষণকালে নিস্ত্মড়িত SO অ্যানোড 4",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "ব্যাটারি খ.রোধ গ. অ্যামিটার ঘ.কোষ থেকে কী গ্রহণ করেCuSO উৎপন্ন করে? 4",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "O খ. Cu গ.CuS ঘ.CuO 2 ৯) তড়িৎ বিশেস্নষণ প্রক্রিয়ায় কোনো ধাতুর ওপর সুবিধামতো অন্য কোনো ধাতুর প্রলেপ দেওয়াকে কী বলা হয়?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "তড়িৎ বিশেস্নষণ কোষ খ. তড়িৎ মুদ্রণ",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "তড়িৎ প্রলেপন ঘ.ধাতু শোধন ১০) তড়িৎ প্রলেপনে যে বস্তুতে প্রলেপ দিতে হয় তাকে কী হিসেবে ব্যবহার করা হয়?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "অ্যানোড খ.তড়িৎ বিশেস্নষ্য",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "দ্রাবক ঘ.ক্যাথোড ১১) তড়িৎ প্রলেপনে যে ধাতুর প্রলেপ দিতে হবে তাকে কী হিসেবে ব্যবহার করা হয়?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "অ্যানোড খ .তড়িৎ বিশেস্নষ্য",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "ক্যাথোড ঘ. দ্রব ১২) তড়িৎ বিশেস্নষণ প্রণালিতে হরফ, বস্নক, মডেল ইত্যাদি তৈরি করাকে কী বলা হয়?",
+        "marks": null
+      },
+      {
+        "part": "ক",
+        "text": "তড়িৎ প্রলেপন খ. তড়িৎ মুদ্রণ",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "ধাতু নিষ্কাশন ঘ.তড়িৎ রিপেয়ারিং",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 12 — CQ সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-12.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MCQ MODEL TEST/Chapter-12.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

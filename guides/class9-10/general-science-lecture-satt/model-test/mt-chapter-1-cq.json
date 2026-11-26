@@ -1,0 +1,182 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-chapter-1-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-1",
+    "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাওঃ বিজ্ঞান শিÿক ক্লাসে তামাক ও ড্রাগস নিয়ে পড়াশোনার সময় একটি ছাত্রী জিজ্ঞেস করল এ সকল মাদক কীভাবে রোধ করা যায়। শিÿক বললেন সামাজিক ও সরকারি প্রচেষ্টায়।",
+    "question_number": 1,
+    "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাওঃ বিজ্ঞান শিÿক ক্লাসে তামাক ও ড্রাগস নিয়ে পড়াশোনার সময় একটি ছাত্রী জিজ্ঞেস করল এ সকল মাদক কীভাবে রোধ করা যায়। শিÿক বললেন সামাজিক ও সরকারি প্রচেষ্টায়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "মাদক কাকে বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "তামাকের একটি বৈশিষ্ট্য ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "শিÿকের পড়ানো দ্বিতীয় মাদকটির কুফল ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "শিÿকের বলা প্রচেষ্টাগুলো কতটুকু যুক্তিযুক্ত মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 1 — CQ set ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-1.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-1.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-1-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-1",
+    "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও ইদানীং স্কুল-কলেজের শিÿাথীর্রা ফাস্টফুডের প্রতি ঝুঁকে পড়েছে। তাদের দেহ ক্রমশ মেদবহুল হয়ে পড়েছে। ফলে তারা বিভিন্ন রোগে আক্রান্ত্ম হচ্ছে।",
+    "question_number": 2,
+    "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও ইদানীং স্কুল-কলেজের শিÿাথীর্রা ফাস্টফুডের প্রতি ঝুঁকে পড়েছে। তাদের দেহ ক্রমশ মেদবহুল হয়ে পড়েছে। ফলে তারা বিভিন্ন রোগে আক্রান্ত্ম হচ্ছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "জাঙ্কফুড কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ফাস্টফুডে কী ধরনের খাদ্য উপাদান বেশি পরিমাণে থাকে?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের উলিস্নখিত খাদ্য বেশি পরিমাণে গ্রহণ করলে কী ধরনের ÿতি হতে পারে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের আলোকে সুষম খাদ্যের গুরম্নত্ব আমাদের দেহের জন্যই কতটা প্রয়োজন? বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 1 — CQ set ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-1.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-1.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-1-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-1",
+    "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাওঃ জনি একটি বেসরকারি বিশ্ববিদ্যালয়ের পড়ে। ক্লাস শেষে সে প্রতিদিন বন্ধুদের নিয়ে ফাস্টফুডের দোকানে আড্ডা দেয়। আড্ডার ফাঁকে ফাস্টফুডের দোকান হতে এটা সেটা খেয়ে নেয়। বাসায় গিয়ে সে না খেয়ে ঘুমিয়ে পড়ে। ডাক্তার মা-বাবা সেটা জানতে পেরে এ বিপজ্জনক খাবার বজর্ন করার পরামশর্ দেন। বতর্মানে তার দেহের ওজন ৮০ কেজি এবং উচ্চতা ১৫ মিটার।",
+    "question_number": 3,
+    "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাওঃ জনি একটি বেসরকারি বিশ্ববিদ্যালয়ের পড়ে। ক্লাস শেষে সে প্রতিদিন বন্ধুদের নিয়ে ফাস্টফুডের দোকানে আড্ডা দেয়। আড্ডার ফাঁকে ফাস্টফুডের দোকান হতে এটা সেটা খেয়ে নেয়। বাসায় গিয়ে সে না খেয়ে ঘুমিয়ে পড়ে। ডাক্তার মা-বাবা সেটা জানতে পেরে এ বিপজ্জনক খাবার বজর্ন করার পরামশর্ দেন। বতর্মানে তার দেহের ওজন ৮০ কেজি এবং উচ্চতা ১৫ মিটার।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কোএনজাইম কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আম ব্যবসায়ীরা ফলেCulter ব্যবহার করেন কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের আলোকে জনির ইগও নিণর্য় কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ডাক্তার মা-বাবা তাকে খাবারটি বজর্ন করার পরামশর্ দিলেন কেন? বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 1 — CQ set ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-1.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-1.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

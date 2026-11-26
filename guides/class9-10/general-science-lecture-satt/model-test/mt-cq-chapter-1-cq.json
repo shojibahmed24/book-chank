@@ -1,0 +1,422 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-1-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-1",
+    "question_text": "দাঁতের মাড়ি দিয়ে রক্ত পড়ে। সে ফাস্টফুড খেতে খুব পছন্দ করে। তার বাবা এ অবস্থার জন্য চিকিৎসকের শরণাপন্ন হলেন। ডাক্তার তাকে সুষম খাদ্য ও ফলমূল খেতে বললেন।",
+    "question_number": 1,
+    "stimulus": "দাঁতের মাড়ি দিয়ে রক্ত পড়ে। সে ফাস্টফুড খেতে খুব পছন্দ করে। তার বাবা এ অবস্থার জন্য চিকিৎসকের শরণাপন্ন হলেন। ডাক্তার তাকে সুষম খাদ্য ও ফলমূল খেতে বললেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "অ্যাসকরবিক এসিড কাকে বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "খাদ্যের কাজগুলো লেখ।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "সালমা যা খায় তা খাওয়া কি ভালো? যুক্তিসহ আলোচনা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ডাক্তারের পরামশর্ অনুসারে সালমার কী করা উচিত? বিশেস্নষণ কর",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 1 — সৃজনশীল প্রশ্নব্যাংক সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-1-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-1",
+    "question_text": "কারণে রাতে রহিম কম দেখে। তার বাবা ধূমপান করে এবং প্রায়ই কাশে। তার বাবার খুব চুলকানি হতে লাগল। সরকারি হাসপাতালের ডাক্তার বললেন তার স্নেহ উপাদানের অভাব হয়েছে।",
+    "question_number": 2,
+    "stimulus": "কারণে রাতে রহিম কম দেখে। তার বাবা ধূমপান করে এবং প্রায়ই কাশে। তার বাবার খুব চুলকানি হতে লাগল। সরকারি হাসপাতালের ডাক্তার বললেন তার স্নেহ উপাদানের অভাব হয়েছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ভিটামিনD †Kv_vq cvIqv hvq?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "মানবদেহে স্নেহ পদাথের্র কাজগুলো লেখ।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "রহিম রাতে কম দেখে কেন? আলোচনা কর",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "রহিমের বাবার চমের্রাগের কারণ কী এবং এ থেকে তিনি কীভাবে প্রতিকার পাবেন?৪",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 1 — সৃজনশীল প্রশ্নব্যাংক সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-1-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-1",
+    "question_text": "মিষ্টি খেতে টক লাগছে। রামিসা তার মাকে এ ব্যাপারে জিজ্ঞাসা করলে তিনি বললেন এগুলো নষ্ট হয়ে গেছে, খেও না।",
+    "question_number": 3,
+    "stimulus": "মিষ্টি খেতে টক লাগছে। রামিসা তার মাকে এ ব্যাপারে জিজ্ঞাসা করলে তিনি বললেন এগুলো নষ্ট হয়ে গেছে, খেও না।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "স্কাভির্ রোগে কী হয়?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ভিটামিনB কমপেস্নক্স বলতে কী বোঝায়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "রামিসার মা কাঁচা শাকসবজি, রান্না করা খাবার, আচার, মাখন কীভাবে সংরÿণ করতে পারেন?",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত সমস্যা থেকে রÿা পাওয়ার জন্য রাসায়নিক পদাথর্ ব্যবহার করা কি ঠিক? উত্তরের সপÿে ব্যাখ্যা দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 1 — সৃজনশীল প্রশ্নব্যাংক সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-1-cq-004",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-1",
+    "question_text": "খাদ্য ও ড্রাগ সম্বন্ধে সচেতন করার জন্য সপ্তাহে একদিন করে আলোচনায় বসে। আশরাফও একদিন এ আলোচনায় যোগ দিয়ে এ বিষয়ে তাদের জ্ঞানকে আরও সমৃদ্ধ করল।",
+    "question_number": 4,
+    "stimulus": "খাদ্য ও ড্রাগ সম্বন্ধে সচেতন করার জন্য সপ্তাহে একদিন করে আলোচনায় বসে। আশরাফও একদিন এ আলোচনায় যোগ দিয়ে এ বিষয়ে তাদের জ্ঞানকে আরও সমৃদ্ধ করল।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "জেরপথ্যালমিয়া কাকে বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "কী কী কারণে একজন মানুষ মাদকাসক্ত হয়?২",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "উক্ত সমস্যার লÿণগুলো আলোচনা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত সমস্যা নিয়ন্ত্রণের জন্য সামাজিকভাবে কী কী পদÿেপ নেওয়া যায় বলে তুমি মনে কর?",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 1 — সৃজনশীল প্রশ্নব্যাংক সেট ৪",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-1-cq-005",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-1",
+    "question_text": "কোষ্ঠকাঠিন্যসহ নানারকম শারীরিক সমস্যায় ভুগছেন। 'ডাক্তার তাকে খোসাসহ টাটকা ফল খাওয়ার পরামশর্ দিয়েছেন।",
+    "question_number": 5,
+    "stimulus": "কোষ্ঠকাঠিন্যসহ নানারকম শারীরিক সমস্যায় ভুগছেন। 'ডাক্তার তাকে খোসাসহ টাটকা ফল খাওয়ার পরামশর্ দিয়েছেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "মানুষের দেহের মোট ওজনের শতকরা কত ভাগ ক্যালসিয়াম?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "অধিক পরিমাণে ভিটামিন ডি গ্রহণ করলে শরীরের ÿতি হয় কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "আরিফ সাহেবের জন্য দৈনিক সুষম খাদ্যের একটি তালিকা তৈরি কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ডাক্তারের পরামশর্ আরিফ সাহেবের কতটুকু কাজে আসবে বলে তুমি মনে কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 1 — সৃজনশীল প্রশ্নব্যাংক সেট ৫",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-1-cq-006",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-1",
+    "question_text": "সঙ্গদোষে ধীরে ধীরে মাদকের প্রতি আসক্ত হয়ে পড়ছে। তাই মাদকের এই ভয়ঙ্কর ফাঁদ থেকে পরিত্রাণের জন্য পরিবার থেকে শুরম্ন করে সমাজের প্রত্যেকেরই সচেতন হতে হবে।",
+    "question_number": 6,
+    "stimulus": "সঙ্গদোষে ধীরে ধীরে মাদকের প্রতি আসক্ত হয়ে পড়ছে। তাই মাদকের এই ভয়ঙ্কর ফাঁদ থেকে পরিত্রাণের জন্য পরিবার থেকে শুরম্ন করে সমাজের প্রত্যেকেরই সচেতন হতে হবে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "টক্সিন কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ফাস্টফুডের ÿতিকর দিকগুলো কী কী?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "'মেধাবী ও প্রতিভাবানরা সঙ্গদোষে মাদকের প্রতি আসক্ত হয়।'-উদ্দীপকের আলোকে ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের শেষোক্ত উক্তিটি বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 1 — সৃজনশীল প্রশ্নব্যাংক সেট ৬",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-1-cq-007",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 1,
+    "chapter_number": 1,
+    "chapter_name": "উন্নত জীবনধারা",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-1",
+    "question_text": "পরিমাণে খায়। শাকসবজি, ফলমূল ও আঁশজাতীয় খাবার প্রায়ই খায় না। তার ওজন ৬০ কেজি এবং উচ্চতা ১৮০ সে.মি.।",
+    "question_number": 7,
+    "stimulus": "পরিমাণে খায়। শাকসবজি, ফলমূল ও আঁশজাতীয় খাবার প্রায়ই খায় না। তার ওজন ৬০ কেজি এবং উচ্চতা ১৮০ সে.মি.।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "চবির্ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "থায়ামিনের অভাবে মানবদেহে কী কী সমস্যা হয়?২",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "wknv‡ei BMI কত?",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "সে যে ধরনের খাদ্যে অভ্যস্ত্ম তাতে তার সুস্থ থাকার সম্ভাবনা কম ব্যাখ্যা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 1 — সৃজনশীল প্রশ্নব্যাংক সেট ৭",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/1ST.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-chapter-14-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 14,
+    "chapter_number": 14,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-14",
+    "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : রহমান সাহেব দীঘির্দন ধরে পেটের ব্যথায় ভুগছেন। এ সমস্যার জন্য ডাক্তারের শরণাপন্ন হলে ডাক্তার তাকে এন্ডোস্কোপি করতে বললেন। অন্যদিকে রহমান সাহেবের ছেলে সুমন হঠাৎ সিঁড়িতে পড়ে গিয়ে হাতে আঘাত পায় এবং হাত ভেঙে যায়। পরবতীের্ত ডাক্তারের কাছে গেলে ডাক্তার এক্সরে করার পরামশর্ দেন।",
+    "question_number": 1,
+    "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : রহমান সাহেব দীঘির্দন ধরে পেটের ব্যথায় ভুগছেন। এ সমস্যার জন্য ডাক্তারের শরণাপন্ন হলে ডাক্তার তাকে এন্ডোস্কোপি করতে বললেন। অন্যদিকে রহমান সাহেবের ছেলে সুমন হঠাৎ সিঁড়িতে পড়ে গিয়ে হাতে আঘাত পায় এবং হাত ভেঙে যায়। পরবতীের্ত ডাক্তারের কাছে গেলে ডাক্তার এক্সরে করার পরামশর্ দেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "MRI-এর পূণর্রূপ লিখ।",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "রেডিওথেরাপি বলতে কী বোঝায়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ডাক্তার সুমনকে এক্সরে করার পরামশর্ দিলেন কেন?",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "রহমান সাহেবের রোগ নিণের্য় এন্ডোস্কোপি কতটুকু কাযর্কর? মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 14 — CQ set ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-14.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-14.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-14-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 14,
+    "chapter_number": 14,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-14",
+    "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : রম্ননা ক্লাশে হঠাৎ জ্ঞান হারিয়ে ফেলল। তাকে দ্রম্নত হাসপাতালে নেয়া হলে ডাক্তার তার জন্য সিটিস্ক্যান করার পরামশর্ দিলেন। খবর পেয়ে তার বাবা দ্রম্নত হাসপাতালে এলেন এবং মেয়ের অবস্থা দেখে তিনিও বুকে প্রচ-ব্যথা অনুভব করলেন। ডাক্তার তার জন্য দ্রম্নত ইসিজি করার পরামশর্ দিলেন।",
+    "question_number": 2,
+    "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : রম্ননা ক্লাশে হঠাৎ জ্ঞান হারিয়ে ফেলল। তাকে দ্রম্নত হাসপাতালে নেয়া হলে ডাক্তার তার জন্য সিটিস্ক্যান করার পরামশর্ দিলেন। খবর পেয়ে তার বাবা দ্রম্নত হাসপাতালে এলেন এবং মেয়ের অবস্থা দেখে তিনিও বুকে প্রচ-ব্যথা অনুভব করলেন। ডাক্তার তার জন্য দ্রম্নত ইসিজি করার পরামশর্ দিলেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "রক্ত কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "এন্ডোস্কোপি কেন করা হয়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "রম্ননার পরীÿাটি যে যন্ত্রে করা হয়েছিল, তা কীভাবে কাজ করে? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "রম্ননার বাবার জন্য ডাক্তার যে পরামশর্ দিলেন, তা কি যথাযথ হয়েছে? যুক্তিসহ মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 14 — CQ set ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-14.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-14.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-14-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 14,
+    "chapter_number": 14,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-14",
+    "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : সাকিব কিছুদিন যাবৎ পেটের ব্যথায় ভুগছে। অন্যদিকে তার বাবার বুকে ব্যথা। তাই সে তার বাবাসহ ডাক্তারের কাছে গেলে ডাক্তার তাকে একটি পরীÿা করতে বললেন। পরীÿাটিতে শব্দের প্রতিধ্বনিকে কাজে লাগানো হয়। তার বাবাকেও একটি পরীÿা করতে বলেন; সেটি তরঙ্গের মাধ্যমে করা হয়।",
+    "question_number": 3,
+    "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : সাকিব কিছুদিন যাবৎ পেটের ব্যথায় ভুগছে। অন্যদিকে তার বাবার বুকে ব্যথা। তাই সে তার বাবাসহ ডাক্তারের কাছে গেলে ডাক্তার তাকে একটি পরীÿা করতে বললেন। পরীÿাটিতে শব্দের প্রতিধ্বনিকে কাজে লাগানো হয়। তার বাবাকেও একটি পরীÿা করতে বলেন; সেটি তরঙ্গের মাধ্যমে করা হয়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "এক্সরে কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "এন্ডোস্কোপি বলতে কী বোঝায়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "সাকিবের রোগ শনাক্তকরণের জন্য পরীÿাটি কীভাবে করা হয়?",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকে উলিস্নখিত পরীÿা দুটিই কি হৃদরোগ শনাক্তকরণে নিভর্রযোগ্য পদ্ধতি বলে তুমি মনে কর? উত্তরের সপÿে যুক্তি দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 14 — CQ set ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-14.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-14.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

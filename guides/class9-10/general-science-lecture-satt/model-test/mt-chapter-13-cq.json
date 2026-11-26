@@ -1,0 +1,182 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-chapter-13-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 13,
+    "chapter_number": 13,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-13",
+    "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : রম্নবেল জেএসসি পরীÿায় ভালো ফলাফল করায় উপহার হিসেবে তার বাবা তাকে একটি প্রোগ্রামযোগ্য ডিজিটাল ইলেকট্রনিক ডিভাইস বাজার হতে কিনে দেয়। ডিভাইসটির সংগঠনের ভাগগুলো হচ্ছে-হাডর্ওয়্যার এবং সফটওয়্যার। হাডর্ওয়্যারের তিনটি অংশ: সিপিইউ, ইনপুট এবং আউটপুট ইউনিট।",
+    "question_number": 1,
+    "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : রম্নবেল জেএসসি পরীÿায় ভালো ফলাফল করায় উপহার হিসেবে তার বাবা তাকে একটি প্রোগ্রামযোগ্য ডিজিটাল ইলেকট্রনিক ডিভাইস বাজার হতে কিনে দেয়। ডিভাইসটির সংগঠনের ভাগগুলো হচ্ছে-হাডর্ওয়্যার এবং সফটওয়্যার। হাডর্ওয়্যারের তিনটি অংশ: সিপিইউ, ইনপুট এবং আউটপুট ইউনিট।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ইনপুট কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ইনপুট ও আউটপুট ডিভাইসের মধ্যে একটি প্রধান পাথর্ক্য বণর্না কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "রম্নবেলের প্রাপ্ত উপহারটির একটি গুরম্নত্বপূণর্ অংশের বণর্না দাও।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উপহারটি সক্রিয় করতে উদ্দীপকের কোন অংশটি মুখ্য ভূমিকা পালন করে- মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 13 — CQ set ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-13.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-13.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-13-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 13,
+    "chapter_number": 13,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-13",
+    "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : মিঠুর বড় ভাই কম্পিউটার সায়েন্সে মাস্টাসর্ করছেন। নতুন একটি কম্পিউটার কিনে এনেছেন তিনি। কম্পিউটারটি অ্যাসেম্বলি করার সময় মিঠু মাউস, মনিটর এগুলো দেখিয়ে প্রশ্ন করল-এগুলো কী? ওর ভাইয়া বললেন- এগুলো হাডর্ওয়্যার। তিনি বললেন কম্পিউটারের জন্য হাডর্ওয়্যার ও সফ্‌টওয়্যার অবশ্যই প্রয়োজন। তিনি হাডর্ওয়্যার ও সফটওয়্যার সম্পকের্ মিঠুকে বুঝিয়ে বললেন। কম্পিউটার ব্যবহারের বিভিন্ন ÿেত্র সম্পকের্ও বললেন।",
+    "question_number": 2,
+    "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : মিঠুর বড় ভাই কম্পিউটার সায়েন্সে মাস্টাসর্ করছেন। নতুন একটি কম্পিউটার কিনে এনেছেন তিনি। কম্পিউটারটি অ্যাসেম্বলি করার সময় মিঠু মাউস, মনিটর এগুলো দেখিয়ে প্রশ্ন করল-এগুলো কী? ওর ভাইয়া বললেন- এগুলো হাডর্ওয়্যার। তিনি বললেন কম্পিউটারের জন্য হাডর্ওয়্যার ও সফ্‌টওয়্যার অবশ্যই প্রয়োজন। তিনি হাডর্ওয়্যার ও সফটওয়্যার সম্পকের্ মিঠুকে বুঝিয়ে বললেন। কম্পিউটার ব্যবহারের বিভিন্ন ÿেত্র সম্পকের্ও বললেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ফ্যাক্স কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "হাডর্ওয়্যার ও সফটওয়্যারের মধ্যে পাথর্ক্য ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "কম্পিউটারের হাডর্ওয়্যার ও সফটওয়্যার পারস্পরিক নিভর্রশীল এ ব্যাপারে মিঠুর ভাই যে যুক্তি দিয়েছে তা ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "মিঠু ভাই কম্পিউটার ব্যবহারের যেসব ÿেত্রের উলেস্নখ করেছেন সেগুলোর গুরম্নত্ব মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 13 — CQ set ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-13.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-13.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-chapter-13-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 13,
+    "chapter_number": 13,
+    "chapter_name": null,
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-chapter-13",
+    "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : গণনাকারী যন্ত্র হিসেবে কম্পিউটারের উদ্ভব। কিন্ত্মু এর কাজের ধরন ও কিছু অনন্য বৈশিষ্ট্যের কারণে কম্পিউটার অন্যান্য ইলেকট্রনিক্স যন্ত্র থেকে আলাদা। মানুষের তুলনায় কম্পিউটার দ্রম্নত কাজ করতে পারে। কম্পিউটার কাজের ÿেত্রে সময় ও শ্রম দুটোকেই কমিয়ে দিয়েছে। বতর্মানে আমরা প্রায় সকল কাজেই কম্পিউটার ব্যবহার করছি।",
+    "question_number": 3,
+    "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : গণনাকারী যন্ত্র হিসেবে কম্পিউটারের উদ্ভব। কিন্ত্মু এর কাজের ধরন ও কিছু অনন্য বৈশিষ্ট্যের কারণে কম্পিউটার অন্যান্য ইলেকট্রনিক্স যন্ত্র থেকে আলাদা। মানুষের তুলনায় কম্পিউটার দ্রম্নত কাজ করতে পারে। কম্পিউটার কাজের ÿেত্রে সময় ও শ্রম দুটোকেই কমিয়ে দিয়েছে। বতর্মানে আমরা প্রায় সকল কাজেই কম্পিউটার ব্যবহার করছি।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কম্পিউটার কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "মানুষ ও কম্পিউটারের মধ্যে দুটি পাথর্ক্য লেখ।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে উলিস্নখিত যন্ত্র কীভাবে আমাদের সময় ও শ্রমকে কমিয়ে দিয়েছে- ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "'উদ্দীপকের যন্ত্রটি অন্যান্য ইলেকট্রনিক যন্ত্র থেকে অনন্য বৈশিষ্ট্যের অধিকারী'-এর পÿে তোমার মতামত উপস্থাপন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "Model Test Chapter 13 — CQ set ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-13.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/5. Model Test Combined old/Chapter-13.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

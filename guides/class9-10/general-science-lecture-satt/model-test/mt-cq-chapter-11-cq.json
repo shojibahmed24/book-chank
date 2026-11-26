@@ -1,0 +1,302 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-11-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 11,
+    "chapter_number": 11,
+    "chapter_name": "জীব প্রযুক্তি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-11",
+    "question_text": "একটি আমের চারা উৎপন্ন করেন। দেশের প্রথম সারির দৈনিকগুলোতে খবরটি বেশ গুরম্নত্ব সহকারে ছাপানো হয়েছে।",
+    "question_number": 1,
+    "stimulus": "একটি আমের চারা উৎপন্ন করেন। দেশের প্রথম সারির দৈনিকগুলোতে খবরটি বেশ গুরম্নত্ব সহকারে ছাপানো হয়েছে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ˆRe cÖhyw³ Kx?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ক্লোন বলতে কী বুঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "এখলাছ উদ্দিন কীভাবে নতুন চারা উৎপন্ন করেছেন? ব্যাখ্যা কর",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "বাংলাদেশের প্রেÿাপটে এখলাছ উদ্দিনের প্রযুক্তিটি কতটুকু যুক্তিযুক্ত বিশেস্নষণ কর। ",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 11 — সৃজনশীল প্রশ্নব্যাংক সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-11-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 11,
+    "chapter_number": 11,
+    "chapter_name": "জীব প্রযুক্তি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-11",
+    "question_text": "বছর পর বাড়ি ফিরে খ কে বললেন, তুমি আমার সন্ত্মান।",
+    "question_number": 2,
+    "stimulus": "বছর পর বাড়ি ফিরে খ কে বললেন, তুমি আমার সন্ত্মান।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "DNA এর পূণর্রূপ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আধুনিক জৈব প্রযুক্তিতে কী কী বিষয়ের সমন্বয় হয়েছে বুঝিয়ে লেখ।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ক ও খ এর মধ্যে সমস্যাটি কীভাবে সমাধান করা যাবে তা বণর্না কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ক-এর মস্ত্মিষ্ক বিকৃতির জেনেটিক কারণ সম্পকের্ তোমার মতামত দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 11 — সৃজনশীল প্রশ্নব্যাংক সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-11-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 11,
+    "chapter_number": 11,
+    "chapter_name": "জীব প্রযুক্তি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-11",
+    "question_text": "অনেক গুণ বড় পেয়ারাসহ কতকগুলো গাছ মেলায় উঠেছে। তার বাবা বললেন, এটি এক ধরনের প্রযুক্তি।",
+    "question_number": 3,
+    "stimulus": "অনেক গুণ বড় পেয়ারাসহ কতকগুলো গাছ মেলায় উঠেছে। তার বাবা বললেন, এটি এক ধরনের প্রযুক্তি।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "RNA এর পূণর্রূপ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "জেনেটিক্যাল মডিফাইড ভুট্টার পুষ্টিগুণ লেখ।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ঔষধ শিল্পে এ ধরনের প্রযুক্তির গুরম্নত্ব লেখ।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "এ ধরনের প্রযুক্তির সাহায্যে কীভাবে কোনো কাঙ্ক্ষিত বৈশিষ্ট্য প্রকাশ করা যায় ব্যাখ্যা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 11 — সৃজনশীল প্রশ্নব্যাংক সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-11-cq-004",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 11,
+    "chapter_number": 11,
+    "chapter_name": "জীব প্রযুক্তি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-11",
+    "question_text": null,
+    "question_number": 4,
+    "stimulus": null,
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "জেনেটিক ইঞ্জিনিয়ারিং কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ক্লোনিংয়ের সামাজিক প্রভাব ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উপরের উদ্দীপকে প্রদশির্ত চিত্রটির গঠন বণর্না কর",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের চিত্রটি লিঙ্গ নিধার্রক-এর সপÿে তোমার মতামত তুলে ধর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 11 — সৃজনশীল প্রশ্নব্যাংক সেট ৪",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "উদ্দীপক ছবি/চিহ্নে — টেক্সটে পড়া যায় না।",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-11-cq-005",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 11,
+    "chapter_number": 11,
+    "chapter_name": "জীব প্রযুক্তি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-11",
+    "question_text": "চৈতীর মনে প্রশ্ন জাগলে কিভাবে দই তৈরি হয়। তার বাবা বুঝালেন এটি একটি প্রযুক্তি যা মানুষের জীবনের সাথে ওতপ্রতোভাবে জড়িত। তিনি আরও বললেন, এ প্রযুক্তি মানুষ বতর্মানে নতুনভাবে ব্যবহার করলেও তা মূলতএকটি প্রাচীন পদ্ধতি।",
+    "question_number": 5,
+    "stimulus": "চৈতীর মনে প্রশ্ন জাগলে কিভাবে দই তৈরি হয়। তার বাবা বুঝালেন এটি একটি প্রযুক্তি যা মানুষের জীবনের সাথে ওতপ্রতোভাবে জড়িত। তিনি আরও বললেন, এ প্রযুক্তি মানুষ বতর্মানে নতুনভাবে ব্যবহার করলেও তা মূলতএকটি প্রাচীন পদ্ধতি।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ক্রোমোজোম কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "DNA টেস্ট কী? ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ওষুধ শিল্পে উদ্দীপকের প্রযুক্তির ব্যবহার উলেস্নখ কর",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "বাংলাদেশের কৃষিতে উন্নয়ন জীব প্রযুক্তির গুরম্নত্ব বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 11 — সৃজনশীল প্রশ্নব্যাংক সেট ৫",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/11TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

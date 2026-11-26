@@ -1,0 +1,297 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-7-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 7,
+    "chapter_number": 7,
+    "chapter_name": "অম্স্ন, ÿারক ও লবণের ব্যবহার",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-7",
+    "question_text": "কৃষি কমর্কতাের্ক বিষয়টি জানালেন। কৃষি কমর্কতার্ কাশেম মিয়ার জমি থেকে নমুনা মাটি সংগ্রহ করে pH মান নিণর্য় করলেন।pH মান ৫.৫ হওয়ায় তিনি কাশেম মিয়াকে জমিতে চুন ব্যবহারের পরামশর্ দেন।",
+    "question_number": 1,
+    "stimulus": "কৃষি কমর্কতাের্ক বিষয়টি জানালেন। কৃষি কমর্কতার্ কাশেম মিয়ার জমি থেকে নমুনা মাটি সংগ্রহ করে pH মান নিণর্য় করলেন।pH মান ৫.৫ হওয়ায় তিনি কাশেম মিয়াকে জমিতে চুন ব্যবহারের পরামশর্ দেন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বেকিং সোডার রাসায়নিক নাম কী?১",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "এসিড ব্যবহারে সাবধানতা অবলম্বন করা উচিত কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের কৃষি কমর্কতার্র পরামশর্ মূল্যায়ন কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের জমিতেpH মান ৯.৫ হলে কী পদÿেপ নিতে হতো মূল্যায়ন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 7 — সৃজনশীল প্রশ্নব্যাংক সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-7-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 7,
+    "chapter_number": 7,
+    "chapter_name": "অম্স্ন, ÿারক ও লবণের ব্যবহার",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-7",
+    "question_text": "একটি অনুভূতি হওয়ায় সে দাঁত ব্রাশ করল এবং পেস্ট দিয়ে দাঁত মাজার পর কিছুটা স্বস্ত্মিবোধ করল। তারপর সে তার মায়ের কথামতো কিছু পেঁপে খেল।",
+    "question_number": 2,
+    "stimulus": "একটি অনুভূতি হওয়ায় সে দাঁত ব্রাশ করল এবং পেস্ট দিয়ে দাঁত মাজার পর কিছুটা স্বস্ত্মিবোধ করল। তারপর সে তার মায়ের কথামতো কিছু পেঁপে খেল।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "প্রশমন বিক্রিয়া কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "মৌমাছি হুল ফুটালে আমাদের কী করণীয়? গ আরিফের মা তাকে পেঁপে খেতে বললেন কেন? ৩",
+        "marks": 2
+      },
+      {
+        "part": "ঘ",
+        "text": "দাঁত ব্রাশে আরিফের স্বস্ত্মিবোধ হওয়ার কারণ ব্যাখ্যা কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 7 — সৃজনশীল প্রশ্নব্যাংক সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "ছাপা উত্তর নেই (প্রশ্নব্যাংক সেট); 'গ' অংশ আলাদা হয়নি — গ-এর প্রশ্ন 'খ' অংশের টেক্সটের ভেতরে মিশে আছে; উদ্দীপকের শুরু কাটা।",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-7-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 7,
+    "chapter_number": 7,
+    "chapter_name": "অম্স্ন, ÿারক ও লবণের ব্যবহার",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-7",
+    "question_text": "ফেনলফথ্যালিন যোগ করায় দ্রবণটি গোলাপি বণর্ ধারণ করল। এরপর তাতেH SO যোগ করা হলো। 2 4",
+    "question_number": 3,
+    "stimulus": "ফেনলফথ্যালিন যোগ করায় দ্রবণটি গোলাপি বণর্ ধারণ করল। এরপর তাতেH SO যোগ করা হলো। 2 4",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "wf‡bMvi Kx?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "এসিড ও ÿার শনাক্তকরণে নিদের্শক ব্যবহার করা হয় কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের যৌগের সাথেH SO এর বিক্রিয়া সমীকরণসহ লেখ। 2 4",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "'বিক্রিয়ায় উৎপন্ন যৌগটি একটি লবণ'-এর পÿে যুক্তি দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 7 — সৃজনশীল প্রশ্নব্যাংক সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-7-cq-004",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 7,
+    "chapter_number": 7,
+    "chapter_name": "অম্স্ন, ÿারক ও লবণের ব্যবহার",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-7",
+    "question_text": "3 2 4 2 3 জৈব ও খনিজ এই দুটি শ্রেণিতে ভাগ করা যায়।",
+    "question_number": 4,
+    "stimulus": "3 2 4 2 3 জৈব ও খনিজ এই দুটি শ্রেণিতে ভাগ করা যায়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "খনিজ এসিড কাকে বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বেকিং সোডা আমাদের পাকস্থলীতে কীভাবে কাজ করে?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "আমাদের দৈনন্দিন কাজে উদ্দীপকের এসিডগুলো কী ভূমিকা রাখে?৩",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "মানব জীবনে উদ্দীপকের খনিজ এসিডের গুরম্নত্ব বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 7 — সৃজনশীল প্রশ্নব্যাংক সেট ৪",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-7-cq-005",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 7,
+    "chapter_number": 7,
+    "chapter_name": "অম্স্ন, ÿারক ও লবণের ব্যবহার",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-7",
+    "question_text": "গ্যাসX → CaCO  + লঘুHCl →  Pz‡bi cvwb 3 Dc‡ii wPÎ Abyhvqx CaCO ও লঘুHCl Gi wewµqvq Drcbœ 'X' গ্যাসকে চুনের পানিতে 3 চালনা করলে চুনের পানি ঘোলাটে হয়ে যায়।[মতিঝিল মডেল হাই স্কুল অ্যান্ড কলেজ, ঢাকা]",
+    "question_number": 5,
+    "stimulus": "গ্যাসX → CaCO  + লঘুHCl →  Pz‡bi cvwb 3 Dc‡ii wPÎ Abyhvqx CaCO ও লঘুHCl Gi wewµqvq Drcbœ 'X' গ্যাসকে চুনের পানিতে 3 চালনা করলে চুনের পানি ঘোলাটে হয়ে যায়।[মতিঝিল মডেল হাই স্কুল অ্যান্ড কলেজ, ঢাকা]",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "†ewKs cvDWvi Kx?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "CaCO Gi mv‡_ jNy H SO এর বিক্রিয়া ঘটে না কেন? 3 2 4",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "DÏxc‡Ki  'X' গ্যাসটি শনাক্ত করে এর একটি রাসায়নিক ধমর্ ব্যাখ্যা কর",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "'X' গ্যাসটি চুনের পানির সাথে কিরূপ পরিবতর্ন ঘটায় বিশেস্নষণ কর",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 7 — সৃজনশীল প্রশ্নব্যাংক সেট ৫",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/7TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

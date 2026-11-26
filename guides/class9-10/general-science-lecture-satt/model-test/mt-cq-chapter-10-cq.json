@@ -1,0 +1,782 @@
+[
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-001",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "বল প্রয়োগ করায় ধীরে ধীরে থেমে গেল এবং দাঁড়িয়ে রইল। কিছুÿণ দাঁড়ানোর পর তার গাড়ি আবার যাত্রা শুরম্ন করে ঘূণর্ন গতিতে চলতে থাকল। উলেস্নখ্য গাড়ির ভর640 কেজি।",
+    "question_number": 1,
+    "stimulus": "বল প্রয়োগ করায় ধীরে ধীরে থেমে গেল এবং দাঁড়িয়ে রইল। কিছুÿণ দাঁড়ানোর পর তার গাড়ি আবার যাত্রা শুরম্ন করে ঘূণর্ন গতিতে চলতে থাকল। উলেস্নখ্য গাড়ির ভর640 কেজি।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ঘষর্ণ বলের একক কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "চৌম্বক বল ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "MvwowU KZ Z¡i‡Y PjwQj?",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "গাড়িটির এরূপ আচরণ করার কারণ যুক্তি সহকারে উপস্থাপন কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-002",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "বল ক্রিয়া করতে পারে। উদাহরণ হিসেবে তিনি বললেন,(i) দুটি বস্তুর মধ্যে ক্রিয়াশীল বল,(ii) দুটি আহিত বস্তুর মধ্যে ক্রিয়াশীল বল ও(iii) দুটি নিউক্লিয়নের মধ্যে আকষর্ণ বল।",
+    "question_number": 2,
+    "stimulus": "বল ক্রিয়া করতে পারে। উদাহরণ হিসেবে তিনি বললেন,(i) দুটি বস্তুর মধ্যে ক্রিয়াশীল বল,(ii) দুটি আহিত বস্তুর মধ্যে ক্রিয়াশীল বল ও(iii) দুটি নিউক্লিয়নের মধ্যে আকষর্ণ বল।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বলের ঘাতের সংজ্ঞা দাও।",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "স্পশর্ বলে ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে উলিস্নখিত উদাহরণ(ii) এ ক্রিয়াশীল বলের বণর্না দাও।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদাহরণ(i) এবং উদাহরণ(iii) এর মধ্যে তুলনামূলক আলোচনা কর।  50g",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-003",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "নিদির্ষ্ট উচ্চতায় উঠে আবার ভূপৃষ্ঠে পতিত হলো।",
+    "question_number": 3,
+    "stimulus": "নিদির্ষ্ট উচ্চতায় উঠে আবার ভূপৃষ্ঠে পতিত হলো।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "জড়তা কাকে বলে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "নিউটনের দ্বিতীয় সূত্রটি ব্যাখ্যা কর",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "বস্তুটির ওপর প্রযুক্ত বল হিসাব কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "বস্তুটি নিউটনের ১ম সূত্র মেনে চলবে কিনা-উত্তরের পÿে যুক্তি দাও।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-004",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "চলছিল। চলন্ত্ম বাসটিতে হঠাৎ ড্রাইভার ব্রেক চাপলে লামিয়াসহ যাত্রীরা সামনের দিকে ঝুঁকে পড়ল। আবার বাসটি চলতে শুরম্ন করল তখন তারা পেছনের দিকে হেলে পড়ল।",
+    "question_number": 4,
+    "stimulus": "চলছিল। চলন্ত্ম বাসটিতে হঠাৎ ড্রাইভার ব্রেক চাপলে লামিয়াসহ যাত্রীরা সামনের দিকে ঝুঁকে পড়ল। আবার বাসটি চলতে শুরম্ন করল তখন তারা পেছনের দিকে হেলে পড়ল।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ক্রিয়া ও প্রতিক্রিয়া বলের দিক পরস্পরের সাপেÿে কিরূপ?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "মাধ্যাকষর্ণ বল ব্যাখ্যা কর।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "বাসটির ওপর ক্রিয়াশীল বলের মান নিণর্য় কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "যাত্রীরা এবং লামিয়া সামনের দিকে ঝুঁকে পড়লেও পরবতীের্ত পেছনে হেলে পড়ার কারণ বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ৪",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-005",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "−2 ২ ক্রিয়া করায় এর ত্বরণ হলো, মি./সেকেন্ড। ফলে বস্তুটি একসময় থেমে যায়।",
+    "question_number": 5,
+    "stimulus": "−2 ২ ক্রিয়া করায় এর ত্বরণ হলো, মি./সেকেন্ড। ফলে বস্তুটি একসময় থেমে যায়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "বল কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "জড়তা বলতে কী বোঝায়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "বস্তুটির ওপর প্রযুক্ত ঘষর্ণ বলের মান নিণর্য় কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "ঘষর্ণকে সীমিতকরণ করার কারণ বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ৫",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-006",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "আনতে একটি অপরটিকে নিজের দিকে টেনে নেয়।",
+    "question_number": 6,
+    "stimulus": "আনতে একটি অপরটিকে নিজের দিকে টেনে নেয়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "তেল, গ্রীজ, মবিল ইত্যাদির সাধারণ নাম কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "আমরা হাঁটতে পারি কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে কোন ধরনের বলের ধারণা পাওয়া যায়? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উক্ত বলের সাথে ঘষর্ণ বলের তুলনামূলক চিত্র উপস্থাপন কর। -",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ৬",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "উদ্দীপক/চিত্র টেক্সটে নেই বা প্রশ্নে চিত্রের উল্লেখ আছে (diagram_dependent) — চিত্র ছাড়া প্রশ্ন অসম্পূর্ণ হতে পারে",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-007",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "পানিশূন্য হয়। কিছুÿণ পর স্থানটি পানিপূণর্ হয়ে যায়।",
+    "question_number": 7,
+    "stimulus": "পানিশূন্য হয়। কিছুÿণ পর স্থানটি পানিপূণর্ হয়ে যায়।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ত্বরণ কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বল বিয়ারিং কেন ব্যবহার করা হয়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের হঠাৎ পানিশূন্যতার জন্য কোন বল দায়ী? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের সাদ্দাম ঢিলটি দেয়ালে ছুড়লে সম্ভাব্য কী ঘটত?গাণিতিকভাবে বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ৭",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-008",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "খালি না থাকায় তিনি দাঁড়িয়ে আসছিলেন। যান্ত্রিক ত্রম্নটির কারণে চালক,1500 N বল প্রয়োগ করে গাড়িটিকে থামিয়ে দেয়। এতে করে হাসান সাহেব বাসের সামনের দিকে ঝুঁকে পড়েন এবং বাসের গায়ে ধাক্কা খেয়ে সামান্য আহত হন।",
+    "question_number": 8,
+    "stimulus": "খালি না থাকায় তিনি দাঁড়িয়ে আসছিলেন। যান্ত্রিক ত্রম্নটির কারণে চালক,1500 N বল প্রয়োগ করে গাড়িটিকে থামিয়ে দেয়। এতে করে হাসান সাহেব বাসের সামনের দিকে ঝুঁকে পড়েন এবং বাসের গায়ে ধাক্কা খেয়ে সামান্য আহত হন।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "এক নিউটন কী?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "চৌম্বক বলকে অস্পশর্ বল বলা হয় কেন?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "গাড়িটির ভর2500 kg হলে, উদ্দীপকের ড্রাইভার কত ত্বরণে গাড়িটি থামিয়েছিল?৩",
+        "marks": null
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের হাসানের ব্যথা পাওয়ার যৌক্তিকতা বিশেস্নষণ কর।৪ − −",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ৮",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-009",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "গাড়িটির ভর300 kg.",
+    "question_number": 9,
+    "stimulus": "গাড়িটির ভর300 kg.",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "e‡ji GKK Kx?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "গ্রিজ কেন ব্যবহার করা হয়?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "গাড়িটির ওপর ক্রিয়াশীল বল নিণর্য় কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "গাড়িটির বেগের একই পরিবতর্ন3s এর মধ্যে ঘটাতে হলে পূবের্র তুলনায় কতগুণ বল প্রয়োগ করতে হবে? বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ৯",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-010",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "টানতে চেষ্টা করল। টেবিলটি অনেক ভারী হওয়ায় চেয়ারসহ সে নিজেই টেবিলের দিকে চলে গেল।",
+    "question_number": 10,
+    "stimulus": "টানতে চেষ্টা করল। টেবিলটি অনেক ভারী হওয়ায় চেয়ারসহ সে নিজেই টেবিলের দিকে চলে গেল।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "ব্রেক গাড়ির ওপর কোন বল প্রয়োগ করে?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "তাড়িৎচৌম্বক বল বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "নিউটনের গতির তৃতীয় সূত্রের সাথে উদ্দীপকের ঘটনাটির সামঞ্জস্য তুলে ধর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের রনির চেয়ারটির টেবিলের দিকে সরে যাওয়ার কারণ যুক্তিসহ বিশেস্নষণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ১০",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-011",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "3500 ms−2 গ্রাম ভরের একটি গুলি ত্বরণে লÿভেদ করে। গুলি বের হওয়ার সময় তার বন্দুকটি পেছনের দিকে ধাক্কা দেওয়ায় তিনি পেছনের দিকে সরে যান।",
+    "question_number": 11,
+    "stimulus": "3500 ms−2 গ্রাম ভরের একটি গুলি ত্বরণে লÿভেদ করে। গুলি বের হওয়ার সময় তার বন্দুকটি পেছনের দিকে ধাক্কা দেওয়ায় তিনি পেছনের দিকে সরে যান।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 10,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "†cwkR ej Kx?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "ঘষের্ণর অসুবিধাগুলো লেখ।",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "ইয়াসিন সাহেবের পেছনের দিকে সরে যাবার কারণ ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "নিউটনের গতির দ্বিতীয় সূত্রের আলোকে উদ্দীপকের ঘটনাটি বিশেস্নষণ কর",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ১১",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-012",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": "নামার পর থেমে যায়। তলটির ঢালের পরিমাণ বৃদ্ধি করলে বস্তুটি ঢাল বেয়ে ধ্রম্নববেগে নামতে থাকে।",
+    "question_number": 12,
+    "stimulus": "নামার পর থেমে যায়। তলটির ঢালের পরিমাণ বৃদ্ধি করলে বস্তুটি ঢাল বেয়ে ধ্রম্নববেগে নামতে থাকে।",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "হলুদ বাতি দ্বারা কী নিদের্শনা দেয়া হয়?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বলের প্রভাব বলতে কী বোঝ?",
+        "marks": 2
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকের তলটির ঢালের পরিমাণ বৃদ্ধিতে বস্তুটি না থেমে ধ্রম্নববেগে চলতে থাকে কেন? ব্যাখ্যা কর।",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের তলটির ঢালের পরিমাণ আরও বাড়ানো হলে সম্ভাব্য পরিবতর্ন যুক্তিসহ উপস্থাপন কর। ৪ - 60 kg  5 ms−2।",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ১২",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": null,
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "general-science-lec-mt-mt-cq-chapter-10-cq-013",
+    "book_id": "class9-10-general-science-lecture",
+    "subject": "সাধারণ বিজ্ঞান",
+    "subject_slug": "general-science",
+    "class_id": 9,
+    "chapter": 10,
+    "chapter_number": 10,
+    "chapter_name": "এসো বলকে জানি",
+    "section": "lecture-cq",
+    "type": "cq",
+    "set_id": "mt-cq-chapter-10",
+    "question_text": null,
+    "question_number": 13,
+    "stimulus": null,
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "নিউটনের গতির প্রথম সূত্র থেকে আমরা কিসের ধারণা পাই?",
+        "marks": 1
+      },
+      {
+        "part": "খ",
+        "text": "বস্তুকে পিছলিয়ে নেওয়ার চেয়ে গড়িয়ে নেওয়া উত্তম কেন?২",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "উদ্দীপকে প্রদত্ত বস্তুর বলের মান নিণর্য় কর",
+        "marks": 3
+      },
+      {
+        "part": "ঘ",
+        "text": "উদ্দীপকের ÿেত্রে নিউটনের দ্বিতীয় সূত্রটি প্রমাণ কর।",
+        "marks": 4
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "General Science Model Test Chapter 10 — সৃজনশীল প্রশ্নব্যাংক সেট ১৩",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": true,
+    "flag_note": "উদ্দীপক ছবি/চিহ্নে — টেক্সটে পড়া যায় না।",
+    "guide_source": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "key_format": null,
+    "source_file": "1. SSC Common Subjects/4. SSC General Science/Model test/Chapterwise CQ MODEL TEST/10TH.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]
