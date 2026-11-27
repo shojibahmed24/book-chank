@@ -1,0 +1,422 @@
+[
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-1-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-1",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : আইসোটোপের ব্যবহার কৃষি, চিকিৎসা, শিল্প ও গবেষণা ÿেত্রে অনেক উন্নতি সাধন করেছে। অপরপÿে তেজস্ক্রিয় আইসোটোপ ব্যবহার করে আমাদের মানব সভ্যতাকে হুমকির মুখে ফেল",
+  "question_number": 1,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : আইসোটোপের ব্যবহার কৃষি, চিকিৎসা, শিল্প ও গবেষণা ÿেত্রে অনেক উন্নতি সাধন করেছে। অপরপÿে তেজস্ক্রিয় আইসোটোপ ব্যবহার করে আমাদের মানব সভ্যতাকে হুমকির মুখে ফেলেছে। সুতরাং আইসোটোপের ব্যবহার \"একদিকে আশীবার্দ অন্যদিকে অভিশাপ\"।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পরমাণু কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাদারফোডর্ পরমাণু মডেল কেন পারমাণবিক বণাির্লর ব্যাখ্যা দিতে পারে না—ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বিষয়বস্তুর আলোকে আমরা কীভাবে উপকৃত হতে পারি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের আলোকে \"একদিকে আশীবার্দ অন্যদিকে অভিশাপ\" বক্তব্যটির যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-1 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-1-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-1",
+  "question_text": "পযার্য় সারণির একটি পযাের্য়র খন্ডিত অংশ দেয়া হলো- A B C 15 (এখানেA,B,C প্রতীকী অথের্, প্রচলিত কোনো মৌলের প্রতীক নয়)",
+  "question_number": 2,
+  "stimulus": "পযার্য় সারণির একটি পযাের্য়র খন্ডিত অংশ দেয়া হলো- A B C 15 (এখানেA,B,C প্রতীকী অথের্, প্রচলিত কোনো মৌলের প্রতীক নয়)",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্ফুটনাংক কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ঊধ্বর্পাতন বলতে কী বুঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ইলেকট্রন বিন্যাস হতে 'A' মৌলটির পযার্য় সারণিতে অবস্থান নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকেA,B,C মৌল তিনটির পারমাণবিক আকারের তুলনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-1 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-1-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-1",
+  "question_text": "কপার, অ্যালুমিনিয়াম, সিলভার, ক্লোরিন, অ্যামোনিয়াম, ফসফেট, হাইড্রোঙ্াইড ইত্যাদি মৌল এবং যৌগমূলকের নাম।",
+  "question_number": 3,
+  "stimulus": "কপার, অ্যালুমিনিয়াম, সিলভার, ক্লোরিন, অ্যামোনিয়াম, ফসফেট, হাইড্রোঙ্াইড ইত্যাদি মৌল এবং যৌগমূলকের নাম।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ক্যারামেল কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পানি একটি সমযোজী যৌগ হলেও আয়নিক যৌগসমূহ এতে দ্রবীভূত হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের মৌলগুলোর মধ্যে কোনটি ধনাত্মক যৌগমূলকের সাথে যৌগ গঠন করবে তার কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত ১ম, ২য়, ৪থর্ ও ৫ম মৌল বা যৌগমূলকের সমন্বয়ে গঠিত যৌগসমূহের সংকেত থেকে ঋণাত্মক বা ধনাত্মক মৌল বা মূলকের অবস্থান যৌগের কোন পাশে হবে তা পযাের্লাচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-1 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-1-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-1",
+  "question_text": "১. Ca CO + HCl ⎯→ CaCl + CO + H O 3 2 2 2 ২. Al O + HCl ⎯→ AlCl + H O 2 3 3 2",
+  "question_number": 4,
+  "stimulus": "১. Ca CO + HCl ⎯→ CaCl + CO + H O 3 2 2 2 ২. Al O + HCl ⎯→ AlCl + H O 2 3 3 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিক্রিয়ক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাসায়নিক সমীকরণ সমতা করার জন্য কী কৌশল অবলম্বন করা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "১নং ও ২নং বিক্রিয়ার সমতা বিধান কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "১নং সমীকরণ অনুসরণ করে রাসায়নিক সমীকরণ লেখার পদ্ধতি বণর্না কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-1 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-1-cq-005",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-1",
+  "question_text": "নিচের বিক্রিয়াগুলো লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : (i) 2SO (g) + O (g) ⎯⎯→ 2SO (g); H = −197kJ/mole; 2 2 3 (ii) Zn + H SO = ZnSO + H 2 4 4 2",
+  "question_number": 5,
+  "stimulus": "নিচের বিক্রিয়াগুলো লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : (i) 2SO (g) + O (g) ⎯⎯→ 2SO (g); H = −197kJ/mole; 2 2 3 (ii) Zn + H SO = ZnSO + H 2 4 4 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মুদ্রা ধাতু কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মোম এর দহন কোন ধরনের পরিবতর্ন- ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের(ii) নং বিক্রিয়াটি একটি জারণ-বিজারণ বিক্রিয়া ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "(i) নং বিক্রিয়ায় লা-শাতেলিয়ারের নীতির প্রয়োগ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-1 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-1-cq-006",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-1",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : মিলন সাহেবের একটি পিভিসি পাইপ তৈরির কারখানা আছে। তিনি ইমন ও মামুনকে কাঁচামাল সরবরাহ করতে বললেন। ইমন যে কাঁচামাল সরবরাহ করল সেটি তাপ প্রয়োগে কয়লায় পরিণত হ",
+  "question_number": 6,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : মিলন সাহেবের একটি পিভিসি পাইপ তৈরির কারখানা আছে। তিনি ইমন ও মামুনকে কাঁচামাল সরবরাহ করতে বললেন। ইমন যে কাঁচামাল সরবরাহ করল সেটি তাপ প্রয়োগে কয়লায় পরিণত হয়। আবার মামুনের সরবরাহকৃত কাঁচামালের ভৌত গুণ হচ্ছে গলিত অবস্থায় এটিকে যে কোনো আকার দেওয়া যায়। রাসায়নিকভাবে এটি নিষ্ক্রিয়। তবে দুটি কাঁচামালই মাটিতে অপচনশীল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মনোমার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নাইলনকে কেন পলিমার বলা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ইমন ও মামুনের সরবরাহকৃত কাঁচামালগুলো কীভাবে পরিবেশের ভারসাম্য নষ্ট করে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পিভিসি পাইপ তৈরিতে মিলন সাহেবের কোন কাঁচামালটি ব্যবহার করা উচিত বলে তুমি মনে কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-1 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-1-cq-007",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-1",
+  "question_text": "নিচের বিক্রিয়া দুটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : ⎯⎯ HC ⎯ CH H⎯→2 ? H⎯→2 ? ⎯⎯ HC ⎯ CH Br⎯→2 ? Br⎯→2 ?",
+  "question_number": 7,
+  "stimulus": "নিচের বিক্রিয়া দুটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : ⎯⎯ HC ⎯ CH H⎯→2 ? H⎯→2 ? ⎯⎯ HC ⎯ CH Br⎯→2 ? Br⎯→2 ?",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্যারালডিহাইড কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "glc এবংglc -glc -glc এর পাথর্ক্য কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বিক্রিয়াগুলোর কৌশল বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের বিক্রিয়কটির স্থলেC H নেওয়া হলে বিক্রিয়ার ধরনের কোনো পরিবতর্ন হবে কিনা বিশেস্নষণ কর। 2 4",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-1 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,302 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-163-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-163",
+  "question_text": "আলম সাহেবের বয়স ৪৫ বছর, উচ্চতা ১৬০ সে.মি. এবং ওজন",
+  "question_number": 1,
+  "stimulus": "আলম সাহেবের বয়স ৪৫ বছর, উচ্চতা ১৬০ সে.মি. এবং ওজন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পস্নাংকটন কী? ১ ৭৫ কেজি। তিনি হালকা পরিশ্রমী, সপ্তাহে ২-৩ দিন ব্যায়াম",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উদাহরণসহ কমেনসেলিজম ব্যাখ্যা কর। ২ করেন।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রX তৈরির প্রক্রিয়া ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র নিদেির্শত প্রযুক্তির গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 163 (paper #163, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [3, 5, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-163-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-163",
+  "question_text": null,
+  "question_number": 2,
+  "stimulus": null,
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জিন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "DNA টেস্ট কেন করা হয় ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আলম সাহেবেরBMI কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দেহের ওজন ঠিক রাখতে হলে তাকে দৈনিক কত ক্যালরির খাদ্য গ্রহণ করতে হবে? ৪ চিত্র-A চিত্র-B চিত্র-C ২ নিচের চিত্রটি লÿ কর",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 163 (paper #163, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [3, 5, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-163-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-163",
+  "question_text": "নিচের চিত্রটি লÿ কর চিত্র-P চিত্র-Q চিত্র-R কাঙ্ক্ষিত জিন",
+  "question_number": 4,
+  "stimulus": "নিচের চিত্রটি লÿ কর চিত্র-P চিত্র-Q চিত্র-R কাঙ্ক্ষিত জিন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শ্রেণিবিন্যাস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চিত্রP ও চিত্রR এর মধ্যে পাথর্ক্য লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রQ এর গঠন বণর্না কর। ৩ চিত্র-X চিত্র-Y",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জীবদেহে ও এর গুরম্নত্ব বিশেস্নষণ কর। ৪ P, Q R",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 163 (paper #163, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [3, 5, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-163-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-163",
+  "question_text": "বিক্রিয়াগুলো লÿ্য কর এবং নিচের প্রশ্নগুলোর উত্তর দাও : i) C H O + 6O  6CO + 6H O + 6O 6 12 6 2 2 2 2 আলো চিত্র- ii) 6CO + 12H O  C H O + 6H O + 6O A চিত্র…",
+  "question_number": 6,
+  "stimulus": "বিক্রিয়াগুলো লÿ্য কর এবং নিচের প্রশ্নগুলোর উত্তর দাও : i) C H O + 6O  6CO + 6H O + 6O 6 12 6 2 2 2 2 আলো চিত্র- ii) 6CO + 12H O  C H O + 6H O + 6O A চিত্র-B 2 2 ক্লোরোফিল 6 12 6 2 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফুসফুসীয় শিরা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"Transpiration is necessary evil\"-ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রA এর ÿরণকারী ও কাজ করার এককের চিহ্নিত চিত্র",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "(ii)নং প্রক্রিয়াটির গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 163 (paper #163, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part গ mark not printed; standard 3 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [3, 5, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-163-cq-005",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-163",
+  "question_text": "জামসেদ সাহেবের বুকের মাঝখানে ব্যথা শুরম্ন হল",
+  "question_number": 7,
+  "stimulus": "জামসেদ সাহেবের বুকের মাঝখানে ব্যথা শুরম্ন হল। ব্যথা বুক A B ৩ রফিক তিন সপ্তাহের বেশি সময় কাশিতে ভুগছে। রাশেদ পিঠের থেকে গলা ও বাম হাতে ছড়িয়ে পড়ল। অপরদিকে জামাল  সাহেবের ঘাড় ব্যথা শুরম্ন হল এবং নাক দিয়ে রক্ত পড়তে লাগল। পিছনের দিকে ব্যথায় ভুগছে। অপরদিকে প্রচুর ওষুধ খাওয়া",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যানজিনা কী? ১ সত্ত্বেও সিফাতের পায়ের ÿতস্থান শুকাচ্ছে না।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আখ ও ভুট্টাকেC উদ্ভিদ বলার কারণ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জামসেদ সাহেবের সমস্যাটি যে অঙ্গের তার লম্বচ্ছেদের",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জামাল সাহেবের রোগটির প্রতিকার বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 163 (paper #163, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part গ mark not printed; standard 3 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [3, 5, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

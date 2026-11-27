@@ -1,0 +1,242 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-04-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পর্যায় সারণি",
+  "chapter_number": 4,
+  "chapter_name": "পর্যায় সারণি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-04",
+  "question_text": "রসায়নপরীÿাগারে শিÿক ছাত্রদের ৪টি ভাগে ভাগ করলেন এবং ৪টি কাবের্নট লবণNa CO , K CO , CaCO , 2 3 2 3 3 MgCO এবং পানি, লঘুHCl, কাচটিউব, ককর্, বাঁকানো কাচনল, বিকার, কাঠি ও ম্যাচ সরবরাহ করল। 3",
+  "question_number": 1,
+  "stimulus": "রসায়নপরীÿাগারে শিÿক ছাত্রদের ৪টি ভাগে ভাগ করলেন এবং ৪টি কাবের্নট লবণNa CO , K CO , CaCO , 2 3 2 3 3 MgCO এবং পানি, লঘুHCl, কাচটিউব, ককর্, বাঁকানো কাচনল, বিকার, কাঠি ও ম্যাচ সরবরাহ করল। 3",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ডোবেরাইনার ত্রয়ী কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "Al ওCr এর পযার্য় ও গ্রম্নপসংখ্যা—ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের উপকরণগুলোর সংযোগ চিত্রসহ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের ও গ নং চিত্রের বণর্নায় কোনো গ্যাস উৎপন্ন হবে কি? উত্তর যদি হ্যাঁ হয় তাহলে জ্বলন্ত্ম কাঠি ও চুনের পানি পরিবতের্নর কারণ ও সংঘটিত বিক্রিয়া সমীকরণসহ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 4 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-4.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-04-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পর্যায় সারণি",
+  "chapter_number": 4,
+  "chapter_name": "পর্যায় সারণি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-04",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ক Na Mg Al Si P S Cl .",
+  "question_number": 2,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ক Na Mg Al Si P S Cl .",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হ্যালোজেনসমূহ পযার্য় সারণির কোন গ্রম্নপে অবস্থিত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পযার্য় সারণিতেSi এর অবস্থান ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "MgO ÿারধমীর্ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "হ্যালোজেন গ্রম্নপের সক্রিয়তার ক্রমH O এর সাথে বিক্রিয়ার মাধ্যমে বিশেস্নষণ কর। 2",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 4 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-4.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-04-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পর্যায় সারণি",
+  "chapter_number": 4,
+  "chapter_name": "পর্যায় সারণি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-04",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: X, Y, Z তিনটি প্রতীকী মৌল। 30 33 20",
+  "question_number": 3,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: X, Y, Z তিনটি প্রতীকী মৌল। 30 33 20",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "Caএর ইলেকট্রন বিন্যাস কী? 20",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "Ca কে মৃৎÿার ধাতু বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের মৌল তিনটির আকারের ক্রম ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের মৌল তিনটির ক্রিয়াশীলতা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 4 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-4.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-04-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পর্যায় সারণি",
+  "chapter_number": 4,
+  "chapter_name": "পর্যায় সারণি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-04",
+  "question_text": "X, Y ও Z ক্রমিক পারমাণবিক সংখ্যাবিশিষ্ট তিনটি মৌল। ইলেকট্রন বিন্যাস থেকে দেখা যায়Y ও Z মৌলের চতুথর্ শক্তিস্ত্মরে সমান সংখ্যক ইলেকট্রন বিদ্যমান।X মৌলটির পারমাণবিক সংখ্যা35।",
+  "question_number": 4,
+  "stimulus": "X, Y ও Z ক্রমিক পারমাণবিক সংখ্যাবিশিষ্ট তিনটি মৌল। ইলেকট্রন বিন্যাস থেকে দেখা যায়Y ও Z মৌলের চতুথর্ শক্তিস্ত্মরে সমান সংখ্যক ইলেকট্রন বিদ্যমান।X মৌলটির পারমাণবিক সংখ্যা35।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আধুনিক পযার্য় সারণির মূল ভিত্তি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পযার্য় সারণিতে একই গ্রম্নপের মৌলের ধমর্ অনুরূপ কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "পযার্য় সারণিতেX ও Z মৌলের অবস্থান নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "X, Y ও Z মৌলসমূহের পারমাণবিক আকার কীভাবে পরিবতির্ত হয়—ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 4 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-4.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

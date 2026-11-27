@@ -1,0 +1,257 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-03-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পদার্থের গঠন",
+  "chapter_number": 3,
+  "chapter_name": "পদার্থের গঠন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-03",
+  "question_text": "আইসোটোপের ব্যবহার কৃষি, চিকিৎসা, শিল্প ও গবেষণা ÿেত্রে অনেক উন্নতি সাধন করেছে। অপরপÿে তেজস্ক্রিয় আইসোটোপ ব্যবহার করে আমাদের মানব সভ্যতাকে হুমকির মুখে ফেলেছে। সুতরাং আইসোটোপের ব্যবহার \"একদিকে আশীবার্দ ",
+  "question_number": 1,
+  "stimulus": "আইসোটোপের ব্যবহার কৃষি, চিকিৎসা, শিল্প ও গবেষণা ÿেত্রে অনেক উন্নতি সাধন করেছে। অপরপÿে তেজস্ক্রিয় আইসোটোপ ব্যবহার করে আমাদের মানব সভ্যতাকে হুমকির মুখে ফেলেছে। সুতরাং আইসোটোপের ব্যবহার \"একদিকে আশীবার্দ অন্যদিকে অভিশাপ\"।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পরমাণু কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাদারফোডর্ পরমাণু মডেল কেন পারমাণবিক বণাির্লর ব্যাখ্যা দিতে পারে না−ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বিষয়বস্তুর আলোকে আমরা কীভাবে উপকৃত হতে পারি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের আলোকে \"একদিকে আশীবার্দ অন্যদিকে অভিশাপ\" বক্তব্যটির যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 3 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-3.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-03-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পদার্থের গঠন",
+  "chapter_number": 3,
+  "chapter_name": "পদার্থের গঠন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-03",
+  "question_text": "শ্রেণিকÿে বিতকর্ অনুষ্ঠানে লাল দল বলল \"পরমাণুর নিউক্লিয়াসকে কেন্দ্র করে কতগুলো বৃত্তাকার স্থির কÿপথে ইলেকট্রনগুলো ঘুরতে থাকে।\" কিন্তু সবুজ দল বলল, \"সৌরজগতের সূযের্ক কেন্দ্র করে গ্রহগুলোর ন্যায় নিউক্লি",
+  "question_number": 2,
+  "stimulus": "শ্রেণিকÿে বিতকর্ অনুষ্ঠানে লাল দল বলল \"পরমাণুর নিউক্লিয়াসকে কেন্দ্র করে কতগুলো বৃত্তাকার স্থির কÿপথে ইলেকট্রনগুলো ঘুরতে থাকে।\" কিন্তু সবুজ দল বলল, \"সৌরজগতের সূযের্ক কেন্দ্র করে গ্রহগুলোর ন্যায় নিউক্লিয়াসকে কেন্দ্র করে ইলেক্ট্রনগুলো ঘুরতে থাকে।\"",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফিটকিরির সংকেতটি লি",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "তেঁতুল দ্বারা পিতলের তৈরি সামগ্রী পরিষ্কারকরণের রসায়ন ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের লাল দলটি পরমাণু সম্পকির্ত কোন বিজ্ঞানীর প্রস্ত্মাবনাকে প্রতিফলিত করে? কারণসহ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পরমাণুর গঠন ব্যাখ্যায় লাল ও সবুজ উভয় দলের মতামত বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 3 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-3.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-03-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পদার্থের গঠন",
+  "chapter_number": 3,
+  "chapter_name": "পদার্থের গঠন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-03",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: wewKwiZ kw³ + †kvwlZ kw³",
+  "question_number": 3,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: wewKwiZ kw³ + †kvwlZ kw³",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 14,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আপেÿিক পারমাণবিক ভর কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কপারের ইলেকট্রন বিন্যাস ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উপরিউক্ত পরমাণু মডেলের সীমাবদ্ধতা লি",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "ঘ",
+    "text": "রাদারফোডের্র পরমাণু মডেলের সাথে উপরিউক্ত পরমাণু মডেলের পাথর্ক্য লি",
+    "marks": 4
+   },
+   {
+    "part": "খ",
+    "text": "1",
+    "marks": 2
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 3 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "6 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-3.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-03-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পদার্থের গঠন",
+  "chapter_number": 3,
+  "chapter_name": "পদার্থের গঠন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-03",
+  "question_text": "পরমাণুর প্রোটন এবং নিউট্রনের ভরের সমষ্টিকে কাবর্ন-12 আইসোটোপের ভরের অংশ দিয়ে ভাগ করলে সেই 12 পরমাণুর আপেÿিক পারমাণবিক ভর নিণর্য় করতে পারা যায়।",
+  "question_number": 4,
+  "stimulus": "পরমাণুর প্রোটন এবং নিউট্রনের ভরের সমষ্টিকে কাবর্ন-12 আইসোটোপের ভরের অংশ দিয়ে ভাগ করলে সেই 12 পরমাণুর আপেÿিক পারমাণবিক ভর নিণর্য় করতে পারা যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "একটি নিউট্রনের ভর কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "Ca-পরমাণুর গঠন চিত্র অংকন করে বিভিন্ন অংশ চিিহ্নত কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অ্যালুমিনিয়ামের একটি পরমাণুর ভর যদি4482  10–23g হয়, তবে এর আপেÿিক পারমাণবিক ভর কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মৌলের একটি পরমাণুর ভর বা অণুর ভর এই সূত্রদ্বয় ব্যবহার করে একটি পানির অণুর ভর কত নিণর্য় কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 3 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-3.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

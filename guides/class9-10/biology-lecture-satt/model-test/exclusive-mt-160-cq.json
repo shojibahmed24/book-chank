@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-160-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-160",
+  "question_text": "রহিম থ্যালাসেমিয়া জিনের বাহক কিন্তু তা সে জানে না",
+  "question_number": 5,
+  "stimulus": "রহিম থ্যালাসেমিয়া জিনের বাহক কিন্তু তা সে জানে না। সে ইঞ্চি। সে প্রতিদিন খেলাধুলা করে। অধিকাংশ সময়ে তার রাতের হেলেনাকে বিয়ে করে। হেলেনা সুস্থ্য এবং থ্যালাসেমিয়ার বাহক নয়। খাবারের পরিমাণ300 গ্রাম যার50% শকর্রা,20% আমিষ এবং রহিমের ছোট বোন আছিয়ার থ্যালাসেমিয়ার উপসগর্ সুস্পষ্ট। 5% স্নেহ এবং বাকি25% রাফেজ ও অন্যান্য উপাদান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বংশগতি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রকৃতি কাদের নিবার্চন করে- ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রহিম ও হেলেনার সন্ত্মান-সন্ত্মতি কেমন হতে পারে- ব্যাখ্যা",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উচ্চতা অনুপাতে কায়েশের শারীরিক গঠন ঠিক আছে কিনা",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 160 (paper #160, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 2, 3, 4] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-160-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-160",
+  "question_text": "ফাইটোপস্নাংটন জুপস্নাংটন ছোট মাছ বড় মাছ Q H O খরগোশ মানুষ 2 সবুজ উদ্ভিদ পতঙ্গ ব্যাঙ সাপ ময়ূর ক্ষারীয়, ঈষৎ লবণাক্ত কৈশিক পানি P লাল বণের্র তরল শামুক যোজক কলা",
+  "question_number": 6,
+  "stimulus": "ফাইটোপস্নাংটন জুপস্নাংটন ছোট মাছ বড় মাছ Q H O খরগোশ মানুষ 2 সবুজ উদ্ভিদ পতঙ্গ ব্যাঙ সাপ ময়ূর ক্ষারীয়, ঈষৎ লবণাক্ত কৈশিক পানি P লাল বণের্র তরল শামুক যোজক কলা। হরিণ গুঁইসাপ বাঘ চিত্র :A চিত্র :B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যান্টিবায়োসিস কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "স্বণর্লতার সাথে বড়ই গাছের কিরূপ আন্ত্ম:ক্রিয়া বিদ্যমান",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "পরিবহনেB এর ভূমিকা বিশেস্নষণ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "P ওQ পরস্পর বিপরীত প্রক্রিয়া হলেও P প্রক্রিয়াটি Q ব্যাখ্যা কর। ৩ প্রক্রিয়ার উপর নিভর্রশীল- ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 160 (paper #160, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part খ mark not printed; standard 2 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 2, 3, 4] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-160-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-160",
+  "question_text": "নিচের চিত্র দুটি লÿ কর উৎপাদিত হয় এবং যাবতীয় রক্তের মাধ্যমে জৈবিক কাজ নিয়ন্ত্রণ করে",
+  "question_number": 7,
+  "stimulus": "নিচের চিত্র দুটি লÿ কর উৎপাদিত হয় এবং যাবতীয় রক্তের মাধ্যমে জৈবিক কাজ নিয়ন্ত্রণ করে। বাহিত হয়। M N",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্ট্রোক কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "Biological clock এর ভিত্তিতে ঝিঙা কোন ধরনের উদ্ভিদ- চিত্র-১ চিত্র-২ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্ভিদের বৃদ্ধি ও বিকাশে",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "নারী ও পুরম্নষের পৃথক বৈশিষ্ট্য বিকাশে এর ভূমিকাই",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 160 (paper #160, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 2, 3, 4] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-160-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-160",
+  "question_text": "শিÿিত কৃষক রহিম একই প্রজাতির বিভিন্ন বৈশিষ্ট্যের উদ্ভিদের মধ্যে কৃত্রিম প্রজননের মাধ্যমে ভাল গুণ সম্পন্ন উদ্ভিদ উৎপাদনে একজন সফল ব্যক্তিত্বের অধিকারী",
+  "question_number": 8,
+  "stimulus": "শিÿিত কৃষক রহিম একই প্রজাতির বিভিন্ন বৈশিষ্ট্যের উদ্ভিদের মধ্যে কৃত্রিম প্রজননের মাধ্যমে ভাল গুণ সম্পন্ন উদ্ভিদ উৎপাদনে একজন সফল ব্যক্তিত্বের অধিকারী। অপর দিকে জিন প্রকৌশলী X ড. সেলিম বিভিন্ন উদ্ভিদের জিন সংযোজন বিয়োজনের মাধ্যমে চিত্র : উন্নত জাত উদ্ভাবনে সিদ্ধহস্ত্ম। Y",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উপজিহ্বা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অ্যাজমা রোগীর সংস্পশের্ গেলেও কারো অ্যাজমা হবার",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র- এর গঠন এককের সচিত্র বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র- ও চিত্র- উভয়েই রক্ত পরিশোধন করলেও এরা",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 160 (paper #160, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part খ mark not printed; standard 2 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 2, 3, 4] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

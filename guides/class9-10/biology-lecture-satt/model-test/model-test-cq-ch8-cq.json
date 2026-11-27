@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch8-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 8,
+  "chapter_name": "রেচন প্রক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch8",
+  "question_text": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B C D X",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B C D X",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অসমোরেগুলেশন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ডায়ালাইসিস বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A-চিহ্নিত অংশের কাযর্করী এককের গঠন বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র :X দেহ থেকে নাইট্রোজেনঘটিত বজর্য পদাথর্ নিষ্কাশনে গরম্নত্বপূণর্ ভূমিকা রাখে- বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-8",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-8",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch8-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 8,
+  "chapter_name": "রেচন প্রক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch8",
+  "question_text": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: X",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: X",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রেচন পদাথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আল্ট্রাফিলট্রেশন বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রেরX চিহ্নিত অঙ্গাণুর গাঠনিক একেকর গঠন বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "N ঘটিত বজর্য অপসারণে চিত্রেরX চিহ্নিত অঙ্গের ভূমিকা বিেশস্নষণ কর। 2",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-8",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-8",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch8-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 8,
+  "chapter_name": "রেচন প্রক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch8",
+  "question_text": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: করিম সাহেবের কিডনি বিকল হওয়ায় তিনি নিয়মিত মেশিনের সাহায্যে রক্ত পরিশোধন করেন",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: করিম সাহেবের কিডনি বিকল হওয়ায় তিনি নিয়মিত মেশিনের সাহায্যে রক্ত পরিশোধন করেন। আবার রহিম সাহেবের কিডনি অকেজো হয়ে পড়ায় তিনি তার ভাইয়ের একটি কিডনি গ্রহণ করেছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নেফ্রন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৃক্কে পাথর বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "করিম সাহেবের চিকিৎসা পদ্ধতি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "করিম সাহেব ও রহিম সাহেবের মধ্যে কে চিকিৎসা গ্রহণে অধিক সুবিধা পায় তোমার মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-8",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-8",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch8-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 8,
+  "chapter_name": "রেচন প্রক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch8",
+  "question_text": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: রেচন মানবদেহের অন্যতম জৈবিক প্রক্রিয়া",
+  "question_number": 4,
+  "stimulus": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: রেচন মানবদেহের অন্যতম জৈবিক প্রক্রিয়া। বিশেষ অঙ্গের মাধ্যমে দেহে উৎপন্ন বজর্য পদাথর্ বের করে দেয়ার নামই রেচন। এই বিশেষ অঙ্গের ক্ষুদ্রতম এককের মাধ্যমে রক্ত থেকে বজর্য পদাথর্ পৃথক হয়ে যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মূত্রের কতভাগ পানি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধীরে ধীরে কিডনি বিকল হবার কারণগুলো কী কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত বিশেষ অঙ্গটির গঠন বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত অঙ্গটি সম্পূণর্রূপে বিকল হলে কীভাবে চিকিৎসা দেওয়ার প্রয়োজন পড়ত বলে তুমি মনে কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-8",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-8",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

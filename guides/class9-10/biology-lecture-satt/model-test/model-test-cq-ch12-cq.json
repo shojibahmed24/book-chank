@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch12-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 12,
+  "chapter_name": "জীবের বংশগতি ও বিবর্তন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch12",
+  "question_text": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "DNA ফিঙ্গার প্রিন্টিং কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সন্ত্মান-সন্ত্মতি হুবহু পিতামার মতো হয় না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রA এর রাসায়নিক গঠন আলোচনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রA এবং চিত্রB এর মধ্যে কী আন্ত্মঃসম্পকর্ রয়েছে? তোমার মতামত তুলে ধর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-12",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-12",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch12-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 12,
+  "chapter_name": "জীবের বংশগতি ও বিবর্তন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch12",
+  "question_text": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: দীপ্তর বাবা সেলিম সাহেব একদিন ছেলেকে পড়াতে গিয়ে লÿ করলেন যে, দীপ্ত সঠিকভাবে কোনো রঙ চিনতে পারছে না",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: দীপ্তর বাবা সেলিম সাহেব একদিন ছেলেকে পড়াতে গিয়ে লÿ করলেন যে, দীপ্ত সঠিকভাবে কোনো রঙ চিনতে পারছে না। ডাক্তারের কাছে নিয়ে গেলে ডাক্তার বললেন যে, তার চোখের পিগমেন্টের অভাব রয়েছে। দীপ্তর আরেক বন্ধু শুভ রক্তশূন্যতায় ভূগছে। তার লোহিত কণিকাগুলো নষ্ট হয়ে যাচ্ছে। দীপ্ত ও শুভ এর এই ধরনের সমস্যা বংশগতির মাধ্যমে বেশি হয়ে থাকে আবার অন্যান্য কারণেও হতে পারে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বংশগতির রাসায়নিক ভিত্তি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বংশগতি ছাড়াও ঔষধের প্রতিক্রিয়ায় বণার্ন্ধতা হতে পারে-কীভাবে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দীপ্তর বিভিন্ন রঙ না চেনার কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শুভর সমস্যা কেন বংশগতির সাথে সম্পকর্যুক্ত বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-12",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-12",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch12-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 12,
+  "chapter_name": "জীবের বংশগতি ও বিবর্তন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch12",
+  "question_text": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ক্রোমোসোম হলো প্রধান বংশগতীয় বস্তু",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ক্রোমোসোম হলো প্রধান বংশগতীয় বস্তু। এটি DNA ওRNA এবং প্রোটিন নিয়ে গঠিত। মানুষের দুই প্রকার ক্রোমোসোম আছে। অটোসোম ও সেক্স ক্রোমোসোম। এদের মধ্যে শেষোক্তটি মানব লিঙ্গ নিধার্রণে গুরম্নত্বপূণর্ ভূমিকা রাখে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নিউক্লিওটাইড কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "DNA ওRNA এর মধ্যে পাথর্ক্য সম্পকের্ তুমি কী জান?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উপরিউক্ত বংশগতির বস্তুর প্রথম উপাদানটির গঠন বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষোক্ত লাইনটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-12",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-12",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch12-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 12,
+  "chapter_name": "জীবের বংশগতি ও বিবর্তন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch12",
+  "question_text": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: অত্যধিক প্রজনন প্রবণতা জীবের একটি সহজাত ÿমতা",
+  "question_number": 4,
+  "stimulus": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: অত্যধিক প্রজনন প্রবণতা জীবের একটি সহজাত ÿমতা। প্রজন্মকে টিকিয়ে রাখতে এটি একটি গুরম্নত্বপূণর্ বৈশিষ্ট্য। আবার এর ফলে প্রাণীদেরকে নিজেদের মধ্যে এবং জড় পরিবেশের সঙ্গে সংগ্রাম করতে হয়। কেবলমাত্র বিজয়ীরা উক্ত পরিবেশে বিবতের্নর মাধ্যমে টিকে থাকতে পারে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লোকাস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "থ্যালাসেমিয়া বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বণির্ত জীবের সহজাত বৈশিষ্ট্যটি কীভাবে প্রজন্মকে টিকিয়ে রাখতে সাহায্য করে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রজাতির টিকে থাকায় উদ্দীপকের সবের্শষ প্রক্রিয়াটি গুরম্নত্বপূণর্-বিশেস্নষণ কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-12",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-12",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

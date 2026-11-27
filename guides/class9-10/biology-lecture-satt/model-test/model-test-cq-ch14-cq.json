@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch14-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 14,
+  "chapter_name": "জীবপ্রযুক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch14",
+  "question_text": "সৃজনশীল—১■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ফাইজা গবেষণাগারে বীজ ছাড়া কিছু উদ্ভিদ জন্মালো",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ফাইজা গবেষণাগারে বীজ ছাড়া কিছু উদ্ভিদ জন্মালো। অপরদিকে, ফাহিম লোকাল ভ্যারাইটিতে জিন ট্রান্সফারের মাধ্যমে রোগ প্রতিহতকারী কিছু উিদ্ভদ জন্মালো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "Bt corn কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "টিস্যুকালচার প্রক্রিয়ায় কালচার মিডিয়ামের ব্যবহার গুরম্নত্বপূণর্ কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ফাইজার গ্রহণকৃত পদ্ধতিটির সুবিধাসমূহ লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"ফাহিমের গ্রহণকৃত পদ্ধতিটি, ফাইজার গ্রহণকৃত পদ্ধতি থেকে সম্পূণর্ ভিন্নতর\"-বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-14",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-14",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch14-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 14,
+  "chapter_name": "জীবপ্রযুক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch14",
+  "question_text": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: সিফাত ও ইমনদুজন ব্যক্তিগত উদ্যোগে দুটি নাসাির্র চালায়",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: সিফাত ও ইমনদুজন ব্যক্তিগত উদ্যোগে দুটি নাসাির্র চালায়। সিফাত বিভিন্ন ধরনের ফসলের চারা তৈরি করলেও ইমন তার নাসাির্রর জন্য টিস্যুকালচারের সাথে জিন প্রকৌশল প্রয়োগ করে একই সাথে উন্নত বৈশিষ্ট্যসম্পন্ন ও অধিকসংখ্যক চারা তৈরি করতে পারে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ট্রান্সজেনিক জীব কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অ্যান্টিবায়োসিস বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সিফাত ও ইমনের নাসাির্রর জন্য তৈরিকৃত উিদ্ভদের প্রজনন পদ্ধতির তুলনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সিফাত ও ইমনের উদ্দীপকে বণির্ত ব্যবসায় কে বেশি লাভবান হবে? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-14",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-14",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch14-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 14,
+  "chapter_name": "জীবপ্রযুক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch14",
+  "question_text": "সৃজনশীল—৩■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "টিস্যুকালচার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ট্রান্সজেনিক জীব বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রেA থেকেD পযর্ন্ত্ম সংঘটিত ঘটনাসমূহ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আমাদের দেশের প্রেÿাপটে উলিস্নিখত প্রযুক্তিটির গুরম্নত্ব-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-14",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-14",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch14-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 14,
+  "chapter_name": "জীবপ্রযুক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch14",
+  "question_text": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ড. ইমতিয়াজ তার বন্ধুর বাড়িতে গিয়ে খুবই ভালো জাতের একটি বেল গাছের সন্ধান পেল",
+  "question_number": 4,
+  "stimulus": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ড. ইমতিয়াজ তার বন্ধুর বাড়িতে গিয়ে খুবই ভালো জাতের একটি বেল গাছের সন্ধান পেল। সে হুবহু একই বৈশিষ্ট্যের চারা উৎপাদনের জন্য গাছটির পাশ্বর্মুকুল নিয়ে এলো এবং তার বিশ্ববিদ্যালয়ের উদ্ভিদবিজ্ঞান ল্যাবে বিশেষ প্রক্রিয়ায় এর চারা তৈরি করল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "এক্সপস্ন্যান্ট কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "GMO বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ড. ইমতিয়াজের উক্ত প্রক্রিয়ায় চারা উৎপাদনের ধাপসমূহ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ড. ইমতিয়াজের বিশেষ প্রক্রিয়ায় চারা তৈরির কারণ বিশেস্নষণ কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-14",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-14",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

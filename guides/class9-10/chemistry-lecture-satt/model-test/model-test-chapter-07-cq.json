@@ -1,0 +1,252 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-07-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রাসায়নিক বিক্রিয়া",
+  "chapter_number": 7,
+  "chapter_name": "রাসায়নিক বিক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-07",
+  "question_text": "লোহা এবং অ্যালুমিনিয়ামকে দীঘির্দন বায়ুতে মুক্ত অবস্থায় রেখে দিলে লোহা ÿয়প্রাপ্ত হয়। কিন্তু অ্যালুমিনিয়াম ÿয়প্রাপ্ত হয় না।",
+  "question_number": 1,
+  "stimulus": "লোহা এবং অ্যালুমিনিয়ামকে দীঘির্দন বায়ুতে মুক্ত অবস্থায় রেখে দিলে লোহা ÿয়প্রাপ্ত হয়। কিন্তু অ্যালুমিনিয়াম ÿয়প্রাপ্ত হয় না।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কেলাস পানি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "H SO এ সালফারের জারণ মান নিণর্য় কর। 2 3",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত ঘটনা দুইটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"অ্যালুমিনিয়ামের সাথে অক্সিজেনের বিক্রিয়াটি একই সাথে সংযোজন এবং দহন বিক্রিয়া\" উক্তিটির যথাথর্তা যাচাই কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 7 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-7.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-07-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রাসায়নিক বিক্রিয়া",
+  "chapter_number": 7,
+  "chapter_name": "রাসায়নিক বিক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-07",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: Zn + CuSO = ZnSO + Cu 4 4",
+  "question_number": 2,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: Zn + CuSO = ZnSO + Cu 4 4",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিজারক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিজারক জারিত হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উক্ত বিক্রিয়ায় কোনটি জারক ও কোনটি বিজারক তা নিধার্রণ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ইলেকট্রনিক মতবাদ অনুসারে বিক্রিয়ায় জারণ ও বিজারণ একই সাথে সংঘটিত হয়েছে-যুক্তিসহ বুঝিয়ে দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 7 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-7.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-07-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রাসায়নিক বিক্রিয়া",
+  "chapter_number": 7,
+  "chapter_name": "রাসায়নিক বিক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-07",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: i. FeCl + SnCl → 2FeCl + SnCl 3 2 2 4 ii. NaCl(aq) + AgNO (aq) → AgCl(s) + NaNO (aq) 3 3",
+  "question_number": 3,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: i. FeCl + SnCl → 2FeCl + SnCl 3 2 2 4 ii. NaCl(aq) + AgNO (aq) → AgCl(s) + NaNO (aq) 3 3",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমাণুকরণ বিক্রিয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বষার্কালে বৃষ্টি হলে কলার গাছ নিস্ত্মেজ হয়ে পড়ে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জারণ-বিজারণের ইলেকট্রনীয় মতবাদের সাহায্যে দেখাও (i)নং বিক্রিয়ায় জারণ-বিজারণ যুগপৎ সংঘটিত হয়।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "(ii) নং বিক্রিয়ার জারণ-বিজারণ ঘটেছে কি? তোমার উত্তরের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 7 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-7.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-07-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রাসায়নিক বিক্রিয়া",
+  "chapter_number": 7,
+  "chapter_name": "রাসায়নিক বিক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-07",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: FeCl + Cl → FeCl 2 2 3",
+  "question_number": 4,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: FeCl + Cl → FeCl 2 2 3",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 14,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কণার গতিতত্ত্বটি েল",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "শতভাগ বিশুদ্ধ সালফিউরিক এসিড এসিডের বৈশিষ্ট্যসূচক ধমর্ প্রদশর্ন করে না কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ব্রাইনের তড়িৎ বিশেস্নষণে উদ্দীপকে ব্যবহৃত গ্যাসটি উৎপাদনের বিক্রিয়াদ্বয় েল",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের বিক্রিয়াটি একটি জারণ-বিজারণ বিক্রিয়া-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 7 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "6 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-7.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

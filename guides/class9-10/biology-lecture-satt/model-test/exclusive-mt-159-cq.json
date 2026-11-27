@@ -1,0 +1,302 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-159-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-159",
+  "question_text": "'ক' মেধাবী ছাত্রী",
+  "question_number": 2,
+  "stimulus": "'ক' মেধাবী ছাত্রী। পরিশ্রমী সপ্তাহে2 – 3 দিন প্রচুর খেলাধুলা ৬ ছোট শিশু ফুলটুসি এক বিশেষ রোগে আক্রান্ত্ম। তার দেহে  করে। 'ক' এর বয়স23 বছর, উচ্চতা165 সে.মি. এবং ওজন ত্রম্নটিপূণর্ লোহিত রক্তকোষ উৎপাদিত হয়। ফুলটুসির মা ও বাবা 52 কেজি। দুজনেই এক বিশেষ ধরনের জিন এর বাহক।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ম্যাক্রোনিউট্রিয়েন্ট কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উদ্ভিদের নাইট্রোজেনের অভাজনিত লÿণগুলো লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'ক' এর বিএমআর(BMR) কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'ক' এর প্রতিদিন ক্যালরি চাহিদার মান কত?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 159 (paper #159, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-159-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-159",
+  "question_text": "নিচের চিত্রটি লÿ কর ÿেত্রে কী ঘটত? বিশেস্নষণ কর",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্রটি লÿ কর ÿেত্রে কী ঘটত? বিশেস্নষণ কর। ৪  A ৭ উচ্চ শ্রেণির জীবের দেহকোষে এক ধরনের কোষ বিভাজন হয়।  উক্ত কোষ বিভাজনে প্রক্রিয়ায় একটি ধাপে নিউক্লিয়ার মেমব্রেন এবং নিউক্লিয়াসের সম্পূণর্ বিলুপ্তি ঘটে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জাতীয় পাখির বৈজ্ঞানিক নাম লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মিয়োসিসকে হ্রাসমূলক বিভাজন বলা হয় কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত ধাপটির বৈশিষ্ট্য সচিত্র ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত ধাপটি সঠিকভাবে না ঘটলে জীবদেহে",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 159 (paper #159, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-159-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-159",
+  "question_text": "শৈবাল ছোট মাছ বড় মাছ বাজপাখি",
+  "question_number": 4,
+  "stimulus": "শৈবাল ছোট মাছ বড় মাছ বাজপাখি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সিমবায়োসিস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মিউচুয়ালিজম বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের দ্বিতীয় স্ত্মরের খাদকটির যদি বিলুপ্তি ঘটে তবে ",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের প্রক্রিয়াটির সাহায্যে কীভাবে পূণার্ঙ্গ স্পোরফাইট",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 159 (paper #159, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-159-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-159",
+  "question_text": "নিচের চিত্রটি লÿ কর CO 2 O 2 চিত্র :M চিত্র :X",
+  "question_number": 5,
+  "stimulus": "নিচের চিত্রটি লÿ কর CO 2 O 2 চিত্র :M চিত্র :X",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফটোলাইসিস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "C উদ্ভিদ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র-M-এ সংঘটিত প্রক্রিয়াটির যে পযাের্য় 'X' এর",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'M' ধাপটি না ঘটলে উদ্ভিদের উপর কী প্রতিক্রিয়া সৃষ্টি হবে",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 159 (paper #159, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-159-cq-005",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-159",
+  "question_text": "নিচের চিত্রটি লÿ কর বৈশিষ্ট্য লেখ",
+  "question_number": 8,
+  "stimulus": "নিচের চিত্রটি লÿ কর বৈশিষ্ট্য লেখ। ৩",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": null,
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": null,
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের অঙ্গটি বিকল হলে কিভাবে এর প্রতিরোধ ব্যবস্থা গ্রহণ করবে মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 159 (paper #159, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক missing; part খ missing; part গ missing; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

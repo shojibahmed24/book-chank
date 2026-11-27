@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch2-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 2,
+  "chapter_name": "জীবকোষ ও টিস্যু",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch2",
+  "question_text": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: F",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: F",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সিন্যাপস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ক্রোমোসোমকে বংশগতির ধারক ও বাহক বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "F চিত্রের অংশটির চিহ্নিত চিত্র অঙ্কন করে এর বৈশিষ্ট্য ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রাণিদেহেF চিত্রের অংশটির গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-2",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-2",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch2-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 2,
+  "chapter_name": "জীবকোষ ও টিস্যু",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch2",
+  "question_text": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: B A",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: B A",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "টনোপস্নাস্ট কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সেন্ট্রোসোম কী ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "B চিিহ্নত অঙ্গাণুটির গাঠনিক বৈশিষ্ট্য ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A চিহ্নিত অংশটি প্রজাতিরধারাবাহিকতা রÿায় গুরম্নত্বপূণর্ ভূমিকা রাখে-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-2",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-2",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch2-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 2,
+  "chapter_name": "জীবকোষ ও টিস্যু",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch2",
+  "question_text": "সৃজনশীল—৩■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B C",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B C",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ইন্টারক্যালাটেড ডিস্ক কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সিস্টানির্ ও ভেসিকল বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "B চিত্রের কোষটি এরূপ আকৃতি সম্পন্ন হওয়ার কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A, B ওC কোষগুলো জীবজগৎ বেঁচে থাকার জন্য অপরিহাযর্-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-2",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-2",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch2-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 2,
+  "chapter_name": "জীবকোষ ও টিস্যু",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch2",
+  "question_text": "সৃজনশীল—৪■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 4,
+  "stimulus": "সৃজনশীল—৪■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হৃদপেশি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোষপ্রাচীর ও কোষ ঝিলিস্নর মধ্যে দুটি পাথর্ক্য উলেস্নখ কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের কোষটি কীভাবে পেশি কোষ হতে পৃথক?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কোষটির বৈশিষ্ট্য বৈচিতর্যপূণর্-ব্যাখ্য কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-2",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-2",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

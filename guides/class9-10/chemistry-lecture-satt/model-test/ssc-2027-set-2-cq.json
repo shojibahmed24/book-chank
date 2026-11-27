@@ -1,0 +1,427 @@
+[
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-2-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-2",
+  "question_text": "নিচের ছকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : মৌল প্রতীক ভর সংখ্যা 16 A 16 8O 23 + B 23 11Na 17 C 17 8 O",
+  "question_number": 1,
+  "stimulus": "নিচের ছকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : মৌল প্রতীক ভর সংখ্যা 16 A 16 8O 23 + B 23 11Na 17 C 17 8 O",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভরসংখ্যা বলতে কী বুঝ?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পরমাণু কেন আধানগ্রস্থ হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A ওC পরস্পরের আইসোটোপ-ব্যাখ্যা কর। 23",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "+ এর তাৎপযর্ ব্যাখ্যা কর। 11Na",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-2-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-2",
+  "question_text": "নিচের পযার্য় সারণির ছকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : 1 18 H 2 13 14 15 16 17 He Li O F Ne Na 3 4 5 6 7 8 9 10 11 12 S Cl K",
+  "question_number": 2,
+  "stimulus": "নিচের পযার্য় সারণির ছকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : 1 18 H 2 13 14 15 16 17 He Li O F Ne Na 3 4 5 6 7 8 9 10 11 12 S Cl K",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ÿার ধাতু কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একটি মৌল A এর ইলেকট্রন বিন্যাস 1s2 2s22p63s2 3p6 3d3 4s2; পযার্য় সারণিতে মৌলটির অবস্থান কোথায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ৩য় পযাের্য় অবস্থিত গ্রম্নপ-1 ও গ্রম্নপ-17 এর দুটি মৌলের মধ্যে কী ধরনের বন্ধনের মাধ্যমে যৌগ গঠিত হতে পারে ইলেকট্রন বিন্যাসের সাহায্যে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"একই গ্রম্নপে অবস্থিত ধাতুসমূহের রাসায়নিক ধমর্ একই রকম।\" গ্রম্নপ-1 এর যে কোনো দুটি ধাতুর কাবের্নটের সাথে এসিডের বিক্রিয়ার সাহায্যে উক্তিটির সত্যতা প্রমাণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-2-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-2",
+  "question_text": "নিচের বিক্রিয়াটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : (i) Na + Cl → NaCl; (ii) N + 3H → 2NH 2 2 2 3",
+  "question_number": 3,
+  "stimulus": "নিচের বিক্রিয়াটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : (i) Na + Cl → NaCl; (ii) N + 3H → 2NH 2 2 2 3",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যারোমেটিক হাইড্রোকাবর্ন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মোল কাকে বলে?20 গ্রাম অঙ্েিজনে কতটি পরমাণু আছে নিণর্য় কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের(ii) নং বিক্রিয়ার উৎপাদ যে বন্ধন দ্বারা গঠিত তার গঠন প্রক্রিয়া আলোচনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের (i) নং বিক্রিয়ার ১ম বিক্রিয়ক এবং উৎপাদ এর কোনটি কঠিন অবস্থায় বিদ্যুৎ পরিবহন করে এবং কোনটি করে না কেন?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-2-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-2",
+  "question_text": "5.84gm সোদকCuSO কে পানিশূন্য করে দেখা গেল পানিশূন্যCuSO এর ভর3.59gm. [Cu = 63.5] 4 4",
+  "question_number": 4,
+  "stimulus": "5.84gm সোদকCuSO কে পানিশূন্য করে দেখা গেল পানিশূন্যCuSO এর ভর3.59gm. [Cu = 63.5] 4 4",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "1 মোল পরমাণু কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "0.1M CuSO এর ভর কত? 4",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত ধাতুটির ইলেকট্রন বিন্যাস করে পযার্য় সারণিতে এর অবস্থান নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "1 মোলCuSO একত মোল পানি বিদ্যমান নিণর্য় কর। 4",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-2-cq-005",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-2",
+  "question_text": "নিচের বিক্রিয়াগুলো লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : (i) FeCl → FeCl + Cl 3 2 2 (ii) NaOH + HNO → NaNO + H O 3 3 2",
+  "question_number": 5,
+  "stimulus": "নিচের বিক্রিয়াগুলো লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : (i) FeCl → FeCl + Cl 3 2 2 (ii) NaOH + HNO → NaNO + H O 3 3 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কণার গতিতত্ত্ব কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "K এর সবের্শষ ইলেকট্রনটি3d অরবিটালে না গিয়ে4s অরবিটালে যায় কেন ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের(ii) নং বিক্রিয়াটি যে শ্রেণির বিক্রিয়া তার ব্যবহার আলোচনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কোন বিক্রিয়াটি জারণ-বিজারণ বিক্রিয়া তা যুক্তিসহ আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-2-cq-006",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-2",
+  "question_text": "রবিন সাহেবের শিল্পকারখানাটি প্রাকৃতিক গ্যাসনিভর্র। সম্প্রতি কারখানাটির আশপাশে পরিবেশ বিষাক্ত হয়ে উঠছে এবং পরিবেশ অধিদফতর পরিবেশবান্ধব উপায় খুঁজে বের করার নিদের্শ দিয়েছে। কারখানার রসায়নবিদ ড. টমাস চিমন",
+  "question_number": 6,
+  "stimulus": "রবিন সাহেবের শিল্পকারখানাটি প্রাকৃতিক গ্যাসনিভর্র। সম্প্রতি কারখানাটির আশপাশে পরিবেশ বিষাক্ত হয়ে উঠছে এবং পরিবেশ অধিদফতর পরিবেশবান্ধব উপায় খুঁজে বের করার নিদের্শ দিয়েছে। কারখানার রসায়নবিদ ড. টমাস চিমনি থেকে নিগর্ত গ্যাসকে হাইড্রোজেনের সাথে উপযুক্ত পরিবেশে বিক্রিয়া করিয়ে মিথেন উৎপাদনের কৌশল আবিষ্কার করেছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ল্যাভয়সিয়ে কতটি মৌল নিয়ে ছক তৈরি করেছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন শতের্CaCO এর বিযোজন একমুখী বিক্রিয়াতে পরিণত হবে? 3",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের জ্বালানিটির প্রধান উপাদানের শতকরা সংযুক্তিসহ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ড. টমাসের আবিষ্কৃত পদ্ধতিটি পরিবেশের ভারসাম্য রÿায় কতখানি কাযর্কর বলে তুমি মনে কর? - যুক্তিসহ মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-2-cq-007",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-2",
+  "question_text": "নিচের যৌগ দুটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : i. R −CHO ii. R − COOH",
+  "question_number": 7,
+  "stimulus": "নিচের যৌগ দুটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : i. R −CHO ii. R − COOH",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যালকোহল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "i নং যৌগ থেকেii নং যৌগের প্রস্তুত প্রণালি লে",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "i নং ওii নং যৌগ উভয়ে পলিমার গঠন বিক্রিয়ায় অংশ নেয়-ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ii নং যৌগের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

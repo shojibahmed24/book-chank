@@ -1,0 +1,247 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-09-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "অ্যাসিড-ক্ষারক সাম্যাবস্থা",
+  "chapter_number": 9,
+  "chapter_name": "অ্যাসিড-ক্ষারক সাম্যাবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-09",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: FeCl (aq) + X (aq) ⎯→ Fe(OH) + NaCl 2 2 (সবুজ অধঃÿেপ) Y(aq) + 3NaOH (aq) ⎯→ Z(s) + NaCl (লালচে বাদামি অধঃÿেপ)",
+  "question_number": 1,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: FeCl (aq) + X (aq) ⎯→ Fe(OH) + NaCl 2 2 (সবুজ অধঃÿেপ) Y(aq) + 3NaOH (aq) ⎯→ Z(s) + NaCl (লালচে বাদামি অধঃÿেপ)",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রশমন বিক্রিয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পরিপাকেপ্রশমন বিক্রিয়ার গুরম্নত্ব ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আয়রনের ঠিক উপরের মৌল ক্লোরাইডের সাথেX এর বিক্রিয়ায় কিভাবে বণর্হীন তরল পাওয়া যায়?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'X' বিদ্যুৎ পরিবহন করে অথচZ বিদ্যুৎ পরিবহন করে না'—উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 9 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-9.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-9.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-09-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "অ্যাসিড-ক্ষারক সাম্যাবস্থা",
+  "chapter_number": 9,
+  "chapter_name": "অ্যাসিড-ক্ষারক সাম্যাবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-09",
+  "question_text": "বাংলাদেশে নদী, খালবিল, পুকুর ইত্যাদি জলাশয়ের পানি নানাভাবে দূষিত হচ্ছে। পানিতে ধাতব লবণের উপস্থিতিতে পানি খর হয়। এই পানিতে সাবান বেশি ব্যবহার করলেও ফেনা উৎপন্ন হয় না।",
+  "question_number": 2,
+  "stimulus": "বাংলাদেশে নদী, খালবিল, পুকুর ইত্যাদি জলাশয়ের পানি নানাভাবে দূষিত হচ্ছে। পানিতে ধাতব লবণের উপস্থিতিতে পানি খর হয়। এই পানিতে সাবান বেশি ব্যবহার করলেও ফেনা উৎপন্ন হয় না।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জিপসামের সংকেত লে",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "কোমল পানীয় কীভাবে পরিপাকে সহায়তা করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রাসায়নিক বিক্রিয়ার সাহায্যে লিখ-খর পানিতে সাবান ফেনা উৎপন্ন করে না কেন?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বাংলাদেশের দূষিত পানি কীভাবে বিশুদ্ধ করা যায়-ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 9 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-9.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-9.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-09-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "অ্যাসিড-ক্ষারক সাম্যাবস্থা",
+  "chapter_number": 9,
+  "chapter_name": "অ্যাসিড-ক্ষারক সাম্যাবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-09",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: CaCl I 2NaOH 2 X + Y অধ:ÿেপ",
+  "question_number": 3,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: CaCl I 2NaOH 2 X + Y অধ:ÿেপ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দুবর্ল এসিড কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "pH পরিমাপের জন্য নিদের্শকের প্রয়োজনীয়তা বণর্না কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অধঃÿিপ্তX যৌগটির রাসায়নিক ধমর্ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "X যৌগকেNH Cl এর সাথে উত্তপ্ত করলে যে গ্যাস বিমুক্ত হয় তা দিয়ে অ্যামোনিয়াম লবণ তৈরি করা যায় 4 কিনা—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 9 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-9.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-9.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-09-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "অ্যাসিড-ক্ষারক সাম্যাবস্থা",
+  "chapter_number": 9,
+  "chapter_name": "অ্যাসিড-ক্ষারক সাম্যাবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-09",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: A(aq) + CuO ⎯→ CuSO (aq) + H O 4 2 B(s) + A (aq) ⎯→ Na SO (aq) + H O + C(g) 2 4 2",
+  "question_number": 4,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: A(aq) + CuO ⎯→ CuSO (aq) + H O 4 2 B(s) + A (aq) ⎯→ Na SO (aq) + H O + C(g) 2 4 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "pHকী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "HNO কে বাদামি বণের্র বোতলে সংরÿণ করা হয় কেন? 3",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A যৌগটি কী? বিশুদ্ধ অবস্থায় এটি বিদ্যুৎ পরিবহন করে না কেন ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A-এর সাথে ভিন্ন বিক্রিয়কের বিক্রিয়ায় উৎপন্নC চুনের পানিকে ঘোলা করে কেন?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 9 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-9.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-9.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

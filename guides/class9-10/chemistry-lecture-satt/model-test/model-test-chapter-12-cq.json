@@ -1,0 +1,257 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-12-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "আমাদের জীবনে রসায়ন",
+  "chapter_number": 12,
+  "chapter_name": "আমাদের জীবনে রসায়ন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-12",
+  "question_text": "A হাইড্রোকাবের্নর1 মোল =26g। যৌগটিতেH = 7.69%। যৌগটি বিভিন্ন জৈব যৌগ সংশেস্নষণে গুরম্নত্বপূণর্ ভূমিকা রাখে।",
+  "question_number": 1,
+  "stimulus": "A হাইড্রোকাবের্নর1 মোল =26g। যৌগটিতেH = 7.69%। যৌগটি বিভিন্ন জৈব যৌগ সংশেস্নষণে গুরম্নত্বপূণর্ ভূমিকা রাখে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ক্লোরিনেশন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কেক ফোলাতে ইস্ট ব্যবহার করা হয় না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A যৌগটির আণবিক সংকেত নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A যৌগটি থেকে একটি খাদ্য সংরÿক যৌগের প্রস্তুত প্রণালি লে",
+    "marks": 4
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 12 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-12.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-12-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "আমাদের জীবনে রসায়ন",
+  "chapter_number": 12,
+  "chapter_name": "আমাদের জীবনে রসায়ন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-12",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: X(g) 400-500°C  Ni O 2 iP evqyy",
+  "question_number": 2,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: X(g) 400-500°C  Ni O 2 iP evqyy",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আকরিক কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ধাতু নিষ্কাশন মূলত একটি বিজারণ প্রক্রিয়া কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত প্রক্রিয়ায় উৎপন্নX গ্যাস পানির সাথে মিশ্রিত করেY যৌগ তৈরি বিপজ্জনক কেন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জারক ও নিরম্নদক হিসেবেY যৌগটির ভূমিকা আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 12 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-12.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-12-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "আমাদের জীবনে রসায়ন",
+  "chapter_number": 12,
+  "chapter_name": "আমাদের জীবনে রসায়ন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-12",
+  "question_text": "আধুনিক জীবনে রসায়নের ভূমিকা প্রচুর। একটি দিনও আমরা রসায়নের সাহায্য ছাড়া চলতে পারবো না। ঘুম থেকে উঠে ব্রাশ করার টুথপেস্ট থেকে কাপড় কাচার সাবান, ডিটারজেন্ট প্রভৃতি কাজে রসায়নের ব্যবহার আমরা দেখতে পাই।",
+  "question_number": 3,
+  "stimulus": "আধুনিক জীবনে রসায়নের ভূমিকা প্রচুর। একটি দিনও আমরা রসায়নের সাহায্য ছাড়া চলতে পারবো না। ঘুম থেকে উঠে ব্রাশ করার টুথপেস্ট থেকে কাপড় কাচার সাবান, ডিটারজেন্ট প্রভৃতি কাজে রসায়নের ব্যবহার আমরা দেখতে পাই।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সিরকা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বেকিং পাউডার কীভাবে কেক ফোলায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শেষ পদাথির্টর প্রস্তুতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দ্বিতীয় পদাথির্ট কীভাবে কাপড় কাচতে সাহায্য করে?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 12 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-12.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-12-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "আমাদের জীবনে রসায়ন",
+  "chapter_number": 12,
+  "chapter_name": "আমাদের জীবনে রসায়ন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-12",
+  "question_text": "ডা. চন্দ্রার গৃহকমীর্ বদহজম থেকে মুক্তি পাওয়ার জন্য প্রায়ই বেকিং পাউডার খেতেন; এভাবে দীঘির্দন চলার পর এক পযাের্য় তিনি আলসারের রোগীতে পরিণত হলেন। ডা. চন্দ্রা গৃহকমীের্ক বেকিং পাউডারের পরিবতের্ এন্টাসিড",
+  "question_number": 4,
+  "stimulus": "ডা. চন্দ্রার গৃহকমীর্ বদহজম থেকে মুক্তি পাওয়ার জন্য প্রায়ই বেকিং পাউডার খেতেন; এভাবে দীঘির্দন চলার পর এক পযাের্য় তিনি আলসারের রোগীতে পরিণত হলেন। ডা. চন্দ্রা গৃহকমীের্ক বেকিং পাউডারের পরিবতের্ এন্টাসিড জাতীয় ওষুধ সেবনের পরামশর্ দিলেন যা অ্যালুমিনিয়াম-এর হাইড্রক্সাইড দ্বারা গঠিত।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 14,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভিনাইল ক্লোরাইডের সংকেতটি লি",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "রাসায়নিক কোষে লবণ সেতুর ভূমিকা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বদহজম থেকে বেকিং পাউডার দ্বারা মুক্তি পাওয়া একটি প্রশমন বিক্রিয়া-কারণসহ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "গৃহকমীের্ক ডা. চন্দ্রার পরামশের্র যৌক্তিক কারণ সমীকরণসহ লি",
+    "marks": 4
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 12 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "6 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-12.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

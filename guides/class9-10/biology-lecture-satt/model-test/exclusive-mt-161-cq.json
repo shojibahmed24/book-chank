@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-161-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-161",
+  "question_text": "শিÿক বিশেষ একটি প্রক্রিয়া নিয়ে আলোচনা করছিলেন যেটি",
+  "question_number": 1,
+  "stimulus": "শিÿক বিশেষ একটি প্রক্রিয়া নিয়ে আলোচনা করছিলেন যেটি",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফটোলাইসিস কাকে বলে? ১ বাস্তুতন্ত্র জীববৈচিতর্য (ii)",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অবাত শ্বসনে ১ অনু গস্নুকোজ হতে মাত্র ২ অনুATP পাওয়া",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের তথ্যের আলোকে দুই ভাইবোনেরBMI বের কর। ৩ অক্সিজেনের উপস্থিতিতে জীবদেহে দিবারাত্রী ২৪ ঘণ্টা সংঘটিত",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দুই জনের মাঝে কেউ যদি স্বাস্থ্য ঝুঁকিতে থাকে তবে তার হয়। অন্যদিকে উক্ত প্রক্রিয়ায় নিগর্ত কাবর্ন ডাইঅক্সাইড উদ্ভিদের ÿেত্রে করণীয় কী ব্যাখ্যা কর। ৪ খাদ্য তৈরির মূল উপাদান। ৫ শৈবাল মশার শূককীট ছোট মাছ বক (i)",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 161 (paper #161, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [4, 5, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-161-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-161",
+  "question_text": "নিচের চিত্রটি লÿ কর : শুক্রাণু ডিম্বাণু কেন্দ্রিকা y A B x",
+  "question_number": 2,
+  "stimulus": "নিচের চিত্রটি লÿ কর : শুক্রাণু ডিম্বাণু কেন্দ্রিকা y A B x",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জেনেরেটিভ কোষ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভ্রূণের বেড়ে উঠায় অমরা গুরম্নত্বপূণর্ কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকেরA দ্বারা যে প্রক্রিয়া বোঝানো হয়েছে তার ১ম",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র দ্বারা যে রোগটি হয় তার লÿণ ও প্রতিকার লিখ। ৪ B",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 161 (paper #161, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [4, 5, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-161-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-161",
+  "question_text": "নিচের চিত্রটি লÿ কর : কিউটিকুলার প্রস্বেদন  লেন্টিকুলার প্রস্বেদন রক্তসঞ্চালন A A B",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্রটি লÿ কর : কিউটিকুলার প্রস্বেদন  লেন্টিকুলার প্রস্বেদন রক্তসঞ্চালন A A B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বস্নাড গ্রম্নপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চিংড়ী মাছ খেলে হৃৎরোগের আশংকা বেড়ে যায় কেন? ২ ক খ",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকেরA এর হার নিয়ন্ত্রণে প্রভাবকের গুরম্নত্ব ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের B প্রক্রিয়াটি কীভাবে মানুষের সুস্থ্য জীবন Morphology নিয়ন্ত্রণ করে? যুক্তিসহ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 161 (paper #161, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part খ mark not printed; standard 2 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [4, 5, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-161-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-161",
+  "question_text": "বিভিন্ন পোষা প্রাণীর প্রতি মনির আগ্রহ অনেক বেশি",
+  "question_number": 8,
+  "stimulus": "বিভিন্ন পোষা প্রাণীর প্রতি মনির আগ্রহ অনেক বেশি। সে একটি",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রকরণ কাকে বলে? ১ 138 সে.মি.। রাণী ফল, সবজি, মাছ খেতে পছন্দ করলেও রাজু",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জেনেটিক ডিসঅডার্র কেন হয়? ২ বাগার্র, পাস্ত্মা, চিজ ইত্যাদি খাবার খেতে পছন্দ করে।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের 'ক' চিত্রেরA উপাদানটির গঠন বণর্না কর। ৩ প্রদশর্নীতে দেখল, ব্রাজিল শহরের একই প্রজাতির বিড়াল হওয়া",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'খ' প্রক্রিয়াটি কীভাবে প্রজাতির টিকে থাকার সম্ভাবনা সত্ত্বেও তাদের বণর্, আকার ভিন্ন। অন্যদিকে বন্য পরিবেশে বাড়িয়ে দিয়েছে বিশেস্নষণ কর। ৪ বিড়ালের বেড়ে উঠার চিত্রও ভিন্ন। এ সম্পকের্ প্রাণী বিশেষজ্ঞ ডঃ ৪ রাজু ও রাণী দুজন যমজ ভাইবোন। যমজ হলেও তাদের খাদ্য আমজাদের কাছে জানতে চাইলে তিনি তাকে বিবতর্ন ও গ্রহণের ÿেত্রে বেশ পাথর্ক্য আছে। রাণীর ওজন50 kg এবং অভিযোজন সম্পকের্ ধারণা দিলেন। উচ্চতা130 সে.মি., অন্যদিকে রাজুর ওজন62 kg এবং উচ্চতা",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 161 (paper #161, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [4, 5, 6, 7] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

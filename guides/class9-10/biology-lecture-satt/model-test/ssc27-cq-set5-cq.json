@@ -1,0 +1,422 @@
+[
+ {
+  "id": "biology-lec-mt-ssc27-cq-set5-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set5",
+  "question_text": "উিদ্ভদবিজ্ঞান বিভাগের অনাসর্ শেষ বষের্র ছাত্রী হ্যাপি",
+  "question_number": 1,
+  "stimulus": "উিদ্ভদবিজ্ঞান বিভাগের অনাসর্ শেষ বষের্র ছাত্রী হ্যাপি। ব্যবহারিক ক্লাসের জন্য সে নীলাভ সবুজ শৈবাল, ডায়াটম ও স্পাইরোগাইরার নমুনা সংগ্রহ করল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ICBN এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রোক্যারিওটা ও ইউক্যারিওটা বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হ্যাপির সংগৃহীত উদ্ভিদগুলোর রাজ্যের নাম উলেস্নখ করে দুটি করে বৈশিষ্ট্য বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত উদ্ভিদগুলোর মধ্যে গঠনগত দিক থেকে কোনটি উন্নত? তোমার উত্তরের সপÿে যুক্তি উপস্থাপন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-5 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-5 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set5-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set5",
+  "question_text": "নিচের চিত্রটি লÿ করে প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 2,
+  "stimulus": "নিচের চিত্রটি লÿ করে প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হৃদপেশি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোষপ্রাচীর ও কোষ ঝিলিস্নর মধ্যে দুটি পাথর্ক্য উলেস্নখ কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের কোষটি কীভাবে পেশি কোষ হতে পৃথক?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কোষটির বৈশিষ্ট্য বৈচিতর্যপূণর্-ব্যাখ্য কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-5 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-5 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set5-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set5",
+  "question_text": "কোষ দিয়ে জীবদেহ গঠিত",
+  "question_number": 3,
+  "stimulus": "কোষ দিয়ে জীবদেহ গঠিত। জীবদেহের বৃদ্ধি মানেই কোষের সংখ্যা বৃদ্ধি। দেহকোষ ও জননকোষ এর সংখ্যা বৃদ্ধির প্রক্রিয়াগত ও গুণগত অনেক পাথর্ক্য বিদ্যমান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যামাইটোসিস কোষ বিভাজন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মেটাফেজ ধাপের বৈশিষ্ট্যগুলো লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত কোষ দুটির বিভাজন পদ্ধতির বৈশিষ্ট্য উলেস্নখ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উপরিউক্ত কোষ দুটির কোনটির ডিপস্নয়েড থেকে হ্যাপস্নয়েড অবস্থার সৃষ্টি হয়? এ কোষ বিভাজনের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-5 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-5 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set5-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set5",
+  "question_text": "নিচের চিত্রটি দুটি দেখে প্রশ্নগুলোর উত্তর দাও : O 2 CO 2 চিত্র :P চিত্র :Q",
+  "question_number": 4,
+  "stimulus": "নিচের চিত্রটি দুটি দেখে প্রশ্নগুলোর উত্তর দাও : O 2 CO 2 চিত্র :P চিত্র :Q",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রস্বেদন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গস্নাইকোলাইসিস বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "P-এ দেখানো প্রক্রিয়াটিQ-এ কীভাবে সংঘটিত হয়—ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "P-এ দেখানো প্রক্রিয়াটি উদ্ভিদ ও প্রাণী উভয় জীবের জন্য সমান গুরম্নত্বপূণর্—যুক্তিসহ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-5 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-5 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set5-cq-005",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set5",
+  "question_text": "তুহিন মৌবক্সে মৌ পালন করে মধু সংগ্রহ করে",
+  "question_number": 5,
+  "stimulus": "তুহিন মৌবক্সে মৌ পালন করে মধু সংগ্রহ করে। তুহিন আফজাল সাহেবের লিচু বাগানে কয়েকটি মৌবক্স স্থাপন করে মধু চাষ করতে চাইলো। তুহিন আফজাল সাহেবকে বলল এতে তার লিচুর ফলন বৃদ্ধি পাবে। আফজাল সাহেব তুহিনকে তার ধানের জমিতেও মৌবক্স স্থাপন করতে বললে তুহিন বলল, \"এখানে এটা কাযর্কর নয়।\"",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গভর্যন্ত্রের মাঝের কোষটিকে কী বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ফুলের অত্যাবশ্যকীয় স্ত্মবক বলতে কী বুঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আফজাল সাহেবের লিচুর ফলন বেড়ে যাবে কেন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তুহিনের শেষ কথাটি বলার কারণ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-5 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-5 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set5-cq-006",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set5",
+  "question_text": "প্রাণিবিদ্যা ক্লাসে শিÿক বললেন, ১৯৫৩ সালে দুজন বিজ্ঞানী একটি জৈব অণুর মই আকৃতির গঠন প্রস্ত্মাব করেন",
+  "question_number": 6,
+  "stimulus": "প্রাণিবিদ্যা ক্লাসে শিÿক বললেন, ১৯৫৩ সালে দুজন বিজ্ঞানী একটি জৈব অণুর মই আকৃতির গঠন প্রস্ত্মাব করেন। এটা কিছু রাসায়নিক উপাদান দ্বারা তৈরি। এই জৈব অণু বিশেষ প্রক্রিয়ায় তাদের সংখ্যা বৃদ্ধি করতে পারে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লোকাস কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বংশগতির ভৌত ভিত্তি কাকে বলে এবং কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বণির্ত অণুর গঠন বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষ লাইন বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-5 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-5 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set5-cq-007",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set5",
+  "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 7,
+  "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিয়োজক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাস্তুতন্ত্রে বিয়োজক গুরম্নত্বপূণর্ কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উপরের খাদ্যজালের কোন খাদ্যশৃঙ্খলটিতে সবচেয়ে বেশি শক্তি ব্যয় হয়, কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উপরিউক্ত খাদ্যজালে ছোট পাখির বিলুপ্তি ঘটলে বাস্তুতন্ত্রের কী পরিণতি ঘটবে তা বিশেস্নষণ কর। [সংÿিপ্ত-উত্তর অংশ:৭টি প্রশ্নের মধ্যে থেকে যেকোনো ৫টি সংÿিপ্তপ্রশ্নের উত্তর দাও, প্রতিটির মান—২]",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-5 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-5 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

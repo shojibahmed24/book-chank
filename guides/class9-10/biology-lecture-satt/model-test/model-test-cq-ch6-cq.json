@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch6-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 6,
+  "chapter_name": "জীবে পরিবহন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch6",
+  "question_text": "সৃজনশীল—১■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: অসুস্থতার কারণে জনাব জামিল হাসপাতালে ভতির্ হলেন",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: অসুস্থতার কারণে জনাব জামিল হাসপাতালে ভতির্ হলেন। ডাক্তার বললেন তাকে রক্ত প্রদান করতে হবে। তার রক্তের গ্রম্নপ অজানা থাকায় ডাক্তার তা নিণর্য় করলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রক্ত সংবহনতন্ত্র কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোন রক্তকণিকাকে \"দেহের প্রহরী\" বলা হয় এবং কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জনাব জামিলের জন্য প্রয়োজনীয় রক্তের গ্রম্নপের দাতা ও গ্রহীতার নাম একটি চাটের্র সাহায্যে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত তরল সংযোজনের উপকারিতা ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-6",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-6",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch6-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 6,
+  "chapter_name": "জীবে পরিবহন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch6",
+  "question_text": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উপজিহ্বা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ফুসফুস ক্যান্সারের লÿণগুলো কী কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপেকরB চিত্রের প্রক্রিয়াটি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকেরA প্রক্রিয়াটি উিদ্ভদের জন্য একটি'Necessary evil' যুক্তিসহ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-6",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-6",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch6-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 6,
+  "chapter_name": "জীবে পরিবহন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch6",
+  "question_text": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: মহানস্বাধীনতা ও জাতীয় দিবস ২০১৪ উপলÿে সন্ধানী চট্টগ্রাম মেডিকেল কলেজে স্বেচ্ছায় রক্তদান কমর্সূচীর আয়োজন…",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: মহানস্বাধীনতা ও জাতীয় দিবস ২০১৪ উপলÿে সন্ধানী চট্টগ্রাম মেডিকেল কলেজে স্বেচ্ছায় রক্তদান কমর্সূচীর আয়োজন করলে সজীব তাতে অংশগ্রহণ করে এবং এক ব্যাগ রক্ত দান করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লেন্টিসেল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রস্বেদনকে 'প্রয়োজনীয় ÿতি' বলার কারণ কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সজীবের দান করা বস্তুটির গ্রম্নপ বিভাজন পদ্ধতি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সজীবের কমর্কা- আমাদের সবার জন্য একটি সামাজিক দায়বদ্ধতা- বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-6",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-6",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch6-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 6,
+  "chapter_name": "জীবে পরিবহন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch6",
+  "question_text": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: রম্নশো এইচএসসি বিজ্ঞানের ছাত্র",
+  "question_number": 4,
+  "stimulus": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: রম্নশো এইচএসসি বিজ্ঞানের ছাত্র। তার বাবা সুঠাম দেহের অধিকারী। কিন্তু রম্নশো লÿ করছে তার বাবা মাঝে মাঝে বুকে ব্যথা অনুভব করেন এবং কথা ভুলে যান। এসব কারণে সে তার বাবাকে ডাক্তারের কাছে নিয়ে গেল। ডাক্তার সাহেব পরীÿা নিরীÿা করে সুস্থ থাকার জন্য তাঁকে খাওয়া মেনে চলতে এবং প্রতিদিন হাঁটতে বললেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রক্তচাপ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সিস্টোলিক রক্তচাপ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রম্নশোর বাবার কী কারণে এমন হয়েছে- ব্যাখ্যাসহ লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ডাক্তার সাহেব রম্নশোর বাবার রোগটি নিরাময়ের উদ্দেশ্যে কী কী নিদের্শনা দিতে পারেন- মতামত দাও। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-6",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-6",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

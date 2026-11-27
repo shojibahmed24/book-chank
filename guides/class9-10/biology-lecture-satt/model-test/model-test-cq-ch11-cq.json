@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch11-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 11,
+  "chapter_name": "জীবের প্রজনন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch11",
+  "question_text": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নিষেক কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "স্বপরাগায়নের অসুবিধাগুলো লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্র-ক ও চিত্র-খ এর মধ্যে পাথর্ক্য কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জীববৈচিতের্যর জন্য চিত্র-খ এর প্রক্রিয়াটি খুবই গুরম্নত্বপূণর্-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-11",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-11",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch11-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 11,
+  "chapter_name": "জীবের প্রজনন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch11",
+  "question_text": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সস্য কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিষেক বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে কোন প্রক্রিয়াকে নিদের্শ করা হয়েছে? প্রক্রিয়াটির গুরম্নত্ব লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে কী ধরনের পরাগায়নকে বুঝানো হয়েছে? ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-11",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-11",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch11-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 11,
+  "chapter_name": "জীবের প্রজনন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch11",
+  "question_text": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: হিমেলের মা তাদের বাগান থেকে কয়েকটি কুমড়ার ফুল নিয়ে এল",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: হিমেলের মা তাদের বাগান থেকে কয়েকটি কুমড়ার ফুল নিয়ে এল। হিমেল কয়েকটি ফুল তার বইয়ের বণর্না অনুযায়ী মিলিয়ে দেখল। সে দেখল পাপড়ি দ্বারা বেষ্টিত মাঝখানে ছোট দ-াকৃতি অংশে হলুদ রংয়ের গুঁড়ো পদাথর্ লেগে আছে যেগুলোকে পরাগরেণু বলে। এ রেণুতেই পুংগ্যামেট সৃষ্টি হয়, যা যৌন প্রজননে অংশ নেয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফল ও বীজ উৎপাদন প্রক্রিয়ার পূবর্শতর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সস্য বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের শেষ লাইনে উলিস্নখিত উক্ত অংশটির সৃষ্টি প্রক্রিয়ার সচিত্র বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উিদ্ভদ জীবনে উক্ত গুঁড়ো পদাথির্টর গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-11",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-11",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch11-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 11,
+  "chapter_name": "জীবের প্রজনন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch11",
+  "question_text": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: আতাউর হোসেন কিছুদিন আগে একটি মারাত্মক দুঘর্টনায় পড়েন এবং তখন তাকে বাঁচানোর জন্য প্রচুর রক্তের প্রয়োজন হ…",
+  "question_number": 4,
+  "stimulus": "সৃজনশীল—৪■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: আতাউর হোসেন কিছুদিন আগে একটি মারাত্মক দুঘর্টনায় পড়েন এবং তখন তাকে বাঁচানোর জন্য প্রচুর রক্তের প্রয়োজন হয়। কিন্তু পরিচিত ব্যক্তিদের রক্ত তার গ্রম্নপের সাথে না মিলায় একজন পেশাদার রক্তদাতার কাছ থেকে রক্ত গ্রহণ করা হয়। এতে কিছুদিন পর ধরা পড়ে আতাউর হোসেন একজনHIV বহনকারী। পরীÿা না করে রক্ত গ্রহণের ফলে আজ আতাউর এইডস এর ভয়ঙ্কর শিকারে পরিণত হয়েছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "AIDS এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কীভাবেAIDS এর সংক্রমণ ঘটে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত রোগের প্রাদুভাের্ব আতাউর হোসেনের দেহে কী ধরেনের লÿণ দেখা দেবে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উলিস্নখিত রোগটি প্রতিরোধের একমাত্র উপায় ব্যাপকজনসচেতনতা- কথাটি বিশেস্নষণ কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-11",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-11",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

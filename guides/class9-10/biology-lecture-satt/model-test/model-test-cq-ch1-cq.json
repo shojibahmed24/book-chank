@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch1-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 1,
+  "chapter_name": "জীবন পাঠ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch1",
+  "question_text": "রাতুল জীববিজ্ঞানে প্রথম অধ্যায় পাঠ করে জীববিজ্ঞানের ভৌত শাখার সম্পকের্ জানতে পারে",
+  "question_number": 1,
+  "stimulus": "রাতুল জীববিজ্ঞানে প্রথম অধ্যায় পাঠ করে জীববিজ্ঞানের ভৌত শাখার সম্পকের্ জানতে পারে। বিভিন্ন বিজ্ঞানীর অবদান ও কাজের মাধ্যমে আজ আমরা পেয়েছি জীববিজ্ঞানের বিভিন্ন ফলিত শাখা।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফলিত শাখা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শৈবাল খাদ্য উৎপাদন করতে পারে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ভৌত শাখাসমূহের মাধ্যমে আমরা যা জানতে পারি তা বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষে উলিস্নখিত শাখার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-1",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-1",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch1-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 1,
+  "chapter_name": "জীবন পাঠ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch1",
+  "question_text": "নিচের চিত্রদুটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও: X",
+  "question_number": 2,
+  "stimulus": "নিচের চিত্রদুটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও: X",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শ্রেণিবিন্যাসের ধাপ কয়টি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'ক' জীবে কী ধরনের কোষ বিভাজন দেখা যায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'ক' কোন রাজ্যের অন্ত্মভুর্ক্ত? রাজ্যটির বৈশিষ্ট্য উলেস্নখ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'X' চিিহ্নত অংশটির অনুপস্থিতিতে জীবদেহে কী ধরনের সমস্যা দেখা দিবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-1",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-1",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch1-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 1,
+  "chapter_name": "জীবন পাঠ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch1",
+  "question_text": "রামিসা ও আদিব ক্লাস শেষে পুকুরের পাশ দিয়ে যাওয়ার সময় রামিসা আদিবকে বলল,এটা শাপলা ফুল",
+  "question_number": 3,
+  "stimulus": "রামিসা ও আদিব ক্লাস শেষে পুকুরের পাশ দিয়ে যাওয়ার সময় রামিসা আদিবকে বলল,এটা শাপলা ফুল। তখন আদিব বলল, না এটা শালুক ফুল। পরের দিন শিÿক ক্লাসে তাদের বিতকের্র বিষয়টা সমাধান করলেন। পুকুরে শৈবালের মতো দেখতে নীল রঙের এক ধরনের উদ্ভিদও জমে ছিল। রামিসা বলল, এ ধরনের জমে থাকা পানিতেই মশার বংশবিস্ত্মার ঘটে এবং ম্যালেরিয়ার প্রাদুভার্ব ঘটে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফানজাই রাজ্যের জীবদের বংশবৃদ্ধি ঘটে কী দিয়ে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তোমার বৈজ্ঞানিক নাম রোমান অÿরে কীভাবে লিখবে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে রামিসা ও আদিবের বিতকর্ শিÿক কিসের ভিত্তিতে সমাধান করে দিলেন? ব্যাখ্যাসহ লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পুকুরে আরও যে দুইটি জীব ছিল, জীবজগতে তাদের অবস্থান ভিন্ন বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-1",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-1",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch1-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 1,
+  "chapter_name": "জীবন পাঠ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch1",
+  "question_text": "জীববিজ্ঞান শিÿক মিঃ হক তার ছাত্রদের নিয়ে বিদ্যালয়ের চারিপাশে গাছগুলো পযের্বÿণ করলেন",
+  "question_number": 4,
+  "stimulus": "জীববিজ্ঞান শিÿক মিঃ হক তার ছাত্রদের নিয়ে বিদ্যালয়ের চারিপাশে গাছগুলো পযের্বÿণ করলেন। পরবতীের্ত তিনি নানা রকম গাছ দেখিয়ে একটি বিষয় সম্পকের্ আলোচনা করলেন যার জনক বিজ্ঞানী ক্যারোলাস লিনিয়াস। অবশেষে তিনি উক্ত বিজ্ঞানীর প্রবতির্ত নামকরণ পদ্ধতির নিয়মাবলি আলোচনা করলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ICZN কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ব্যাকটেরিয়াকে মনেরা রাজ্যের অন্ত্মভুর্ক্ত করা হয়েছে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিÿকের আলোচিত মূল বিষয়বস্তুর উদ্দেশ্য বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মানুষের নামকরণের ÿেত্রে উদ্দীপকে উলিস্নখিত বিজ্ঞানীর উদ্ভাবনকৃত পদ্ধতির প্রতিফলন ঘটেছে কি না? বিশেস্নষণ কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-1",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-1",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

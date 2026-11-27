@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-166-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-166",
+  "question_text": "6CO + 12H O  X + 6H O + 6O 2 2 2 2 Q পানি, তরল ও গরম পুষ্টিকর খাবার খেতে বললেন",
+  "question_number": 2,
+  "stimulus": "6CO + 12H O  X + 6H O + 6O 2 2 2 2 Q পানি, তরল ও গরম পুষ্টিকর খাবার খেতে বললেন। তবে",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মৌল বিপাক কী? ১ কোনোভাবেই যেন ঠা-া না লাগে সে দিকে দৃষ্টি রাখতে বললেন।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "C উদ্ভিদ বলতে কী বোঝায়? ২ 4",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উক্ত প্রক্রিয়ায়P ওQ এর ভূমিকা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের প্রক্রিয়ায়X উৎপাদন না হলে উদ্ভিদ ও প্রাণীর",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 166 (paper #166, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 3, 4, 6] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-166-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-166",
+  "question_text": "কৃষিবিদ মি. মালেক ফল বাগান পরিদশের্ন গিয়ে দেখেন খাদ্য একটি পেশিবহুল থলের মতো অংশে গিয়ে জমা হয়",
+  "question_number": 5,
+  "stimulus": "কৃষিবিদ মি. মালেক ফল বাগান পরিদশের্ন গিয়ে দেখেন খাদ্য একটি পেশিবহুল থলের মতো অংশে গিয়ে জমা হয়। এটি বাগানকমীর্ একদিকে ডাল কেটে চারা তৈরি করার প্রক্রিয়া করছেন অন্ননালি ও ÿুদ্রান্ত্রের মাঝে অবস্থিত। তিনি আরও বলেন, আর অন্যদিকে চারা তৈরি করছেন বীজ থেকে। তিনি বললেন, তোমার কাজ ত্বরান্বিত করার জন্য উদ্ভিদের অভ্যন্ত্মরীণ বিশেষ মানবদেহে কিছু গ্রন্থি আছে যার একটি হতে হরমোন নিঃসৃত হয় বৃদ্ধি উপাদানের প্রয়োজন। শেষে বললেন মানব প্রজননেও এ যেটি ডায়াবেটিস নিয়ন্ত্রণে সাহায্য করে। জাতীয় বৃদ্ধি উপাদানের বিশেষ ভূমিকা রয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রাফেজ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মিশ্র আমিষ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিÿকের উলিস্নখিত খাদ্য জমাকৃত অংশে কীভাবে খাদ্য",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উলিস্নখিত হরমোন নিঃসরণকারী গ্রন্থিটির কাযর্কারিতা ব্যাহত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 166 (paper #166, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 3, 4, 6] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-166-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-166",
+  "question_text": "লিমন জন্মের এক বছর থেকেই রক্তশূন্যতায় ভুগছে",
+  "question_number": 7,
+  "stimulus": "লিমন জন্মের এক বছর থেকেই রক্তশূন্যতায় ভুগছে। ডাক্তারের যাচ্ছে। তিনি তাড়াতাড়ি চিকিৎসকের শরণাপন্ন হলে, চিকিৎসক পরামশের্ প্রতি দুই মাস অন্ত্মর অন্ত্মর লিমনকে একবার রক্ত দিতে হয়। তবে আয়রনযুক্ত খাবার দিতে নিষেধ করেন। ইসিজি করিয়ে প্রয়োজনীয় ঔষধ এবং পরামশর্ দেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "DNA এর পূণর্রূপ লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জিনকে বংশগতির ধারক বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "লিমনের রোগটির কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "লিমনের এই রোগ হওয়ার জন্য তার মা-বাবাই দায়ী ",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 166 (paper #166, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 3, 4, 6] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-166-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-166",
+  "question_text": "নিচের উদ্দীপকটি লÿ কর ৪ P ওQ দুটি কলা",
+  "question_number": 8,
+  "stimulus": "নিচের উদ্দীপকটি লÿ কর ৪ P ওQ দুটি কলা।P কলাটির গঠন তরল ওQ কলাটির গঠনCa পানি সাপ ঘাস ব্যাকটেরিয়া হিউমাস অক্সিজেন জাতীয় পদাথর্ দিয়ে গঠিত।Q কলাটিP কলার নানা উপাদান ইঁদুর মাটি ছত্রাক ময়ূর নাইট্রোজেন সূযের্র আলো তৈরিতে ভূমিকা রাখে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যান্টিবায়োসিস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পস্নাঙ্কটন বলতে কী বুঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রদত্ত ছকের বস্তুসমূহ বাস্তুতন্ত্রের কোন কোন উপাদানের",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "P ওQ একই হওয়া সত্ত্বেও তাদের মধ্যে গাঠনিক ভিন্নতা",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 166 (paper #166, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 3, 4, 6] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

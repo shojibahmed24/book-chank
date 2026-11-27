@@ -1,0 +1,422 @@
+[
+ {
+  "id": "biology-lec-mt-ssc27-cq-set4-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set4",
+  "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : চিত্র : ১ চিত্র : ২",
+  "question_number": 1,
+  "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : চিত্র : ১ চিত্র : ২",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ICZN এর পূণর্রূপ লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শ্রেণিবিন্যাসের এককগুলো উলেস্নখ কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আধুনিক শ্রেণিবিন্যাসে চিত্র-১ টির অবস্থানগত বৈশিষ্ট্য বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অথৈর্নতিক বিবেচনায় উলিস্নখিত জীবদ্বয়ের গুরম্নত্ব আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-4 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-4 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set4-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set4",
+  "question_text": "ক্লাসে শিÿক পাঠদানের সময় বললেন, দেহের প্রতিটি সজীব কোষে অবিরত নানা জৈব বিক্রিয়া ঘটে",
+  "question_number": 2,
+  "stimulus": "ক্লাসে শিÿক পাঠদানের সময় বললেন, দেহের প্রতিটি সজীব কোষে অবিরত নানা জৈব বিক্রিয়া ঘটে। এর ফলে নানারকম দূষিত পদাথর্ সৃষ্টি হয়। এসব দূষিত পদাথর্ শরীরের জন্য ÿতিকর। এগুলোকে নিষ্কাশনের জন্য আমাদের দেহে বিশেষ প্রক্রিয়ার তন্ত্র আছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রেচন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জীবদেহে রেচনের প্রয়োজনীয়তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বিশেষ তন্ত্রটি কী কী নিয়ে গঠিত এবং এর প্রধান অঙ্গটি নষ্ট হয়ে গেলে দেহে কী ঘটবে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত প্রক্রিয়াটির ÿেত্রে উদ্ভিদ ও প্রাণীর মধ্যে পাথর্ক্য কী কী?",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-4 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-4 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set4-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set4",
+  "question_text": "নিচের চিত্রগুলো লÿ কর এবং প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্রগুলো লÿ কর এবং প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ইন্টারফেজ পযার্য় কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "লাইসোসোমকে 'সুইসাইডাল স্কোয়াড' বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'?' চিহ্নিত স্থানগুলোর গঠন বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের ধারাটি জীবজগতের জন্য গুরম্নত্বপূণর্ কিনা তোমার উত্তরের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-4 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-4 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set4-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set4",
+  "question_text": "জনৈক জীববিজ্ঞান শিÿক সালোকসংশেস্নষণ বুঝানোর জন্য পরীÿাগারের বারান্দায় পযার্প্ত আলোতে শৈবালের ওপর একটি বৈজ্ঞানিক পরীÿা করেন",
+  "question_number": 4,
+  "stimulus": "জনৈক জীববিজ্ঞান শিÿক সালোকসংশেস্নষণ বুঝানোর জন্য পরীÿাগারের বারান্দায় পযার্প্ত আলোতে শৈবালের ওপর একটি বৈজ্ঞানিক পরীÿা করেন। বেশ কিছুÿণ পর শিÿাথীর্রা দেখতে পায় শৈবাল থেকে বুদবুদ বের হচ্ছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সালোকসংশেস্নষণ প্রক্রিয়ার জন্য অত্যাবশ্যকীয় উপাদানগুলো কী কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাফেজ বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত বৈজ্ঞানিক পরীÿাটির বণর্নাসহ শৈবাল থেকে বুদবুদ ওঠার কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রকৃতিতে অক্সিজেন ও কাবর্ন ডাইঅক্সাইডের সমতা রÿায় উদ্দীপকের পরীÿাটির ভূমিকা বণর্না কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-4 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-4 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set4-cq-005",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set4",
+  "question_text": "আতাউর হোসেন কিছুদিন আগে একটি মারাত্মক দুঘর্টনায় পড়েন এবং তখন তাকে বাঁচানোর জন্য প্রচুর রক্তের প্রয়োজন হয়",
+  "question_number": 5,
+  "stimulus": "আতাউর হোসেন কিছুদিন আগে একটি মারাত্মক দুঘর্টনায় পড়েন এবং তখন তাকে বাঁচানোর জন্য প্রচুর রক্তের প্রয়োজন হয়। কিন্তু পরিচিত ব্যক্তিদের রক্ত তার গ্রম্নপের সাথে না মিলায় একজন পেশাদার রক্তদাতার কাছ থেকে রক্ত গ্রহণ করা হয়। এতে কিছুদিন পর ধরা পড়ে আতাউর হোসেন একজন ঐওঠ বহনকারী। পরীÿা না করে রক্ত গ্রহণের ফলে আজ আতাউর এইডস এর ভয়ঙ্কর শিকারে পরিণত হয়েছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "AIDS এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কীভাবেAIDS এর সংক্রমণ ঘটে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত রোগের প্রাদুভাের্ব আতাউর হোসেনের দেহে কী ধরেনের লÿণ দেখা দেবে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উলিস্নখিত রোগটি প্রতিরোধের একমাত্র উপায় ব্যাপক জনসচেতনতা—কথাটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-4 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-4 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set4-cq-006",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set4",
+  "question_text": "রামিসা তার প্রতিবেশীদের এক বাড়িতে বেড়াতে গিয়ে দেখল সে বাড়ির ছেলে ও মেয়ের চেহারা প্রায় তাদের বাপ ও মায়ের মতো",
+  "question_number": 6,
+  "stimulus": "রামিসা তার প্রতিবেশীদের এক বাড়িতে বেড়াতে গিয়ে দেখল সে বাড়ির ছেলে ও মেয়ের চেহারা প্রায় তাদের বাপ ও মায়ের মতো। রামিসা তাদের এক মেয়েকে দেখল তার চেহারা ফ্যাকাসে এবং রক্তশূন্যতায় ভুগছে। মেয়েটির মা রামিসাকে বললেন তার মেয়েটির এ রোগটি বংশগত।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ডারউইন এর লেখা বিখ্যাত বইটির নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সেক্স ক্রোমোসোম ও অটোসোমের মধ্যে পাথর্ক্যগুলো লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে ছেলে ও মেয়ের চেহারা বাপ ও মায়ের মতো কেন? ব্যাখ্যাসহ লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মেয়েটির মা বলল তার মেয়ের এ রোগটি বংশগত—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-4 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-4 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set4-cq-007",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set4",
+  "question_text": "উন্নত দেশগুলোর ব্যাপক হারে কাবর্ন নিঃসরণের ফলে পৃথিবীর তাপমাত্রা দ্রম্নত বৃদ্ধি পাচ্ছে",
+  "question_number": 7,
+  "stimulus": "উন্নত দেশগুলোর ব্যাপক হারে কাবর্ন নিঃসরণের ফলে পৃথিবীর তাপমাত্রা দ্রম্নত বৃদ্ধি পাচ্ছে। এর প্রভাবে সমুদ্র পৃষ্ঠের উচ্চতা বৃদ্ধি পেয়ে নিম্নাঞ্চল ডুবে যাচ্ছে। শীঘ্রই এর সমাধান করা না গেলে আমাদের এ সুন্দর পৃথিবীটা এক সময় প্রাণহীন হয়ে যাবে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আবজর্নাভুক কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাস্তুতন্ত্রের ভৌত উপাদানগুলো কী কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ঘটনাটির প্রভাব কী হতে পারে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের প্রভাব নিয়ন্ত্রণে করণীয় পদÿেপগুলো উলেস্নখ কর। [সংÿিপ্ত-উত্তর অংশ:৭টি প্রশ্নের মধ্যে থেকে যেকোনো ৫টি সংÿিপ্তপ্রশ্নের উত্তর দাও, প্রতিটির মান—২]",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-4 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-4 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

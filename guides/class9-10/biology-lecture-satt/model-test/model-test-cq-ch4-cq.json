@@ -1,0 +1,182 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch4-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 4,
+  "chapter_name": "জীবনীশক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch4",
+  "question_text": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জীবনীশক্তি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সালোকসংশেস্নষণকে জারণ-বিজারণ প্রক্রিয়া বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সালোকসংশেস্নষণের চিত্রের পযার্য়টি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সালোকসংশেস্নষণের জন্য চিত্রের উপাদানটিঅপরিহাযর্ যুক্তি প্রদশর্ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-4",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-4",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch4-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 4,
+  "chapter_name": "জীবনীশক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch4",
+  "question_text": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: O 2 CO2 + H2O CO2 + O2 A B",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: O 2 CO2 + H2O CO2 + O2 A B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পাইরম্নভিক এসিডের সংকেত লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সালোকসংশেস্নষণে সৃষ্টO এর উৎস ব্যাখ্যা কর। 2",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে সংঘটিত প্রক্রিয়াটি প্রবাহচিত্রের মাধ্যমে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রA ওB এর মধ্যে পাথর্ক্য উলেস্নখ করে দেখাও যে কোনটি শিল্প সহায়ক?",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-4",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-4",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch4-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 4,
+  "chapter_name": "জীবনীশক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch4",
+  "question_text": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: জীবনের সকল কমর্কা-ের জন্যশক্তির প্রয়োজন",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: জীবনের সকল কমর্কা-ের জন্যশক্তির প্রয়োজন। এ শক্তির একমাত্র উৎস হচ্ছে সূযর্। সূযের্র আলো একমাত্র সবুজ পাতাই উদ্ভিদের সূযের্র আলোকে আবদ্ধ করে এবং একে ব্যবহার করে খাদ্য প্রস্তুত করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সালোকসংশেস্নষণ প্রক্রিয়ায় জারক ও বিজারকের নাম লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গস্নাইকোলাইসিস বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের প্রক্রিয়াটির সাথে শ্বসনের দুটি মিল এবং দুটি পাথর্ক্য উলেস্নখ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'উিদ্ভদের বিভিন্ন অংশের মধ্যে পাতাই উক্ত প্রক্রিয়াটির জন্য সবচেয়ে উপযুক্ত স্থান'-বিশেস্নষণ কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-4",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-4",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch7-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 7,
+  "chapter_name": "গ্যাসীয় বিনিময়",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch7",
+  "question_text": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যালভিওলাস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মানব শ্বসনতন্ত্র কী কী নিয়ে গঠিত?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ১নং অংশে রক্তের প্রবাহ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মানবদেহের শ্বাসক্রিয়ার ÿেত্রে ২নং অঙ্গটির ভূমিকা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-7",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-7",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch7-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 7,
+  "chapter_name": "গ্যাসীয় বিনিময়",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch7",
+  "question_text": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: রহিমের ছোট ভাই জন্মের পর থেকেই কাশি ও শ্বাসকষ্টে আক্রান্ত্ম হয়",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: রহিমের ছোট ভাই জন্মের পর থেকেই কাশি ও শ্বাসকষ্টে আক্রান্ত্ম হয়। তাকে চিকিৎসকের কাছে নিয়ে গেলে চিকিৎসক জানান তার নিউমোনিয়া হয়েছে। চিকিৎসক তাকে ঔষধ দেন এবং তরল ও গরম পুষ্টিকর খাবার খাওয়ানোর পরামশর্ দেন। কিছুদিন পর সে সুস্থ হয়ে ওঠে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শ্বসনতন্ত্রের প্রধান অঙ্গ কোনটি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কী কী কারণে ব্রঙ্কাইটিস হতে পারে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "রহিমের ভাইয়ের আক্রান্ত্ম রোগের লÿণগুলো ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের উলিস্নখিত রোগ প্রতিকারের চেয়ে প্রতিরোধ উত্তম- আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-7",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-7",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch7-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 7,
+  "chapter_name": "গ্যাসীয় বিনিময়",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch7",
+  "question_text": "সৃজনশীল—৩■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: X Z Y",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: X Z Y",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শ্বসন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পত্ররন্ধ্র কীভাবে শ্বসনে সাহায্য করে? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "Y ওZ এর মধ্যে কোনটিX এর উপাদানসরাসরি ব্যবহার করে- ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "গ্যাসীয় বিনিময়ের ক্ষেত্রেY ওZ কীভাবে একে অন্যের ওপর নিভর্রশীল যুক্তিসহ লেখ।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-7",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-7",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch7-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 7,
+  "chapter_name": "গ্যাসীয় বিনিময়",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch7",
+  "question_text": "সৃজনশীল—৪■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: CO 2 (F) E",
+  "question_number": 4,
+  "stimulus": "সৃজনশীল—৪■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: CO 2 (F) E",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উপজিহ্বা বা এপিগস্নটিস কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিউমোনিয়া একটি মারাত্মক রোগ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে সংঘটিত প্রক্রিয়াটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "F উপাদানটিE অংশে প্রবেশের ফলে সৃষ্ট সমস্যা প্রতিরোধের উপায়গুলো বিেশস্নষণ কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-7",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-7",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

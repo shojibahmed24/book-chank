@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch3-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 3,
+  "chapter_name": "কোষ বিভাজন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch3",
+  "question_text": "সৃজনশীল—১■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: জীববিজ্ঞান ক্লাসে শিÿক এমন এক প্রকার বিভাজন প্রক্রিয়া নিয়ে আলোচনা করেছিলেন, যে বিভাজনের কোনো একপযাের্য় …",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: জীববিজ্ঞান ক্লাসে শিÿক এমন এক প্রকার বিভাজন প্রক্রিয়া নিয়ে আলোচনা করেছিলেন, যে বিভাজনের কোনো একপযাের্য় মেরম্নযুক্ত প্রোটিন নিমির্ত যন্ত্রের আবিভার্ব ঘটে এবং এর পরবতীর্ পযাের্য় ক্রোমোসোমগুলো সবাির্ধক খাটো ও মোটা হয়। সবশেষে তিনি বললেন, এ বিভাজন প্রক্রিয়া না ঘটলে বহুকোষী জীবের বৃদ্ধি অসম্ভব হতো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ক্যারিওকাইনেসিস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মিয়োসিসকে হ্রাসমূলক বিভাজন বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বিভাজন পযার্য় দুটির পাথর্ক্য ছকের মাধ্যমে দেখাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের বিভাজনের প্রক্রিয়া অস্বাভাবিক চললে মানবদেহে কী ধরনের সমস্যা দেখে দিতে পারে- বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-3",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-3",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch3-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 3,
+  "chapter_name": "কোষ বিভাজন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch3",
+  "question_text": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: প্রতিটি জীবদেহ কোষ দ্বারা তৈরি",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: প্রতিটি জীবদেহ কোষ দ্বারা তৈরি। কিছু জীব একটি মাত্র কোষ থেকে তৈরি। কিছু কিছু জীব আবার একাধিক কোষ দ্বারা তৈরি। এককোষী জীব তাদের বংশবৃদ্ধি করে কোষ বিভাজনের মাধ্যমে। উদ্ভিদ মাইটোসিসের মাধ্যমে তাদের উচ্চতা ও বেড় বৃদ্ধি করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোষ বিভাজন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উিদ্ভদের কোথায় মাইটোসিস কোষ বিভাজন হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বণির্ত কোষ বিভাজনের সবের্শষ পযাের্য়র বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে বণির্ত কোষ বিভাজনের গুরম্নত্ব বণর্না কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-3",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-3",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch3-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 3,
+  "chapter_name": "কোষ বিভাজন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch3",
+  "question_text": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: কোষ দিয়ে জীবদেহ গঠিত",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: কোষ দিয়ে জীবদেহ গঠিত। জীবদেহের বৃদ্ধি মানেই কোষের সংখ্যা বৃদ্ধি। দেহকোষ ও জননকোষ এর সংখ্যা বৃদ্ধির প্রক্রিয়াগত ও গুণগত অনেক পাথর্ক্য বিদ্যমান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যামাইটোসিস কোষ বিভাজন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মেটাফেজ ধাপের বৈশিষ্ট্যগুলো লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত কোষ দুটির বিভাজন পদ্ধতির বৈশিষ্ট্য উলেস্নখ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উপরিউক্ত কোষ দুটির কোনটির ডিপস্নয়েড থেকে হ্যাপস্নয়েড অবস্থার সৃষ্টি হয়? এ কোষ বিভাজনের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-3",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-3",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch3-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 3,
+  "chapter_name": "কোষ বিভাজন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch3",
+  "question_text": "সৃজনশীল—৫■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: 2n 2n 2n",
+  "question_number": 5,
+  "stimulus": "সৃজনশীল—৫■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: 2n 2n 2n",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্যাটেলাইট কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মিয়োসিসকে হ্রাসমূলক বিভাজন বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রে প্রদশির্ত কোষ বিভাজন কোন ধরনের এবং কেন, ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কোষ বিভাজনটির গুরম্নত্ব বিশেস্নষণ কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-3",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-3",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

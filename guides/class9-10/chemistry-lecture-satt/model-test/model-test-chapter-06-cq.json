@@ -1,0 +1,247 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-06-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "chapter_number": 6,
+  "chapter_name": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-06",
+  "question_text": "কোন যৌগেC = 60%; H = 13.33% এবংO = 26.67%। যৌগটির আণবিক ভর60।",
+  "question_number": 1,
+  "stimulus": "কোন যৌগেC = 60%; H = 13.33% এবংO = 26.67%। যৌগটির আণবিক ভর60।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রিডক্স বিক্রিয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাসায়নিক বিক্রিয়ায় তাপের পরিবতর্ন হয় কেন-ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "যৌগটির আণবিক সংকেত নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "যৌগটি থেকে একই কাবর্নবিশিষ্ট অ্যালকেন তৈরি করা সম্ভব কিনা রাসায়নিক বিক্রিয়াসহ যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 6 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-6.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-06-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "chapter_number": 6,
+  "chapter_name": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-06",
+  "question_text": "একদল শিÿাথীর্4.8g ম্যাগনেসিয়াম বাতাসে পুড়িয়ে সাদা ছাই পেল।",
+  "question_number": 2,
+  "stimulus": "একদল শিÿাথীর্4.8g ম্যাগনেসিয়াম বাতাসে পুড়িয়ে সাদা ছাই পেল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দহন বিক্রিয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উদ্দীপকের বিক্রিয়াটি কোন ধরনের ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিÿাথীর্রা কী পরিমাণ ছাই উৎপন্ন করেছিল তা নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিক্রিয়াটি লিখে আধুনিক ইলেকট্রনীয় মতবাদ অনুযায়ী দেখাও যে জারণ-বিজারণ একই সঙ্গে ঘটে।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 6 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-6.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-06-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "chapter_number": 6,
+  "chapter_name": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-06",
+  "question_text": "কাবর্ন, হাইড্রোজেন ও অক্সিজেন দ্বারা গঠিত যৌগ গস্নুকোজ।",
+  "question_number": 3,
+  "stimulus": "কাবর্ন, হাইড্রোজেন ও অক্সিজেন দ্বারা গঠিত যৌগ গস্নুকোজ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 13,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লিমিটিং বিক্রিয়ক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "2Mg + O = 2MgO এ বিক্রিয়ার ÿেত্রেstoichiometry এর ধারণা ব্যাখ্যা কর। 2",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের যৌগটির শতকরা সংযুতি কীভাবে নিণর্য় করবে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের যৌগটির আণবিক সংকেত (",
+    "marks": 4
+   },
+   {
+    "part": "গ",
+    "text": "নং থেকে নিণর্য় করা কি সম্ভব? যদি উত্তর হ্যাঁ/না হয় তবে যৌক্তিক ব্যাখ্যা কর।",
+    "marks": 3
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 6 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-6.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-06-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "chapter_number": 6,
+  "chapter_name": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-06",
+  "question_text": "পরীÿাগারে একটি বিকারে10 গ্রাম চুনাপাথর নেওয়া হলো। তাতে100 ঘন সে.মি. 5 মোল/লিটার ঘনমাত্রায়HCl দ্রবণ যোগ করা হলো। এতে উভয় যৌগের মধ্যে বিক্রিয়া ঘটল।",
+  "question_number": 4,
+  "stimulus": "পরীÿাগারে একটি বিকারে10 গ্রাম চুনাপাথর নেওয়া হলো। তাতে100 ঘন সে.মি. 5 মোল/লিটার ঘনমাত্রায়HCl দ্রবণ যোগ করা হলো। এতে উভয় যৌগের মধ্যে বিক্রিয়া ঘটল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বস্নু-ভিট্রিওলের সংকেত কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একই গ্রম্নপে যতই নিচের দিকে যাওয়া যায় পরমাণুর আকারের কী পরিবতর্ন দেখা যায় তা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিক্রিয়ার ফলে উৎপন্ন গ্যাসের পরিমাণ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিক্রিয়া শেষে উদ্দীপকে কোনো উৎপাদন লিমিটিং বিক্রিয়ক থাকবে কি? উত্তরের পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 6 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-6.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

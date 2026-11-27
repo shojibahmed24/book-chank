@@ -1,0 +1,247 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-08-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রসায়ন ও শক্তি",
+  "chapter_number": 8,
+  "chapter_name": "রসায়ন ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-08",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 1,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তড়িৎবিশেস্নষণ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "চিত্রের কোষে সংঘটিত রাসায়নিক বিক্রিয়াগুলো লি",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রের কোষটিতে কীভাবে বিদ্যুৎশক্তি উৎপাদন করা যায়-বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রের অ্যানোড ও ক্যাথোড পাত্রে উলিস্নখিত আয়নের সমতা দূর করতেA অংশের ভূমিকা আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 8 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-8.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-08-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রসায়ন ও শক্তি",
+  "chapter_number": 8,
+  "chapter_name": "রসায়ন ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-08",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: NaCl Gi লঘু দ্রবণ",
+  "question_number": 2,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: NaCl Gi লঘু দ্রবণ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আকরিক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "Fe2+ অায়নটি জারিত ও বিজারিত হতে পারে-ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত তড়িৎবিশেস্নষণ কোষটির অ্যানোড ও ক্যাথোড বিক্রিয়া-ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "Pt এর পরিবতের্ মারকারি তড়িৎদ্বার ক্যাথোড হিসেবে এবং গাঢ়NaCl এর দ্রবণ নিলে একই বিক্রিয়া ঘটবে কিনা যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 8 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-8.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-08-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রসায়ন ও শক্তি",
+  "chapter_number": 8,
+  "chapter_name": "রসায়ন ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-08",
+  "question_text": "A যৌগের1.6g এC আছে1.2g এবংH আছে0.4g। যৌগটির বাষ্প ঘনত্ব8।",
+  "question_number": 3,
+  "stimulus": "A যৌগের1.6g এC আছে1.2g এবংH আছে0.4g। যৌগটির বাষ্প ঘনত্ব8।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মোলারিটি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "2g MgO তৈরিতে কত গ্রামMg প্রয়োজন হবে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A যৌগের শতকরা সংযুতি বের করে আণবিক সংকেত নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "235U এর1 মোল দহনে যে পরিমাণ তাপশক্তি নিগর্ত হয়, সেই পরিমাণ তাপ শক্তি উৎপন্ন করতে কত মোল A যৌগের প্রয়োজন হবে বলে তুমি মনে কর? (C − H, O = O, C = O ওO − H এ বন্ধন শক্তি মোল প্রতি যথাক্রমে414, 498, 843 ও 464 KJ)।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 8 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-8.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-08-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রসায়ন ও শক্তি",
+  "chapter_number": 8,
+  "chapter_name": "রসায়ন ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-08",
+  "question_text": "শিল্পÿেত্রে খাদ্য লবণের গাঢ় জলীয় দ্রবণ থেকে তড়িৎ বিশেস্নষণের সাহায্যে এক সাথে ক্লোরিন ও ÿার উৎপাদন করা হয়। প্রধানত ক্লোরিন গ্যাসের বাণিজ্যিক উৎপাদন এই প্রক্রিয়ায় সম্পন্ন হয়।",
+  "question_number": 4,
+  "stimulus": "শিল্পÿেত্রে খাদ্য লবণের গাঢ় জলীয় দ্রবণ থেকে তড়িৎ বিশেস্নষণের সাহায্যে এক সাথে ক্লোরিন ও ÿার উৎপাদন করা হয়। প্রধানত ক্লোরিন গ্যাসের বাণিজ্যিক উৎপাদন এই প্রক্রিয়ায় সম্পন্ন হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তড়িৎবিশেস্নষণ বলতে কী বোঝ?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তাপোৎপাদী ও তাপহারী বিক্রিয়া কাকে বলে? উদাহরণ দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সোডিয়াম ক্লোরাইড দ্রবণের তড়িৎ বিশেস্নষণ প্রক্রিয়া ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সোডিয়াম ক্লোরাইডের তড়িৎবিশেস্নষণে পারদের ক্যাথোড ব্যবহার করা হলে কী ধরনের রাসায়নিক পরিবতর্ন হবে, তা বিক্রিয়াসহ—ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 8 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-8.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

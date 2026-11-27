@@ -1,0 +1,422 @@
+[
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-4-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-4",
+  "question_text": "নবম শ্রেণির রসায়ন শিÿক অভিজিৎ রায় তার শিÿাথীের্দরকে পরমাণুর গঠন সম্পকের্ বোঝানোর সময় একটি পরমাণুর সৌর মডেলের প্রস্ত্মাবনা সম্পকের্ বোঝাচ্ছিলেন। অতঃপর, তিনি শিÿাথীের্দরকে উক্ত মডেলের প্রস্ত্মাবনাগুলোর ",
+  "question_number": 1,
+  "stimulus": "নবম শ্রেণির রসায়ন শিÿক অভিজিৎ রায় তার শিÿাথীের্দরকে পরমাণুর গঠন সম্পকের্ বোঝানোর সময় একটি পরমাণুর সৌর মডেলের প্রস্ত্মাবনা সম্পকের্ বোঝাচ্ছিলেন। অতঃপর, তিনি শিÿাথীের্দরকে উক্ত মডেলের প্রস্ত্মাবনাগুলোর সীমাবদ্ধতা নিজেদের মধ্যে আলোচনার মাধ্যমে খুঁজে বের করতে বললেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নিউক্লিয় বিক্রিয়ার ÿতিকর প্রভাব কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তেজস্ক্রিয় রশ্মি সূযের্র আলোর ন্যায় নিরাপদ কখন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের শিÿক কতৃর্ক বণির্ত পরমাণু মডেলটির প্রস্ত্মাবনাগুলো তুলে ধর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের পরমাণু মডেলের প্রতটি প্রস্ত্মাবনা ভালোভাবে বিশেস্নষণপূবর্ক সীমাবদ্ধতাসমূহ আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-4-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-4",
+  "question_text": "নিচের ছকটি দেখে প্রশ্নগুলোর উত্তর দাও : F Na Mg Al Si P S Cl Ar Br I",
+  "question_number": 2,
+  "stimulus": "নিচের ছকটি দেখে প্রশ্নগুলোর উত্তর দাও : F Na Mg Al Si P S Cl Ar Br I",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পযার্য় কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ফসফরাস মৌলের পযার্য় সারণিতে অবস্থান ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "যে কোনো পযাের্য়র মৌলের আকারের পরিবতর্ন উলিস্নখিত পযার্য়টির মাধ্যমে প্রমাণ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উলিস্নখিত গ্রম্নপটির সক্রিয়তার ক্রমH O এর সাথে বিক্রিয়ার মাধ্যমে বিশেস্নষণ কর। 2",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-4-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-4",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : মৌল পারমাণবিক সংখ্যা X 8 Y 15 Z 17",
+  "question_number": 3,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : মৌল পারমাণবিক সংখ্যা X 8 Y 15 Z 17",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভরসংখ্যা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ব্যাপন বলতে কী বুঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "X অণুর গঠন প্রক্রিয়া চিত্রসহ ব্যাখ্যা কর। 2",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের একটি মৌলের একাধিক যোজনী বিদ্যমান−বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-4-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-4",
+  "question_text": "2 লিটার0.1 মোলার কপার সালফেট (CuSO4. 5H2O) এর দ্রবণ প্রস্তুত করা হলো।",
+  "question_number": 4,
+  "stimulus": "2 লিটার0.1 মোলার কপার সালফেট (CuSO4. 5H2O) এর দ্রবণ প্রস্তুত করা হলো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দ্রব কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রমাণ অবস্থায়1 লিটারCl গ্যাসের ভর নিণর্য় কর। 2",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের দ্রবণ প্রস্তুত করতে কত গ্রাম তুঁতে দরকার হবে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের দ্রবণ এবং49.9g H2SO যুক্ত সম আয়তন দ্রবণের ঘনমাত্রা সমান হবে কিনা গাণিতিক যুক্তি দেখাও। 4",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-4-cq-005",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-4",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : Zn + H SO ZnSO + H . 2 4 4 2",
+  "question_number": 5,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : Zn + H SO ZnSO + H . 2 4 4 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমাণুকরণ বিক্রিয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উভমুখী বিক্রিয়া বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উৎপাদ যৌগটিতে সালফারের জারণ সংখ্যা নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত বিক্রিয়াটিতে জারণ-বিজারণ যুগপৎ ঘটে—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-4-cq-006",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-4",
+  "question_text": "ঘটনা-১:একটি কাচের বিকারে কয়েক খন্ডবরফ নিয়ে তাতে তাপ প্রয়োগ করা হলো। ঘটনা-২:একটি মোমবাতি জ্বালিয়ে রাখা হলো। মোমের কিছু গলিত অংশ ঠান্ডাহয়ে জমে কঠিন অবস্থায় পরিণত হলো। এই প্রাপ্ত মোমের ভর মোমবাতির ভর অপে",
+  "question_number": 6,
+  "stimulus": "ঘটনা-১:একটি কাচের বিকারে কয়েক খন্ডবরফ নিয়ে তাতে তাপ প্রয়োগ করা হলো। ঘটনা-২:একটি মোমবাতি জ্বালিয়ে রাখা হলো। মোমের কিছু গলিত অংশ ঠান্ডাহয়ে জমে কঠিন অবস্থায় পরিণত হলো। এই প্রাপ্ত মোমের ভর মোমবাতির ভর অপেÿা কম।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মোমের প্রধান উপাদান কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাসায়নিক পরিবতের্ন বিক্রিয়কের শতকরা সংযুতির পরিবতর্ন ঘটে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "১নং ঘটনাটি কোন ধরনের পরিবতের্নর? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "২নং ঘটনায় মোমের ভর হ্রাসের কারণ যুক্তিসহ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-4-cq-007",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-4",
+  "question_text": "রাইয়ানের মা গ্যাসের চুলায় রান্না করছিল। রাইয়ান তার মায়ের কাছে চুলায় জলন্ত্ম গ্যাসটি সম্পকের্ জানতে চাওয়ায় মা বলল, এটি একটি সম্পৃক্ত হাইড্রোকাবর্ন যা সাধারণত অ্যালকেন শ্রেণিভুক্ত।",
+  "question_number": 7,
+  "stimulus": "রাইয়ানের মা গ্যাসের চুলায় রান্না করছিল। রাইয়ান তার মায়ের কাছে চুলায় জলন্ত্ম গ্যাসটি সম্পকের্ জানতে চাওয়ায় মা বলল, এটি একটি সম্পৃক্ত হাইড্রোকাবর্ন যা সাধারণত অ্যালকেন শ্রেণিভুক্ত।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভিনেগার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পলিমারকরণ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে নিদেির্শত যৌগটি শিল্পÿেত্রে কিভাবে প্রস্তুত করা হয়, ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আমাদের দৈনন্দিন জীবনে এ জাতীয় যৌগের গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

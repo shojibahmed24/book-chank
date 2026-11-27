@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-model-test-cq-ch13-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 13,
+  "chapter_name": "জীবের পরিবেশ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch13",
+  "question_text": "সৃজনশীল—১■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: মুনিয়ার একটি পেয়ারা বাগান আছে",
+  "question_number": 1,
+  "stimulus": "সৃজনশীল—১■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: মুনিয়ার একটি পেয়ারা বাগান আছে। সে লÿ করল বিভিন্ন রকম পাখি, কীটপতঙ্গ বাগানে ঘুরে বেড়াচ্ছে। মুনিয়ার বড় বোন বলল পরিবেশের ভারসাম্য রÿার জন্য বিভিন্ন জীবের মধ্যে মিথষ্ক্রিয়া ও আন্ত্মঃনিভর্রশীলতা প্রয়োজন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "খাদ্যশৃঙ্খল কত প্রকার?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গ্রিনহাউস এফেক্ট বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রাণীগুলোর সাথে পেয়ারা গাছের সম্পকির্ট কোন ধরনের তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মুনিয়ার বড় বোনের উক্তির যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-13",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-13",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-13.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch13-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 13,
+  "chapter_name": "জীবের পরিবেশ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch13",
+  "question_text": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ঘাস→ ঘাসফড়িং→ ব্যাঙ→ সাপ→ ময়ূর",
+  "question_number": 2,
+  "stimulus": "সৃজনশীল—২■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: ঘাস→ ঘাসফড়িং→ ব্যাঙ→ সাপ→ ময়ূর",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ট্রফিক লেভেল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মিউচুয়ালিজম বলতে কী বুঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের রেখাচিত্রটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত রেখাচিত্রের ঘাসফড়িং এর সংখ্যা কমে গেলে উদ্্ভূত পরিস্থিতি কী হবে-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-13",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-13",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-13.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch13-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 13,
+  "chapter_name": "জীবের পরিবেশ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch13",
+  "question_text": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: উৎপাদকথেকে খাদকের দিকে ধাপে ধাপে শক্তির স্থানান্ত্মর ঘটে",
+  "question_number": 3,
+  "stimulus": "সৃজনশীল—৩■ নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: উৎপাদকথেকে খাদকের দিকে ধাপে ধাপে শক্তির স্থানান্ত্মর ঘটে। এই নিয়ম থেকে বোঝা যায় ক্রমান্বয়ে শক্তির ÿয় হয়। আর তাই খাদ্যশৃঙ্খল ছোট রাখা শ্রেয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধাঙর কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শক্তি পিরামিড বলতে কী বুঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের নিয়মটি কী? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষোক্ত বাক্যটির যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-13",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-13",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-13.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-model-test-cq-ch13-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": 13,
+  "chapter_name": "জীবের পরিবেশ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-cq-ch13",
+  "question_text": "সৃজনশীল—৪■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: পরভোজী .01 K Joule 1 K Joule 10 K Joule 100 K Joule স্বভোজী 1000 K Joule",
+  "question_number": 4,
+  "stimulus": "সৃজনশীল—৪■ নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: পরভোজী .01 K Joule 1 K Joule 10 K Joule 100 K Joule স্বভোজী 1000 K Joule",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাস্তুসংস্থান কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "খাদ্যশৃঙ্খল ও খাদ্যজাল বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উপরিউক্ত খাদ্য পিরামিডের বিভিন্ন ট্রফিক লেভেল সম্পকর্ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"বাস্তুতন্ত্রে শক্তির প্রবাহ একমুখী\" উপরিউক্ত খাদ্য পিরামিডের আলোকে ব্যাখ্যা কর। [সংÿিপ্ত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "5. Model Test/CQ/chapter-13",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "5. Model Test/CQ/chapter-13",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/5. Model Test/CQ/chapter-13.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-157-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-157",
+  "question_text": "উদ্দীপকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : বাহক জিনRr",
+  "question_number": 2,
+  "stimulus": "উদ্দীপকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : বাহক জিনRr। এখানে-r থ্যালাসেমিয়া জিন। ডারউইনও নতুন Enzyme C H O + A  6CO + 6H O + শক্তি প্রজাতির উৎপত্তির ÿেত্রে বৈশিষ্ট্য পরিবতের্নর কথা উলেস্নখ 6 12 6 2 2 করেছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ক্যালোজ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৈষম্যভেদ্য পদার্ উদ্ভিদের পরিবহনে জড়িত-ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সাইটোপস্নাজমে সংঘটিত উদ্দীপক বিক্রিয়ার ধাপসমূহ বণর্না",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকেA এর উপস্থিতি ও অনুপস্থিতিতে উৎপন্ন শক্তির বণর্না কর।",
+    "marks": 3
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 157 (paper #157, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part গ mark not printed; standard 3 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 3, 4, 6] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-157-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-157",
+  "question_text": "মি. জেড স্যামন মাছের বৃদ্ধিকারক জিন সনাক্ত করে তেলাপিয়া রোগের নাম জীবণুর বৈজ্ঞানিক নাম মাছে স্থানান্ত্মর করে মাছের আকার বৃদ্ধি করেছেন",
+  "question_number": 5,
+  "stimulus": "মি. জেড স্যামন মাছের বৃদ্ধিকারক জিন সনাক্ত করে তেলাপিয়া রোগের নাম জীবণুর বৈজ্ঞানিক নাম মাছে স্থানান্ত্মর করে মাছের আকার বৃদ্ধি করেছেন। মি. এফ A Hellcobacter pylori অকির্ড গাছের মেরিস্টেম থেকে দ্রম্নততর সময়ে অসংখ্য চারা B Entamoeba histolytica উৎপাদন করেন। C Mycobacterium tuberculosis",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অণুচারা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "স্বণর্লতা ও আশ্রয়দাতা উদ্ভিদের সম্পকর্ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপক ব্যবহার করে মি. জেড এর ক্রিয়া-কৌশল বণর্না প্রয়োজন কেন? ২ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ফসলের বৈশিষ্ট পরিবতর্ন মি. জেড ও মি. এফ এর",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 157 (paper #157, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 3, 4, 6] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-157-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-157",
+  "question_text": "নিচের বিভাজন প্রক্রিয়া লÿ্য কর: বিভাজন দেহ জনন অপত্য জনন জাইগোট কোষ মাতৃকোষ কোষ কোষ A 2n 2n A B 2n n 2n B C 2n 4n",
+  "question_number": 7,
+  "stimulus": "নিচের বিভাজন প্রক্রিয়া লÿ্য কর: বিভাজন দেহ জনন অপত্য জনন জাইগোট কোষ মাতৃকোষ কোষ কোষ A 2n 2n A B 2n n 2n B C 2n 4n",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "Implantation কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অস্থি রোগের সাথে মেনোপোজ এর সম্পকর্ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপক চিত্র- A এর বধির্ত গঠন বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "B থেকে সৃষ্ট গ্যামেটA থেকে সৃষ্ট গ্যামেটের মিলনে ফল ও বণর্না কর। ৩ স্পোরোফাইটের সৃষ্টি করে-ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 157 (paper #157, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 3, 4, 6] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-157-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-157",
+  "question_text": "মি. ওয়াই গরম পানির পাত্রে হাত স্পশর্ করতেই হাত দ্রম্নত সরে দেহ থেকে নিষ্কাশিত হয়",
+  "question_number": 8,
+  "stimulus": "মি. ওয়াই গরম পানির পাত্রে হাত স্পশর্ করতেই হাত দ্রম্নত সরে দেহ থেকে নিষ্কাশিত হয়। কিন্তু নাইট্রোজেন ঘটিত বেস বা ÿার আসলো। অন্য দিকে মি. এম এর বক্তৃতা শুনে শ্রোতারা হাত দেহের জন্য অত্যাবশ্যক। তালি দিলেন। হাতের সঞ্চালন ক্রিয়া পেশি দ্বারা নিয়ন্ত্রিত।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রচ্ছন্ন জিন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মানুষের পযার্প্ত সময় সূযের্র আলোর সংস্পশের্ আসা উচিৎ কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মানবদেহে উদ্দীপকের প্রথম প্রক্রিয়াটি কীভাবে সম্পূণর্ হয়",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের উলিস্নখিত দুই প্রকার নাইট্রোজেনের উপাদানের মধ্যে",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 157 (paper #157, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 3, 4, 6] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

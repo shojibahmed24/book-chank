@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-164-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-164",
+  "question_text": "উচ্চ শ্রেণির জীবের দেহকোষে এক ধরনের কোষ বিভাজন হয়",
+  "question_number": 1,
+  "stimulus": "উচ্চ শ্রেণির জীবের দেহকোষে এক ধরনের কোষ বিভাজন হয়। ৫ নিচের চিত্রগুলো লÿ কর  উক্ত বিভাজন প্রক্রিয়ার একটি ধাপে সেন্ট্রোমিয়ার দুইভাগে বিভক্ত হয়। A + XX A + XY চিত্র : চিত্র :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অভিকষর্ উপলব্ধি কী? ১ M N",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রক্তবাহিকায় রক্ত জমাট বাঁধে না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত ধাপটির সচিত্র ব্যাখ্যা কর। ৩ চিত্র :L",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জীবন জগতের গুণগত বৈশিষ্ট্যের স্থিতিশীলতা বজায় রাখার",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 164 (paper #164, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 5, 7, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-164-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-164",
+  "question_text": "আবির ও নিবির দুই বন্ধু",
+  "question_number": 3,
+  "stimulus": "আবির ও নিবির দুই বন্ধু। আবিরের ওজন ৪৫ কেজি, তার উচ্চতা ১৩৫ সে.মি.। সে দুধ, ফল, মাছ খেতে পছন্দ করে। কঙ্ক্ষিত জিন নিবিরের ওজন ৭০ কেজি তার উচ্চতা ১৬৫ সেন্টিমিটার। সে মাংস, পনির খেতে পছন্দ করে। চিত্র :X চিত্র :Y",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ক্লোরোসিস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "যকৃতকে গবেষণাগার বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আবির ও নিবিরেরBMI নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আবির ও নিবিরের মধ্যে কে স্বাস্থ্যঝুঁকিতে রয়েছে? এদের",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 164 (paper #164, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 5, 7, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-164-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-164",
+  "question_text": "i) 6CO + 12H O  C H O + 6H O + 6O 2 2 6 12 6 2 2 পায়ের গিঁটে ব্যাথা হয়ে ফুলে উঠেছে এবং তার দাঁতের থেকে ক্লোরোফিল অস্বাভাবিকভাবে রক্তÿরণ হয়",
+  "question_number": 4,
+  "stimulus": "i) 6CO + 12H O  C H O + 6H O + 6O 2 2 6 12 6 2 2 পায়ের গিঁটে ব্যাথা হয়ে ফুলে উঠেছে এবং তার দাঁতের থেকে ক্লোরোফিল অস্বাভাবিকভাবে রক্তÿরণ হয়। অপরদিকে তার বন্ধু জনি এনজাইম ii) C H O + O  6CO + 6H O + শক্তি ক্লোরোফিল 6 12 6 2 2 2 হিমোগেস্নাবিন সম্পকির্ত বংশজাতীয় রোগে ভুগছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ব্যাপন চাপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আখকেC উদ্ভিদ বলা হয় কেন? ২ 4",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "(i) নং বিক্রিয়ার ১ম পযাের্য়র বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রাকৃতিক ভারসাম্য রÿায় উদ্দীপকে উলিস্নখিত বিক্রিয়া",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 164 (paper #164, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part খ mark not printed; standard 2 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 5, 7, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-164-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-164",
+  "question_text": "কলি কাঁথা সেলাই করার সময় হঠাৎ করে আঙ্গুলে সুঁচ ফুটলে দ্রম্নত হাতটি উদ্দীপনার স্থান থেকে সরিয়ে নেয়",
+  "question_number": 6,
+  "stimulus": "কলি কাঁথা সেলাই করার সময় হঠাৎ করে আঙ্গুলে সুঁচ ফুটলে দ্রম্নত হাতটি উদ্দীপনার স্থান থেকে সরিয়ে নেয়। আবার কিছু জৈব সরল টিস্যু জটিল টিস্যু রাসায়নিক পদাথর্ মানবদেহের নালিবিহীন গ্রন্থি হতে নিঃসৃত হয়ে P রক্তের মাধ্যমে প্রবাহিত হয়। Q R",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গ্রিণ হাউস এফেক্ট কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কমেনসেলিমন বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কলির হাতের আঙ্গুলে সংঘটিত ক্রিয়াটি কিভাবে সম্পন্ন বলা হয় কেন? ২ হয়? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত রাসায়নিক পদাথর্ বিভিন্ন শারীরবৃত্তীয়",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 164 (paper #164, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 5, 7, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

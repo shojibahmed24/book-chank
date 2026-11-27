@@ -1,0 +1,422 @@
+[
+ {
+  "id": "biology-lec-mt-ssc27-cq-set2-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set2",
+  "question_text": "জীববিজ্ঞান শিÿক মিঃ হক তার ছাত্রদের নিয়ে বিদ্যালয়ের চারিপাশে গাছগুলো পযের্বÿণ করলেন",
+  "question_number": 1,
+  "stimulus": "জীববিজ্ঞান শিÿক মিঃ হক তার ছাত্রদের নিয়ে বিদ্যালয়ের চারিপাশে গাছগুলো পযের্বÿণ করলেন। পরবতীের্ত তিনি নানা রকম গাছ দেখিয়ে একটি বিষয় সম্পকের্ আলোচনা করলেন যার জনক বিজ্ঞানী ক্যারোলাস লিনিয়াস। অবশেষে তিনি উক্ত বিজ্ঞানীর প্রবতির্ত নামকরণ পদ্ধতির নিয়মাবলি আলোচনা করলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ICZN কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ব্যাকটেরিয়াকে মনেরা রাজ্যের অন্ত্মভুর্ক্ত করা হয়েছে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শিÿকের আলোচিত মূল বিষয়বস্তুর উদ্দেশ্য বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মানুষের নামকরণের ÿেত্রে উদ্দীপকে উলিস্নখিত বিজ্ঞানীর উদ্ভাবনকৃত পদ্ধতির প্রতিফলন ঘটেছে কি না? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-2 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-2 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set2-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set2",
+  "question_text": "শফিক মাইক্রোস্কোপে প্রাণিদেহের দুটি কোষ পযের্বÿণ করল",
+  "question_number": 2,
+  "stimulus": "শফিক মাইক্রোস্কোপে প্রাণিদেহের দুটি কোষ পযের্বÿণ করল। যার প্রথমটিতে সেন্ট্রিওল থাকলেও দ্বিতীয়টিতে থাকে না। আর তাই কোষ কোনো কারণে নষ্ট হলে ১ম টি বিভাজনের মাধ্যমে আবার সৃষ্টি হলেও ২য় টির ÿেত্রে সম্ভব নয় যা দেহের অঙ্গ ও তন্ত্রের সমন্বয়ে বিঘ্ন ঘটাতে পারে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ক্যালোজ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অমরার কাজ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের কোষ দুটির তুলনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রাণীদের দৈহিক সমন্বয়ে শেষোক্ত কোষের ভূমিকা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-2 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-2 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set2-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set2",
+  "question_text": "নিচের চিত্রটি লÿ্যকর এবং প্রশ্নগুলোর উত্তর দাও : A",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্রটি লÿ্যকর এবং প্রশ্নগুলোর উত্তর দাও : A",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মিয়োসিস কোথায় ঘটে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সাইটোকাইনেসিস এর প্রয়োজন হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের পযার্য়টিতে নিউক্লিয়ার মেমব্রেন নিউক্লিওলাসের বিলুপ্তি ঘটার কারণ-ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A কে বংশগতির ভৌত ভিত্তি বলে আখ্যায়িত করা যায়- যুক্তিসহ বিশেস্নষণ কর। বিজারিত",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-2 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-2 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set2-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set2",
+  "question_text": "+ CO আত্মীকরণ শক্তি⎯⎯⎯→ শকর্রা",
+  "question_number": 4,
+  "stimulus": "+ CO আত্মীকরণ শক্তি⎯⎯⎯→ শকর্রা। 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জৈব মুদ্রা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গস্নাইকোলাইসিস বলতে কী বুঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের আলোকে শকর্রা তৈরির এ প্রক্রিয়াটি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"উদ্দীপক সংশিস্নষ্ট প্রক্রিয়াটি জীবজগতের সবচেয়ে গুরম্নত্বপূণর্ জৈব রাসায়নিক প্রক্রিয়া\" উক্তিটির যথাথর্তা বিশেস্নষণ কর",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-2 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-2 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set2-cq-005",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set2",
+  "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : A B C",
+  "question_number": 5,
+  "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : A B C",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পুষ্পমঞ্জরি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দ্বিনিষেক বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকেরA,B ওC অংশগুলোর দুটি করে কাজ লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ই অংশটি নিষিক্ত না হলে আমাদের দৈনন্দিন জীবনে কী অসুবিধা হতো বলে তুমি মনে কর, তা ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-2 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-2 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set2-cq-006",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set2",
+  "question_text": "অত্যধিক প্রজনন প্রবণতা জীবের একটি সহজাত ÿমতা",
+  "question_number": 6,
+  "stimulus": "অত্যধিক প্রজনন প্রবণতা জীবের একটি সহজাত ÿমতা। প্রজন্মকে টিকিয়ে রাখতে এটি একটি গুরম্নত্বপূণর্ বৈশিষ্ট্য। আবার এর ফলে প্রাণীদেরকে নিজেদের মধ্যে এবং জড় পরিবেশের সঙ্গে সংগ্রাম করতে হয়। কেবলমাত্র বিজয়ীরা উক্ত পরিবেশে বিবতের্নর মাধ্যমে টিকে থাকতে পারে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লোকাস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "থ্যালাসেমিয়া বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে বণির্ত জীবের সহজাত বৈশিষ্ট্যটি কীভাবে প্রজন্মকে টিকিয়ে রাখতে সাহায্য করে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রজাতির টিকে থাকায় উদ্দীপকের সবের্শষ প্রক্রিয়াটি গুরম্নত্বপূণর্—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-2 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-2 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set2-cq-007",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set2",
+  "question_text": "হিরন একটি বনে বেড়াতে গিয়ে বিভিন্ন ধরনের গাছপালার মাঝে বিচিত্র ধরনের প্রাণীর উপস্থিতি লÿ করল",
+  "question_number": 7,
+  "stimulus": "হিরন একটি বনে বেড়াতে গিয়ে বিভিন্ন ধরনের গাছপালার মাঝে বিচিত্র ধরনের প্রাণীর উপস্থিতি লÿ করল। এদের মধ্যে ছিল খরগোশ, হরিণ, বানর, সারস, বাঘ, শূকর ইত্যাদি প্রাণী। সে খেয়াল করল বনের একটি অংশে বড় বড় গাছপালা কেটে ফেলা হয়েছে আর সে অংশে ঐসব প্রাণীর উপস্থিতি খুবই কম।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাস্তুতন্ত্র কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিয়োজক বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হিরনের দেখা জীবগুলো দিয়ে একটি খাদ্যশিকল তৈরি করে শিকলটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বড় বড় গাছপালা কেটে ফেলা অংশে প্রাণীর সংখ্যা কমে যাওয়ার কারণ বিশেস্নষণ কর। [সংÿিপ্ত-উত্তর অংশ:৭টি প্রশ্নের মধ্যে থেকে যেকোনো ৫টি সংÿিপ্তপ্রশ্নের উত্তর দাও, প্রতিটির মান—২]",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-2 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-2 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

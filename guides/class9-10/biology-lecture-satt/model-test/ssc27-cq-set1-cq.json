@@ -1,0 +1,422 @@
+[
+ {
+  "id": "biology-lec-mt-ssc27-cq-set1-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set1",
+  "question_text": "রাতুল জীববিজ্ঞানে প্রথম অধ্যায় পাঠ করে জীববিজ্ঞানের ভৌত শাখার সম্পকের্ জানতে পারে",
+  "question_number": 1,
+  "stimulus": "রাতুল জীববিজ্ঞানে প্রথম অধ্যায় পাঠ করে জীববিজ্ঞানের ভৌত শাখার সম্পকের্ জানতে পারে। বিভিন্ন বিজ্ঞানীর অবদান ও কাজের মাধ্যমে আজ আমরা পেয়েছি জীববিজ্ঞানের বিভিন্ন ফলিত শাখা।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফলিত শাখা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শৈবাল খাদ্য উৎপাদন করতে পারে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ভৌত শাখাসমূহের মাধ্যমে আমরা যা জানতে পারি তা বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষে উলিস্নখিত শাখার গুরম্নত্ব বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-1 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-1 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set1-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set1",
+  "question_text": "নিচের চিত্রদ্বয় দেখে প্রশ্নগুলোর উত্তর দাও: Q",
+  "question_number": 2,
+  "stimulus": "নিচের চিত্রদ্বয় দেখে প্রশ্নগুলোর উত্তর দাও: Q",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পেশি টিস্যু কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "স্কেলিটাল টিস্যু কীভাবে মস্ত্মিষ্ককে রÿা করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রেরQ চিহ্নিত অংশটির ঐরূপ অবস্থানের কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রA ওB-এর মধ্যে একটি পরিবহন কাজ ছাড়াও অন্যান্য জৈবিক কাজে কীভাবে ভূমিকা রাখে যুক্তিসহ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-1 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-1 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set1-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set1",
+  "question_text": "বরকত উলস্নাহ স্যার বিজ্ঞান ক্লাসে কোষ বিভাজন সম্পকের্ আলোচনা করছিলেন",
+  "question_number": 3,
+  "stimulus": "বরকত উলস্নাহ স্যার বিজ্ঞান ক্লাসে কোষ বিভাজন সম্পকের্ আলোচনা করছিলেন। তিনি বললেন, কোষ বিভাজনের একটি বিশেষ ধাপে নিউক্লিয়াসে অবস্থিত সুতার মতো অংশের সেন্ট্রোমিয়ার দুইভাগে ভাগ হয়ে যায়। ফলে বিভাজিত কোষের সংখ্যা অপরিবতির্ত থাকে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন ধরনের কোষ বিভাজন দ্বারা জননকোষ উৎপন্ন হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অ্যামাইটোসিস বলতে কী বোঝায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বরকত স্যারের বণির্ত বিশেষ ধাপটির সচিত্র বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বরকত স্যারের বণির্ত সুতার মতো অংশটির ভূমিকা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-1 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-1 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set1-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set1",
+  "question_text": "দশম শ্রেণির ছাত্রী বিপাশা গাজর খেতে পছন্দ করে",
+  "question_number": 4,
+  "stimulus": "দশম শ্রেণির ছাত্রী বিপাশা গাজর খেতে পছন্দ করে। গাজরে গস্নুকোজ থাকায় এটা তার কাজ করার শক্তি যোগায়। তার ছোট বোন তাকে প্রশ্ন করে গাছ বড় হবার জন্য শক্তি কীভাবে পায়? সে তার বোনকে জানায়, গাছও শ্বসন প্রক্রিয়ায় গস্নুকোজ থেকে শক্তি পায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফটোলাইসিস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "C উিদ্ভদ বলতে কী বুঝায়? 4",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিপাশার গৃহীত খাদ্য উপাদানের ২ অণু থেকে ক্রেবস চক্রে কী পরিমাণ শক্তি উৎপন্ন হয় ছকের মাধ্যমে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত প্রক্রিয়াটি বাধাগ্রস্ত্ম হলে উদ্ভিদের মধ্যে কী প্রভাব ফেলবে তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-1 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-1 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set1-cq-005",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set1",
+  "question_text": "বিপুল খুব ভালো স্বভাবের ছেলে ছিল",
+  "question_number": 5,
+  "stimulus": "বিপুল খুব ভালো স্বভাবের ছেলে ছিল। কিন্তু বয়ঃসন্ধিকালে পাড়ার কিছু খারাপ বন্ধুদের সংসগের্ পড়ে সে মাদকাসক্ত হয়ে পড়ে। বন্ধুদের ব্যবহৃত সিরিঞ্জের মাধ্যমে সে মাদক গ্রহণ শুরম্ন করে। ক্রমশ তার ওজন কমতে থাকে এবং জ্বর জ্বর ভাব ও শুকনা কাশিসহ দেহে নানা সমস্যা দেখা দিতে লাগল। ডাক্তারের কাছে গেলে ডাক্তার তাকে বলল, সে মরণ ব্যধিতে আক্রান্ত্ম হয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "AIDS কোন ধরনের ব্যাধি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বয়ঃসন্ধিকাল বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিপুলের রোগটি মানবদেহে কীভাবে সংক্রমিত হয়? আলোচনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিপুলের জীবনের শেষ পরিণতি কী হতে পারে বলে তুমি মনে কর? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-1 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-1 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set1-cq-006",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set1",
+  "question_text": "নিচেরচিত্রটি লÿ্য করোএবংপ্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 6,
+  "stimulus": "নিচেরচিত্রটি লÿ্য করোএবংপ্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "PCR এর পূণর্রূপ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জৈব বিবতর্ন বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A এর প্রধান উপাদানের ফিঙ্গার প্রিন্ট তৈরির কৌশল বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মানব সন্ত্মানের লিঙ্গ নিধার্রণে অ এর ভূমিকা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-1 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-1 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set1-cq-007",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set1",
+  "question_text": "(i) ঘাস→ ঘাসফড়িং→ ব্যাঙ→ সাপ→ ময়ূর (ii) শাকসবজি→ মানুষ",
+  "question_number": 7,
+  "stimulus": "(i) ঘাস→ ঘাসফড়িং→ ব্যাঙ→ সাপ→ ময়ূর (ii) শাকসবজি→ মানুষ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "খাদ্যজাল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বাস্তুতন্ত্রে ধাঙর বলতে কী বুঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রথম খাদ্যশৃঙ্খলে শক্তির প্রবাহ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কোন শৃঙ্খলটিতে শক্তির অপচয় কম হবে? বিশেস্নষণ কর। [সংÿিপ্ত-উত্তর অংশ:৭টি প্রশ্নের মধ্যে থেকে যেকোনো ৫টি সংÿিপ্তপ্রশ্নের উত্তর দাও, প্রতিটির মান—২]",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-1 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-1 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-1 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

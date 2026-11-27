@@ -1,0 +1,242 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-05-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রাসায়নিক বন্ধন",
+  "chapter_number": 5,
+  "chapter_name": "রাসায়নিক বন্ধন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-05",
+  "question_text": "X, Y এবং Z এ তিনটি মৌলের পারমাণবিক সংখ্যা যথাক্রমে9, 19 এবং 16।",
+  "question_number": 1,
+  "stimulus": "X, Y এবং Z এ তিনটি মৌলের পারমাণবিক সংখ্যা যথাক্রমে9, 19 এবং 16।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নিঃসরণ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রোপেন ও বিউটেন এর মধ্যে কোনটির ব্যাপনের হার বেশি এবং কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "X ও Y, X ও Z এবং Y ও Z মৌল জোড় তিনটির মধ্যে কী কী ধরনের বন্ধন গঠিত হয়? বন্ধনগুলোর গঠন দেখাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের মৌলগুলো দ্বারা গঠিত যৌগগুলোর তুলনামূলক পোলারিটি, গলনাঙ্ক, তড়িৎ পরিবাহিতা ও পানিতে দ্রাব্যতা ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 5 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-05-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রাসায়নিক বন্ধন",
+  "chapter_number": 5,
+  "chapter_name": "রাসায়নিক বন্ধন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-05",
+  "question_text": "L, M ওN তিনটি মৌল যেখানে L মৌলে চারটি শক্তিস্ত্মর,M মৌলে দুটি শক্তিস্ত্মর এবংN মৌলে দুটি শক্তিস্ত্মর বিদ্যমান। এদের সবের্শষ শক্তিস্ত্মরে ইলেকট্রন সংখ্যা যথাক্রমে2, 7 ও6টি।",
+  "question_number": 2,
+  "stimulus": "L, M ওN তিনটি মৌল যেখানে L মৌলে চারটি শক্তিস্ত্মর,M মৌলে দুটি শক্তিস্ত্মর এবংN মৌলে দুটি শক্তিস্ত্মর বিদ্যমান। এদের সবের্শষ শক্তিস্ত্মরে ইলেকট্রন সংখ্যা যথাক্রমে2, 7 ও6টি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রাসায়নিক বন্ধন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোনো মৌলের যোজনী ও যোজনী ইলেকট্রন ভিন্ন—ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "L ওM মৌলদ্বয়ের বন্ধন প্রক্রিয়া ডায়াগ্রামের সাহায্যে দেখাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "N উভয় ধরনের (আয়নিক ও সমযোজী) যৌগ গঠন করলেওL কখনো সমযোজী বন্ধন গঠন করে না যুক্তিসহ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 5 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-05-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রাসায়নিক বন্ধন",
+  "chapter_number": 5,
+  "chapter_name": "রাসায়নিক বন্ধন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-05",
+  "question_text": "A, B, M ক্রমিক মৌল তিনটির ইলেকট্রন বিন্যাস থেকে দেখা যায় যে,B এর অষ্টক পূণর্ আছে।A এর অষ্টক পূণর্ হতে যতটি ইলেকট্রন কম আছেM এর সবর্বহিস্থ স্ত্মরে তার দ্বিগুণ ইলেকট্রন আছে।B মৌলটি ৩য় পযাের্য়র মৌল। [উদ্",
+  "question_number": 3,
+  "stimulus": "A, B, M ক্রমিক মৌল তিনটির ইলেকট্রন বিন্যাস থেকে দেখা যায় যে,B এর অষ্টক পূণর্ আছে।A এর অষ্টক পূণর্ হতে যতটি ইলেকট্রন কম আছেM এর সবর্বহিস্থ স্ত্মরে তার দ্বিগুণ ইলেকট্রন আছে।B মৌলটি ৩য় পযাের্য়র মৌল। [উদ্দীপকের মৌলগুলো প্রচলিত সংকেত নয়।]",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বন্ধন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আইসোটোপ কী? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A এর সাথেM মৌলটি কোন ধরনের বন্ধন গঠন করে তা চিত্র দিয়ে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের মৌল তিনটি একই পযার্য়ভুক্ত কিনা এবং এদের পযার্য়বৃত্ত ধমর্ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 5 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-05-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রাসায়নিক বন্ধন",
+  "chapter_number": 5,
+  "chapter_name": "রাসায়নিক বন্ধন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-05",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: (i) Na + Cl → NaCl; 2 (ii) N + 3H → 2NH 2 2 3",
+  "question_number": 4,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: (i) Na + Cl → NaCl; 2 (ii) N + 3H → 2NH 2 2 3",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যারোমেটিক হাইড্রোকাবর্ন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মোল কাকে বলে?20 গ্রাম অক্সিজেনে কতটি পরমাণু আছে নিণর্য় কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের(ii) নং বিক্রিয়ার উৎপাদ যে বন্ধন দ্বারা গঠিত তার গঠন প্রক্রিয়া আলোচনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের(i) নং বিক্রিয়ার ১ম বিক্রিয়ক এবং উৎপাদ এর কোনটি কঠিন অবস্থায় বিদ্যুৎ পরিবহন করে এবং কোনটি করে না কেন?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 5 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

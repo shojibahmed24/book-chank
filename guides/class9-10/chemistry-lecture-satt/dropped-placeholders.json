@@ -1,0 +1,194 @@
+[
+ {
+  "id": "chemistry-lec-ch01-saq-001",
+  "type": "saq",
+  "chapter_number": 1,
+  "source_file": "2. SAQ Practice Sheet/chapter-1.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch10-saq-015",
+  "type": "saq",
+  "chapter_number": 10,
+  "source_file": "2. SAQ Practice Sheet/chapter-10.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch11-saq-008",
+  "type": "saq",
+  "chapter_number": 11,
+  "source_file": "2. SAQ Practice Sheet/chapter-11.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch12-saq-021",
+  "type": "saq",
+  "chapter_number": 12,
+  "source_file": "2. SAQ Practice Sheet/chapter-12.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch02-saq-018",
+  "type": "saq",
+  "chapter_number": 2,
+  "source_file": "2. SAQ Practice Sheet/chapter-2.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch03-saq-001",
+  "type": "saq",
+  "chapter_number": 3,
+  "source_file": "2. SAQ Practice Sheet/chapter-3.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch04-saq-001",
+  "type": "saq",
+  "chapter_number": 4,
+  "source_file": "2. SAQ Practice Sheet/chapter-4.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch05-saq-019",
+  "type": "saq",
+  "chapter_number": 5,
+  "source_file": "2. SAQ Practice Sheet/chapter-5.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch06-saq-001",
+  "type": "saq",
+  "chapter_number": 6,
+  "source_file": "2. SAQ Practice Sheet/chapter-6.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch07-saq-019",
+  "type": "saq",
+  "chapter_number": 7,
+  "source_file": "2. SAQ Practice Sheet/chapter-7.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch08-saq-001",
+  "type": "saq",
+  "chapter_number": 8,
+  "source_file": "2. SAQ Practice Sheet/chapter-8.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch09-saq-024",
+  "type": "saq",
+  "chapter_number": 9,
+  "source_file": "2. SAQ Practice Sheet/chapter-9.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch01-gyanmulok-001",
+  "type": "gyanmulok",
+  "chapter_number": 1,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-1.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch10-gyanmulok-023",
+  "type": "gyanmulok",
+  "chapter_number": 10,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-10.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch11-gyanmulok-032",
+  "type": "gyanmulok",
+  "chapter_number": 11,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-11.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch12-gyanmulok-020",
+  "type": "gyanmulok",
+  "chapter_number": 12,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-12.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch02-gyanmulok-031",
+  "type": "gyanmulok",
+  "chapter_number": 2,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-2.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch03-gyanmulok-001",
+  "type": "gyanmulok",
+  "chapter_number": 3,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-3.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch04-gyanmulok-001",
+  "type": "gyanmulok",
+  "chapter_number": 4,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-4.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch05-gyanmulok-023",
+  "type": "gyanmulok",
+  "chapter_number": 5,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-5.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch06-gyanmulok-001",
+  "type": "gyanmulok",
+  "chapter_number": 6,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-6.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch07-gyanmulok-028",
+  "type": "gyanmulok",
+  "chapter_number": 7,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-7.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch08-gyanmulok-001",
+  "type": "gyanmulok",
+  "chapter_number": 8,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-8.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ },
+ {
+  "id": "chemistry-lec-ch09-gyanmulok-047",
+  "type": "gyanmulok",
+  "chapter_number": 9,
+  "source_file": "3. Gyanmulok Practice Sheet/chapter-9.pdf",
+  "flag_note": "file has almost no extractable text (image-based); questions need OCR - no rows extracted",
+  "reason": "truly empty placeholder: question_text + options + guide_solution all empty, no question_number/marks/answer_key/stimulus; file image-based, flag says 'no rows extracted'"
+ }
+]

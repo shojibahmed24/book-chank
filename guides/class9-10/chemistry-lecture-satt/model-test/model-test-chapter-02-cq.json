@@ -1,0 +1,247 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-02-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পদার্থের অবস্থা",
+  "chapter_number": 2,
+  "chapter_name": "পদার্থের অবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-02",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: (i) মোম +O ⎯⎯→A + B + শক্তি 2(g) (ii) H + O ⎯⎯→B + শক্তি 2(g) 2(g)",
+  "question_number": 1,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: (i) মোম +O ⎯⎯→A + B + শক্তি 2(g) (ii) H + O ⎯⎯→B + শক্তি 2(g) 2(g)",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্ফুটনাঙ্ক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আয়োডিনকে তাপ দিলে সরাসরি বাষ্পে পরিণত হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "0C তাপমাত্রায়B যৌগের ভৌত অবস্থার কিরূপ পরিবতর্ন ঘটে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "(i) নং-এ ভৌত ও রাসায়নিক কিন্তু(ii) নং-এ শুধু রাসায়নিক পরিবতর্ন হয়-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 2 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-2.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-02-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পদার্থের অবস্থা",
+  "chapter_number": 2,
+  "chapter_name": "পদার্থের অবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-02",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: CO ⎯→ ⎯ CH4 2 wmwjÛvi- 1 wmwjÛvi- 2",
+  "question_number": 2,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: CO ⎯→ ⎯ CH4 2 wmwjÛvi- 1 wmwjÛvi- 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আন্ত্মঃআণবিক শক্তি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বরফ গলনের সময় এর তাপমাত্রার পরিবতর্ন হয় না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ২য় সিলিন্ডার থেকে কীভাবে ১ম সিলিন্ডারের গ্যাস পাবে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের উভয় সিলিন্ডারের মুখ এক সাথে খুলে দিলে কোনটি দ্রম্নত ছড়িয়ে পড়বে? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 2 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-2.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-02-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পদার্থের অবস্থা",
+  "chapter_number": 2,
+  "chapter_name": "পদার্থের অবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-02",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 3,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নিঃসরণ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মরিচা তৈরির রাসায়নিক সমীকরণটি লে",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্রের ÿেত্রে তাপীয় ও শীতলকরণ বক্র রেখা কেমন হতে পারে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের পদাথের্র পরিবতের্ বরফ নিলে লেখচিত্রে দুটি রেখা বেশি পাওয়া যাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 2 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-2.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-02-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "পদার্থের অবস্থা",
+  "chapter_number": 2,
+  "chapter_name": "পদার্থের অবস্থা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-02",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: ) ) C C F W D Y ) B E C Z ZvcgvÎv ( C ZvcgvÎv ( A X → mgq (wgwb‡U) → mgq (wgwb‡U) ZvcgvÎv ( 1bs 2bs",
+  "question_number": 4,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: ) ) C C F W D Y ) B E C Z ZvcgvÎv ( C ZvcgvÎv ( A X → mgq (wgwb‡U) → mgq (wgwb‡U) ZvcgvÎv ( 1bs 2bs",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তরল পদাথের্র অণুর অবস্থান কী রকম?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সব পদাথর্ই কিতিনটি ভৌত অবস্থায় থাকতে পারে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ১নং লেখচিত্রেBC এবংDE বরাবর তাপমাত্রা স্থির থাকে কেন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের উলিস্নখিত লেখচিত্রদ্বয় থেকে সংশিস্নষ্ট পদাথের্র ভৌত অবস্থার তুলনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 2 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-2.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

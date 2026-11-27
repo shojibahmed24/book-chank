@@ -1,0 +1,242 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-165-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-165",
+  "question_text": "A + পানি R + পানি+ S  সবুজ কণা ধারণা দেন",
+  "question_number": 2,
+  "stimulus": "A + পানি R + পানি+ S  সবুজ কণা ধারণা দেন। যার মাধ্যমে একটি জীব থেকে একটি নিদির্ষ্ট জিন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফসফরাইলেশন কাকে বলে? ১ বহনকারী DNA খন্ড পৃথক করে অন্য জীবে স্থানান্ত্মর করা সম্ভব।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গস্নাইকোলাইসিস বলতে কী বুঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বিক্রিয়াটি দিনের বেলা কীভাবে‘R’ উৎপন্ন",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "জীবজগতের অস্ত্মিত্বের ÿেত্রে উদ্দীপকের বিপাকীয়",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 165 (paper #165, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-165-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-165",
+  "question_text": "নিচের চিত্রটি লÿ কর ৭ নিচের চিত্রটি লÿ কর   P M Q N চিত্র :R",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্রটি লÿ কর ৭ নিচের চিত্রটি লÿ কর   P M Q N চিত্র :R",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রাফেজ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রক্ত সঞ্চালনে কপাটিকার ভূমিকা কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত ‘M’ চিহ্নিত অঙ্গটিতে খাদ্য",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের চিত্র- এর অনুপস্থিতিতে মানব দেহে অস্থি R",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 165 (paper #165, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-165-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-165",
+  "question_text": "অনিক অস্বাস্থ্যকর ও স্যাঁতসেঁতে পরিবেশে বসবাস করে",
+  "question_number": 4,
+  "stimulus": "অনিক অস্বাস্থ্যকর ও স্যাঁতসেঁতে পরিবেশে বসবাস করে। থেকে সরিয়ে নেই। এই ঘটনাটি ঘটে একটি বিশেষ টিস্যুর ধূমপানেও সে আসক্ত। ফলে সে জীবাণুর সংক্রমণে শ্বাসনালির মাধ্যমে এবং ঘটনাটি একটি আকস্মিক ক্রিয়া দ্বারা ঘটে। প্রদাহজনিত রোগে ভুগছে। পরবতীের্ত অসুস্থতাজনিত কারণে সে",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফাইটো হরমোন কী? ১ ডাক্তারের শরণাপন্ন হয়।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সেরিব্রাম ও সেরিবেলাম এর মধ্যে পাথর্ক্য লিখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত টিস্যুর গাঠনিক ও কাযর্করী এককের",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত আকস্মিক ঘটনাটি একটি বিশেষ ক্রিয়া",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 165 (paper #165, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-165-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-165",
+  "question_text": "নিচের চিত্রটি লÿ কর X Y চিত্র-X চিত্র-Y",
+  "question_number": 5,
+  "stimulus": "নিচের চিত্রটি লÿ কর X Y চিত্র-X চিত্র-Y",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভানার্লাইজেশন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শিমুল ফুলে কী ধরনের পরাগায়ন হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্র ‘X’ অংশের গ্যামেটোফাইটের উৎপত্তি",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের চিত্র ‘Y’ উদ্ভিদ কোষের অনন্য বৈশিষ্ট্য ",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 165 (paper #165, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [1, 6, 7, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

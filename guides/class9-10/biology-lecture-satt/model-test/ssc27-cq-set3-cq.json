@@ -1,0 +1,422 @@
+[
+ {
+  "id": "biology-lec-mt-ssc27-cq-set3-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set3",
+  "question_text": "রামিসা ও আদিব ক্লাস শেষে পুকুরের পাশ দিয়ে যাওয়ার সময় রামিসা আদিবকে বলল, এটা শাপলা ফুল",
+  "question_number": 1,
+  "stimulus": "রামিসা ও আদিব ক্লাস শেষে পুকুরের পাশ দিয়ে যাওয়ার সময় রামিসা আদিবকে বলল, এটা শাপলা ফুল। তখন আদিব বলল, না এটা শালুক ফুল। পরের দিন শিÿক ক্লাসে তাদের বিতকের্র বিষয়টা সমাধান করলেন। পুকুরে শৈবালের মতো দেখতে নীল রঙের এক ধরনের উদ্ভিদও জমে ছিল। রামিসা বলল, এ ধরনের জমে থাকা পানিতেই মশার বংশবিস্ত্মার ঘটে এবং ম্যালেরিয়ার প্রাদুভার্ব ঘটে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফানজাই রাজ্যের জীবদের বংশবৃদ্ধি ঘটে কী দিয়ে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তোমার বৈজ্ঞানিক নাম রোমান অÿরে কীভাবে লিখবে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে রামিসা ও আদিবের বিতকর্ শিÿক কিসের ভিত্তিতে সমাধান করে দিলেন? ব্যাখ্যাসহ লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পুকুরে আরও যে দুইটি জীব ছিল, জীবজগতে তাদের অবস্থান ভিন্ন বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-3 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-3 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set3-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set3",
+  "question_text": "নিচের চিত্রটি লÿ করে প্রশ্নগুলোর উত্তর দাও : A B",
+  "question_number": 2,
+  "stimulus": "নিচের চিত্রটি লÿ করে প্রশ্নগুলোর উত্তর দাও : A B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পিটুইটারি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অগ্ন্যাশয়ের কাজ উলেস্নখ কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মানবদেহে উদ্দীপনা তৈরিতে 'A' ও 'B' চিহ্নিত অংশটির ভূমিকা বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্রের কোষটির কাজের ব্যাঘাত ঘটলে মানবদেহে কী সমস্যা হতে পারে? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-3 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-3 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set3-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set3",
+  "question_text": "নিচের চিত্রদ্বয় দেখ এবং প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্রদ্বয় দেখ এবং প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যামাইটোসিস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উপরের কোনটিকে হ্রাসমূলক বিভাজন বলে এবং কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র-'ক' তে প্রদশির্ত কোষ বিভাজনের তৃতীয় পযার্য়টি বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উপরিউক্ত দুই প্রকার কোষ বিভাজনের তাৎপযর্ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-3 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-3 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set3-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set3",
+  "question_text": "সালোকসংশেস্নষণ প্রক্রিয়ায় উদ্ভিদ শকর্রা জাতীয় খাদ্য প্রস্তুত করে যা স্থিতিশক্তি হিসেবে সঞ্চিত থাকে",
+  "question_number": 4,
+  "stimulus": "সালোকসংশেস্নষণ প্রক্রিয়ায় উদ্ভিদ শকর্রা জাতীয় খাদ্য প্রস্তুত করে যা স্থিতিশক্তি হিসেবে সঞ্চিত থাকে। শ্বসন প্রক্রিয়ায় খাদ্যের স্থিতিশক্তি তাপ ও গতিশক্তিতে রূপান্ত্মরিত হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফটোফসফোরাইলেশন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "C ওC উিদ্্ভদ কী? 3 4",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত প্রক্রিয়া দুটির পাথর্ক্য নিরূপণ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত প্রক্রিয়ায় শক্তি উৎপাদন প্রক্রিয়ার ধাপগুলো ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-3 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-3 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set3-cq-005",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set3",
+  "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : A B",
+  "question_number": 5,
+  "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : A B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পরাগায়ন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "স্বপরাগায়ন ও পরপরাগায়নের পাথর্ক্য লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্র হতেB চিত্রের উপাদানটির উৎপত্তি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকেরB চিত্রের উপাদানটির উৎপত্তিতে মাইটোসিস কোষ বিভাজন অবশ্যই প্রয়োজন−বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-3 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-3 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set3-cq-006",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set3",
+  "question_text": "দীপ্তর বাবা সেলিম সাহেব একদিন ছেলেকে পড়াতে গিয়ে লÿ করলেন যে, দীপ্ত সঠিকভাবে কোনো রঙ চিনতে পারছে না",
+  "question_number": 6,
+  "stimulus": "দীপ্তর বাবা সেলিম সাহেব একদিন ছেলেকে পড়াতে গিয়ে লÿ করলেন যে, দীপ্ত সঠিকভাবে কোনো রঙ চিনতে পারছে না। ডাক্তারের কাছে নিয়ে গেলে ডাক্তার বললেন যে, তার চোখের পিগমেন্টের অভাব রয়েছে। দীপ্তর আরেক বন্ধু শুভ রক্তশূন্যতায় ভূগছে। তার লোহিত কণিকাগুলো নষ্ট হয়ে যাচ্ছে। দীপ্ত ও শুভ এর এই ধরনের সমস্যা বংশগতির মাধ্যমে বেশি হয়ে থাকে আবার অন্যান্য কারণেও হতে পারে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বংশগতির রাসায়নিক ভিত্তি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বংশগতি ছাড়াও ঔষধের প্রতিক্রিয়ায় বণার্ন্ধতা হতে পারে-কীভাবে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দীপ্তর বিভিন্ন রঙ না চেনার কারণ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শুভর সমস্যা কেন বংশগতির সাথে সম্পকর্যুক্ত বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-3 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-3 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-ssc27-cq-set3-cq-007",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc27-cq-set3",
+  "question_text": "নিচের চিত্র দুটি দেখে প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 7,
+  "stimulus": "নিচের চিত্র দুটি দেখে প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যান্টিবায়োসিস কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উৎপাদক থেকে সবোর্চ্চ খাদক পযর্ন্ত্ম শক্তি রূপান্ত্মরের সময় শক্তির অবস্থা কিরূপ হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "১ নং চিত্রটি যা বুঝাতে চেয়েছে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "২ নং চিত্রের ঘটনাটি বিশেস্নষণ কর। [সংÿিপ্ত-উত্তর অংশ:৭টি প্রশ্নের মধ্যে থেকে যেকোনো ৫টি সংÿিপ্তপ্রশ্নের উত্তর দাও, প্রতিটির মান—২]",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "#SSC 27/CQ/set-3 (CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used",
+  "guide_source": "#SSC 27/CQ/set-3 (CQ)",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/#SSC 27/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

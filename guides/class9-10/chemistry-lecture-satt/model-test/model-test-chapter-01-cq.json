@@ -1,0 +1,247 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-01-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রসায়নের ধারণা",
+  "chapter_number": 1,
+  "chapter_name": "রসায়নের ধারণা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-01",
+  "question_text": "নিচের ডায়াগ্রামটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও: চিত্র-১ ivmvqwbK e¯‘ কম্পিউটার ও ইলেকট্রনিক্স সামগ্রী ইলেকট্রনিক বজ্যর্ (i) (ii) বিদ্যুৎ উৎপাদন cybtPµvqb wPÎ - 2 `nb (i) Rxevk¥ R¡vjvwb পরিবেশ দূ",
+  "question_number": 1,
+  "stimulus": "নিচের ডায়াগ্রামটি লÿ্য করো এবং প্রশ্নগুলোর উত্তর দাও: চিত্র-১ ivmvqwbK e¯‘ কম্পিউটার ও ইলেকট্রনিক্স সামগ্রী ইলেকট্রনিক বজ্যর্ (i) (ii) বিদ্যুৎ উৎপাদন cybtPµvqb wPÎ - 2 `nb (i) Rxevk¥ R¡vjvwb পরিবেশ দূষণ (ii)",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অনুন্ধান ও গবেষণা কাজের তৃতীয় ধাপ কোনটি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পরিবেশ ও উন্নয়ন সম্মেলনের প্রতিপাদ্য বিষয়গুলো লে",
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "১নং চিত্র অনুযায়ী (i) ও (ii)নং ধাপদ্বয় রসায়ন চচার্র আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "২নং চিত্রানুযায়ী (ii)নং প্রক্রিয়া থেকে পরিত্রাণের উপায় কী হতে পারে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 1 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-1.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-01-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রসায়নের ধারণা",
+  "chapter_number": 1,
+  "chapter_name": "রসায়নের ধারণা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-01",
+  "question_text": "আমাদের দৈনন্দিন জীবনে সাবর্ÿণিক ব্যবহৃত রাসায়নিক বস্তুগুলোর মধ্যে কাঠ, প্রাকৃতিক গ্যাস, কয়লা, পেট্রোলিয়াম, কীটনাশক, সার, ডিটারজেন্ট, পলিমার সামগ্রী, অ্যারোসল, সাবান, শ্যাম্পু, অ্যান্টিবায়োটিক, ভিটামিন",
+  "question_number": 2,
+  "stimulus": "আমাদের দৈনন্দিন জীবনে সাবর্ÿণিক ব্যবহৃত রাসায়নিক বস্তুগুলোর মধ্যে কাঠ, প্রাকৃতিক গ্যাস, কয়লা, পেট্রোলিয়াম, কীটনাশক, সার, ডিটারজেন্ট, পলিমার সামগ্রী, অ্যারোসল, সাবান, শ্যাম্পু, অ্যান্টিবায়োটিক, ভিটামিন, প্রসাধন সামগ্রী ইত্যাদি উলেস্নখযোগ্য।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কাবর্ন কণা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাসায়নিক বস্তুর অতিরিক্ত ব্যবহারের কুফল কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলিস্নখিত বস্তুসমূহের মধ্যে জ্বালানি হিসেবে ব্যবহৃত পদাথর্গুলো কীভাবে ÿতিকারক গ্যাস সৃষ্টি করে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত রাসায়নিক পদাথর্ কীভাবে পরিবেশ দূষিত করে? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 1 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-1.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-01-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রসায়নের ধারণা",
+  "chapter_number": 1,
+  "chapter_name": "রসায়নের ধারণা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-01",
+  "question_text": "ঢাকার নিমতলীতে অসতকর্তামূলকভাবে রÿিত রাসায়নিক দ্রব্যের গুদামের পাশে বিয়ের অনুষ্ঠানের রান্না করার জন্য রাসায়নিক দ্রব্যের বিস্ফোরণ ও অগ্নিকা-ে শতাধিক লোক প্রাণ হারিয়েছিল।",
+  "question_number": 3,
+  "stimulus": "ঢাকার নিমতলীতে অসতকর্তামূলকভাবে রÿিত রাসায়নিক দ্রব্যের গুদামের পাশে বিয়ের অনুষ্ঠানের রান্না করার জন্য রাসায়নিক দ্রব্যের বিস্ফোরণ ও অগ্নিকা-ে শতাধিক লোক প্রাণ হারিয়েছিল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পেট্রোলিয়ামের দহন কী ধরনের পরিবতর্ন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জাতিসংঘের উদ্যোগে পরিবেশ ও উন্নয়ন নামের অনুষ্ঠিত সম্মেলনের প্রতিপাদ্য বিষয় কী ছিল?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে উলেস্নখিত নিমতলীর ঘটনাটির সাথে রাসায়নিক দ্রব্যের সতকর্তামূলক সংরÿণের সম্পকির্ট ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "নিমতলীর ঘটনার পরিপ্রেÿিতে রাসায়নিক দ্রব্যের সাবর্জনীন সাংকেতিক চিহ্ন ব্যবহারের যথাথর্তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 1 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-1.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-01-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "রসায়নের ধারণা",
+  "chapter_number": 1,
+  "chapter_name": "রসায়নের ধারণা",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-01",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: কাজের পরিকল্পনা পরীÿণ ও তথ্য weÁvb I gvbe বিষয়বস্তু নিধার্রণ cÖYqb DcvË msMÖn কল্যাণে প্রভাব বিষয়বস্তু সম্পকের্ ফলাফল সম্পকের্ Z_¨- DcvË Gi সম্যক জ্ঞানঅজর",
+  "question_number": 4,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: কাজের পরিকল্পনা পরীÿণ ও তথ্য weÁvb I gvbe বিষয়বস্তু নিধার্রণ cÖYqb DcvË msMÖn কল্যাণে প্রভাব বিষয়বস্তু সম্পকের্ ফলাফল সম্পকের্ Z_¨- DcvË Gi সম্যক জ্ঞানঅজর্ন AvMvg aviYvKiY সংগঠন ও বিশেস্নষণ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আকরিক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অনুসন্ধান ও গবেষণার ২য় ধাপের প্রয়োজনীয়তা কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলেস্নখিত দৃশ্যকল্পটির ৩য় ধাপের গুরম্নত্ব ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'শেষ ধাপটির জন্য সমগ্র প্রক্রিয়াটির অবদান অপরিসীম'—বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 1 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-1.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,247 @@
+[
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-11-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "খনিজ সম্পদ: জীবাশ্ম",
+  "chapter_number": 11,
+  "chapter_name": "খনিজ সম্পদ: জীবাশ্ম",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-11",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: ফামেের্ন্টশন cvwb AcmviY গস্নুকোজ P Q",
+  "question_number": 1,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: ফামেের্ন্টশন cvwb AcmviY গস্নুকোজ P Q",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিথাইলিন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিস্নচিংপাউডার কীভাবে জীবাণু ধ্বংস করে-সমীকরণসহ দেখাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বিক্রিয়াসমূহ রাসায়নিক সমীকরণসহ দেখাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিক্রিয়ার ১ম ধাপেP যৌগের সাথে যে গ্যাসটি উৎপন্ন হয় সেটি কীভাবে শনাক্ত করবে-বিক্রিয়াসহ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 11 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-11.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-11-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "খনিজ সম্পদ: জীবাশ্ম",
+  "chapter_number": 11,
+  "chapter_name": "খনিজ সম্পদ: জীবাশ্ম",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-11",
+  "question_text": "দৈনন্দিন কাজে যে সকল দ্রব্যাদি ব্যবহার করি তার বেশির ভাগই পলিমার। পলিমার দুই ধরনের। অ্যালকিন, অ্যালডিহাইড, অ্যালকোহল, অ্যামিন, জৈব এসিডের পলিমারকরণ বিক্রিয়ার মাধ্যমে পস্নাস্টিক প্রস্তুত করা হয়।",
+  "question_number": 2,
+  "stimulus": "দৈনন্দিন কাজে যে সকল দ্রব্যাদি ব্যবহার করি তার বেশির ভাগই পলিমার। পলিমার দুই ধরনের। অ্যালকিন, অ্যালডিহাইড, অ্যালকোহল, অ্যামিন, জৈব এসিডের পলিমারকরণ বিক্রিয়ার মাধ্যমে পস্নাস্টিক প্রস্তুত করা হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পলিমারকরণ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পলিমার ও মনোমার কী ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "যুত পলিমারকরণ ও ঘনীভবন পলিমারকরণের মধ্যে পাথর্ক্য লে",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "ঘ",
+    "text": "নাইলন একটি ঘনীভবন পলিমার-ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 11 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-11.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-11-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "খনিজ সম্পদ: জীবাশ্ম",
+  "chapter_number": 11,
+  "chapter_name": "খনিজ সম্পদ: জীবাশ্ম",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-11",
+  "question_text": "শামীমা বাজার থেকে পলিথিন ব্যাগে কিছু খেলনা কিনে আনল। তার বড় বোন রেহানা শামীমাকে বলল, সরকার পলিথিন ব্যাগের ব্যবহার নিষিদ্ধ করেছে। তারপর রেহানা পলিথিন নিষিদ্ধ করার কারণ ব্যাখ্যা করে।",
+  "question_number": 3,
+  "stimulus": "শামীমা বাজার থেকে পলিথিন ব্যাগে কিছু খেলনা কিনে আনল। তার বড় বোন রেহানা শামীমাকে বলল, সরকার পলিথিন ব্যাগের ব্যবহার নিষিদ্ধ করেছে। তারপর রেহানা পলিথিন নিষিদ্ধ করার কারণ ব্যাখ্যা করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পলিমারকরণ বিক্রিয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পলিভিনাইল ক্লোরাইড (PVC) কীভাবে উৎপন্ন করা হয়, ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "LDPE ওHDPE কাকে বলে? কীভাবে উৎপন্ন করা হয়, ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"নাইলন একটি ঘনীভবন পলিমারের উদাহরণ।\"-উক্তিটির যথাথর্তা বিক্রিয়াসহ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 11 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-11.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-model-test-chapter-11-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": "খনিজ সম্পদ: জীবাশ্ম",
+  "chapter_number": 11,
+  "chapter_name": "খনিজ সম্পদ: জীবাশ্ম",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-11",
+  "question_text": "দুই কাবর্ন যুক্ত একটি যৌগA জারিত করেB যৌগ পাওয়া গেল। যৌগকে আবার জারিত করেC যৌগ পাওয়া গেল।",
+  "question_number": 4,
+  "stimulus": "দুই কাবর্ন যুক্ত একটি যৌগA জারিত করেB যৌগ পাওয়া গেল। যৌগকে আবার জারিত করেC যৌগ পাওয়া গেল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভিনেগার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জৈব এসিডকে খাদ্য সংরÿক বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A যৌগটি থেকে অ্যালকিন যৌগ পাওয়া সম্ভব-ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A ওC শ্রেণির যৌগ থেকে পলিমার প্রস্তুত করা যায়-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Chemistry Chapter 11 Model Test CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/5. Model Test/CQ/chapter-11.pdf",
+  "key_format": null,
+  "source_file": "5. Model Test/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

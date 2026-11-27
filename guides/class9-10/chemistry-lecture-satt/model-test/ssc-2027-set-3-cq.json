@@ -1,0 +1,437 @@
+[
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-3-cq-001",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-3",
+  "question_text": "শ্রেণিকÿে বিতকর্ অনুষ্ঠানে লাল দল বলল \"পরমাণুর নিউক্লিয়াসকে কেন্দ্র করে কতগুলো বৃত্তাকার স্থির কÿপথে ইলেকট্রনগুলো ঘুরতে থাকে।\" কিন্তু সবুজ দল বলল, \"সৌরজগতের সূযের্ক কেন্দ্র করে গ্রহগুলোর ন্যায় নিউক্লি",
+  "question_number": 1,
+  "stimulus": "শ্রেণিকÿে বিতকর্ অনুষ্ঠানে লাল দল বলল \"পরমাণুর নিউক্লিয়াসকে কেন্দ্র করে কতগুলো বৃত্তাকার স্থির কÿপথে ইলেকট্রনগুলো ঘুরতে থাকে।\" কিন্তু সবুজ দল বলল, \"সৌরজগতের সূযের্ক কেন্দ্র করে গ্রহগুলোর ন্যায় নিউক্লিয়াসকে কেন্দ্র করে ইলেক্ট্রনগুলো ঘুরতে থাকে।\"",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফিটকিরির সংকেতটি লি",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "খ",
+    "text": "তেঁতুল দ্বারা পিতলের তৈরি সামগ্রী পরিষ্কারকরণের রসায়ন ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের লাল দলটি পরমাণু সম্পকির্ত কোন বিজ্ঞানীর প্রস্ত্মাবনাকে প্রতিফলিত করে? কারণসহ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পরমাণুর গঠন ব্যাখ্যায় লাল ও সবুজ উভয় দলের মতামত বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-3-cq-002",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-3",
+  "question_text": "টুম্পা রসায়ন ল্যাবে এসে দেখল দুটি মৌল পাশাপাশি রাখা আছে। যারা সক্রিয়তার দিক থেকে সম্পূণর্ বিপরীত। পযার্য় সারণিতেও এরা ক্রম বজায় রেখেছে যাদের দ্বিতীয়টির ইলেকট্রন বিন্যাস2, 8, 8, 1.",
+  "question_number": 2,
+  "stimulus": "টুম্পা রসায়ন ল্যাবে এসে দেখল দুটি মৌল পাশাপাশি রাখা আছে। যারা সক্রিয়তার দিক থেকে সম্পূণর্ বিপরীত। পযার্য় সারণিতেও এরা ক্রম বজায় রেখেছে যাদের দ্বিতীয়টির ইলেকট্রন বিন্যাস2, 8, 8, 1.",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "Rb কী প্রকৃতির মৌল?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গ্রম্নপ11 তে অবস্থিত মৌলগুলোকে মুদ্রাধাতু বলা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "টুম্পার দেখা দু'টি মৌলের সক্রিয়তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের মৌল দু'টি পযার্য় সারণির মূলভিত্তির আলোচনায় কীভাবে যুক্ত তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-3-cq-003",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-3",
+  "question_text": "খাদ্য লবণ তৈরি করার জন্য26.5g সোডিয়াম কাবের্নটের সাথে36.5g হাইড্রোক্লোরিক এসিডের বিক্রিয়া করানো হলো।",
+  "question_number": 3,
+  "stimulus": "খাদ্য লবণ তৈরি করার জন্য26.5g সোডিয়াম কাবের্নটের সাথে36.5g হাইড্রোক্লোরিক এসিডের বিক্রিয়া করানো হলো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পটাসিয়াম পারম্যাঙ্গানেটে ম্যাঙ্গানিজের জারণ সংখ্যা নিণর্য় কর।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ইলেকট্রন বিন্যাস দেখিয়ে ফসফরাসের পরিবতর্নশীল যোজ্যতা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সমতাবিধানসহ উদ্দীপকের বিক্রিয়াটি সম্পন্ন কর। বিক্রিয়ায় কত গ্রাম খাদ্য লবণ তৈরি হবে এবং কোন বিক্রিয়কের কতটুকু অবশিষ্ট থাকবে নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত বিক্রিয়ায় প্রমাণ তাপমাত্রা ও চাপে কত লিটার কাবর্ন ডাইঅঙ্াইড উৎপন্ন হবে? সম আয়তনের কাবর্ন ডাইঅঙ্াইড পেতে কত গ্রাম চুনাপাথর পোড়াতে হবে?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-3-cq-004",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-3",
+  "question_text": "নিচের ছকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : মৌল পযার্য় শ্রেণি A 2 17 B 4 1",
+  "question_number": 4,
+  "stimulus": "নিচের ছকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : মৌল পযার্য় শ্রেণি A 2 17 B 4 1",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মৌলের পরমাণুকে কিসের সাহায্যে প্রকাশ করা হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অধাতুর যোজনী এবং যোজনী ইলেকট্রন ভিন্ন ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত মৌল দুটি কীভাবে যৌগ গঠন করে তা ডায়াগ্রামের সাহায্যে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'AB যৌগটি পোলার দ্রাবকে দ্রবীভূত হয়'- আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-3-cq-005",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-3",
+  "question_text": "নিচের বিক্রিয়াগুলো লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : (i) AlCl (s) + 3H O(l) → Al(OH) (s) + 3HCl(aq) 3 2 3 (ii) NaCl(aq) + AgNO (aq) → NaNO (aq) + AgCl 3 3 (iii) MgCl + 7 H O → MgCl .7 H O 2 2 2 2 (iv)",
+  "question_number": 5,
+  "stimulus": "নিচের বিক্রিয়াগুলো লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : (i) AlCl (s) + 3H O(l) → Al(OH) (s) + 3HCl(aq) 3 2 3 (ii) NaCl(aq) + AgNO (aq) → NaNO (aq) + AgCl 3 3 (iii) MgCl + 7 H O → MgCl .7 H O 2 2 2 2 (iv) Mg + CuSO → MgSO + Cu 4 4",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নন-রেডক্স বিক্রিয়া কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "(iv) নং বিক্রিয়াটিকোন ধরনের বিক্রিয়া? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "(i) নং ও(iii) নং বিক্রিয়ার মধ্যে পাথর্ক্য লে",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "ঘ",
+    "text": "(ii) নং বিক্রিয়াটি নন-রেডক্স বিক্রিয়া-ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-3-cq-006",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-3",
+  "question_text": "নিচের ছকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : যৌগA যৌগB যৌগC C H C H C H (OH) 2 6 2 4 2 4 2",
+  "question_number": 6,
+  "stimulus": "নিচের ছকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : যৌগA যৌগB যৌগC C H C H C H (OH) 2 6 2 4 2 4 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জৈব যৌগ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ট্রিফয়েল চিহ্ন দ্বারা কী বোঝানো হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের কোন যৌগটি ব্রোমিন পানির দ্রবণকে বণর্হীন করবে? কারণসহ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "B থেকেA ওC তৈরি করা সম্ভব কি?-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "chemistry-lec-mt-ssc-2027-set-3-cq-007",
+  "book_id": "class9-10-chemistry-lecture",
+  "subject": "রসায়ন",
+  "subject_slug": "chemistry",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc-2027-set-3",
+  "question_text": "দৈনন্দিন কাজে যে সকল দ্রব্যাদি ব্যবহার করি তার বেশির ভাগই পলিমার। পলিমার দুই ধরনের। অ্যালকিন, অ্যালডিহাইড, অ্যালকোহল, অ্যামিন, জৈব এসিডের পলিমারকরণ বিক্রিয়ার মাধ্যমে পস্নাস্টিক প্রস্তুত করা হয়।",
+  "question_number": 7,
+  "stimulus": "দৈনন্দিন কাজে যে সকল দ্রব্যাদি ব্যবহার করি তার বেশির ভাগই পলিমার। পলিমার দুই ধরনের। অ্যালকিন, অ্যালডিহাইড, অ্যালকোহল, অ্যামিন, জৈব এসিডের পলিমারকরণ বিক্রিয়ার মাধ্যমে পস্নাস্টিক প্রস্তুত করা হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 12,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পলিমারকরণ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পলিমার ও মনোমার কী ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "যুত পলিমারকরণ ও ঘনীভবন পলিমারকরণের মধ্যে পাথর্ক্য লে",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": 2
+   },
+   {
+    "part": "ঘ",
+    "text": "নাইলন একটি ঘনীভবন পলিমার-ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Chemistry Model Test Set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "5 parts extractable (extra markers in stimulus?)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Chemistry/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "key_format": null,
+  "source_file": "#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

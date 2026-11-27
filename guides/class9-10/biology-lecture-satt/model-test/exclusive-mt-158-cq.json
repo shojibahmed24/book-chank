@@ -1,0 +1,362 @@
+[
+ {
+  "id": "biology-lec-mt-exclusive-mt-158-cq-001",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-158",
+  "question_text": "জীবজগৎ",
+  "question_number": 1,
+  "stimulus": "জীবজগৎ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নেস্টেড হায়ারাকির্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বলতে কী বোঝায়? ব্যাখ্যা কর। ২ 3D",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্র M এর 'x' অংশটি গঠনগত ও কাযর্গত a b c d e দিক দিয়ে সবচেয়ে গুরম্নত্বপূণর্ ব্যাখ্যা কর। ৩ ব্যাকটেরিয়া অ্যামিবা মাশরম্নম কাঁঠাল গাছ মানুষ",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের চিত্রN এককভাবেই স্নায়ু তাড়না পরিবহনে",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 158 (paper #158, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-158-cq-002",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-158",
+  "question_text": "নিচের চিত্র দুটি লÿ কর C. ফিটাস রক্তরস D. মানব শিশু চিত্র : ১ চিত্র : ২ রক্তকণিক",
+  "question_number": 3,
+  "stimulus": "নিচের চিত্র দুটি লÿ কর C. ফিটাস রক্তরস D. মানব শিশু চিত্র : ১ চিত্র : ২ রক্তকণিক",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "SDP কী? ১ চিত্রx চিত্রy",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিষেকের মৌলিক তাৎপযর্গুলো লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্র-১ এর লেখচিত্রের হতে এর বিকাশের ধাপসমূহ",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র-২ এর নিষেক পরবতীর্ পরিবতর্ন জীবকূলকে টিকিয়ে",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 158 (paper #158, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক mark not printed; standard 1 used; part গ mark not printed; standard 3 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-158-cq-003",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-158",
+  "question_text": "লতিফার বাবা দীঘির্দন যাবৎ উচ্চরক্তচাপ ও ডায়াবেটিসে আক্রান্ত্ম",
+  "question_number": 4,
+  "stimulus": "লতিফার বাবা দীঘির্দন যাবৎ উচ্চরক্তচাপ ও ডায়াবেটিসে আক্রান্ত্ম। A বেশ কিছুদিন যাবৎ তার মুত্রের পরিমাণ কমে যাওয়ায় ডাক্তার ধারণা করলেন যে, তার প্রধান রেচন অঙ্গটি বিকল হয়ে গেছে। ০. াশী ংস ্রাণী রক্তে অতিরিক্ত ক্রিয়েটিনিনের উপস্থিতি দ্বারা নিশ্চিত হয়ে চিকিৎসা ১ মা প হিসাবে ডাক্তার একটি বৈজ্ঞানিক উপায়ের কথা জানালেন। ১ ছোট মাছ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "HDL কে ভালো কোলেস্টেরল বলা হয় কেন? ১ ১০ মশার শূককীট জ্যুপস্নাঙ্কটন",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অস্থিওপোরোসিস বলতে কী বুঝ? ২ ১০০ উৎপাদক ও",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "লতিফার বাবার বিকল হওয়া অঙ্গটির সচিত্র গঠন বণর্না কর। ৩ ফাইটোপস্নাঙ্কটন",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে বণির্ত ডাক্তারের চিকিৎসা পদ্ধতিটি কতটুকু B ভূমি C ফলপ্রসূ ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 158 (paper #158, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part গ mark not printed; standard 3 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-158-cq-004",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-158",
+  "question_text": "নিচের চিত্র দুটি লÿ কর",
+  "question_number": 5,
+  "stimulus": "নিচের চিত্র দুটি লÿ কর",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": null,
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "অ্যান্টিবায়োসিস কাকে বলে? ২ x",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের পিরামিডের ভূমিতে অবস্থিত উপাদানটি বেড়ে গেলে বাস্তুতন্ত্রে কী ধরনের প্রভাব দেখা দেবে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের পিরামিডে একমুখী শক্তি প্রবাহ প্রদশির্ত চিত্রM চিত্রN হয়েছে। বিষয়টির যৌক্তিকতা বিশেস্নষণ কর। ৪ ১৬৪ SSC জীববিজ্ঞান",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 158 (paper #158, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক missing; part খ mark not printed; standard 2 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-158-cq-005",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-158",
+  "question_text": "2",
+  "question_number": 6,
+  "stimulus": "2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যক্ষ্ণার জীবাণুটির নাম লিখ। ১ 2n 2n",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিউমোনিয়া রোগের লÿণগুলো কী? ২ 2n 2n n n",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের লেখচিত্রে প্রদশির্ত তন্ত্রের প্রধান অঙ্গটির গঠন চিত্রক চিত্রখ বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের রাজ্যগুলো ক্রমান্বয়ে উন্নততর বৈশিষ্ট্য লাভ বায়ু ফুসফুস অ্যালভিওলাস রক্ত করেছে ধারণাটির যৌক্তিকতা বিশেস্নষণ কর। ৪ CO 2 ২ লেখচিত্র : শ্বসনতন্ত্র ও গ্যাসীয় বিনিময়  নিচের চিত্র দুটি লÿ কর",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 158 (paper #158, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "part ক mark not printed; standard 1 used; part খ mark not printed; standard 2 used; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "biology-lec-mt-exclusive-mt-158-cq-006",
+  "book_id": "class9-10-biology-lecture",
+  "subject": "জীববিজ্ঞান",
+  "subject_slug": "biology",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "exclusive-mt-158",
+  "question_text": "নিচের চিত্র দুটি লÿ কর",
+  "question_number": 7,
+  "stimulus": "নিচের চিত্র দুটি লÿ কর",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": null,
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": null,
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": null,
+    "marks": null
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কোষ বিভাজন 'ক' এর প্রথম ও শেষ ডিম্বাণু শুক্রাণু A. পযার্য়টিতে বিপরীত কাযার্বলী পযার্য়ক্রমে সংগঠিত হয়। যথাথর্ যুক্তিসহ বিশেস্নষণ কর। ৪ জাইগোট B.",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Model Test/Biology 18-23 exclusive MT 158 (paper #158, CQ)",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "part ক missing; part খ missing; part গ missing; part ঘ mark not printed; standard 4 used; 2-column interleave: parts by first-occurrence; verify against page; CQ sets [2, 8] not found in text layer (image-only or marker unreadable)",
+  "guide_source": "Test paper/Biology 18-23",
+  "key_format": null,
+  "source_file": "2. SSC Science/SSC Biology/Test paper/Biology 18-23.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
