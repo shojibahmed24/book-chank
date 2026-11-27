@@ -1,0 +1,242 @@
+[
+ {
+  "id": "islam-lec-mt-model-test-chapter-5-cq-001",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "আদর্শ জীবনচরিত",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-5",
+  "question_text": "গড়ে তুলল। সে নিজেও এ সংগঠনের একজন সদস্য।",
+  "question_number": 1,
+  "stimulus": "গড়ে তুলল। সে নিজেও এ সংগঠনের একজন সদস্য।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হিলফুল ফুযুল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উন্নত সমাজ গঠনে তরম্নণদের ভূমিকা উলেস্নখ কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ছগির সংগঠনের সদস্য হওয়ায় কীভাবে সমাজের দায়িত্ব পালন করার সুযোগ পাচ্ছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে ছগিরের পদ্ধতি অনুসরণ করে সমাজে কি শান্ত্মি প্রতিষ্ঠা করা সম্ভব? পাঠ্যপুস্ত্মকের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Model Test Chapter 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no printed solution in source (model test)",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-model-test-chapter-5-cq-002",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "আদর্শ জীবনচরিত",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-5",
+  "question_text": "নিষ্ঠুর। তুচ্ছ কারণে একে অপরকে হত্যা করে। গ্রামের দুটি বংশের মধ্যে সংঘষর্ লেগেই থাকে। শত শত লোক এতে মারা যাচ্ছে। এ অবস্থা অবলোকন করে সাঈদুল নামে এক যুবক 'পরিত্রাণ' নামে একটি সংগঠন তৈরি করে এলাকায় শান্ত্মি স্থাপনের চেষ্টা করে।",
+  "question_number": 2,
+  "stimulus": "নিষ্ঠুর। তুচ্ছ কারণে একে অপরকে হত্যা করে। গ্রামের দুটি বংশের মধ্যে সংঘষর্ লেগেই থাকে। শত শত লোক এতে মারা যাচ্ছে। এ অবস্থা অবলোকন করে সাঈদুল নামে এক যুবক 'পরিত্রাণ' নামে একটি সংগঠন তৈরি করে এলাকায় শান্ত্মি স্থাপনের চেষ্টা করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন গোত্র বিশুদ্ধ আরবিতে কথা বলত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'উছওয়া' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ইসলাম-পূবর্ যুগের কোন অবস্থার সাথে জাগুরা গ্রামের অবস্থার মিল রয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মুহাম্মদ (স)-এর একটি পদÿেপের আলোকে 'পরিত্রাণ' সংগঠনটির কাযর্ক্রম বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Model Test Chapter 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no printed solution in source (model test)",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-model-test-chapter-5-cq-003",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "আদর্শ জীবনচরিত",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-5",
+  "question_text": "দেখছি না। সালমা বলল, আমি মনে করি, বতর্মান শাসকশ্রেণি যদি হযরত উমর (রা)-এর ন্যায় রাষ্ট্র পরিচালনা করেন তাহলে আবার বিশ্বব্যাপী শান্ত্মি প্রতিষ্ঠা হবেই। কেননা, 'উমর (রা) ছিলেন সাম্য ও মানবতাবোধের মহান আদশর্।",
+  "question_number": 3,
+  "stimulus": "দেখছি না। সালমা বলল, আমি মনে করি, বতর্মান শাসকশ্রেণি যদি হযরত উমর (রা)-এর ন্যায় রাষ্ট্র পরিচালনা করেন তাহলে আবার বিশ্বব্যাপী শান্ত্মি প্রতিষ্ঠা হবেই। কেননা, 'উমর (রা) ছিলেন সাম্য ও মানবতাবোধের মহান আদশর্।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উমর (রা) কে ছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হযরত উমর (রা)-এর ন্যায়বিচারের একটি উদাহরণ দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বতর্মান শাসকশ্রেণি কীভাবে উমর (রা)-এর পদাঙ্ক অনুসরণ করতে পারে? বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'উমর (রা) ছিলেন সাম্য ও মানবতাবোধের মহান আদশর্।' উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Model Test Chapter 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no printed solution in source (model test)",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-model-test-chapter-5-cq-004",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "আদর্শ জীবনচরিত",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "model-test-chapter-5",
+  "question_text": "মধ্যে যিনি শল্য চিকিৎসার দিশারি হিসেবে আজও আমাদের মাঝে স্মরণীয় হয়ে আছেন এবং ইউনানী শাস্ত্রে যাঁর অসাধারণ অবদান রয়েছে তাঁর আদশর্ অনুকরণে একজন চিকিৎসাবিদ হতে চাই, মানবতার সেবা করতে চাই। এ লÿে আমি মেডিকেল কলেজে ভতির্ হতে ইচ্ছুক।",
+  "question_number": 4,
+  "stimulus": "মধ্যে যিনি শল্য চিকিৎসার দিশারি হিসেবে আজও আমাদের মাঝে স্মরণীয় হয়ে আছেন এবং ইউনানী শাস্ত্রে যাঁর অসাধারণ অবদান রয়েছে তাঁর আদশর্ অনুকরণে একজন চিকিৎসাবিদ হতে চাই, মানবতার সেবা করতে চাই। এ লÿে আমি মেডিকেল কলেজে ভতির্ হতে ইচ্ছুক।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কিতাবুল মানসুরি গ্রন্থের রচয়িতা কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'ইসলাম জ্ঞান-বিজ্ঞান ও মানবকল্যাণের ধমর্'—কথাটি বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ইরফান যাকে অনুসরণ করে চিকিৎসাবিজ্ঞানী হতে চায় তাঁর অবদান ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'ইরফানের মেডিকেলে ভতির্র উদ্দেশ্যটি সত্যিই প্রশংসনীয়'—ইসলামের দৃষ্টিতে আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Model Test Chapter 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no printed solution in source (model test)",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/CQ/chapter-5.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,662 @@
+[
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-001",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "প্রেÿাপট-১ :আদ্যÿর সু নামক প্রতিষ্ঠানের কোনো কমর্কতার্র পেশাগত প্রশিÿণ, এমনকি ডিপেস্নামা সনদ নেই। তারপরও তাঁরা চিকিৎসক ও সেবিকা সেজেস্পশর্কাতর পরীÿা চালাচ্ছেন ও লোকজনকে টিকা দিচ্ছেন। এই সুযোগে তাঁরা হাজার হাজার টাকা কামিয়ে নিচ্ছেন। প্রেÿাপট-২ : অ্যান্টিবায়োটিকের অপব্যবহার এভাবে বাড়তে থাকলে খুব শীঘ্র",
+  "question_number": 1,
+  "stimulus": "প্রেÿাপট-১ :আদ্যÿর সু নামক প্রতিষ্ঠানের কোনো কমর্কতার্র পেশাগত প্রশিÿণ, এমনকি ডিপেস্নামা সনদ নেই। তারপরও তাঁরা চিকিৎসক ও সেবিকা সেজেস্পশর্কাতর পরীÿা চালাচ্ছেন ও লোকজনকে টিকা দিচ্ছেন। এই সুযোগে তাঁরা হাজার হাজার টাকা কামিয়ে নিচ্ছেন। প্রেÿাপট-২ : অ্যান্টিবায়োটিকের অপব্যবহার এভাবে বাড়তে থাকলে খুব শীঘ্রই মানবজাতি জীবাণুর বিরম্নদ্ধে প্রাণরÿার যুদ্ধে পরাস্ত্মহবে। গৃহপালিত পশুপাখিকে রোগমুক্ত রেখে কম সময়ে অধিক উৎপাদনের লেÿ্য অ্যান্টিবায়োটিকের অবাধ ব্যবহার হয়ে আসছে। পোলট্রিতে উৎপাদন বাড়াতে অথার্ৎ পোলট্রির দৈহিক বৃদ্ধির জন্য অনেক খামারি গ্রোথ প্রোমোটার হিসেবে অ্যান্টিবায়োটিক ব্যবহার করে। অ্যান্টিবায়োটিক প্রয়োগকৃত ডিমে প্রায় ৩০০ মাইক্রোগ্রাম কোলেস্টেরল পাওয়া যায়, যা হৃদরোগীর জন্য খুবইÿতিকর।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আলস্নাহর নিকট একমাত্র জীবনব্যবস্থা কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'তাওহিদের স্বরূপ' ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "১ নম্বর প্রেÿাপটে কোন বিষয়টি প্রকাশ পেয়েছে? পাঠ্যপুস্ত্মকের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "২ নম্বর প্রেÿাপটে যে বিষয়টি ফুটে ওঠে, তা 'সৎকমর্শীল ও নৈতিক জীবন গঠনে আখিরাতে বিশ্বাসের ভূমিকা'র আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-002",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "আফজাল ও আফতাব দুই বন্ধু। আফজাল পাথির্ব লোভ-লালসা ও স্বাথর্রÿায় এতটাই লিপ্ত যে, অপরের অকল্যাণ ও অমঙ্গল করতে পিছপা হয় না। সমাজে সন্দেহ ও বিশৃঙ্খলা সৃষ্টি করে বেড়ায়। এমনকি তার কথা ও কাজে মিল নেই। অন্যদিকে আফতাবের ধারণা পৃথিবীতে যখন মানবতার চরম বিপযর্য় ঘটবে তখন আলস্নাহ তাদের হিদায়াতের জন্য নবি-রাসুল প্র",
+  "question_number": 2,
+  "stimulus": "আফজাল ও আফতাব দুই বন্ধু। আফজাল পাথির্ব লোভ-লালসা ও স্বাথর্রÿায় এতটাই লিপ্ত যে, অপরের অকল্যাণ ও অমঙ্গল করতে পিছপা হয় না। সমাজে সন্দেহ ও বিশৃঙ্খলা সৃষ্টি করে বেড়ায়। এমনকি তার কথা ও কাজে মিল নেই। অন্যদিকে আফতাবের ধারণা পৃথিবীতে যখন মানবতার চরম বিপযর্য় ঘটবে তখন আলস্নাহ তাদের হিদায়াতের জন্য নবি-রাসুল প্রেরণ করবেন এবং কিয়ামত পযর্ন্ত্ম এ ধারা অব্যাহত থাকবে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'খাতামুন' শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আসমানি কিতাবে বিশ্বাস রাখতে হবে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আফজালের কমর্কাে-কী প্রকাশ পেয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আফতাবের এরূপ ধারণার পরিণতি কুরআন ও হাদিসের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-003",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "সোহেলের বিশ্বাস মানুষের জন্ম-মৃত্যু একটি প্রাকৃতিক নিয়ম। তাই তিনি দায়িত্বশীল জীবনযাপন না করে মনগড়া জীবনযাপন করেন। এতে তার বড় ভাই কলিম তাকে বললেন, বিশ্বাস ও কমের্র সংশোধন করে ইসলামের অনুশাসন মেনে চল। তা না হলে আখিরাতে কঠিন পরিণতির সম্মুখীন হতে হবে।",
+  "question_number": 3,
+  "stimulus": "সোহেলের বিশ্বাস মানুষের জন্ম-মৃত্যু একটি প্রাকৃতিক নিয়ম। তাই তিনি দায়িত্বশীল জীবনযাপন না করে মনগড়া জীবনযাপন করেন। এতে তার বড় ভাই কলিম তাকে বললেন, বিশ্বাস ও কমের্র সংশোধন করে ইসলামের অনুশাসন মেনে চল। তা না হলে আখিরাতে কঠিন পরিণতির সম্মুখীন হতে হবে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ইমানের বিপরীত কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তাওহিদের মঙ্লকথা কী? বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "জন্ম ও মৃত্যু সম্ঙ্কের্ সোহেলের ধারণাটি কিরূপ? ইসলামের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আখিরাতে বিশ্বাস মানুষকে সৎকমর্শীল ও নৈতিক জীবনযাপনে উদ্বুদ্ধ করে− বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-004",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "জনাব মুরাদ একজন ধামির্ক ও ধনী লোক। ইসলামের বিধি-বিধানগুলো পালনের সাথে সাথে তিনি প্রচুর দান-খয়রাতও করেন। তার বাড়িতে ইয়াতীম ও ভিÿুক আসলে তিনি তাদের সাথে সুন্দর ব্যবহার করেন এবং তাদেরকে বিভিন্নভাবে সাহায্য করেন। অন্যদিকে মিসেস আলেয়ার কাছে কেউ গৃহস্থালীর প্রয়োজনীয় জিনিস চাইতে আসলে তিনি থাকা সত্ত্বেও তা",
+  "question_number": 4,
+  "stimulus": "জনাব মুরাদ একজন ধামির্ক ও ধনী লোক। ইসলামের বিধি-বিধানগুলো পালনের সাথে সাথে তিনি প্রচুর দান-খয়রাতও করেন। তার বাড়িতে ইয়াতীম ও ভিÿুক আসলে তিনি তাদের সাথে সুন্দর ব্যবহার করেন এবং তাদেরকে বিভিন্নভাবে সাহায্য করেন। অন্যদিকে মিসেস আলেয়ার কাছে কেউ গৃহস্থালীর প্রয়োজনীয় জিনিস চাইতে আসলে তিনি থাকা সত্ত্বেও তা দিতে অস্বীকার করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সরা আত-ঙ্ তীন কোথায় অবতীণর্ হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তাকরিরি হাদিস কাকে বলে? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কোন সঙ্রার শিÿার প্রভাবে জনাব মুরাদ এরূপ দানশীল হয়েছেন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মিসেস আলেয়ার এরূপ কমর্কা- সরা আল-ঙ্ মাউনের আলোকে মল্যায়ন কর।ঙ্",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-005",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "ইমান যাকাত সালাত ? ? হজ সাওম রাসুল (স.) বলেন, 'সকল কাজ (এর ফলাফল) নিয়তের ওপর নিভর্রশীল (বুখারি)।",
+  "question_number": 5,
+  "stimulus": "ইমান যাকাত সালাত ? ? হজ সাওম রাসুল (স.) বলেন, 'সকল কাজ (এর ফলাফল) নিয়তের ওপর নিভর্রশীল (বুখারি)।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'?' চিহ্নের স্থলে কী বসবে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'কিয়াস' বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত ডায়াগ্রামটি ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত হাদিসটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-006",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "করিম এ বছর এসএসসি পরীÿাথীর্। সে রীতিমতো পাঁচ ওয়াক্ত সালাত আদায় করে। রমজান মাসে সাওম পালন করা কষ্টকর ভেবে তা পালনে অবহেলা করে। তার বাবা বিষয়টি জানতে পেরে ছেলেকে ডেকে বললেন, সালাতের মতো সাওম পালন করাও ফরজ। এটি পালন করা অত্যন্ত্মঙ্ ফজিলতপণর্ ইবাদত। হাদিসে কুদসিতে বণির্ত আছে যে, আলঙ্ স্নাহ তায়ালা বলেছেন",
+  "question_number": 6,
+  "stimulus": "করিম এ বছর এসএসসি পরীÿাথীর্। সে রীতিমতো পাঁচ ওয়াক্ত সালাত আদায় করে। রমজান মাসে সাওম পালন করা কষ্টকর ভেবে তা পালনে অবহেলা করে। তার বাবা বিষয়টি জানতে পেরে ছেলেকে ডেকে বললেন, সালাতের মতো সাওম পালন করাও ফরজ। এটি পালন করা অত্যন্ত্মঙ্ ফজিলতপণর্ ইবাদত। হাদিসে কুদসিতে বণির্ত আছে যে, আলঙ্ স্নাহ তায়ালা বলেছেন, \"সাওম আমার জন্য আর আমি নিজেই এর প্রতিদান দেবো।\"",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'ইবাদত' শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জামাআতে সালাত আদায় করার গুরম্নত্ব বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "করিমকে কীভাবে সাওম পালনে উদ্বুদ্ধ করা যায়? কুরআন-হাদিসের আলোকে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "অনুচ্ছেদে বণির্ত হাদিসের তাৎপযর্ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-007",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "ফয়েজ সাহেব একটি বিশাল কারখানার মালিক। তার কারখানায় শতাধিক শ্রমিক কাজ করে। কিন্তু তিনি নিয়মিত শ্রমিকদের বেতন-ভাতা প্রদান করেন না। এেÿত্রে তিনি ইসলামের বিধানেরও তোয়াক্কা করেন না। ফলে শ্রমিকদের সাথে প্রায়ই তার বাক-বিত-া হয় এবং এক সময় শ্রমিক অসন্ত্মোষ দেখা দেয়। ফলে কারখানার উৎপাদন হ্রাস পায়।",
+  "question_number": 7,
+  "stimulus": "ফয়েজ সাহেব একটি বিশাল কারখানার মালিক। তার কারখানায় শতাধিক শ্রমিক কাজ করে। কিন্তু তিনি নিয়মিত শ্রমিকদের বেতন-ভাতা প্রদান করেন না। এেÿত্রে তিনি ইসলামের বিধানেরও তোয়াক্কা করেন না। ফলে শ্রমিকদের সাথে প্রায়ই তার বাক-বিত-া হয় এবং এক সময় শ্রমিক অসন্ত্মোষ দেখা দেয়। ফলে কারখানার উৎপাদন হ্রাস পায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নবিদের উত্তরাধিকারী কারা?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হাক্কুলস্নাহ বলতে কী বোঝ? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ফয়েজ সাহেবের আচরণে কী লিঙ্ঘত হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ফয়েজ সাহেব এবং তার কারখানার শ্রমিকদের মধ্যকার সম্পকেরর্ ইসলামের দৃষ্টিতে মল্যায়ন কর।ঙ্",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-008",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "হাফসা তার বান্ধবীদের বাসায় আসতে দাওয়াত করল। ওয়াদা মোতাবেক সকল বান্ধবীই আসল কিন্তু পারভীনকে দেখা গেল না। কিছুদিন পর পারভীনের সাথে দেখা হলে হাফসা পারভীনকে এড়িয়ে যায়। বিষয়টি পারভীনকে পীড়া দেয়। পারভীন এগিয়ে গিয়ে কথা বলতে চাইলে হাফসা বলল, ওয়াদা ভঙ্গকারীর সাথে কিসের কথা? এতে পারভীনও রেগে যায়। তখন হাফসা বল",
+  "question_number": 8,
+  "stimulus": "হাফসা তার বান্ধবীদের বাসায় আসতে দাওয়াত করল। ওয়াদা মোতাবেক সকল বান্ধবীই আসল কিন্তু পারভীনকে দেখা গেল না। কিছুদিন পর পারভীনের সাথে দেখা হলে হাফসা পারভীনকে এড়িয়ে যায়। বিষয়টি পারভীনকে পীড়া দেয়। পারভীন এগিয়ে গিয়ে কথা বলতে চাইলে হাফসা বলল, ওয়াদা ভঙ্গকারীর সাথে কিসের কথা? এতে পারভীনও রেগে যায়। তখন হাফসা বলল, তোমার মনে থাকার কথা যে, \"ওয়াদা পালন করা মুমিনের বৈশিষ্ট্য।\"",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ওয়াদা ভঙ্গ করা কিসের লÿণ?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ওয়াদা পালন বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হাফসা কীভাবে তার বান্ধবীকে ওয়াদা পালনে উদ্বুদ্ধ করতে পারে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "হাফসার উক্তিটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-009",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "পদ্মাপাড়ের একটি জেলে পলিস্নর নাম নীলকমল। এখানে মুসলিম ও হিন্দুসহ বিভিন্ন ধমের্র লোক বাস করে। অধিকাংশের জীবিকার অবলম্বন পদ্মা নদীতে মাছ ধরা। অভাব-অনটনের মধ্যে সবার জীবন অতিবাহিত হলেও তারা একে অপরের বিপদে-আপদে সাহায্য সহযোগিতা করেন। সবাই নিজ নিজ ধমর্ পালন করেন এবং বিভিন্ন উৎসবে এক সাথে অংশগ্রহণ করেন।",
+  "question_number": 9,
+  "stimulus": "পদ্মাপাড়ের একটি জেলে পলিস্নর নাম নীলকমল। এখানে মুসলিম ও হিন্দুসহ বিভিন্ন ধমের্র লোক বাস করে। অধিকাংশের জীবিকার অবলম্বন পদ্মা নদীতে মাছ ধরা। অভাব-অনটনের মধ্যে সবার জীবন অতিবাহিত হলেও তারা একে অপরের বিপদে-আপদে সাহায্য সহযোগিতা করেন। সবাই নিজ নিজ ধমর্ পালন করেন এবং বিভিন্ন উৎসবে এক সাথে অংশগ্রহণ করেন। গ্রামের সবাই মিলে মিশে বাস করায় তাদের দরিদ্র পলিস্নরূপ নিয়েছে শান্ িঙ্ নিকেতনে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভ্রাতৃত্ববোধ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ইসলাম কল্যাণময় ধমর্− ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নীলকমল গ্রামের জেলেদের মধ্যে যে সাম্ঙ্রদায়িক সম্ঙ্রীতি গড়ে উঠেছে তার পরিচয় দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "নীলকমল গ্রামের শান্ত্মির জন্য সাম্প্রাদায়িক সম্প্রীতিরভূমিকা অপরিহাযর্ কি না তা মঙ্ল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-010",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "কাফির ও মুশরিকদের ইসলাম ও মহানবি (স.) এর বিরোধিতার কারণ মহানবি (স.) আলস্নাহর নিদেের্শ মদিনায় চলে গেলেন। সেখানে তিনি বিভিন্ন গোত্রের নেতাদের সাথে বৈঠক করে একটি লিখিত সনদ প্রণয়ন করেন। এটিই মানব ইতিহাসে সবর্প্রথম লিখিত সংবিধান। এরপর কোনো এক পযাের্য় তিনি মক্কা বিজয় করেন ও জীবনের শেষ হজ পালন করেন।",
+  "question_number": 10,
+  "stimulus": "কাফির ও মুশরিকদের ইসলাম ও মহানবি (স.) এর বিরোধিতার কারণ মহানবি (স.) আলস্নাহর নিদেের্শ মদিনায় চলে গেলেন। সেখানে তিনি বিভিন্ন গোত্রের নেতাদের সাথে বৈঠক করে একটি লিখিত সনদ প্রণয়ন করেন। এটিই মানব ইতিহাসে সবর্প্রথম লিখিত সংবিধান। এরপর কোনো এক পযাের্য় তিনি মক্কা বিজয় করেন ও জীবনের শেষ হজ পালন করেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আদশের্ক আরবিতে কী বলা হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "জীবনাদশর্ বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে যে সনদের কথা বলা হয়েছে তা মানবাধিকারের প্রমাণ− ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষ দুটি বিষয়ের বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "islam-lec-mt-final-sub-2-cq-011",
+  "book_id": "class9-10-islam-lecture",
+  "subject": "ইসলাম শিক্ষা",
+  "subject_slug": "islam",
+  "class_id": 9,
+  "chapter": null,
+  "chapter_number": null,
+  "chapter_name": null,
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "final-sub-2",
+  "question_text": "জনাব আহাদ সাহেব একজন নিষ্ঠাবান মুসলিম। সবসময় তিনি নিজেকে মুসলমানদের খিদমতে উৎসগর্ করেছেন। নিষ্ঠা, আন্ত্মরিকতা, সততা, সত্যবাদিতার কারণেই তাকে সমাজের আদশর্ পুরম্নষে পরিগণিত করেছে। পরিবারে এবং সমাজে ইসলামের সুমহান আদশর্ বাস্ত্মবায়নে তিনি সদা সচেষ্ট থাকেন।",
+  "question_number": 11,
+  "stimulus": "জনাব আহাদ সাহেব একজন নিষ্ঠাবান মুসলিম। সবসময় তিনি নিজেকে মুসলমানদের খিদমতে উৎসগর্ করেছেন। নিষ্ঠা, আন্ত্মরিকতা, সততা, সত্যবাদিতার কারণেই তাকে সমাজের আদশর্ পুরম্নষে পরিগণিত করেছে। পরিবারে এবং সমাজে ইসলামের সুমহান আদশর্ বাস্ত্মবায়নে তিনি সদা সচেষ্ট থাকেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'সাদিক' অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হযরত আবু বকর (রা.) কে ছিলেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "হযরত আবু বকর (রা.) এর আদশর্ অনুসারে আহাদ সাহেব কীভাবে সমাজে শান্ত্মি ওশৃঙ্খলা প্রতিষ্ঠা করবেন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আহাদ সাহেবের সুমহান আদশর্ প্রচারের কমর্কা-টি মঙ্ল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Islam Final sub-2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "source header says \"বাংলাদেশ ও বিশ্ব পরিচয়\" (BGS) but the questions are Islam — header mismatch, questions kept",
+  "guide_source": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "key_format": null,
+  "source_file": "1. SSC Common Subjects/6. SSC Islam/5. Model Test/Model test old/Final/2. Sub.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
