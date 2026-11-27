@@ -1,0 +1,142 @@
+# সাধারণ গণিত — SSC Lecture Sheets চাংক (staging)
+
+- সাবজেক্ট: সাধারণ গণিত (general-math)
+- স্ন্যাপশট: 2026-11-24 ~19:58 (প্রথম পাস) + ফাইনাল পাস 2026-11-24 (338টি missing ফাইল) + নরমালাইজেশন 2026-11-24/25
+- মোট row: **8226** (প্রথম পাস 3,984 + ফাইনাল পাস 4275 − 33 exact duplicate)
+- flagged row: **7908**
+
+## Type ভাগ
+- board: 2361
+- cq: 1077
+- lecture-note: 364
+- mcq: 4140
+- saq: 284
+
+## ফাইল
+- `chapter-00-board.json`: 2178 rows
+- `chapter-00-cq.json`: 303 rows
+- `chapter-00-lecture-note.json`: 2 rows
+- `chapter-00-mcq.json`: 914 rows
+- `chapter-01-board.json`: 1 rows
+- `chapter-01-cq.json`: 18 rows
+- `chapter-01-lecture-note.json`: 27 rows
+- `chapter-01-mcq.json`: 89 rows
+- `chapter-02-board.json`: 1 rows
+- `chapter-02-cq.json`: 46 rows
+- `chapter-02-lecture-note.json`: 53 rows
+- `chapter-02-mcq.json`: 407 rows
+- `chapter-02-saq.json`: 30 rows
+- `chapter-03-board.json`: 1 rows
+- `chapter-03-cq.json`: 65 rows
+- `chapter-03-lecture-note.json`: 19 rows
+- `chapter-03-mcq.json`: 544 rows
+- `chapter-03-saq.json`: 30 rows
+- `chapter-04-board.json`: 1 rows
+- `chapter-04-cq.json`: 15 rows
+- `chapter-04-lecture-note.json`: 18 rows
+- `chapter-04-mcq.json`: 98 rows
+- `chapter-05-board.json`: 1 rows
+- `chapter-05-cq.json`: 41 rows
+- `chapter-05-lecture-note.json`: 22 rows
+- `chapter-05-mcq.json`: 99 rows
+- `chapter-06-board.json`: 1 rows
+- `chapter-06-cq.json`: 25 rows
+- `chapter-06-lecture-note.json`: 42 rows
+- `chapter-06-mcq.json`: 55 rows
+- `chapter-07-board.json`: 1 rows
+- `chapter-07-cq.json`: 28 rows
+- `chapter-07-lecture-note.json`: 6 rows
+- `chapter-07-mcq.json`: 26 rows
+- `chapter-07-saq.json`: 28 rows
+- `chapter-08-board.json`: 1 rows
+- `chapter-08-cq.json`: 2 rows
+- `chapter-08-lecture-note.json`: 8 rows
+- `chapter-08-mcq.json`: 91 rows
+- `chapter-08-saq.json`: 30 rows
+- `chapter-09-board.json`: 1 rows
+- `chapter-09-cq.json`: 16 rows
+- `chapter-09-lecture-note.json`: 29 rows
+- `chapter-09-mcq.json`: 41 rows
+- `chapter-09-saq.json`: 30 rows
+- `chapter-10-board.json`: 1 rows
+- `chapter-10-cq.json`: 27 rows
+- `chapter-10-lecture-note.json`: 8 rows
+- `chapter-10-mcq.json`: 12 rows
+- `chapter-11-board.json`: 1 rows
+- `chapter-11-cq.json`: 42 rows
+- `chapter-11-lecture-note.json`: 14 rows
+- `chapter-11-mcq.json`: 49 rows
+- `chapter-11-saq.json`: 24 rows
+- `chapter-12-board.json`: 1 rows
+- `chapter-12-cq.json`: 30 rows
+- `chapter-12-lecture-note.json`: 13 rows
+- `chapter-12-mcq.json`: 61 rows
+- `chapter-13-cq.json`: 132 rows
+- `chapter-13-lecture-note.json`: 26 rows
+- `chapter-13-mcq.json`: 29 rows
+- `chapter-14-board.json`: 1 rows
+- `chapter-14-cq.json`: 32 rows
+- `chapter-14-lecture-note.json`: 16 rows
+- `chapter-14-mcq.json`: 29 rows
+- `chapter-15-board.json`: 1 rows
+- `chapter-15-cq.json`: 24 rows
+- `chapter-15-lecture-note.json`: 10 rows
+- `chapter-15-mcq.json`: 16 rows
+- `chapter-16-board.json`: 1 rows
+- `chapter-16-cq.json`: 43 rows
+- `chapter-16-lecture-note.json`: 23 rows
+- `chapter-16-mcq.json`: 99 rows
+- `chapter-16-saq.json`: 30 rows
+- `chapter-17-board.json`: 1 rows
+- `chapter-17-cq.json`: 36 rows
+- `chapter-17-lecture-note.json`: 28 rows
+- `chapter-17-mcq.json`: 22 rows
+- `chapter-17-saq.json`: 16 rows
+- `model-test/board-23-25-model-board.json`: 56 rows
+- `model-test/board-23-25-school-board.json`: 111 rows
+- `model-test/collection1-cq-cq.json`: 67 rows
+- `model-test/collection2-mcq-mcq.json`: 190 rows
+- `model-test/collection2-mcq-set-1-mcq.json`: 144 rows
+- `model-test/collection2-mcq-set-2-mcq.json`: 131 rows
+- `model-test/collection2-mcq-set-3-mcq.json`: 32 rows
+- `model-test/collection3-cq-cq.json`: 37 rows
+- `model-test/collection4-mcq-mcq.json`: 299 rows
+- `model-test/ssc-2027-cq-set-1-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-1-saq.json`: 13 rows
+- `model-test/ssc-2027-cq-set-2-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-2-saq.json`: 12 rows
+- `model-test/ssc-2027-cq-set-3-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-3-saq.json`: 12 rows
+- `model-test/ssc-2027-cq-set-4-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-4-saq.json`: 14 rows
+- `model-test/ssc-2027-cq-set-5-cq.json`: 8 rows
+- `model-test/ssc-2027-cq-set-5-saq.json`: 15 rows
+- `model-test/ssc-2027-mcq-set-1-mcq.json`: 24 rows
+- `model-test/ssc-2027-mcq-set-2-mcq.json`: 23 rows
+- `model-test/ssc-2027-mcq-set-3-mcq.json`: 21 rows
+- `model-test/ssc-2027-mcq-set-4-mcq.json`: 27 rows
+- `model-test/ssc-2027-mcq-set-5-mcq.json`: 24 rows
+- `model-test/test-paper-old-model-mcq-mcq.json`: 104 rows
+- `model-test/test-paper-old-school-mcq-mcq.json`: 208 rows
+- `model-test/topicwise-mcq-model-test-mcq.json`: 99 rows
+- `model-test/typewise-cq-cq.json`: 8 rows
+- `model-test/typewise-mcq-mcq.json`: 133 rows
+
+## ফাইনাল পাস (2026-11-24)
+- চাংক করা ফাইল: 141 (missing 338-এর মধ্যে ডুপ্লিকেট 197, চাংক 141)
+- নতুন row: 4275 (type ভাগ: {'board': 425, 'cq': 353, 'lecture-note': 247, 'mcq': 3250})
+- board MCQ উত্তরমালা sidecar: `_answer-keys/board-mcq-keys.json` (2020/2022/2023, 27টি বোর্ড-সাল)
+
+## নরমালাইজেশন (2026-11-24/25)
+- মোট row: 8,259 → 8,226 (−33, verified exact duplicate মুছে ফেলা হয়েছে; লগ: `_work/exact-duplicates-deleted.json`); flagged: 7,935 → 7,908 (−32টি flagged row মুছে গেছে, +5টি row নতুন করে flag হয়েছে)।
+- গণিত-চিহ্ন ডিকোড-ত্রুটি (set notation): 47টি ডিকোড ফাইল v2.1 টুল দিয়ে পুনরায় ডিকোড করা হয়েছে — misfire প্যাটার্ন 1,237 → 10; 42টি ফাইল উন্নত, 4টি অপরিবর্তিত। PDF-ই প্রধান উৎস (45টি); শুধু Onusiloni ch2/ch5 .doc থেকে (ওগুলোর row আগে doc ডিকোড থেকেই চাংক করা হয়েছিল)।
+- পুনরায় চাংক (splice): 12টি সোর্সের 124টি row — কন্টেন্ট-ফিল্ড প্রতিস্থাপন, identity/metadata আগেরটাই রাখা হয়েছে। answer_key অমিল 0টি।
+- সার্জিক্যাল ফিক্স: v2-তে 423টি span / 143টি row; v3-তে আরও 6টি span। প্রতিটি span নতুন ডিকোড-টেক্সটে verbatim যাচাই করে তবেই বদলানো হয়েছে; answer_key কখনো ছোঁয়া হয়নি।
+- এখনো misfire আছে: 23টি row — সব flagged, "গণিত-চিহ্ন ডিকোড-ত্রুটি (সেট-চিহ্ন/উত্তর-চিহ্ন) — ভিজ্যুয়াল যাচাই প্রয়োজন" নোট সহ। কারণ: legacy-ফন্ট math রান, v2.1 guard ধরতে পারে না।
+- খালি placeholder: 0টি মুছেছি — 20টি row-র question/options/solution খালি হলেও stimulus আছে, সব রাখা হয়েছে (সব flagged)। লগ: `dropped-placeholders.json`।
+- TPO ওভারল্যাপ: 389টি row-র flag অপরিবর্তিত রাখা হয়েছে; dedupe সিদ্ধান্ত "later" (post-push) — কোনো row মোছা হয়নি।
+- য-নুকতা/য় ফাঁদ: row-র board_name ASCII slug — পরিষ্কার ছিল। চাংকার-তৈরি স্ট্রিংয়ে ভুল ছিল: flag_note 7,111টি row + source 23টি row + ch17 flag row ঠিক করা হয়েছে; `_finalpass-chunk.py`-র 24টি আউটপুট লাইন + `_finalpass-merge.py`-র 15টি occurrence ঠিক করা হয়েছে (ডিকোড-টেক্সট মেলানোর ইনপুট ম্যাচারগুলো ইচ্ছাকৃতভাবে দুই বানানই মেলায় — অপরিবর্তিত)।
+- ডক-টুইন যাচাই: সম্পন্ন — 243টি format-A doc-র মধ্যে 242টি কনভার্ট+ডিকোড+তুলনা করা হয়েছে; 147টি টুইন থেকে row আছে (ডুপ্লিকেট নিশ্চিত, skip বহাল); 47টি Answer-সংস্করণ ফাইল (প্রশ্ন ইতিমধ্যে Question ফাইল থেকে চাংক করা — যেমন Collection2 Answer ch1-এর 30টি MCQ বনাম Question ch1-এর 28টি row) + 5টি SSC-2027 ans ফাইল (আগে চাংক করা CQ সেটের worked solution) — নতুন কন্টেন্ট নয়, chunk করা হয়নি; 44টির টুইন+ডক কোনোটা থেকেই row নেই ও ডিকোড দুর্বল (chunk করার মতো কিছু নেই); 1টি অযাচাইকৃত (Math-2025.docx — soffice timeout, 2 বার)। সতর্কতা: কাঁচা verdict (duplicate-confirmed 10, needs-review 62, unique-or-mismatch 170) বিভ্রান্তিকর — legacy-ফন্ট ডিকোড-নয়েজে একই পেপারও jac 0.27–0.30 পায়; সিদ্ধান্ত row-উপস্থিতি + নমুনা-পাঠের ভিত্তিতে। বিস্তারিত: `report-2026-11-24.md`-র নরমালাইজেশন অংশ (ধারা 8) + `_work/doc-twins/doc-twin-verification.json`।
+- ব্যাকআপ: `_backup_pre_norm/` (নরমালাইজেশনের আগের combined 8,259 row / flagged 7,935 row, md5-যাচাইকৃত)।
+- ভ্যালিডেশন: 12/12 PASS (`_work/validate.py`) — সব JSON পার্স হয়; combined = chapter 6,382 + model-test 1,844; id unique; সব row 37 ফিল্ড; processed+missing+dupes = 841; flagged.json ⊆ combined; backup-র সঙ্গে answer_key-তে 0 পার্থক্য; flag_note/source-এ ভুল বানান নেই; TPO flag 389 অপরিবর্তিত; কোনো flagged row-র flag হারায়নি।
+- সীমাবদ্ধতা: 23টি row-তে এখনো misfire (ভিজ্যুয়াল যাচাই প্রয়োজন); নতুন ডিকোড-টেক্সটে 10টি residual misfire (6টি ফাইল); #SAQ / Board 23-25 / SSC-2027 / TYPEWISE row পুনরায় চাংক করা যায়নি (প্রথম পাসের পার্সার হারিয়ে গেছে); Collection4/SSC-M-2/3-এর নতুন row ইচ্ছাকৃতভাবে যোগ করা হয়নি; source_file prefix অসঙ্গতি (first-pass-এ আছে, final-pass-এ নেই) — আগে থেকে থাকা, ঠিক করা হয়নি।
