@@ -1,0 +1,2692 @@
+[
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-001",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "হাতেমতায়ী বদান্যতার জন্য এত বেশি খ্যাতিলাভ করেছিলেন যে, ইয়েমেনের নরপতিকেও হার মানিয়েছিলেন।",
+  "question_number": 1,
+  "stimulus": "হাতেমতায়ী বদান্যতার জন্য এত বেশি খ্যাতিলাভ করেছিলেন যে, ইয়েমেনের নরপতিকেও হার মানিয়েছিলেন। নরপতি এতে ঈষাির্ন্বত হয়ে হাতেমতায়ীকে হত্যা করার জন্য ঘাতক পাঠালেন। ঘাতক হাতেমতায়ীর গৃহে পরম আদরে স্থান পায়। হাতেমতায়ী ঘাতকের কাছ থেকে তার আগমনের হেতু জানতে পেরে নিজ পরিচয় দিয়ে তার মাথা কেটে নিয়ে পুরস্কার গ্রহণের অনুরোধ জানান। ঘাতক হাতেমের এই মহানুভবতায় মুগ্ধ হয়ে তার কাছে ক্ষমা প্রাথর্না করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বাংলা গদ্যের জনক কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "খলিফা মামুন কেন বন্দি ব্যক্তিকে উপহারসামগ্রী দিয়ে মুক্তি দিলেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ঘাতকের চরিত্রে 'প্রত্যুপ্রকার' গল্পের কোন দিকটি ফুটে উঠেছে তা ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের হাতেমতায়ী যেন 'প্রত্যুপ্রকার' গল্পের আলী ইবনে আব্বাসের আশ্রয়দাতা সম্ভ্রান্ত্ম ব্যক্তির চরিত্রের\nপ্রতিনিধি— উক্তিটির সপক্ষে যুক্তি দেখাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch01-cq-018; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-002",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "'পরের কারণে স্বাথর্ দিয়া বলি এ জীবন মন সকলি দাও, তার মতো সুখ কোথাও কি আছে? আপনার কথা ভুলিয়া যাও।",
+  "question_number": 2,
+  "stimulus": "'পরের কারণে স্বাথর্ দিয়া বলি এ জীবন মন সকলি দাও, তার মতো সুখ কোথাও কি আছে? আপনার কথা ভুলিয়া যাও। আপনারে লয়ে বিব্রত রহিতে আসে নাই কেহ অবনী পরে সকলের তরে সকলে আমরা প্রত্যেকে মোরা পরের তরে।'",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গল্পকথকের মতে আশ্রয়দাতা কেমন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "খলিফার কোপানল কেন প্রজ্জ্বলিত হয়ে উঠল?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রত্যুপকার গল্পের কোন ভাবটি উদ্দীপকে প্রতিফলিত হয়েছে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে প্রকাশিত ভাবের বিরপরীতধমীর্ মানুষ তোমার সমাজে কেমন ভূমিকা পালন করছে? বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "প্রত্যুপকার",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch01-cq-015; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-003",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "এক অকৃতজ্ঞ লোক ত্রিশটি স্বণর্মুদ্রা হারিয়ে ফেলে।",
+  "question_number": 3,
+  "stimulus": "এক অকৃতজ্ঞ লোক ত্রিশটি স্বণর্মুদ্রা হারিয়ে ফেলে। এ নিয়ে তার দুঃখের শেষ নেই। অবশেষে সে তার এক বন্ধুর বাড়ি গেল নিজের দুঃখের কথা জানাতে। সেখানে গিয়ে স্বণর্মুদ্রা হারানোর কথা বন্ধুকে জানাল। এদিকে বন্ধুর মেয়ে খেলতে গিয়ে একটি থলে পেল। এতে ত্রিশটি স্বণর্মুদ্রা ছিল। বন্ধুটি অকৃতজ্ঞকে বাড়িতে ডেকে স্বণর্মুদ্রার থলেটি হাতে দিল। লোকটি স্বণর্মুদ্রা হাতে নিয়ে বলতে লাগল, তার থলেতে চলিস্নশটি স্বণর্মুদ্রা ছিল। অবশেষে বিচারকের কাছে বিচার দিলে তিনি থলেটি মেয়েটির বাবাকে দিয়ে বললেন, এর প্রকৃত মালিকের সন্ধান পেলে দিবেন, ইনি প্রকৃত মালিক নন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'প্রতীতি' শব্দের অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'এজন্য আমার ওপর খলিফার মমাির্ন্ত্মক ক্রোধ ও দ্বেষ জন্মিবে'—উক্তিটি ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের অকৃতজ্ঞ লোকের সাথে 'প্রত্যুপ্রকার' রচনার কোন চরিত্রের বৈসাদৃশ্য রয়েছে? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"উদ্দীপকের কাহিনিতে 'প্রত্যুপ্রকার' রচনার কাহিনির যথাথর্ প্রতিফলন ঘটেনি''—উক্তিটি বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch01-cq-008; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-004",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "চৌধুরী পাড়ার রোজিনা দারিদের্যর কশাঘাতে পিষ্ট হয়ে অবশেষে শহরের বাসিন্দা নিলুর বাসায় ওঠে।",
+  "question_number": 4,
+  "stimulus": "চৌধুরী পাড়ার রোজিনা দারিদের্যর কশাঘাতে পিষ্ট হয়ে অবশেষে শহরের বাসিন্দা নিলুর বাসায় ওঠে। করম্নণ কণ্ঠে সে বিস্ত্মারিত খুলে বললে নিলু তাকে নিভের্য় তার বাসায় থাকার কথা জানান। এক মাস অতিবাহিত হলে রোজিনা তার বাড়িতে যাওয়ার প্রস্তুতি নিলে নিলু তাকে বেশ কিছু জামাকাপড় কিনে দেন এবং যাওয়ার ভাড়া দিয়ে দেন। রোজিনা বাড়িতে ফিরে এসে তার মায়ের কাছে ঐ স্থান তার সবাের্পক্ষা প্রিয় বলে উলেস্নখ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিদায়কালে বন্দিকে দশটি উট উপহার দিলেন কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গল্পের বন্দি কীভাবে মুক্তি পেয়েছিলেন? ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের নিলুর চরিত্রটি 'প্রত্যুপ্রকার' গল্পের কার সাথে সাদৃশ্যপূণর্? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের রোজিনার শেষ উক্তিটি 'প্রত্যুপ্রকার' গল্পের আলী ইবনে আব্বাসেরই উক্তির বহিঃপ্রকাশ—আলোচনা করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch01-cq-010; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-005",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "চোর সন্দেহে করিম মিঞাকে গ্রাম প্রতিনিধি আক্কাস আলির কাছে নিয়ে আসা হলো।",
+  "question_number": 5,
+  "stimulus": "চোর সন্দেহে করিম মিঞাকে গ্রাম প্রতিনিধি আক্কাস আলির কাছে নিয়ে আসা হলো। আক্কাস আলি সবিস্ত্মার শুনে সিদ্ধান্ত্ম শুনাতে যাবে, এমন সময় মতি মাস্টার দাঁড়িয়ে বলে উঠলেন, করিম মিঞা কখনো চোর হতে পারে না। সবাই কারণ জিজ্ঞাসা করলে তিনি বলেন, একবার ৫০, ০০০ টাকার একটি ব্যাগ আমি হারিয়ে ফেলেছিলাম। এই করিম মিঞা সেই ব্যাগটি পেয়ে আমাকে ফেরত দিয়েছিল। যে ব্যক্তি এমন সততা দেখাতে পারে, সে কখনো চোর হতে পারে বলে আমার বিশ্বাস হয় না। ফলে বিচারক আক্কাস আলি তাকে মুক্তি দেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দামেস্ক শহর কখন গড়ে উঠেছিল?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "খলিফা প্রকৃত সত্য জানার পর বন্দি ব্যক্তিকে কীভাবে গ্রহণ করলেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের সাথে 'প্রত্যুপ্রকার' গল্পের সাদৃশ্যপূণর্ দিকটি ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'করিম মিঞার মতো সততা সবার মধ্যে থাকলে সমাজের ইতিবাচক পরিবতর্ন সম্ভব'—বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch01-cq-014; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/1. Protyupokar.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-006",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "কন্যার বাপ সবুর করিতে পারিতেন, কিন্তু বরের বাপ সবুর করিতে চাহিলেন না।",
+  "question_number": 1,
+  "stimulus": "কন্যার বাপ সবুর করিতে পারিতেন, কিন্তু বরের বাপ সবুর করিতে চাহিলেন না। তিনি দেখিলেন মেয়েটির বিবাহের বয়স পার হইয়া গিয়াছে কিন্তু আর কিছুদিন গেলে সেটাকে ভদ্র বা অভদ্র কোনো রকমে চাপা দিবার সময়টাও পার হইয়া যাইবে। মেয়ের বয়স অবৈধ রকমে বাড়িয়া গেছে বটে, কিন্তু পণের টাকার আপেক্ষিক গুরম্নত্ব এখনো তাহার চেয়ে কিঞ্চিৎ উপরে আছে, সেইজন্যই তাড়া।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গোলাপের গৌরব অধিক কেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'ফুলের বিবাহ' গল্পে কন্যার পিতার অবস্থা সম্পকের্ লেখো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'ফুলের বিবাহ' গল্পের কোন দিকটি প্রতিফলিত হয়েছে? বণর্না করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের কন্যা ও 'ফুলের বিবাহ' গল্পের মলিস্নকা ফুলকে একসূত্রে গাঁথা যায় কি? যুক্তিসহ প্রমাণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "ফুলের বিবাহ",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch02-cq-003; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-007",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "সেইদিন এই মাঠ স্ত্মব্ধ হবে নাকো জানি— এই নদী নক্ষত্রের তলে সেদিনও দেখিবে স্বপ্ন- সোনার স্বপ্নের সাধ পৃথিবীতে কবে আর ঝরে! আমি চলে যাব বলে চালতা ফুল কি আর ভিজিবে না শিশিরের জলে নরম গল্পের ঢেউয়ে? লক্ষ্ণীপেঁচা গান গাবে নাকি তার লক্ষ্ণীটির তরে? সোনার স্বপ্নের সাধ পৃথিবীতে কবে আর ঝরে।",
+  "question_number": 2,
+  "stimulus": "সেইদিন এই মাঠ স্ত্মব্ধ হবে নাকো জানি— এই নদী নক্ষত্রের তলে সেদিনও দেখিবে স্বপ্ন- সোনার স্বপ্নের সাধ পৃথিবীতে কবে আর ঝরে! আমি চলে যাব বলে চালতা ফুল কি আর ভিজিবে না শিশিরের জলে নরম গল্পের ঢেউয়ে? লক্ষ্ণীপেঁচা গান গাবে নাকি তার লক্ষ্ণীটির তরে? সোনার স্বপ্নের সাধ পৃথিবীতে কবে আর ঝরে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বঙ্কিমচন্দ্র চট্টোপাধ্যায় কোথায় জন্মগ্রহণ করেন?\nখ, 'ফদর্ দিবেন, কড়ায় গন্ডায় বুঝাইয়া দিবে'—ব্যাখ্যা করো।",
+    "marks": 1
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকটির সঙ্গে 'ফুলের বিবাহ' গল্পের প্রাসঙ্গিক দিক কোনটি? বণর্না করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকটি 'ফুলের বিবাহ' গল্পের সঙ্গে প্রাসঙ্গিক হলেও 'ফুলের বিবাহ' গল্পের সামগ্রিক ভাবকে ধারণ করতে পারেনি—\nমন্ত্মব্যটি কতটুকু যৌক্তিক বিচার করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "ফুলের বিবাহ",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; subquestions-incomplete:3; possible-duplicate: same question text as bangla-lec-ch02-cq-005; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-008",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "গায়েহলুদ অসম্ভব রকম ধুম করিয়া গেল।",
+  "question_number": 3,
+  "stimulus": "গায়েহলুদ অসম্ভব রকম ধুম করিয়া গেল। বাহক এত গেল যে তাহার আদমশুমারি করিতে হইলে কেরানি রাখিতে হয়। তাহাদিগের বিদায় করিতে অপরপক্ষকে যে নাকাল হইতে হইবে, সেই কথা স্মরণ করিয়া মামার সঙ্গে মা একযোগে বিস্ত্মর হাসিলেন। ব্যান্ড, বাঁশি, শখের কন্সটর্ প্রভৃতি যেখানে যত প্রকার উচ্চ শব্দ আছে, সমস্ত্ম একসঙ্গে মিশাইয়া ববর্র কোলাহলে মত্তহস্ত্মী দ্বারা সংগীত সরস্বতীর পদ্মবন দলিত-বিদলিত করিয়া আমি তো বিবাহ বাড়িতে গিয়া উঠিলাম। আংটিতে হারেতে জরি জহরাতে আমার শরীর যেন গহনার দোকানে নিলামে চড়িয়াছে বলিয়া বোধ হইলো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বঙ্কিমচন্দ্র চট্টোপাধ্যায় পেশাগত জীবনে কী ছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'বর অতি সুপাত্র।'—বরকে অতি সুপাত্র বলার কারণ ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'ফুলের বিবাহ' গল্পের যে দিকটি প্রতিফলিত হয়েছে তার বণর্না দাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'উদ্দীপকটি 'ফুলের বিবাহ' গল্পের মূলভাবকে সম্পূণর্রূপে ধারণ করতে পারেনি।'—মন্ত্মব্যটি বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "ফুলের বিবাহ",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch02-cq-006; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-009",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "রিজেন্ট পাকর্ লন্ডনের সেরা পাকর্।",
+  "question_number": 4,
+  "stimulus": "রিজেন্ট পাকর্ লন্ডনের সেরা পাকর্। এ পাকের্র গোলাপ-বাগানের খ্যাতি বিশ্বজোড়া। বাগানটি রানি মেরির নামের সঙ্গে জড়ানো। জুন, জুলাই্ত এ দুমাস গোলাপফুলের। মেরির গোলাপ-বাগানের গোলাপেরা কেউ ফুটেছ্তে কেউ বা ফুটে রৌদ্র-স্নানরত নরনারীর চোখ জুড়াচ্ছে, মন ভোলাচ্ছে। নানা রঙের এতো গোলাপ একসঙ্গে পাশাপাশি ফুটতে দেখলে নিতান্ত্ম বেরসিকের প্রাণও রসোচ্ছল হয়ে উঠবে তাতে বিচিত্র কী? রোদে ভরা ছুটির দিনগুলোতে রিজেন্ট পাকর্ ও কিউ-গাডেের্ন এখানকার মালিকদের হাতে-গড়া গোলাপবাগের জান্নাতি পরিবেশ দেখে মন জুড়িয়ে যাচ্ছে। অপরিমেয় ফুলের রঙে চোখে লাগছে নেশা আর ফুলেরই মনোরম স্নিগ্ধ গন্ধে বাতাস হয়েছে হয়েছে মোহকর।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নীল শাড়ি পরে বসেছিল কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রাজকুমার স্থলপদ্ম কেন বিবাহে আসতে পারেনি?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'ফুলের বিবাহ' গল্পের যে দিকটি প্রতিফলিত হয়েছে তা ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'বিষয়বস্তুর বণর্নায় উদ্দীপক ও 'ফুলের বিবাহ' গল্পের সাদৃশ্য থাকলেও চেতনাগত পাথর্ক্য স্পষ্ট।''—যৌক্তিক বিশেস্নষণ\nকরো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "ফুলের বিবাহ",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch02-cq-008; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-010",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "মে মাস ছিল টিউলিপ, উইলো আর ডেইজির।",
+  "question_number": 5,
+  "stimulus": "মে মাস ছিল টিউলিপ, উইলো আর ডেইজির। টিউলিপ আমাদের দেশের ধুতুরা ফুলের মতো। কেবল ফুলটুকু ছাড়া আর কিছুর সঙ্গে ওর সাদৃশ্য আঁকা যাবে ন্তা পাতার সঙ্গে নয়, পাপড়ি বা দল কিছুরই সঙ্গে নয়। বাইরে কিছুটা সাদৃশ্য আছে, এতটুকু বলা যায়। আকারে টিউলিপ ধুতুরা ফুলের চেয়ে অনেক ছোটো। বলিহারি যাই টিউলিপের রং দেখে। কোনো জায়গায় দুধের চেয়েও সাদা। কোনোটা হলুদ। কোনোটায় থাকে প্রজাপতির গায়ের রেখাটানা বিচিত্র রঙের কারম্নচিত্র। থাকের পর থাক। টিউলিপে টিউলিপময়। ইংরেজজাত ফুলের যে কী ভক্ত এবং ফুলের রঙে যে এদের কী আনন্দ এ থেকে এ কথাই বারবার মনে পড়ে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "এয়ো অথর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'দেখিলাম, সেই মালায় আমার বর কন্যা রহিয়াছে'—ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকটি 'ফুলের বিবাহ' গল্পের কোন বিষয়টি ধারণ করে? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকটি 'ফুলের বিবাহ' গল্পের সম্পূণর্ ভাব ধারণ করতে পারেনি।' মন্ত্মব্যটি মূল্যায়ন করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": "ফুলের বিবাহ",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch02-cq-010; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Phuler Bibaho.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-011",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "চঞ্চল স্বভাবের সাবিনা দেখতে যেমন সুন্দরী, তেমনি বুদ্ধিতে প্রখর।",
+  "question_number": 1,
+  "stimulus": "চঞ্চল স্বভাবের সাবিনা দেখতে যেমন সুন্দরী, তেমনি বুদ্ধিতে প্রখর। কিন্তু জন্ম থেকেই সে বাক-প্রতিবন্ধী। কথা না বললেও সব কথা বুঝতে পারে সে। সে যখন বাইরে আসে প্রতিবেশী ছেলে মেয়েরা তাকে বিরক্ত করে। বড়রাও আড়ালে আবডালে তাকে নিয়ে কুৎসা রটনা করে। এতে সাবিনা খুব কষ্ট পায় তাই মানুষের সামনে সে যেতে ভয় পায়। মায়ের কাছেও সে প্রশ্রয় পায় না মা বিরক্ত হয়। এভাবে বয়স বাড়ার সঙ্গে সঙ্গে সে একটু একটু করে সবার কাছ থেকে নিজেকে আড়াল করে নেয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কে সুভার মযার্দা বুঝত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সুভা নিজেকে বিধাতার অভিশাপ মনে করত কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে গাবিনার যে সংবেদনশীলতার পরিচয় পাওয়া যায় তার প্রতিফলন ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সুভা ও গাবিনার মত বাক-প্রতিবন্ধীদের জন্য আমাদের কী দায়িত্ব রয়েছে? বিশেস্নষণসহ মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch03-cq-003; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-012",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "মায়ের কোল আলো করে জন্ম নেয় ফুটফুটে কন্যা সন্ত্মান সাবিন।",
+  "question_number": 2,
+  "stimulus": "মায়ের কোল আলো করে জন্ম নেয় ফুটফুটে কন্যা সন্ত্মান সাবিন। কিছুটা বড় হতেই দেখা গেল সাবিনা কথা বলতে পারে না। নানা অঙ্গ-ভঙ্গি ও ইশারা ইঙ্গিতে সে মনোভাব প্রকাশ করতে চায়। সবার মনের ভাষা সে বুঝতে পারে তার প্রখর অন্ত্মদৃির্ষ্ট দিয়ে। বাড়ির বাইরে বেরম্নলেই ছেলেমেয়েরা তাকে ভেংচি কাটে। সে দুবোর্ধ্য চিৎকারে তাদেরকে নিবৃত্ত করতে চায়। ব্যথর্ হয়ে মায়ের কাছে এসে কান্না জুড়ে দেয়। বিরক্ত হয় মা। এভাবে বয়স বাড়ার সঙ্গে সঙ্গে সে একটু একটু করে সবার কাছ থেকে নিজেকে আড়াল করে নেয়। বেশিরভাগ সময় দরজা বন্ধ করে বিষণ্নমনে বসে থাকে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সুভার মা সুভাকে কীসের কলঙ্ক মনে করেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সুভা নিজেকে বিধাতার অভিশাপ মনে করত কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে গাবিনার যে সংবেদনশীলতার পরিচয় পাওয়া যায় সুভার মধ্যে তার প্রতিফলন ঘটেছে—ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'শারীরিক প্রতিবন্ধকতা মানবিক অনুভূতির অন্ত্মরায় নয়'—উদ্দীপক ও 'সুভা' গল্পের আলোকে উক্তিটি মূল্যায়ন করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch03-cq-006; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-013",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "জবা শুধু বোবা নয়, ঈষৎ কালাও।",
+  "question_number": 3,
+  "stimulus": "জবা শুধু বোবা নয়, ঈষৎ কালাও। অনেক চেঁচিয়ে বললে তবে শুনতে পায়। সব কথা শোনার দরকারও হয় না তার। নাড়া আর মুখের ভাব দেখেই সব বুঝতে পারে। এ ছাড়া তার আর একটি ষষ্ঠ ইন্দ্রিয় আছে যার সাহায্যে সে এমন সব জিনিস বুঝতে পারে, এমন সব জিনিস মনে মনে সৃষ্টি করে, সাধারণ বুদ্ধিতে যার মানে হয় না। জবার জগৎ চোখের জগৎ, দৃষ্টির ভিতর দিয়েই সৃষ্টিকে গ্রহণ করেছে সে। শুধু গ্রহণ করে নি, নতুন রূপে নতুন রং আরোপ করেছে তাতে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সুভার পুরো নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সুভার মুখে ভাষা না থাকলেও ভাবের স্ফুরণ ঘটেছে কীভাবে? বুঝিয়ে লেখো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের জবার নিজস্ব জগৎটির সঙ্গে ভাষাহীন সুভার নিভৃত জগতের সম্পকর্ ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'মুখের ভাব বৈ আজন্মকাল যাহার অন্য ভাষা নেই তাহার চোখের ভাষা অসীম উদার এবং অতলস্পশর্ গভীর'—সুভার পযের্বক্ষণ\nউদ্দীপকের আলোকে বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch03-cq-007; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-014",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "সীমা পাল অষ্টম শ্রেণিতে পড়ে।",
+  "question_number": 4,
+  "stimulus": "সীমা পাল অষ্টম শ্রেণিতে পড়ে। জন্ম থেকেই সে অন্ধ। মায়ের ইচ্ছে মেয়েকে বিয়ে দেওয়ার, প্রতিবেশীরা নিন্দা করছে বিয়ে না দেওয়ায়। কিন্তু সীমার বাবা নিতাই এ কথা সহ্যই করতে পারে না। তার ইচ্ছে মেয়েকে অনেকদূর পযর্ন্ত্ম পড়াবে। পাড়াপ্রতিবেশীদের নিন্দা অপবাদের তোয়াক্কা সে করে না। সে জানে এটা মেয়েদের বিয়ের বয়স নয়। সে মনে মনে ভাবে তার অন্ধ মেয়েই একদিন জগৎ আলো করবে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন কাব্যের জন্য রবীন্দ্রনাথ ঠাকুর নোবেল পুরস্কার পান?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মেয়েকে সান্ত্ম্বনা দিতে গিয়ে বাণীকন্ঠের কপোলে অশ্রম্ন গড়িয়ে পড়ল কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের নিতাইয়ের সঙ্গে 'সুভা' গল্পের বাণীকণ্ঠের কী ধরনের পাথর্ক্য পরিলক্ষিত হয়? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'বাণীকণ্ঠ যদি নিতাই এর মতো মনোভাব পোষণ করত তবে সুভার পরিণতি অন্যরকম হত।'—উক্তিটির যথাথর্তা যাচাই\nকরো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch03-cq-009; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-015",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "আনুর মা ডাক্তারের দৃষ্টি অনুসরণ করে দেখে বলে উঠল, আপনি বলুন ডাক্তার বাবু, আপনি বলুন।",
+  "question_number": 5,
+  "stimulus": "আনুর মা ডাক্তারের দৃষ্টি অনুসরণ করে দেখে বলে উঠল, আপনি বলুন ডাক্তার বাবু, আপনি বলুন। ও হতভাগী কালা-বোবা। সকলের মুখে ফুটে উঠল অদ্ভুত অভিব্যক্তি, বিস্ময়, করম্নণা, হয়তো কিছুখানি তাচ্ছিল্য আছে তার মধ্যে। ডাক্তারের মুখে তার প্রকাশ সবচেয়ে কম। এ সন্দেহ তার হয়েছিল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সুভা কোথায় বসে থাকত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"কিন্তু তাহার পদশব্দ তাহারা চিনিত\"—বাক্যটির প্রাসঙ্গিকতা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বোবা মেয়েটি 'সুভা' গল্পের কোন চরিত্রের অনুরূপ তা নিরূপণ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"সাদৃশ্য থাকলেও উদ্দীপকটি 'সুভা' গল্পের সম্পূণর্ ভাব প্রকাশ করে না।\"—যথাথর্তা মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch00-cq-103; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/2. Suva.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-016",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "গ্রামের ডানপিটে ও দুষ্ট ছেলেদের দেখে স্কুলের নতুন স্যার তাদের একটি পাঠাগার গড়ার পরামশর্ দিলেন।",
+  "question_number": 1,
+  "stimulus": "গ্রামের ডানপিটে ও দুষ্ট ছেলেদের দেখে স্কুলের নতুন স্যার তাদের একটি পাঠাগার গড়ার পরামশর্ দিলেন। অল্পদিনের মধ্যে স্কুলের একটি অব্যবহৃত কক্ষ পাঠাগারে পরিণত হলো। নতুন স্যারের তত্ত্বাবধানে ঐসব ছেলের মাটির ব্যাংকে জমানো টাকায় পাঠাগারটি বিভিন্ন স্বাদের বইয়ে ভরে উঠল। ধীরে ধীরে ওরাসহ গ্রামের অনেকেই বই পড়ায় আগ্রহী হয়ে উঠল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রমথ চৌধুরীর সাহিত্যিক ছদ্মনাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'পাস করা ও শিক্ষিত হওয়া এক বস্তু নয়'—বুঝিয়ে লেখো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নতুন স্যারের চেতনাবোধ 'বই পড়া' প্রবন্ধের কোন চেতনাকে সমথর্ন করে? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "গ্রামের ছেলেদের মানসিক পরিবতের্নর দিকটি 'বই পড়া' প্রবন্ধের আলোকে বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch04-cq-003; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-017",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "আলোকায়ন বিদ্যাপীঠের শিখন-শেখানো পদ্ধতিটি একেবারেই অন্যরকম।",
+  "question_number": 2,
+  "stimulus": "আলোকায়ন বিদ্যাপীঠের শিখন-শেখানো পদ্ধতিটি একেবারেই অন্যরকম। সেখানে মাঠ-ঘাট, নদী-নালা, পাহাড়-পবর্ত আর মানুষের দৈনন্দিন জীবনপ্রণালির সান্নিধ্যে শিক্ষাথীের্দর জীবনঘনিষ্ঠ শিক্ষা দেওয়া হয়। পাঠদানে আধুনিক প্রযুক্তির ব্যবহার হয়। সেই সাথে মুখস্থবিদ্যাকে নিরম্নৎসাহিত করা হয়। এ কারণে বিদ্যাপীঠটি এ অঞ্চলে আদশর্স্থানীয় হয়ে উঠেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আমাদের শিক্ষিত সমাজের লোলুপ দৃষ্টি আজ কীসের ওপর পড়ে রয়েছে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'যে জাতির জ্ঞানের ভা-ার শূন্য সে জাতি ধনের ভাঁড়েরও ভবানী'—বুঝিয়ে লেখো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকটি বই পড়া প্রবন্ধের যে দিকটির ওপর আলোকপাত করেছে, তা ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তুমি কি মনে করো উদ্দীপকটি বই পড়া প্রবন্ধের যথাথর্ প্রতিচ্ছবি? তোমার উত্তরের পক্ষে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch04-cq-021; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-018",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "ধরাবাঁধা লেখাপড়ার প্রতি রবীন্দ্রনাথ ঠাকুরের কোনো আগ্রহই ছিল না।",
+  "question_number": 3,
+  "stimulus": "ধরাবাঁধা লেখাপড়ার প্রতি রবীন্দ্রনাথ ঠাকুরের কোনো আগ্রহই ছিল না। তবে ছেলেবেলা থেকে নিজের ইচ্ছায় তিনি পড়েছেন। এই সুপ-িতের বাড়িতেই ছিল বিশাল গ্রন্থাগার। তার সৃজনশীলতার প্রাথমিক সাক্ষ্য হলো তাঁর সৃষ্টির বিপুলতা। সাহিত্যের সব অঙ্গনেই ছিল তাঁর সফল পদচারণ। তিনি একাই তাঁর শিল্প সাধনা, কমোের্দ্যাগ ও চিন্ত্মাধারা দ্বারা পশ্চাৎপদ একটি জাতিকে পৃথিবীর শ্রেষ্ঠ জাতিগুলো সমকক্ষ করে গিয়েছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যিনি যথাথর্ গুরম্ন তিনি শিষ্যের আত্মাকে কী করেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সাহিত্যচচার্র ক্ষেত্রে লাইব্রেরি অপরিহাযর্ কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বণর্নায় রবীন্দ্রনাথ ঠাকুরের মাঝে 'বই পড়া' প্রবন্ধের কোন দিকটি প্রতিফলিত হয়েছে? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকটি 'বই পড়া' প্রবন্ধের মূল বক্তব্যকে পুরোপুরি সমথর্ন করে—উক্তিটি মূল্যায়ন করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch04-cq-005; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-019",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "বই কেনার সামথ্যর্ নেই।",
+  "question_number": 4,
+  "stimulus": "বই কেনার সামথ্যর্ নেই। তবুও বিভিন্ন বন্ধুর নিকট থেকে বই সপ্তাহ করে পড়ে পায়েল। সাহিত্য, সাহিত্য সমালোচনা, আত্মজীবনী, দশর্ন-জ্ঞানজগতের সকল প্রদেশে তার যাতায়াত থাকা চাই। অন্য দিকে তার বন্ধু কাকলি বই কিনে বন্ধুদের উপহার দেয়। কিন্তু নিজে খুব একটা পড়ে না। তার ধারণা, এসব বই পড়ে কী হবে? প্রাতিষ্ঠানিক শিক্ষাই যথেষ্ট।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'বই পড়া' প্রবন্ধ অনুসারে লেখকের মতে, গ্রামে গ্রামে কী প্রতিষ্ঠা করা উচিত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'বই পড়া' প্রবন্ধে প্রাবন্ধিক লাইব্রেরিকে হাসপাতালের সঙ্গে তুলনা করেছেন কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'বই পড়া' প্রবন্ধের কোন দিকটি প্রকাশিত হয়েছে? আলোচনা করো।\nঘ \"উদ্দীপকের পায়েল 'বই পড়া' প্রবন্ধের একটি বিশেষ চিন্ত্মার ধারক।\"—মন্ত্মব্যটি বিচার করো।",
+    "marks": 3
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "subquestions-incomplete:3; no-answer; possible-duplicate: same question text as bangla-lec-ch04-cq-014; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-020",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "সাইমন তারিক একজন অবসরপ্রাপ্ত শিক্ষক।",
+  "question_number": 5,
+  "stimulus": "সাইমন তারিক একজন অবসরপ্রাপ্ত শিক্ষক। বিভিন্ন ধরনের বই পড়ার প্রতি তাঁর রয়েছে প্রবল অনুরাগ। এ জন্য ব্যক্তিগত উদ্যোগে তিনি নিজ বাড়িতে একটি গ্রন্থাগার প্রতিষ্ঠা করেন। আশপাশের মানুষের মাঝে জ্ঞানের আলো ছড়িয়ে দেওয়ার জন্য তিনি আপ্রাণ চেষ্টা করে থাকেন। এ মহতী উদ্যোগকে স্বাগত জানিয়ে সমাজে অনেক ধনাঢ্য ব্যক্তি তার গ্রন্থাগারে অনুদানস্বরূপ বিভিন্ন ধরনের বই দিয়েছেন। কিন্তু তাঁরই এক স্বজন বাদল এহেন কমর্কা-ের সমালোচনা করে বলেন, \"শুধু শুধু বই কিনে অথর্ অপচয় করার মধ্যে কোনো সাথর্কতা নেই বরং স্কুল-কলেজের নিধাির্রত পাঠ্যবই পড়লেই আলোকিত সমাজ গড়া সম্ভব।\"",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মনের দাবি রক্ষা না করলে কী বাঁচে না?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সাহিত্যচচাের্ক শিক্ষার সবর্প্রধান অঙ্গ বলা হয়েছে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বাদলের মনোভাব বই পড়া প্রবন্ধের কোন দিকটির ইঙ্গিত করে? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"উদ্দীপকের সাইমন তারিকের প্রচেষ্টাই 'বই পড়া' প্রবন্ধের মূলসুর\"—মন্ত্মব্যটি বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch04-cq-017; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/3. Boi Pora.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-021",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "মমতার অভাবের সংসার।",
+  "question_number": 1,
+  "stimulus": "মমতার অভাবের সংসার। সে চৌধুরীবাড়িতে রান্নার কাজ করে। মমতার সংসারের অভাবের কথা জেনে গৃহকত্রীর্ মমতাকে সপরিবারে তাদের বাড়িতে থাকার প্রস্ত্মাব দেন। কিন্তু এতে ঐ বাড়িতে মযার্দা কমে যাবে ভেবে মমতা এই প্রস্ত্মাব ফিরিয়ে দেয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গরম্নর দুধ দোহন করতে এসেছিল কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অপু দাঁত টকে যাওয়ার কথা বললে দুগার্ ইশারায় তাকে থামিয়ে দেয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের মমতার সাথে 'আম-আঁটির ভেঁপু' গল্পের হরিহরের সাদৃশ্য রয়েছে কীভাবে? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"উদ্দীপকটি 'আম-আঁটির ভেঁপু' গল্পের মূলভাবকে ধারণ করে না।\"—উক্তিটি যাচাই করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch08-cq-003; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-022",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "আমি থেকে তালপাতার এক বাঁশি কিনে এনেছি।",
+  "question_number": 2,
+  "stimulus": "আমি থেকে তালপাতার এক বাঁশি কিনে এনেছি। বাঁশি কই আগের মতো বাজে না। মন আমার তেমন কেন সাজে না",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'আম-আঁটির ভেঁপু' গল্পে দুগার্র বয়স কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দশঘরার লোকটির অনুরোধে হরিহর তৎক্ষণাৎ সেখানে যেতে রাজি হলো না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকটি 'আম-আঁটির ভেঁপু' গল্পের যে দিকের ইঙ্গিত করেছে তা ব্যাখ্যা করো?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"উদ্দীপকে 'আম-আঁটির ভেঁপু' গল্পের একটি দিক উঠে এলেও গ্রামীণ দরিদ্র পারিবারিক জীবনের দুদর্শার চিত্র অনুপস্থিত।\"\nমন্ত্মব্যটি বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch08-cq-010; trap-fixed: U+09AF U+09BC -> U+09DF in marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-023",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "শহরের বুকে বিশাল এক বাড়িতে রানু ও রানাদের বসবাস।",
+  "question_number": 3,
+  "stimulus": "শহরের বুকে বিশাল এক বাড়িতে রানু ও রানাদের বসবাস। সারা দিন এঘর ওঘর আর বাড়ির সামনের বাগানে ছোটাছুটি করে তারা। রানু ও রানার মা আফরোজা বানু ওদের সব আবদার পূরণের জন্য সচেষ্ট থাকেন। মাঝে মাঝে ওদের দুষ্টুমি দেখে দুশ্চিন্ত্মায় পড়ে যান। দুষ্টুমি করতে গিয়ে ওরা না আবার হাত-পা ভেঙে বসে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিভূতিভূষণ বন্দ্যোপাধ্যায় কত সালে জন্মগ্রহণ করেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"ইচ্ছে করে একদিকে বেরিয়ে যাই\"—সবর্জয়া কেন এ কথা বলেছে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের আফরোজা বানু কোন দিক থেকে 'আম-আঁটির ভেঁপু' গল্পের সবর্জয়ার সাথে সাদৃশ্যপূণর্? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের চিত্রটি 'আম-আঁটির ভেঁপু' গল্পের সমগ্রভাব ধারণ করে কি? বিশেস্নষণী মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch08-cq-005; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-024",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "অভাব-অনটনে জজির্রত মানুষের জীবন-এর আলোকে প্রণীত।",
+  "question_number": 4,
+  "stimulus": "অভাব-অনটনে জজির্রত মানুষের জীবন-এর আলোকে প্রণীত। কিন্তু উপায় নেই। ডেকর মাল-তোলা ও নামানোর সামান্য সরকার। জাহাজ ডেক ভিড়লে তবে দু-পয়সা আসে। নইলে নিছক বসে থাকা ছাড়া উপায় নেই। মাসে যা আয় হয় তাতে মুদির ঋণ শোধাই চলে না, তা ডাক্তার। কিন্তু তবু সে কোন ত্রম্নটি রাখেনি। শিশু আকাশ ফাটিয়ে চিৎকার করে, সে চিৎকার আর থামতে চায় না। সে চিৎকারে বেদনা নেই। আছে শুধু যেন সমস্ত্ম পৃথিবীর বিরম্নদ্ধে বিদ্রোহ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অপুর পিঠে কিল মেরেছিল কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সবর্জয়ার কথা বন্ধ হওয়ার উপক্রম হলো কেন? বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে ফুটে ওঠা চিত্রটি 'আম-আঁটির ভেঁপু' গল্পের কোন চিত্রের সমান্ত্মরাল? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকটি 'আম-আঁটির ভেঁপু' গল্পের খ-াংশের ধারক মাত্র।\"—মন্ত্মব্যটি বিচার কর।।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-025",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "আসমানিরে দেখতে যদি তোমরা সবে চাও, রহিমদ্দির ছােট্ট বাড়ি রসুলপুরে যাও।",
+  "question_number": 5,
+  "stimulus": "আসমানিরে দেখতে যদি তোমরা সবে চাও, রহিমদ্দির ছােট্ট বাড়ি রসুলপুরে যাও। বাড়ি তো নয় পাখির বাসা ভেন্না পাতার ছানি, একটুখানি বৃষ্টি হলেই গড়িয়ে পড়ে পানি। একটুখানি হাওয়া দিলেই ঘর নড়বড় করে, তারি তলে আসমানিরা থাকে বছর ভরে। পেটটি ভরে পায় না খেতে, বুকের ক'খান হাড়, সাক্ষী দেছে অনাহারে কদিন গেছে তার।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হরিহরের পুত্র কোথায় বসে খেলা করছিল?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হরিহরের বসতভিটার আশপাশটা প্রকৃতির লীলাক্ষেত্র হয়ে উঠেছে কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'আম-আঁটির ভেঁপু' গল্পের কোন দিক প্রকাশ পেয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকটি 'আম-আঁটির ভেঁপু' গল্পের সমগ্র বিষয়কে ধারণ করতে পারেনি।\"—উক্তিটি মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch08-cq-012; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/4. Am-Atir Bhepu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-026",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "হযরত হাসান বসরী (র.) রাস্ত্মার পাশে দাঁড়িয়ে কথা বলছিলেন।",
+  "question_number": 1,
+  "stimulus": "হযরত হাসান বসরী (র.) রাস্ত্মার পাশে দাঁড়িয়ে কথা বলছিলেন। এক লোক এসে তাঁকে অহেতুক গালাগাল করল। লোকটি চলে যাওয়ার পর হাসান বসরী (র.) তার জন্য দুই হাত তুলে দোয়া করলেন। উপস্থিত লোকদের একজন যখন জিজ্ঞেস করলেন, যে ব্যক্তি আপনাকে গালমন্দ করল, দুবর্যবহার করল তার জন্য কেন দোয়া করলেন? তিনি বললেন, ওই লোকটির মনে আছে মানুষের প্রতি ঘৃণা, গালাগাল। সে তাই করে। আমার মনে আছে কল্যাণ কামনা। আমি তাই করি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'মানুষ মুহম্মদ (স.)' প্রবন্ধটি রচনা করেন কে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মুহম্মদ (স.)-এর মৃত্যুর পর মদিনায় আঁধার ঘনিয়ে আসার মতো হলো কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের হাসান বসরী (র.)-এর চরিত্রে মহানবি (স.)-এর কোন গুণের প্রতিফলন ঘটেছে? ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ওই গুণটি মানব চরিত্র গঠনে কীভাবে ভূমিকা রাখে? উদ্দীপক ও 'মানুষ মুহম্মদ (স.)' প্রবন্ধের আলোকে বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch09-cq-003; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-027",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "কয়েক বছর আগের ইমরানের সাথে ভালোভাবে কথাও বলত না কেউ।",
+  "question_number": 2,
+  "stimulus": "কয়েক বছর আগের ইমরানের সাথে ভালোভাবে কথাও বলত না কেউ। কারণটা ছিল তার কুশ্রীদশর্ন অবয়ব ও দারিদর্য, সে কালো ও বেঁটে। থ্যাবড়া নাক আর তোবড়ানো গালের কারণে চেহারাটা তার অদ্ভুতদশর্ন। তবে এখন সে সকলের প্রিয় 'ইমরান ভাই'। মানুষের কল্যাণে জীবনকে উৎসগর্ করেছে ইমরান। এলাকার কেউ বিপদে পড়লে বা সাহায্য চাইলে যথাসাধ্য চেষ্টা করে সে। প্রথম প্রথম সবাই নানাভাবে বাধা দিলেও দমে যায়নি ইমরান। বরং পরম মমতায় শত্রম্ন-মিত্র সবাইকে আপন করে নিয়েছে। হযরত মুহম্মদ (স.)-এর আদশর্ অনুসরণ করে মানুষের ভালোবাসা পেতে চায় ইমরান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মুহম্মদ (স.)-এর মৃত্যুশয্যার পাশ্বের্ শেষ পযর্ন্ত্ম কে ছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মুহম্মদ (স.)-এর মৃত্যু সংবাদে মূছির্ত মুসলমানদের চৈতন্য হয় কীভাবে? ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ইমরানের কোন বৈশিষ্ট্যটি 'মানুষ মুহম্মদ (স.)' প্রবন্ধে বণির্ত মুহম্মদ (স.)-এর বৈশিষ্ট্যের সাথে বৈসাদৃশ্যপূণর্?\nব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষ বাক্যটির যৌক্তিকতা 'মানুষ মুহম্মদ (স.)' রচনার আলোকে বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch09-cq-005; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-028",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "লঙ্ঘি এ সিন্দুরে প্রলয়ের নৃত্যে ওগাে কার তরী ধায় নিভীর্ক চিত্তে।",
+  "question_number": 3,
+  "stimulus": "লঙ্ঘি এ সিন্দুরে প্রলয়ের নৃত্যে ওগাে কার তরী ধায় নিভীর্ক চিত্তে। অবহেলি জলধির ভৈরব গজর্ন প্রলয়ের ডঙ্কার ওঙ্কার তজর্ন! পুণ্য-পথের এ যে যাত্রীরা নিম্পাপ, ধমেির্র বমের্ সুরক্ষিত দিল সাফ! নহে এরা শঙ্কিত বজ্র-নিপাতেও; কা-ারী আহমদ, তরী ভরা পাথেয়! আবুবকর উসমান উমর আলী হায়দার দাঁড়ি যে এ তরণীর, নাই ওরে নাই ডর! কা-ারী এ তরীর পাকা মাঝি মালস্না, দাঁড়ি-মুখে সারি গান- লা শরীক আলস্নাহ্‌।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সকলের মহাযাত্রা কার দিকে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "হযরতের মৃত্যুর কথা প্রচারিত হলে মদিনায় আঁধার ঘনিয়ে এলো কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকটিতে মানুষ মুহম্মদ (স.)' প্রবন্ধের কোন দিককে নিদের্শ করেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের পাকা মাঝি-মালস্নাদের অন্যতম দুজনই মানুষ মুহম্মদ (স.)' প্রবন্ধের বীরবাহু উমর এবং মহামতি আবুবকর।\"—\nবিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch09-cq-008; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-029",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "হযরত মুহম্মদ (স.)-এর মৃত্যুর সংবাদ শুনে অনেকেই অবিশ্বাস করে ও ক্ষিপ্ত হয়ে ওঠে কিন্তু তিনি ছিলেন আমাদের মতোই একজন সাধারণ মানুষ।",
+  "question_number": 4,
+  "stimulus": "হযরত মুহম্মদ (স.)-এর মৃত্যুর সংবাদ শুনে অনেকেই অবিশ্বাস করে ও ক্ষিপ্ত হয়ে ওঠে কিন্তু তিনি ছিলেন আমাদের মতোই একজন সাধারণ মানুষ। রক্তে, মাংসে গড়া ও সুখ-দুঃখ নিয়ে ছিল তাঁর জীবন। পৃথিবীতে এসেছিলেন আলস্নাহর আদেশে মানবজাতির হেদায়েতের জন্য। সকল যন্ত্রণা, অত্যাচার সহ্য করে হাসিমুখে তিনি দায়িত্ব পালন করে গেছেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'মানুষ মুহম্মদ (স.)' রচনাটি কোন গ্রন্থের অন্ত্মগর্ত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মোহাম্মদ ওয়াজেদ আলী রচিত মানুষ মুহম্মদ (স.) প্রবন্ধে বণির্ত 'এমন নিঃস্ব কাঙালের বেশে মহানবি মৃত্যু রহস্যের দেশে\nচলিয়া গেলেন'। ব্যাখ্যা করো।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'মানুষ মুহম্মদ (স.)' প্রবন্ধে মহানবির চরিত্রের যে দিকটি বণির্ত হয়েছে তা ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"উদ্দীপকটি মহানবি হযরত মুহম্মদ (স.)-এর মানবীয় গুণাবলির খ-চিত্র মাত্র\"—বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch09-cq-010; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-030",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "গাজী সাহেবকে সবাই অত্যন্ত্ম সৎ ও ভালো মানুষ হিসেবে জানেন।",
+  "question_number": 5,
+  "stimulus": "গাজী সাহেবকে সবাই অত্যন্ত্ম সৎ ও ভালো মানুষ হিসেবে জানেন। অফিসে তিনি সততা ও নিষ্ঠার সাথে কাজ করেন। একারণে গাজী সাহেব কিছু সহকমীর্র বিরাগভাজন হন। সুযোগ পেলেই তারা তাঁকে নানাভাবে ব্যঙ্গ বিদ্রূপ ও নাজেহাল করার চেষ্টা করে। গাজী সাহেব সব বুঝতে পারলেও তাঁর অবস্থান থেকে এতটুকু সরে আসেননি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হযরতের মৃত্যুশয্যার পাশে শেষ পযর্ন্ত্ম কে ছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মহানবি (স.) কেন স্বেচ্ছায় দারিদ্‌যের্র কণ্টক মুকুট পরিধান করেছিলেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সহকমীের্দর ব্যঙ্গ-বিদ্রম্নপ উপেক্ষা করায় গাজী সাহেবের চরিত্রে মহানবির কোন গুণটি ফুটে উঠেছে? মানুষ মুহম্মদ (স.)' প্রবন্ধের\nআলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "আদশর্ মানুষ হতে হলে গাজী সাহেবকে মহানবির আর কোন গুণগুলো অজর্ন করতে হবে? 'মানুষ মুহম্মদ (স.)' প্রবন্ধের\nআলোকে বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch09-cq-013; trap-fixed: U+09AF U+09BC -> U+09DF in marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/5. Manush Mumammad (SW).uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-031",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "স্বামী-সন্ত্মান আর শ্বশুর-শাশুড়ি নিয়ে সুখের সংসার সূচনার।",
+  "question_number": 1,
+  "stimulus": "স্বামী-সন্ত্মান আর শ্বশুর-শাশুড়ি নিয়ে সুখের সংসার সূচনার। সবাই কীভাবে সুস্থ ও সুন্দর থাকবে সেদিকে গভীর মনোযোগ তার। একইভাবে পরিবারের সদস্যরাও তার প্রতি যথেষ্ট যত্নশীল। একদিন সূচনার এক বান্ধবী তাকে প্রস্ত্মাব করল সব বান্ধবী মিলে দূরে কোথাও ঘুরতে যাওয়ার। কিন্তু পরিবারের সবাইকে বাদ দিয়ে একা যেতে তার মন সায় দেয় না।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কে নিমগাছের রূপ ও গুণের প্রশংসা করেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'মাটির ভিতরে শিকড় অনেক দূরে চলে গেছে'—কথাটি কেন বলা হয়েছে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'নিমগাছ' গল্পে বণির্ত গৃহবধূর সাথে উদ্দীপকের গৃহবধূর অমিল ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকটি 'নিমগাছ' গল্পের মতোই প্রতীকধমীর্—এ প্রসঙ্গে তোমার মতামত বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch10-cq-003; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-032",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "যে দধীচিদের হাড় দিয়ে ঐ বাষ্পশকট চলে, বাবু সাব এসে চড়িল তাহাতে, কুলিরা পড়িল তলে।",
+  "question_number": 2,
+  "stimulus": "যে দধীচিদের হাড় দিয়ে ঐ বাষ্পশকট চলে, বাবু সাব এসে চড়িল তাহাতে, কুলিরা পড়িল তলে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'নিমগাছ' কোন ধরনের গল্প?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নতুন লোকটা মুগ্ধ দৃষ্টিতে নিমগাছের দিকে চেয়ে রইল কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকটি নিমগাছ গল্পের যে দিকটির প্রতি ইঙ্গিত করে তা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"ভাবনায় মিল থাকলেও উদ্দীপক ও পঠিত গল্পের মূল চেতনা ভিন্ন\"—মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch10-cq-011; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-033",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "নাশিদের বাগানে অনেক তুলসী গাছ আছে।",
+  "question_number": 3,
+  "stimulus": "নাশিদের বাগানে অনেক তুলসী গাছ আছে। তুলসী পাতার রস সদির্- কাশির জন্য খুবই উপকারী। তাই আশেপাশের ছোট বাচ্চাদের সদির্- কাশি হলে অনেক মা-ই নাশিদের বাগানের তুলসী পাতা নিয়ে যান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বনফুলের প্রকৃত নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিমগাছের গোড়া কেউ কেউ শান দিয়ে বাঁধিয়ে দেয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'নিমগাছ' গল্পের কোন দিকটির প্রতিফলন ঘটেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকটি 'নিমগাছ' গল্পের অন্ত্মনিির্হত ভাবটি তুলে ধরতে পেরেছে কি? যুক্তিসহ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch10-cq-009; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-034",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "i. পরীর মতন মেয়ে বিয়ে দিয়েছিনু কাজিদের বাড়ি বনিয়াদি ঘর পেয়ে এত আদরের বুজিরে তাহারা ভালোবাসিত না মোটে, হাতেতে যদিও না মারিত তারে শত যে মারিত ঠোঁটে।",
+  "question_number": 4,
+  "stimulus": "i. পরীর মতন মেয়ে বিয়ে দিয়েছিনু কাজিদের বাড়ি বনিয়াদি ঘর পেয়ে এত আদরের বুজিরে তাহারা ভালোবাসিত না মোটে, হাতেতে যদিও না মারিত তারে শত যে মারিত ঠোঁটে। —জসীমউদ্দীন ii. তোমার যেখানে সাধ চলে যাও- আমি এই বাংলার 'পরে রয়ে যাব; দেখিব কাঁঠালপাতা ঝরিতেছে ভোরের বাতাসে; —জীবনানন্দ দাশ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'বিদ্যাসাগর' বনফুলের কোন জাতীয় রচনা?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'নিমগাছ'কে কেন প্রতীকী গল্প বলা হয়েছে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "পাঠ্য ছোটগল্প 'নিমগাছ'-এর ম্যাজিক বাক্যের সাথর্ক রূপায়ণ উদ্দীপকের কোন অংশে কীভাবে ঘটেছে? আলোচনা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের দুটি অংশi ওii অবলম্বনে পাঠ্য গল্পের বিষয় ও ভাবগত সাথর্কতা নিরূপণ করা যায়।—উক্তিটির যথাথর্তা বিশেস্নষণ\nকর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch10-cq-008; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-035",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "এ সংসারে এসেছিলেম ন বছরের মেয়ে হয়ে।",
+  "question_number": 5,
+  "stimulus": "এ সংসারে এসেছিলেম ন বছরের মেয়ে হয়ে। তারপরে এই পরিবারের দীঘর্ গলি বেয়ে দশের ইচ্ছা-বোঝাই করা এই জীবনটা টেনে টেনে শেষে পৌছিনু আজ পথের প্রান্ত্মে এসে। সুখের-দুখের কথা একটুখানি ভাবব এমন সময় ছিল কোথা!",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "যকৃতের পক্ষে কোনটি খুব উপকারী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"একঝাক নক্ষত্র নেমে এসেছে যেন নীল আকাশ থেকে সবুজ সায়রে\"—এখানে একঝক নক্ষত্র' বলতে কী বোঝানো হয়েছে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "নিমগাছ' গল্পের সাথে উদ্দীপকের সাদৃশ্য নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের গৃহবধূর জীবন আর নিমগাছ' গল্পের লক্ষ্ণীবউটার জীবন একই সূত্রে গাঁথা।\"—মন্ত্মব্যটির সত্যতা নিরূপণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch10-cq-010; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/6. Nimgach.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-036",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "শিহাব সাহেব সুরমা সিমেন্ট কোম্পানির হিসাবরÿণ অফিসার।",
+  "question_number": 1,
+  "stimulus": "শিহাব সাহেব সুরমা সিমেন্ট কোম্পানির হিসাবরÿণ অফিসার। ভালো বেতন পান বলে সংসারে অভাব নেই। কোম্পানির প্রয়োজনে মালিক প্রায়ই বিদেশে থাকেন। এই সুযোগ কাজে লাগিয়ে শিহাবের স্ত্রী রেবা একটু এদিক-ওদিক করে রাতারাতি গাড়ি-বাড়ির মালিক হওয়ার পরামশর্ দেয়। কিন্তু শিহাব তার স্ত্রীর প্রস্ত্মাবে রাজি না হয়ে বলে- 'লোভে পাপ, পাপে মৃত্যু'।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'শিÿা ও মনুষ্যত্ব' প্রবন্ধটি কোন প্রবন্ধের অংশবিশেষ?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মানবজীবনে শিÿা সোনা ফলাতে পারে না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের শিহাব কেন স্ত্রীর প্রস্ত্মাবে রাজি হননি? 'শিÿা ও মনুষ্যত্ব' প্রবন্ধের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "'শিÿা ও মনুষ্যত্ব' প্রবন্ধের কোন দিক রেবার মানসিকতা পরিবতের্ন সহায়ক? বিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch16-cq-004; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-037",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "শাওন সাহেব বিশ্ববিদ্যালয় পড়া শেষে বাবার ব্যবসা দেখাশুনা করছেন।",
+  "question_number": 2,
+  "stimulus": "শাওন সাহেব বিশ্ববিদ্যালয় পড়া শেষে বাবার ব্যবসা দেখাশুনা করছেন। তিনি ব্যবসায় অধিক মুনাফা অজের্নর জন্য শ্রমিকের বেতন ও বোনাসের কিছু অংশ কমিয়ে দেন। তিনি এখন প্রচুর অথর্ ও বিত্তের মালিক। তার বন্ধু হাফিজ সাহেব বেসরকারি প্রতিষ্ঠানে বড় চাকরি করেন। তিনি শ্রম ও অথর্ দিয়ে তাঁর গ্রামে একটি স্কুল প্রতিষ্ঠা করেন। সেখানে তিনি শিক্ষাথীের্দর নাচ, গান, আবৃত্তি ও নাটকসহ নানা বিষয় প্রশিক্ষণের ব্যবস্থা করেন। মাঝে মাঝে তিনি শিক্ষাথীের্দর বিভিন্ন দুযোর্গপূণর্ স্থানে নিয়ে যান সংস্কৃতিক",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লোভের ফলে মানুষের কিসের মৃত্যু ঘটে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শিক্ষার অপ্রয়োজনের দিকটিকে লেখক শ্রেষ্ঠ দিক বলেছেন কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের শাওন সাহেবের মধ্যে 'শিক্ষা ও মনুষ্যত্ব' প্রবন্ধের কোন দিকটি প্রতিফলিত হয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের হাফিজ সাহেবের চেতনায় 'শিক্ষা ও মনুষ্যত্ব' প্রবন্ধের আসল উদ্দেশ্য ফুটে উঠেছে\"—উক্তিটির মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch16-cq-018; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-038",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "হতদরিদ্র পরিবারের সন্ত্মান সুমন।",
+  "question_number": 3,
+  "stimulus": "হতদরিদ্র পরিবারের সন্ত্মান সুমন। অনেক ইচ্ছে ছিল লেখাপড়া করে বড় মানুষ হবে। কিন্তু প্রতিদিন দুবেলা দুমুঠো খাবার জোগাড় করাই যেখানে কষ্টসাধ্য সেখানে পড়াশোনা আর কী করে করবে সে। বাধ্য হয়ে একটা দোকানে কাজ নেয় সে। তাতেও মেটে না পরিবারের চাহিদা। একসময় স্থানীয় ছিনতাইকারী চক্রের সাথে যুক্ত হয়ে অন্ধকার জীবনে পা বাড়ায় সুমন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জীবসত্তার ঘর হতে মানবসত্তার ঘরে উঠবার মই কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শিÿা ও মনুষ্যত্ব প্রবন্ধের রচয়িতার মতে অথির্চন্ত্মা থেকে মুক্তি পাওয়া জরম্নরি কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের সুমনের অন্ধকার জীবনে পা বাড়ানোর কারণটি 'শিÿা ও মনুষ্যত্ব' প্রবন্ধের আলোকে ব্যাখ্যা করো।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"সুমনের মতো মানুষদের প্রকৃত মানুষ হওয়ার জন্য শিÿা ও অন্ন-বস্ত্র উভয় বিষয়ের সুব্যবস্থা প্রয়োজন\"—উক্তিটির যথাথর্তা\nবিশেস্নষণ করো।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch16-cq-007; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-039",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "বিচ্ছিন্ন সম্পকর্-রহিত হতে পারে না।",
+  "question_number": 4,
+  "stimulus": "বিচ্ছিন্ন সম্পকর্-রহিত হতে পারে না। প্রতিটি মানুষ যেমন সমাজের সঙ্গে সম্পকির্ত, তেমনি তার কল্যাণও সামগ্রিকভাবে সমাজের ভালো-মন্দের সঙ্গে সংযুক্ত। আসল কথা, মানুষের মনুষ্যত্বকে বাদ দিয়ে স্রেফ তার জৈব অস্ত্মিত্বের প্রতি সহানুভূতিশীল এ ধরনের মানব-কল্যাণ কিছুমাত্র ফলপ্রসূ হতে পারে না। এহেন মানবকল্যাণের কুৎসিত ছবি দেখার জন্য দূরদূরান্ত্মে যাওয়ার প্রয়ােজন নেই, আমাদের আশে-পাশে, চারদিকে তাকিয়ে দেখলেই তা দেখা যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মোতাহের হােসেন চৌধুরী কত সালে মৃত্যুবরণ করেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "শিক্ষা দ্বারাই জীবনের উন্নয়ন সম্ভব কীভাবে ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকটি শিক্ষা ও মনুষ্যত্ব' প্রবন্ধের কোন দিকের সঙ্গে সাদৃশ্যপূণর্? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"মনুষ্যত্ব অজের্নর শিক্ষাই প্রকৃত শিক্ষা\"—মন্ত্মব্যটি উদ্দীপক ও শিক্ষা ও মনুষ্যত্ব' প্রবন্ধের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch16-cq-017; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-040",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "বাগদাদের আলী কোজাই সারা জীবনের সঞ্চয় সোনার মোহর কলসিতে ভরে বন্ধু নাজিমের কাছে গচ্ছিত রেখে হজব্রত পালনে গেল।",
+  "question_number": 5,
+  "stimulus": "বাগদাদের আলী কোজাই সারা জীবনের সঞ্চয় সোনার মোহর কলসিতে ভরে বন্ধু নাজিমের কাছে গচ্ছিত রেখে হজব্রত পালনে গেল। দুই বছর পর ফিরে এসে বন্ধুর কাছ থেকে কলসি ফেরত নিয়ে দেখে তাতে কোনো সোনার মোহর নেই। নাজিম সব আত্মসাৎ করেছে। আলী কোজাই নাজিমকে এ বিষয়ে জিজ্ঞাসা করলে সে বলে, মোহরের ব্যাপারে সে কিছুই জানে না.",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শিক্ষা মানুষের কোন দিকটি জাগ্রত করে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"লেফাফাদুরস্ত্মি আর শিক্ষা এক কথা নয়\"—বুঝিয়ে দাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের নাজিমের আচরণে শিক্ষা ও মনুষ্যত্ব' প্রবন্ধের কোন দিক লক্ষণীয়? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের নাজিমের মতো মানুষদের মানসিকতা পরিবতর্নই 'শিক্ষা ও মনুষ্যত্ব' প্রবন্ধের মূল শিক্ষা।\"—যৌক্তিক মতামত\nদাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch16-cq-014; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/7. Shikkha o Monushotto.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-041",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "কাশ্মীরের ডাল লেক পুরোটাই পাহাড়ঘেরা।",
+  "question_number": 1,
+  "stimulus": "কাশ্মীরের ডাল লেক পুরোটাই পাহাড়ঘেরা। যেসব পাহাড়ে কেবলই ফুলের গাছ। এমনকি গাছের পাতা পযর্ন্ত্ম রঙিন। বসন্ত্মে যখন গাছে গাছে ফুল ফোটে, তখন সত্যি সত্যিই জায়গাটাকে অপাথির্ব মনে হতে থাকে। মোগল বাদশারা তা দেখেই কাশ্মীরের নাম দিয়েছিলেন ভূস্বগর্; বানিয়েছিলেন গোটা সাম্রাজ্যের গ্রীষ্মকালীন রাজধানী। শ্রীনগর পযর্টকদের জন্য বিচরণ কেন্দ্র। এর বাইরে দেখার মতো আরও অনেক কিছু আছে। যেমন—মোগলদের বানানো ফুলের বাগান, পরিমহল। এখান থেকে পুরো শ্রীনগর দেখা যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কাবুলে লেখকের নতুন বাসস্থান কোন গ্রামে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'জিরার সাহেব কাজের লোক' বলতে কী বোঝানো হয়েছে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "'প্রবাস বন্ধু' ভ্রমণকাহিনির কোন দিকটি উদ্দীপকে উদ্ভাসিত? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "\"উক্ত বিষয়টি মানুষকে হাতছানি দিয়ে ডাকে\"—মন্ত্মব্যটি 'প্রবাস বন্ধু' ভ্রমণকাহিনির আলোকে মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch00-cq-120; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-042",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "পলিস্নকবি জসীমউদদীন 'আমার বাড়ি' কবিতায় তাঁর বন্ধু বা প্রিয়জনকে নিজের গ্রামের বাড়িতে নিমন্ত্রণ করেছেন।",
+  "question_number": 2,
+  "stimulus": "পলিস্নকবি জসীমউদদীন 'আমার বাড়ি' কবিতায় তাঁর বন্ধু বা প্রিয়জনকে নিজের গ্রামের বাড়িতে নিমন্ত্রণ করেছেন। তিনি তাঁর বন্ধুকে আপ্যায়ন করতে চান শালি ধানের চিড়া, বিন্নি ধানের খই কবরী কলা এবং গামছা বাঁধা দই দিয়ে। প্রকৃতির সান্নিধ্যে কেমন করে অতিথির প্রাণ জুড়াবে তারও এক নিবিড় পরিচয় দেন তাঁর কবিতায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পানশির কোথায় অবস্থিত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আবদুর রহমানকে 'সকল কাজের কাজি' বলা হয়েছে কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'প্রবাস বন্ধু' ভ্রমণকাহিনির কোন বিশেষ দিকটি ফুটে উঠেছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের বক্তব্য 'প্রবাস বন্ধু' ভ্রমণকাহিনির সম্পূণর্ ভাব প্রকাশ করতে পারেনি। মূল্যায়ন কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch12-cq-010; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-043",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "শুভ পরিবারের সবার সঙ্গে রাঙ্গামাটি বেড়াতে যায়।",
+  "question_number": 3,
+  "stimulus": "শুভ পরিবারের সবার সঙ্গে রাঙ্গামাটি বেড়াতে যায়। পরদিন সে প্রকৃতির সান্নিধ্যে নিজেকে হারিয়ে ফেলে। স্থানীয় পাহাড়ি মানুষের বাড়িঘর, পাহাড়, তাদের পোশাক, জিনিসপত্র, আচরণ, কথাবাতার্ ও দৈহিক গড়ন তাকে অন্যরকম অনুভূতি এনে দেয়। এমনকি ওদের খাবারের বৈচিত্‌যের্ শুভ একটা ভিন্ন স্বাদের সন্ধান পেয়ে মুগ্ধ হয়ে যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লেখক কোন গ্রামে বাসা খুঁজে পেয়েছিলেন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"আপনার সব কাজ করে দেবে- জুতো বুরম্নশ থেকে খুনখারাবি\"—বুঝিয়ে লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের শুভর অনুভূতির সঙ্গে 'প্রবাস বন্ধু' ভ্রমণকাহিনির মিল কোথায়? বুঝিয়ে লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তুমি কি মনে কর উদ্দীপকের শুভ 'প্রবাস বন্ধু' ভ্রমণকাহিনির লেখকের প্রতিনিধিত্ব করে? উত্তরের পক্ষে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch12-cq-006; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-044",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "রাচি শহরটা অপেক্ষাকৃত সমতল ভূমিতে অবস্থিত।",
+  "question_number": 4,
+  "stimulus": "রাচি শহরটা অপেক্ষাকৃত সমতল ভূমিতে অবস্থিত। তবে চারদিকে সুন্দর পাহাড় স্থানটিকে মনোরম করে রেখেছে। রাঁচিতে রয়েছে জধহপযর খধশব নামক প্রকান্ড একটি কৃত্রিম হ্রদ। হ্রদটি দেখতে খুব সুন্দর ঠিক প্রাকৃতিক হ্রদের মতো। মাঝখানে একটি দ্বীপ হ্রদের শোভা আরও বাড়িয়ে দিচ্ছে। হ্রদের উপকূলে মসজিদ, মন্দির প্রভৃতি স্থানটির প্রাকৃতিক শোভার মধ্যে আধ্যাত্মিক ভাব মিলিয়ে দিয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আবদুর রহমানের দেশের নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আবদুর রহমান তার গোঁফ কামিয়ে ফেলার কথা বলেছিলেন কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকটি 'প্রবাস বন্ধু' ভ্রমণকাহিনির কোন বিষয়ের প্রতিবিঘ্ন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকটি 'প্রবাস বন্ধু' ভ্রমণকাহিনির খ-াংশ মাত্র- মন্ত্মব্যটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch12-cq-008; trap-fixed: U+09AF U+09BC -> U+09DF in stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "bangla-lec-mt-model-test-goddo-cq-model-test-045",
+  "book_id": "class9-10-bangla-lecture",
+  "subject": "বাংলা",
+  "subject_slug": "bangla",
+  "class_id": 9,
+  "chapter": "মডেল টেস্ট",
+  "chapter_number": 0,
+  "chapter_name": "মডেল টেস্ট",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "model-test-goddo-cq",
+  "question_text": "বাংলার মুখ আমি দেখিয়াছি, তাই আমি পৃথিবীর রূপ খুঁজিতে যাই না আর, অন্ধকারে জেগে উঠে ডুমুরের গাছে চেয়ে দেখি ছাতার মতন বড় পাতাটির নিচে বসে আছে ভোরের দোয়েল পাখি চারদিকে চেয়ে দেখি পলস্নবের স্ত্মূপ জাম-বট কাঁঠালের-হিজলের-অশ্বত্থের করে আছে চুপ।",
+  "question_number": 5,
+  "stimulus": "বাংলার মুখ আমি দেখিয়াছি, তাই আমি পৃথিবীর রূপ খুঁজিতে যাই না আর, অন্ধকারে জেগে উঠে ডুমুরের গাছে চেয়ে দেখি ছাতার মতন বড় পাতাটির নিচে বসে আছে ভোরের দোয়েল পাখি চারদিকে চেয়ে দেখি পলস্নবের স্ত্মূপ জাম-বট কাঁঠালের-হিজলের-অশ্বত্থের করে আছে চুপ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আবদুর রহমানের উচ্চতা কত ছিল?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "\"আমাকে থ হয়ে দাঁড়িয়ে থাকতে দেখে আবদুর রহমান, তাড়াতাড়ি এগিয়ে অভয়বাণী দিল- রান্নাঘরে আরো আছে\"—ব্যাখ্যা\nকর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে 'প্রবাস বন্ধু' ভ্রমণকাহিনির কোন বিষয়টি প্রকাশ পেয়েছে? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিষয়গত সাদৃশ্য থাকলেও উদ্দীপক ও 'প্রবাস বন্ধু' ভ্রমণকাহিনির মূলভাবে বৈসাদৃশ্য রয়েছে। মন্ত্মব্যটি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": null,
+  "lesson": "মডেল টেস্ট",
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "no-answer; possible-duplicate: same question text as bangla-lec-ch12-cq-009; trap-fixed: U+09AF U+09BC -> U+09DF in question_text,stimulus,marks_parts",
+  "guide_source": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "key_format": null,
+  "source_file": "Bangla 1st Paper/1. Goddo/5. Model Test Chapterwise/CQ/8. Probas Bondhu.uni.txt",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
