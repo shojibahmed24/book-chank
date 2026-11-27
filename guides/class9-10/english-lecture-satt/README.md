@@ -1,0 +1,430 @@
+# SSC English Lecture Sheets — staging (chunked 2026-11-24)
+
+- Subject: English (slug: english) — Class 9-10, SSC Chapter Wise
+- Source snapshot: 215 files on disk at chunk start (107 PDF, 108 doc/docx); manifest total 662; missing (not yet downloaded) 447.
+- Total rows: 3644 (chapter files 2784, model-test files 860)
+- Flagged rows: 646
+- Decode failures: 0 
+
+## Rows by type
+- changing-sentences: 187
+- completing-story: 11
+- connectors: 20
+- dialogue: 4
+- exercise-2027: 932
+- gap-fill: 29
+- lecture-note: 263
+- matching: 9
+- mcq: 511
+- practice-sheet: 293
+- preposition: 20
+- punctuation: 20
+- right-form: 20
+- saq: 714
+- suffix-prefix: 19
+- summary: 9
+- table: 25
+- tag-question: 98
+- update-paragraphs: 2
+- witing-part: 134
+- writing: 33
+- writing-part: 291
+
+## Rows by chapter
+- chapter 00: 2707
+- chapter 01: 100
+- chapter 02: 88
+- chapter 03: 42
+- chapter 04: 52
+- chapter 05: 38
+- chapter 06: 98
+- chapter 07: 60
+- chapter 08: 34
+- chapter 09: 31
+- chapter 10: 81
+- chapter 11: 117
+- chapter 12: 31
+- chapter 13: 69
+- chapter 14: 23
+- chapter 15: 23
+- chapter 16: 50
+
+## Folder → type mapping used
+- `1. Units Wise` → lesson text `lecture-note`, exercises `saq` (chapter = Unit-N)
+- `2. Practice Sheet` → `practice-sheet` (chapter 00, item-wise)
+- `4. Writing Part` → `writing-part`; `3. Witing Part` → `witing-part`; `Update Paragraphs for 2025-26 Exam` → `update-paragraphs`
+- `1. Grammar Rules` → rules `lecture-note` + numbered items `mcq` (answer = trailing (a)-(d) marker; ব্যাখ্যা → guide_solution)
+- `2. Exercise 2027` → `exercise-2027` (answers from trailing `Answer:` section)
+- `#SSC-2027`, `4. More Model Test` → `model-test` (set_id per test; answers from `Solution to Model Test` section; MCQ key_format `printed-solution`)
+
+## Files
+- chapter-00-exercise-2027.json (932 rows)
+- chapter-00-lecture-note.json (110 rows)
+- chapter-00-mcq.json (448 rows)
+- chapter-00-practice-sheet.json (293 rows)
+- chapter-00-saq.json (11 rows)
+- chapter-00-update-paragraphs.json (2 rows)
+- chapter-00-witing-part.json (134 rows)
+- chapter-00-writing-part.json (291 rows)
+- chapter-01-lecture-note.json (10 rows)
+- chapter-01-saq.json (13 rows)
+- chapter-02-lecture-note.json (14 rows)
+- chapter-02-saq.json (32 rows)
+- chapter-04-lecture-note.json (11 rows)
+- chapter-04-saq.json (41 rows)
+- chapter-05-lecture-note.json (13 rows)
+- chapter-05-saq.json (25 rows)
+- chapter-06-lecture-note.json (13 rows)
+- chapter-06-saq.json (41 rows)
+- chapter-07-lecture-note.json (8 rows)
+- chapter-07-saq.json (52 rows)
+- chapter-08-lecture-note.json (10 rows)
+- chapter-08-saq.json (24 rows)
+- chapter-09-lecture-note.json (9 rows)
+- chapter-09-saq.json (22 rows)
+- chapter-10-lecture-note.json (13 rows)
+- chapter-10-saq.json (25 rows)
+- chapter-11-lecture-note.json (10 rows)
+- chapter-11-saq.json (65 rows)
+- chapter-12-lecture-note.json (15 rows)
+- chapter-12-saq.json (16 rows)
+- chapter-13-lecture-note.json (9 rows)
+- chapter-13-saq.json (18 rows)
+- chapter-14-lecture-note.json (5 rows)
+- chapter-14-saq.json (18 rows)
+- chapter-15-lecture-note.json (10 rows)
+- chapter-15-saq.json (13 rows)
+- chapter-16-lecture-note.json (3 rows)
+- chapter-16-saq.json (5 rows)
+- model-test/1st-paper-ssc-2027-model-1-completing-story.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-1-dialogue.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-1-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-1-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-1-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-1-saq.json (29 rows)
+- model-test/1st-paper-ssc-2027-model-1-summary.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-1-table.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-2-completing-story.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-2-dialogue.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-2-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-2-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-2-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-2-saq.json (22 rows)
+- model-test/1st-paper-ssc-2027-model-2-summary.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-2-table.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-3-completing-story.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-3-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-3-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-3-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-3-saq.json (30 rows)
+- model-test/1st-paper-ssc-2027-model-3-summary.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-3-table.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-4-completing-story.json (2 rows)
+- model-test/1st-paper-ssc-2027-model-4-dialogue.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-4-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-4-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-4-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-4-saq.json (29 rows)
+- model-test/1st-paper-ssc-2027-model-4-summary.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-5-completing-story.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-5-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-5-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-5-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-5-saq.json (32 rows)
+- model-test/1st-paper-ssc-2027-model-5-summary.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-5-table.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-6-completing-story.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-6-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-6-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-6-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-6-saq.json (31 rows)
+- model-test/1st-paper-ssc-2027-model-6-summary.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-6-table.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-7-completing-story.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-7-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-7-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-7-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-7-saq.json (30 rows)
+- model-test/1st-paper-ssc-2027-model-7-summary.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-7-table.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-8-completing-story.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-8-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-8-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-8-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-8-saq.json (30 rows)
+- model-test/1st-paper-ssc-2027-model-8-summary.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-8-table.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-9-completing-story.json (2 rows)
+- model-test/1st-paper-ssc-2027-model-9-dialogue.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-9-gap-fill.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-9-matching.json (1 rows)
+- model-test/1st-paper-ssc-2027-model-9-mcq.json (7 rows)
+- model-test/1st-paper-ssc-2027-model-9-saq.json (29 rows)
+- model-test/1st-paper-ssc-2027-model-9-summary.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-1-changing-sentences.json (9 rows)
+- model-test/2nd-paper-more-model-test-model-1-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-1-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-1-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-1-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-1-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-1-saq.json (4 rows)
+- model-test/2nd-paper-more-model-test-model-1-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-1-tag-question.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-1-writing.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-10-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-saq.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-10-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-10-writing.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-11-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-11-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-11-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-11-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-11-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-11-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-11-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-11-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-11-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-11-writing.json (3 rows)
+- model-test/2nd-paper-more-model-test-model-12-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-12-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-12-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-12-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-12-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-12-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-12-saq.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-12-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-12-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-12-tag-question.json (6 rows)
+- model-test/2nd-paper-more-model-test-model-12-writing.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-13-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-saq.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-13-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-13-writing.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-14-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-14-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-14-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-14-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-14-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-14-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-14-saq.json (3 rows)
+- model-test/2nd-paper-more-model-test-model-14-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-14-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-14-writing.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-changing-sentences.json (9 rows)
+- model-test/2nd-paper-more-model-test-model-15-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-saq.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-15-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-15-writing.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-2-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-2-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-2-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-2-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-2-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-2-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-2-saq.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-2-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-2-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-2-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-2-writing.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-3-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-saq.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-3-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-3-writing.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-4-changing-sentences.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-saq.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-4-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-4-writing.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-5-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-5-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-5-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-5-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-5-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-5-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-5-saq.json (3 rows)
+- model-test/2nd-paper-more-model-test-model-5-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-5-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-5-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-6-changing-sentences.json (9 rows)
+- model-test/2nd-paper-more-model-test-model-6-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-6-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-6-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-6-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-6-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-6-saq.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-6-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-6-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-6-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-6-writing.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-7-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-saq.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-7-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-7-writing.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-8-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-8-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-8-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-8-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-8-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-8-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-8-saq.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-8-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-8-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-8-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-8-writing.json (2 rows)
+- model-test/2nd-paper-more-model-test-model-9-changing-sentences.json (10 rows)
+- model-test/2nd-paper-more-model-test-model-9-connectors.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-9-gap-fill.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-9-preposition.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-9-punctuation.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-9-right-form.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-9-saq.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-9-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-9-table.json (1 rows)
+- model-test/2nd-paper-more-model-test-model-9-tag-question.json (5 rows)
+- model-test/2nd-paper-more-model-test-model-9-writing.json (2 rows)
+- model-test/2nd-paper-ssc-2027-model-1-changing-sentences.json (10 rows)
+- model-test/2nd-paper-ssc-2027-model-1-connectors.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-1-gap-fill.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-1-preposition.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-1-punctuation.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-1-right-form.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-1-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-1-table.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-1-tag-question.json (5 rows)
+- model-test/2nd-paper-ssc-2027-model-1-writing.json (3 rows)
+- model-test/2nd-paper-ssc-2027-model-2-changing-sentences.json (10 rows)
+- model-test/2nd-paper-ssc-2027-model-2-connectors.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-2-gap-fill.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-2-preposition.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-2-punctuation.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-2-right-form.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-2-saq.json (2 rows)
+- model-test/2nd-paper-ssc-2027-model-2-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-2-table.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-2-tag-question.json (6 rows)
+- model-test/2nd-paper-ssc-2027-model-2-writing.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-changing-sentences.json (10 rows)
+- model-test/2nd-paper-ssc-2027-model-3-connectors.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-gap-fill.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-preposition.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-punctuation.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-right-form.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-saq.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-table.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-3-tag-question.json (5 rows)
+- model-test/2nd-paper-ssc-2027-model-3-writing.json (2 rows)
+- model-test/2nd-paper-ssc-2027-model-4-changing-sentences.json (10 rows)
+- model-test/2nd-paper-ssc-2027-model-4-connectors.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-4-gap-fill.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-4-preposition.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-4-punctuation.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-4-right-form.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-4-saq.json (3 rows)
+- model-test/2nd-paper-ssc-2027-model-4-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-4-tag-question.json (5 rows)
+- model-test/2nd-paper-ssc-2027-model-4-writing.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-changing-sentences.json (9 rows)
+- model-test/2nd-paper-ssc-2027-model-5-connectors.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-gap-fill.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-preposition.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-punctuation.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-right-form.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-saq.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-suffix-prefix.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-table.json (1 rows)
+- model-test/2nd-paper-ssc-2027-model-5-tag-question.json (5 rows)
+- model-test/2nd-paper-ssc-2027-model-5-writing.json (2 rows)
+- questions-english.json (all rows), flagged.json (flagged rows only)
+- processed-files.txt (215 on-disk files: PDFs decoded + doc duplicates skipped; U2, L-2.docx converted via soffice and decoded), missing-files.txt (447 not on disk)
+- snapshot-2026-11-24.txt (disk snapshot at chunk start), decode-log.txt, decode-log-v2.txt (86 files re-decoded with decoder v2)
+
+## Known decode errors (kept as-is, not hand-fixed)
+- `চিন্ত্মা` in `SSC English 1st Paper/1. Units Wise/Unit-10.uni.txt`: “…স্বপ্ন মনের মধ্যে জন্মগ্রহণ করে, যেখানে চিন্ত্মাভাবনা এবং ধারণাগুলি রূপ নেয়।) 10…”
+- `চিন্ত্মা` in `SSC English 1st Paper/1. Units Wise/Unit-11.uni.txt`: “…ঞান ও মনোযোগ বৃদ্ধি করে। এটি আমাদের আরও চিন্ত্মাশীল ও সৃজনশীল করে তোলে।) ■■■ Les…”
+- `চিন্ত্মা` in `SSC English 1st Paper/1. Units Wise/Unit-12.uni.txt`: “…. (ছবিটি দেখে আমার একসাথে আনন্দ এবং দুশ্চিন্ত্মা দুটোই হয়। মানুষ তাদের পরিবার ও…”
+- `চিন্ত্মা` in `SSC English 1st Paper/1. Units Wise/Unit-13.uni.txt`: “…একা বসে আছেন, মাথা নিচু করে, জলের ধারে চিন্ত্মাশীল বা বিষণ্ন ভঙ্গিতে। এই শারীরি…”
+- `চিন্ত্মা` in `SSC English 1st Paper/1. Units Wise/Unit-14.uni.txt`: “…j.)— পরিবেশবান্ধব;Concern (n.)—উদ্বেগ / চিন্ত্মা;Century (n.)—শতাব্দী। Questions…”
+
+## Board index (from Exercise item headers)
+- Barishal 2019: 1 items
+- Barishal 2020: 2 items
+- Chattogram 2015: 1 items
+- Chattogram 2019: 1 items
+- Chattogram 2020: 2 items
+- Comilla 2019: 1 items
+- Cumilla 2020: 2 items
+- Dhaka 2019: 1 items
+- Dhaka 2020: 2 items
+- Dinajpur 2015: 1 items
+- Dinajpur 2019: 1 items
+- Dinajpur 2020: 2 items
+- Jashore 2017: 1 items
+- Jashore 2019: 1 items
+- Jashore 2020: 2 items
+- Mymensgh 2020: 1 items
+- Mymensing 2020: 1 items
+- Rajshahi 2019: 1 items
+- Rajshahi 2020: 2 items
+- Sylhet 2019: 1 items
+- Sylhet 2020: 2 items
+
+## Final pass (2026-11-24, after rclone download completed)
+- Files chunked: 216 of the 447 missing files; new rows 23008 (duplicate questions skipped 5599); total rows now 26652; flagged now 13192.
+- Board papers from all compilations merge into one set per (paper, board, year); question-level dedupe keeps the union of unique questions.
+- Board Q1 MCQ is alpha sub-items (a)-(g) with (i)-(iv) options; answer_key holds the roman numeral (key_format printed-solution-roman).
+- Two-column test-paper PDFs re-assembled column-wise (_decode_2col.py — same Bijoy conversion as the shared tool, different line assembly); text in *.2col.txt.
+- Sugg answer file numbering verified NOT to align with the Sugg question file (spot-checks: Babbage vs Sher-E-Bangla; National Memorial vs young-man story) — answers preserved as answer-bank rows, never paired by number.
+- Duplicate files (byte-identical decoded text) chunked once; the other copy gets one flagged lecture-note row each.
+- TP answer pairing is exact (serial, school) PLUS Q1 content verification (answer option texts must match the question's options, ≥50%): the 1-63/64-126 books are a different edition from the Ans book (0/8 exact pairs verify) so their rows carry no answers; only the 76-150 book pairs (58 verified, 17 unverifiable-but-trusted by exact match). The old serial-only fallback (wrong answers) was removed.
+- The 76-150 book is a .doc — the 2-col selector was `.pdf`-only, so run 2 fed it the scrambled `.uni.txt`; fixed, re-parsed from `.2col.txt` (MCQ keys 384/421 = 91%).
+- Known limits: the 76-150 book's decoded text is incomplete for many papers (Q8–Q12 missing for ~19/75 papers); gap-fill/table questions are kept as fewer, larger rows; all 245 rows lacking question_text are flagged.
+
+## Normalization — 2026-11-25 (retry; first agent interrupted mid-work by a service restart)
+
+- **Totals:** 26,652 → **26,680 rows (+28)**; flagged 13,192 → **13,253 (+61)**; model-test files 4,837 → **4,893** (56 new (set, type) namespaces created by the merge). Chapter files unchanged (5,472 rows). Pre-normalization backup in `_backup_pre_norm/` verified intact and reused (never overwritten).
+- **Q8–Q12 recovery (76–150 book):** zone-aware re-decode of the 76–150 question paper (root cause: a page holds the end of paper N above the school header starting paper N+1, so the plain 2-col decode misattributed N's Q8–Q12 to N+1). Re-parse 2,005 rows; merge: **moved 215, replaced 64, added 31, deleted 3** (verified hybrid duplicates), skipped 12 adds as verified duplicates. Q8–Q12 rows: **21 added, 211 moved, 39 replaced**. Papers missing any Q8–Q12: **39 → 6** — 077 [8,9], 083 [12], 099 [12], 110 [12], 127 [8], 132 [8,9] (reasons in the report).
+- **য় trap sweep:** **0 before / 0 after** — combined has 0 decomposed য+় and 14,605 correct য় (question_text 672, options 16, guide_solution 12,041, stimulus 1,345, explanation 530, answer_pointer 1); the English chunker never called NFC, so there were no trap literals to fix.
+- **Doc-twin check:** all **327/327** `.doc`/`.docx` twins verified identical to their PDF twins (token Jaccard 1.0); none carried unique content, none chunked.
+- **Validation (all passed, `work/english/validate_after.py`):** all JSON parses; combined 26,680 = chapter 5,472 + model-test 21,208; ids unique, none null; all rows 37 fields; flagged.json ⊆ combined and flagged count == rows with non-empty flag_note; processed 662 + missing 0 = manifest 662. Spot-checked 3 decoded files by reading (76-150 questions, Ans book, 76-150 2-col).
+- Full decisions, evidence and remaining limits: see `report-2026-11-24.md` § Normalization.
