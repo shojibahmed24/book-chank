@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch04-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch04",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 1,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নিউক্লীয় বিক্রিয়ায় এক টন ইউরেনিয়াম থেকে কী পরিমাণ শক্তি পাওয়া যায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "যান্ত্রিক শক্তিকে কীভাবে অন্য শক্তিতে রূপান্ত্মর করা যায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "C বিন্দুতে বস্তুটির গতিশক্তি নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "B বিন্দুতে বস্তুটির মোট শক্তি নিণর্য় কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "duplicate: identical question also in physics-lec-mt-mtnew-cq-ch10-cq-002",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-4.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch04-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch04",
+  "question_text": "বাবুল সাহেবের রিজাভর্ ট্যাংকি থেকে ছাদের দূরত্ব50 m। তিনি যে পাম্পটি চালান সেটি1.5মিনিটে1600লিটার পানি ওঠাতে পারে। পরে ত",
+  "question_number": 2,
+  "stimulus": "বাবুল সাহেবের রিজাভর্ ট্যাংকি থেকে ছাদের দূরত্ব50 m। তিনি যে পাম্পটি চালান সেটি1.5মিনিটে1600লিটার পানি ওঠাতে পারে। পরে তিনি22 kW ÿমতার পাম্প ব্যবহার করেন যা75 সেকেন্ডেই ঐ পরিমাণ পানি ওঠাতে পারে। পরে আরেকটি24 kW ÿমতার পাম্প কিনলেন যা ঐ সময়েই1800 লিটার পানি ওঠাতে পারে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কাজের মাত্রা সমীকরণ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বস্তুর উপর কীভাবে বিভব শক্তি নিভর্র করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বাবুল সাহেবের প্রথম পাম্পের ÿমতা নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বাবুল সাহেবের ব্যবহারকৃত ২য় ও ৩য় পাম্প দ্বারা একই সময়ে একই উচ্চতায় উত্তোলনকৃত পানির পরিমাণ ভিন্ন। কোন পাম্পটির ব্যবহার তার জন্য সুবিধাজনক− গাণিতিক বিশেস্নষণের মাধ্যমে ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-4.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch04-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch04",
+  "question_text": "40 kg ভরের একজন ব্যক্তি15 kg ভরের একটি বস্তুসহ প্রতিটি20 cm উঁচু25টি সিঁড়ি10 s এ উঠতে পারেন।",
+  "question_number": 3,
+  "stimulus": "40 kg ভরের একজন ব্যক্তি15 kg ভরের একটি বস্তুসহ প্রতিটি20 cm উঁচু25টি সিঁড়ি10 s এ উঠতে পারেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বায়ুকল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "40 জুল কাজ বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উক্ত ব্যক্তির ÿমতা নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "25তম সিঁড়ি থেকে বস্তুটিকে মুক্তভাবে পড়তে দিলে ভূমি স্পশর্ করার পূবর্ মুহূতের্ তার সমস্ত্ম বিভবশক্তি গতিশক্তিতে রূপান্ত্মরিত হয় কিনা গাণিতিকভাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-4.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch04-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch04",
+  "question_text": "80% কমর্দÿতার একটি বৈদ্যুতিক মোটর1000 লিটার পানি30 m উঁচু একটি দালানের ছাদে2 মিনিটে তুলতে পারে। [1 লিটার পানির ভর1 kg]",
+  "question_number": 4,
+  "stimulus": "80% কমর্দÿতার একটি বৈদ্যুতিক মোটর1000 লিটার পানি30 m উঁচু একটি দালানের ছাদে2 মিনিটে তুলতে পারে। [1 লিটার পানির ভর1 kg]",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোনো বস্তুর গতিশক্তি500 J বলতে কী বোঝায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নবায়নযোগ্য শক্তি ব্যবহারের সুবিধাগুলো লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ইঞ্জিনটি প্রকৃত ÿমতা কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ইঞ্জিনটির কমর্দÿতা85% হলে উলিস্নখিত পানির চেয়ে দ্বিগুণ পানি ঐ উচ্চতায় তুলতে কত সময় লাগত তা গাণিতিকভাবে বিশেস্নষণের মাধ্যমে নিণর্য় কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "duplicate: identical question also in physics-lec-mt-ssc2027-cq-set-5-cq-004",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-4.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

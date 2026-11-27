@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch05-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "পদার্থের অবস্থা ও চাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch05",
+  "question_text": "শিমুল একদিন মেঘনা নদীতে সাঁতার কাটছিল। সে 0.45 kg ভরের এবং 550  kg/m3 ঘনত্বের একটি বল পানির উপরিতল থেকে খাড়া উপরের দিকে",
+  "question_number": 1,
+  "stimulus": "শিমুল একদিন মেঘনা নদীতে সাঁতার কাটছিল। সে 0.45 kg ভরের এবং 550  kg/m3 ঘনত্বের একটি বল পানির উপরিতল থেকে খাড়া উপরের দিকে ছুড়ে মারল3 s পর বলটি পুনরায় পানিতে পড়ল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পৃথিবী পৃষ্ঠে প্রতি বগির্মটারের বায়ুর চাপ কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোনো বস্তুর ঘনত্ব1000 kg/m3 বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বলটির আয়তন নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বলটি পানির উপরিতলে আঘাত করার পর ডুবে যাবে না ভেসে থাকবে? বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-5.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch05-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "পদার্থের অবস্থা ও চাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch05",
+  "question_text": "0.87 আপেÿিক গুরম্নত্ব বিশিষ্ট বস্তুকে একটি পাথরের টুকরার সাথে বেঁধে পানিতে ছেড়ে দেওয়া হলো। পাথরের টুকরাটির উপাদানের আপ",
+  "question_number": 2,
+  "stimulus": "0.87 আপেÿিক গুরম্নত্ব বিশিষ্ট বস্তুকে একটি পাথরের টুকরার সাথে বেঁধে পানিতে ছেড়ে দেওয়া হলো। পাথরের টুকরাটির উপাদানের আপেÿিক গুরম্নত্ব786 এবংপানিতে সম্পূণর্ নিমজ্জিত অবস্থায় ওজন465 N।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পীড়ন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পদাথের্র পস্নাজমা অবস্থা কী? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বস্তুটির আয়তন60 cm3 হলে বাতাসে বস্তুর ওজন নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বস্তু ও পাথর একসঙ্গে বাঁধা অবস্থায় বস্তুটি ভাসবে না ডুববে-গাণিতিকভাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-5.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch05-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "পদার্থের অবস্থা ও চাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch05",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: B m  15 kg 2 10 cm cm 5 2. A  m  15 kg 2",
+  "question_number": 3,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: B m  15 kg 2 10 cm cm 5 2. A  m  15 kg 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সঞ্চয়ী কোষে ব্যবহৃত সালফিউরিক এসিডের ঘনত্ব কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নৌপথে দুঘর্টনার কারণ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A বস্তুটির উপরিতলের কোনো বিন্দুতে চাপ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের তথ্য অনুযায়ীA ওB উভয় বস্তুর ভর15 g হওয়া সত্ত্বেও কার আয়তন বেশি হবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-5.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch05-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 5,
+  "chapter_number": 5,
+  "chapter_name": "পদার্থের অবস্থা ও চাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch05",
+  "question_text": "একটি আয়তাকার বস্নকের তলদেশে ÿেত্রফল25 cm2। একে পানির মধ্যে ডুবানো হলো। পানির ঘনত্ব1000 kgm−3। পানির উপরিতল থেকে বস্নকের",
+  "question_number": 4,
+  "stimulus": "একটি আয়তাকার বস্নকের তলদেশে ÿেত্রফল25 cm2। একে পানির মধ্যে ডুবানো হলো। পানির ঘনত্ব1000 kgm−3। পানির উপরিতল থেকে বস্নকের উপরের পৃষ্ঠের গভীরতা5 cm এবং বস্নকের উচ্চতা2 cm।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বরফের ঘনত্ব কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কঠিন বস্তুর কোনো তরলে ভাসন ও নিমজ্জনের কারণ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বস্নকের তলদেশে পানির চাপ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রদত্ত উপাত্ত আকিির্মডিসের সূত্রকে সমথর্ন করে কিনা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-5.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-5.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

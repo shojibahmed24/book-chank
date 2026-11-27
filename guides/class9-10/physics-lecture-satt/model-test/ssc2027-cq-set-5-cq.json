@@ -1,0 +1,422 @@
+[
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-5-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-5",
+  "question_text": "একটি আয়তাকার ইস্পাত দেন্ডর গায়ে দাগ কেটেসস্নাইড ক্যালিপােসর্র মূল বা প্রধানস্কেলৈতরি করা হয়।েকােনা বস্তুর সঠিক পরিমাে",
+  "question_number": 1,
+  "stimulus": "একটি আয়তাকার ইস্পাত দেন্ডর গায়ে দাগ কেটেসস্নাইড ক্যালিপােসর্র মূল বা প্রধানস্কেলৈতরি করা হয়।েকােনা বস্তুর সঠিক পরিমােপর জন্য এর গােয় ভানির্য়ারস্কেল যুক্ত থােক।েবলনাকার একটি কাঠদেন্ডর ব্যাস নিণের্য়রক্ষেত্রে প্রধানস্কেল পাঠ পাওয়ােগল4.5 cm এবং ভানির্য়ার পাঠ পাওয়ােগল3। ভানির্য়ার10 ভাগ প্রধানস্কেেলর ক্ষুদ্রতম8 ভােগর সমান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দৈব ত্রম্নটি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভানির্য়ারের সমপাতন বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "স্স্নাইড ক্যালিপাসর্ দ্বারা দন্ডটির ব্যাস নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "যদি দন্ডটির দৈঘর্য4.50 cm হয় তবে তার আয়তন নিণর্য় কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-5-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 2,
+  "chapter_number": 2,
+  "chapter_name": "গতি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-5",
+  "question_text": "একটি বিমান360 kmh-1 বেগে বিমান বন্দরে অবতরণ করছে। বিমানটি মাটি স্পশর্ করার20 s পর তার নিধাির্রত স্থানে থেমে যায়। বিমানট",
+  "question_number": 2,
+  "stimulus": "একটি বিমান360 kmh-1 বেগে বিমান বন্দরে অবতরণ করছে। বিমানটি মাটি স্পশর্ করার20 s পর তার নিধাির্রত স্থানে থেমে যায়। বিমানটির অবতরণ পথে660 m দূরে একটি অ্যাম্বুলেন্স রাখা আছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "g-এর আদশর্ মান কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ক্রিয়া-প্রতিক্রিয়া বল ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিমানটি অবতরণকালে ত্বরণ কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিমানটি নিরাপদে অবতরণ করতে পারবে কি? গাণিতিক বিশেস্নষণ দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-5-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "বল",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-5",
+  "question_text": "একটি রাইফেল থেকে1 kms-1 বেগে15 g ভরের একটি বুলেট এক টুকরা কাঠের মধ্যে4.5 cm প্রবেশ করে থেমে গেল।",
+  "question_number": 3,
+  "stimulus": "একটি রাইফেল থেকে1 kms-1 বেগে15 g ভরের একটি বুলেট এক টুকরা কাঠের মধ্যে4.5 cm প্রবেশ করে থেমে গেল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ঘষের্ণর ফলে হারানো শক্তি কিসে পরিণত হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দৈনন্দিন জীবনে ঘষের্ণর সুবিধা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের রাইফেলের ভর যদি15 kg হয়, তবে এর পশ্চাৎবেগ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বুলেটকে বাধাদানকারী বলের মান নিণর্য় কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-5-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-5",
+  "question_text": "80% কমর্দÿতার একটি বৈদ্যুতিক মোটর1000 লিটার পানি30 m উঁচু একটি দালানের ছাদে2 মিনিটে তুলতে পারে। [1 লিটার পানির ভর1 kg]",
+  "question_number": 4,
+  "stimulus": "80% কমর্দÿতার একটি বৈদ্যুতিক মোটর1000 লিটার পানি30 m উঁচু একটি দালানের ছাদে2 মিনিটে তুলতে পারে। [1 লিটার পানির ভর1 kg]",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোনো বস্তুর গতিশক্তি ৫০০ ঔ বলতে কী বোঝায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নবায়নযোগ্য শক্তি ব্যবহারের সুবিধাগুলো লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ইঞ্জিনটি প্রকৃত ÿমতা কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ইঞ্জিনটির কমর্দÿতা 85% হলে উলিস্নখিত পানির চেয়ে দ্বিগুণ পানি ঐ উচ্চতায় তুলতে কত সময় লাগত তা গাণিতিকভাবে বিশেস্নষণের মাধ্যমে নিণর্য় কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "duplicate: identical question also in physics-lec-mt-mtnew-cq-ch04-cq-004",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-5-cq-005",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "তরঙ্গ ও শব্দ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-5",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 5,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উদ্দীপকে ব্যবহৃত যন্ত্রটির পুরো নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "যন্ত্রটির সাহায্যে কীভাবে সমুদ্রের গভীরতা নিণর্য় করা যায়? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সমুদ্রের পানির তাপমাত্রা20°C হলে যন্ত্রটি শব্দ করার কতÿণ পর প্রতিধ্বনি শোনা যাবে।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মানবজীবনে যন্ত্রটিতে ব্যবহৃত শব্দের প্রয়োজনীয়তা বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf cq5",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-5-cq-006",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 8,
+  "chapter_number": 8,
+  "chapter_name": "আলোর প্রতিফলন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-5",
+  "question_text": "নিচের চিত্রের আলোকে প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 6,
+  "stimulus": "নিচের চিত্রের আলোকে প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বক্রতার ব্যাসাধর্ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সিনেমার পদার্ কী রঙের রাখা হয় ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রের দপর্ণটির বক্রতার ব্যাসাধর্ কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত দপর্ণটিF ওP এর মাঝে বস্তু রাখলে প্রতিবিম্বের অবস্থান, প্রকৃতি ও আকৃতি আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf cq6",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-5-cq-007",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "স্থির বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-5",
+  "question_text": "নিচের উদ্দীপকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : 20 C  25 C  8 C  5 C 5 m  1 m 30 N A 1bs wPÎ 2bs wPÎ",
+  "question_number": 7,
+  "stimulus": "নিচের উদ্দীপকটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : 20 C  25 C  8 C  5 C 5 m  1 m 30 N A 1bs wPÎ 2bs wPÎ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "এক কুলম্ব কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তড়িৎ বলরেখা কীভাবে তড়িৎ তীব্রতার দিক নিদের্শ করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "১নং চিত্রেA বিন্দুতে তড়িৎ তীব্রতার মান বের কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "১নং ও ২নং চিত্রে অনুভূত বলের পরিবতর্ন বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 5 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf cq7",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-5 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-2-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-2",
+  "question_text": "সাধারণ মিটার স্কেলে কোনো জিনিসের দৈঘর্য মিলিমিটার পযর্ন্ত্ম মাপা যায়। আরও নিখুঁতভাবে কোনো বস্তুর দৈঘর্য মাপতে হলে অথার্",
+  "question_number": 1,
+  "stimulus": "সাধারণ মিটার স্কেলে কোনো জিনিসের দৈঘর্য মিলিমিটার পযর্ন্ত্ম মাপা যায়। আরও নিখুঁতভাবে কোনো বস্তুর দৈঘর্য মাপতে হলে অথার্ৎ মিলিমিটারের ভগ্নাংশ যেমন :0.2 mm,0.6 mm ইত্যাদি মাপতে হলে ভানির্য়ার স্কেল ব্যবহার করতে হয়। একটি ভানির্য়ার স্কেলের10 ভাগ প্রধান স্কেলের9 ভাগের সমান। cm",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভানির্য়ার স্কেল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভানির্য়ার সমপাতন6 বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রধান স্কেলের ক্ষুদ্রতম1 ভাগ1mm হলে ভানির্য়ার ধ্রুবকের মান বের কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "কোনো বস্তুর পরিমাণ নিণের্য় প্রধান স্কেলের সাথে ভানির্য়ার স্কেলের সম্পকর্ স্থাপন করা যায়-বিশেস্নষণ কর। 5 kg",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-2-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 2,
+  "chapter_number": 2,
+  "chapter_name": "গতি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-2",
+  "question_text": "7 10 ভরের গতিশীল একটি কারের বেগ বনাম সময় লেখচিত্র দেখানো হলো। লেখচিত্র হতে নিচের প্রশ্নগুলোর উত্তর লেখ। Y  P  N 80 †eM",
+  "question_number": 2,
+  "stimulus": "7 10 ভরের গতিশীল একটি কারের বেগ বনাম সময় লেখচিত্র দেখানো হলো। লেখচিত্র হতে নিচের প্রশ্নগুলোর উত্তর লেখ। Y  P  N 80 †eM 60 40 20 T 0  10 20  30  40  x",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বেগ বনাম সময় লেখ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "লেখচিত্রেরPN অংশে কারের বেগ ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "10s পর কারটির অতিক্রান্ত্ম দূরত্ব নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "লেখচিত্রেরOP এবংNT অংশে কারের ত্বরণের পরিবতের্নর হারের প্রকৃতি বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-2-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "বল",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-2",
+  "question_text": "1  105 g ভরের একটি গাড়ি রাস্ত্মায় স্থির অবস্থায় ছিল। পেছন থেকে একটি গাড়ি বল প্রয়োগ করায় গাড়িটি54 kmh-1 বেগে চলছি",
+  "question_number": 3,
+  "stimulus": "1  105 g ভরের একটি গাড়ি রাস্ত্মায় স্থির অবস্থায় ছিল। পেছন থেকে একটি গাড়ি বল প্রয়োগ করায় গাড়িটি54 kmh-1 বেগে চলছিল। ফলে গাড়িটি মাত্র অধের্ক মিনিট পর থেমে যায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভরবেগের একক কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বলের ঘাত ও ভরবেগের পরিবতের্নর মধ্যে সম্পকর্ স্থাপন কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের গাড়িটিকে পেছনের গাড়িটি কত বল প্রয়োগ করেছিল গাণিতিকভাবে নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের সাহায্যে নিউটনের গতির প্রথম সূত্র অজর্ন করা যায় কিনা? গাণিতিকভাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-2-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-2",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : শিহাব ও শাকিল দুই বন্ধু নিম্নলিখিত উপায়ে 30টি সিঁড়ি বেয়ে ছাদে ওঠে। প্",
+  "question_number": 4,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : শিহাব ও শাকিল দুই বন্ধু নিম্নলিখিত উপায়ে 30টি সিঁড়ি বেয়ে ছাদে ওঠে। প্রতিটি সিঁড়ির উচ্চতা15  cm। শিহাব ও শাকিলের ভর যথাক্রমে65 kg এবং70 kg। ছাদে ওঠার সময় (সেকেন্ড) পাঠ দৌড়ের প্রকৃতি শিহাব শাকিল 1  জোরে দৌড়ে 15  12 2  আস্ত্মে দৌড়ে 20  18 3  জোরে হেঁটে 22  20 4  স্বাভাবিকভাবে হেঁটে 25  23 5  আস্ত্মে হেঁটে 35  32",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তাপবিদ্যুৎ কেন্দ্রের প্রধান উপাদান কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অভিকষর্জ বিভব শক্তি এর উচ্চতার ওপর কীরূপে নিভর্র করে ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কে বেশি ÿমতা প্রয়োগ করে গাণিতিক যুক্তিতে দেখাও।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শিহাব ও শাকিলের মধ্যে কার গড় ÿমতা বেশি-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-2-cq-005",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "তরঙ্গ ও শব্দ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-2",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : সুতার আন্দোলন",
+  "question_number": 5,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : সুতার আন্দোলন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "১নং চিত্রের তরঙ্গ কী ধরনের?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "২ নং তরঙ্গের সঞ্চালন প্রক্রিয়া ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দ্বিতীয় তরঙ্গটির বেগ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "১ এবং ২ নং তরঙ্গের বৈশিষ্ট্য বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf cq5",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-2-cq-006",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 8,
+  "chapter_number": 8,
+  "chapter_name": "আলোর প্রতিফলন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-2",
+  "question_text": "এক ব্যক্তি আয়নার সামনে দাঁড়িয়ে তার পূণর্ অবয়ব দেখার চেষ্টা করলেন। প্রাথমিক পযাের্য় সে পূণর্ অবয়ব দেখতে না পেয়ে আয",
+  "question_number": 6,
+  "stimulus": "এক ব্যক্তি আয়নার সামনে দাঁড়িয়ে তার পূণর্ অবয়ব দেখার চেষ্টা করলেন। প্রাথমিক পযাের্য় সে পূণর্ অবয়ব দেখতে না পেয়ে আয়না থেকে দূরে সরে একটা নিদির্ষ্ট দূরত্বে অবস্থান করায় পূণর্ অবয়ব দেখতে পান। এখানে তিনি লÿ করলেন যে, আয়না থেকে সে যত দূরে সরে যাচ্ছে আয়নাতে তার বিম্বও তত দূরে সরে যাচ্ছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দীপ্তিমান বস্তু কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আয়নার পেছনের দিকে পারদের প্রলেপ দেওয়া হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ব্যক্তির উচ্চতা1.50 m হলে দপের্ণর উচ্চতা নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের আয়নাটিতে গঠিত বিম্বের অবস্থান, প্রকৃতি ও আকৃতি চিত্রের সাহায্যে ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf cq6",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-2-cq-007",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "স্থির বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-2",
+  "question_text": "তারেক একটি ফুলানো বেলুনকে তার জামার সাথে ঘষার পর এটিকে দেওয়ালের সাথে একটুখানি চেপে ধরে ছেড়ে দিল। দেখল বেলুনটি দেওয়ালে",
+  "question_number": 7,
+  "stimulus": "তারেক একটি ফুলানো বেলুনকে তার জামার সাথে ঘষার পর এটিকে দেওয়ালের সাথে একটুখানি চেপে ধরে ছেড়ে দিল। দেখল বেলুনটি দেওয়ালের গায়ে আটকে গেছে। এবার সে একটি পস্নাস্টিকের বস্তুকে জামার সাথে ভালোভাবে ঘষল। এরপর সে বাথরম্নমে এসে পানির কল ÿীণ ধারায় ছেড়ে দিয়ে পস্নাস্টিকের বস্তুটিকে পানির ধারার কাছে ধরে দেখল পানির ধারা বস্তুটির দিকে কিছুটা বেঁকে আসছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তড়িৎ আবেশ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তড়িৎগ্রস্ত্ম হওয়া বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "পানির ÿীণ ধারাটি কেন পস্নাস্টিকের বস্তুটির দিকে এগিয়ে আসল-ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বেলুনটি দেওয়ালে চেপে ধরে ছেড়ে দেওয়ার পর কী অবস্থার সৃষ্টি হলো- বশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf cq7",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-2 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

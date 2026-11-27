@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch08-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 8,
+  "chapter_number": 8,
+  "chapter_name": "আলোর প্রতিফলন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch08",
+  "question_text": "করিম তার ভাইয়ের সাথে মোটরসাইকেলে বাড়ি ফেরার পথে8 cm ব্যাসবিশিষ্ট লুকিং গস্নাসে তাকিয়ে দেখল তার মুখের আকৃতি স্বাভাবিকে",
+  "question_number": 1,
+  "stimulus": "করিম তার ভাইয়ের সাথে মোটরসাইকেলে বাড়ি ফেরার পথে8 cm ব্যাসবিশিষ্ট লুকিং গস্নাসে তাকিয়ে দেখল তার মুখের আকৃতি স্বাভাবিকের চেয়ে ছোট দেখাচ্ছে। পরে বাড়ি ফিরে তার ড্রেসিং টেবিলের আয়নার সামনে দাঁড়িয়ে দেখল তার মুখের আকৃতি ঠিকই আছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উলিস্নখিত প্রথম দপর্ণটি কোন ধরনের?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোনো সমতল দপের্ণর সামনে দাঁড়ালে আমাদের ডান হাতটি প্রতিবিম্বের বাম হাত বলে মনে হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মোটর সাইকেলের গস্নাসের ফোকাস দূরত্ব নিণর্য় কর এবং প্রতিবিম্বের প্রকৃতি কেমন হবে তা লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত আয়নাগুলোর সৃষ্ট প্রতিবিম্বের মধ্যে তুলনামূলক আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 8 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-8.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch08-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 8,
+  "chapter_number": 8,
+  "chapter_name": "আলোর প্রতিফলন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch08",
+  "question_text": "তুমি স্কুলে যাওয়ার পূবের্ আয়নাতে চুল আচড়াচ্ছিলে। তুমি লÿ করলে, আয়না থেকে যত দূরে যাচ্ছিলে আয়না থেকে তোমার প্রতিবিম্",
+  "question_number": 2,
+  "stimulus": "তুমি স্কুলে যাওয়ার পূবের্ আয়নাতে চুল আচড়াচ্ছিলে। তুমি লÿ করলে, আয়না থেকে যত দূরে যাচ্ছিলে আয়না থেকে তোমার প্রতিবিম্ব ঠিক ততোটাই পেছনে সরে যাচ্ছিল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আলো কী ধরনের তরঙ্গ?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উত্তল দপের্ণর ÿেত্রে রশ্মি চিত্রের গতিপথের চিত্র অঙ্কন কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে ব্যবহৃত আয়নাতে একটি বিস্ত্মৃত বস্তুর প্রতিবিম্ব অঙ্কন কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষের লাইনটি রশ্মি চিত্রের সাহায্যে প্রমাণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 8 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-8.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch08-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 8,
+  "chapter_number": 8,
+  "chapter_name": "আলোর প্রতিফলন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch08",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: একটি লÿ্যবস্তুর দৈঘর্য5 cm এবং এরবাস্ত্মব বিম্বের রৈখিক বিবধর্ন,",
+  "question_number": 3,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: একটি লÿ্যবস্তুর দৈঘর্য5 cm এবং এরবাস্ত্মব বিম্বের রৈখিক বিবধর্ন,m = 0.5।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রৈখিক বিবধর্ন কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রৈখিক বিবধর্ন1.25 বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "লÿ্যবস্তুটিকে বক্রতার কেন্দ্রে স্থাপন করলে এর রৈখিক বিবধর্ন কত হবে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দপর্ণটি উত্তল হলে, উদ্দীপকের রৈখিক বিবধর্ন সম্ভব কি? চিত্রের সাহায্যে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 8 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-8.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch08-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 8,
+  "chapter_number": 8,
+  "chapter_name": "আলোর প্রতিফলন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch08",
+  "question_text": "তুমি একটি ড্রেসিং টেবিলের সামনে দাঁড়ালে দেখতে পাবে যে তুমি দপের্ণর যতটুকু সামনে আছ তোমার প্রতিবিম্ব দপের্ণর ঠিক তত দূরে",
+  "question_number": 4,
+  "stimulus": "তুমি একটি ড্রেসিং টেবিলের সামনে দাঁড়ালে দেখতে পাবে যে তুমি দপের্ণর যতটুকু সামনে আছ তোমার প্রতিবিম্ব দপের্ণর ঠিক তত দূরে অবস্থান করছে। তোমার অবস্থান থেকে এবার1m পেছনে গিয়ে লÿ কর তোমার প্রতিবিম্বও1m পেছনে সরে গেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শূন্য মাধ্যমে আলোর বেগ কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিয়মিত প্রতিফলন ও ব্যাপ্ত প্রতিফলনের মধ্যে তিনটি পাথর্ক্য লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তোমার প্রতিবিম্বের প্রকৃতি কেমন হবে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের শেষোক্ত বাক্যের আলোকে প্রতিবিম্বের অবস্থানের পরিবতর্ন গাণিতিকভাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 8 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-8.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-8.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

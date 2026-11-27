@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch11-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 11,
+  "chapter_number": 11,
+  "chapter_name": "চল বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch11",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: 2 2 4  3 3 6 6 4 6 3 3 6 E = 6V  k  E = 6V  k r = 0",
+  "question_number": 1,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: 2 2 4  3 3 6 6 4 6 3 3 6 E = 6V  k  E = 6V  k r = 07V  r = 07V wPÎ : A wPÎ : B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমান্ত্মরাল সংযোগ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কুলম্বের সূত্র ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বতর্নীB এর তুল্যরোধ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "K সংযোগ থাকা অবস্থায়A ওB বতর্নীর কোনটিতে অধিক তড়িৎ প্রবাহিত হবে-গাণিতিকভাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 11 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-11.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch11-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 11,
+  "chapter_number": 11,
+  "chapter_name": "চল বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch11",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: 2  4  K 1  3  5 V",
+  "question_number": 2,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: 2  4  K 1  3  5 V",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "1 amp বলতে কী বোঝ?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তড়িৎ প্রবাহের প্রকৃত দিক প্রচলিত দিকের বিপরীত- ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "চাবি (K) বন্ধ বা সংযুক্ত থাকা অবস্থায় বতর্নীর তুল্যরোধ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "K বন্ধ ও খোলা থাকা অবস্থায় বতর্নীর মূল তড়িৎ প্রবাহের কোনো পরিবতর্ন হবে কী? ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 11 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-11.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch11-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 11,
+  "chapter_number": 11,
+  "chapter_name": "চল বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch11",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: +  − (A)  (K) Zvi e¨vm = 02cm −8 আপেÿিক রোধ =42  10 m দৈঘর্",
+  "question_number": 3,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: +  − (A)  (K) Zvi e¨vm = 02cm −8 আপেÿিক রোধ =42  10 m দৈঘর্য =12km +  −",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রোধ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রোধের প্রথম সূত্র ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তারটির রোধ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "রোধের সূত্র থেকে কিভাবে আপেÿিক রোধের ধারণা পাওয়া যায় বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 11 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-11.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch11-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 11,
+  "chapter_number": 11,
+  "chapter_name": "চল বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch11",
+  "question_text": "তমা ও তন্বীর পড়ার ঘের যথাক্রমে 220V  −  60W  এর একটি বাল্ব এবং 220V  −  20W  এর দুইটি এনাজির্ সেভিংবাল্ব আছে। তন্বীর ঘর",
+  "question_number": 4,
+  "stimulus": "তমা ও তন্বীর পড়ার ঘের যথাক্রমে 220V  −  60W  এর একটি বাল্ব এবং 220V  −  20W  এর দুইটি এনাজির্ সেভিংবাল্ব আছে। তন্বীর ঘরের বাল্ব দুইটি সিরিজসংযোগ করা। তারাপ্রত্যেকে প্রতিদিন 5 ঘণ্টাবাল্বগুলো ব্যবহারকরে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "রোধের বিপরীত রাশি কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সিস্টেম লস কীভাবে কমানো যায়—ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তন্বীর প্রতিটি বাল্বের রোধ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তমা ও তন্বীরমধ্যে কে বেশিবিদ্যুৎ শক্তি ব্যবহারকরে? গাণিতিক যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 11 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-11.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-11.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

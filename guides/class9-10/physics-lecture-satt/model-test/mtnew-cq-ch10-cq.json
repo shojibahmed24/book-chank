@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch10-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "স্থির বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch10",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: q d q 1 2 চিত্রেq  ওq দুটি আধান।d এদের মধ্যবতীর্ দূরত্ব। 1 2",
+  "question_number": 1,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: q d q 1 2 চিত্রেq  ওq দুটি আধান।d এদের মধ্যবতীর্ দূরত্ব। 1 2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ধনাত্মক বিভব কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দুটি আধানের মধ্যবতীর্ আকষর্ণ বা বিকষর্ণ বলের মান কোন বিষয়গুলোর উপর নিভর্রশীল?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "d এর মান দ্বিগুণ করলে কী ঘটবে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের চিত্র হতে বল নিণর্য় করা সম্ভব কিনা, যুক্তিসহ লেখ।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 10 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-10.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-10.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch10-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "স্থির বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch10",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 2,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তড়িৎ তীব্রতার একক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কোনো বিন্দুরতড়িৎতীব্রতাব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের আলোকে তড়িৎÿেত্রের তীব্রতা ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের 'খ' ও 'গ' চিত্রের তুলনামূলক বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 10 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced); duplicate: identical question also in physics-lec-mt-mtnew-cq-ch04-cq-001",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-10.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-10.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch10-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "স্থির বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch10",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B 20 C −10 C 10 m চিত্রে শূন্য বিভবের কোনো স্থান থেকেA এবংB ব",
+  "question_number": 3,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: A B 20 C −10 C 10 m চিত্রে শূন্য বিভবের কোনো স্থান থেকেA এবংB বস্তুতে1 C ধনাত্মক আধান আনতে যথাক্রমে100 J এবং10 J কাজ করতে হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তড়িৎ আবেশ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তড়িৎÿেত্রের কোনো বিন্দুতে বিভব20 V বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বস্তুদ্বয়ের কেন্দ্রের সংযোজক রেখাংশের মধ্যবিন্দুতে তড়িৎ প্রাবল্য কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A ওB কে পরিবাহী তার দ্বারা যুক্ত করে ইলেকট্রন প্রবাহের দিক ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 10 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-10.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-10.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch10-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "স্থির বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch10",
+  "question_text": "q (30C)  ওq  (40C) ধনাত্মকভাবে আহিত দুটো বস্তুকে পরস্পর হতে20m দূরত্বে স্থাপন করা হয়।q বস্তুকে 1 2 1 q এর তড়িৎÿেত্র এব",
+  "question_number": 4,
+  "stimulus": "q (30C)  ওq  (40C) ধনাত্মকভাবে আহিত দুটো বস্তুকে পরস্পর হতে20m দূরত্বে স্থাপন করা হয়।q বস্তুকে 1 2 1 q এর তড়িৎÿেত্র এবংq বস্তুকেq এর তড়িৎÿেত্রে আনতে যথাক্রমে25J এবং15J কাজ সম্পন্ন করতে হয়। 2 2 1",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ওমের সূত্রটি লিখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৈদ্যুতিক সংযোগের ÿেত্রে অতিরিক্ত একটি তার ব্যবহার করা হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "q  ওq এর মধ্যবতীর্ দূরত্ব অধের্ক করা হলে এদের মধ্যবতীর্ বলের মান নিণর্য় কর। 1 2",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "q ওq কে পরিবাহী তার দ্বারা সংযুক্ত করলে ইলেকট্রনের প্রবাহ কেমন হবে? গাণিতিক যুক্তি দাও। 1  2",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 10 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-10.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-10.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

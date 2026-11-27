@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch06-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 6,
+  "chapter_number": 6,
+  "chapter_name": "বস্তুর উপর তাপের প্রভাব",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch06",
+  "question_text": "করিম পরীÿাগারে0°C তাপমাত্রায়100  cm লম্বা একখন্ডঅ্যালুমিনিয়ামের পাতকে উত্তপ্ত করে200°C এ উন্নীত করল। অতঃপর সে বধির্ত অ",
+  "question_number": 1,
+  "stimulus": "করিম পরীÿাগারে0°C তাপমাত্রায়100  cm লম্বা একখন্ডঅ্যালুমিনিয়ামের পাতকে উত্তপ্ত করে200°C এ উন্নীত করল। অতঃপর সে বধির্ত অংশের দৈঘর্য হিসাব করল। তরল পদাথের্র ÿেত্রে সে জানে যে, প্রকৃত প্রসারণ তরলের আপাত প্রসারণ ও পাত্রের প্রসারণের যোগফলের সমান।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফারেনহাইট স্কেলে সুস্থ মানুষের দেহের তাপমাত্রা কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "উষ্ণতার পাথের্ক্যর ওপর তাপের প্রবাহ কীভাবে নিভর্র করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "অ্যালুমিনিয়ামের দৈঘর্য প্রসারণ সহগ23.8  10-6K-1 হয় তবে পাতটির দৈঘর্য কত বৃদ্ধি পাবে নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "তরল পদাথের্র ÿেত্রে করিমের ধারণার যথাথর্তা প্রমাণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 6 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-6.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch06-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 6,
+  "chapter_number": 6,
+  "chapter_name": "বস্তুর উপর তাপের প্রভাব",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch06",
+  "question_text": "5°C তাপমাত্রায় একটি লোহার রেল লাইনের দৈঘর্য100 m। সূযের্র তাপে ও রেলের চাকার ঘষের্ণ তাপমাত্রা60°C বৃদ্ধি পায়। দুঘর্টনা",
+  "question_number": 2,
+  "stimulus": "5°C তাপমাত্রায় একটি লোহার রেল লাইনের দৈঘর্য100 m। সূযের্র তাপে ও রেলের চাকার ঘষের্ণ তাপমাত্রা60°C বৃদ্ধি পায়। দুঘর্টনা এড়াতে রেল লাইনে দুটি লোহার বারের মধ্যে ফাঁকা রাখা হয়। লোহার আয়তন প্রসারণ সহগ348  10-6 K-1।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পুনঃশিলীভবন কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "'একক ভরের তাপধারণ ÿমতাই আপেÿিক তাপ' ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তথ্যে প্রদত্ত বধির্ত তাপমাত্রা কেলভিন স্কেল ও ফারেনহাইট স্কেলে কত হবে? নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "দুঘর্টনা এড়াতে উক্ত রেল লাইনের জন্য দুটি লোহার বারের মধ্যে কতটুকু ফাঁকা রাখতে হবে? গাণিতিক হিসাবসহ বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 6 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-6.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch06-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 6,
+  "chapter_number": 6,
+  "chapter_name": "বস্তুর উপর তাপের প্রভাব",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch06",
+  "question_text": "4C  তাপমাত্রার 2  kg  পানিরমধ্যে 50C  তাপমাত্রার 05  kg  ভরেরতামারটুকরা ফেলাহলো। পানি ও তামার আপেÿিকতা যথাক্রমে4200 J",
+  "question_number": 3,
+  "stimulus": "4C  তাপমাত্রার 2  kg  পানিরমধ্যে 50C  তাপমাত্রার 05  kg  ভরেরতামারটুকরা ফেলাহলো। পানি ও তামার আপেÿিকতা যথাক্রমে4200 Jkg−1 K−1 ও400 Jkg−1 K−1।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তাপমাত্রা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "রুপার আপেÿিক তাপ230 Jkg−1 K−1 বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "তামার তাপমাত্রাকে ফারেনহাইট স্কেলে প্রকাশ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পানি ও তামার চূড়ান্ত্ম তাপমাত্রা কীরূপ হবে গাণিতিকভাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 6 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-6.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch06-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 6,
+  "chapter_number": 6,
+  "chapter_name": "বস্তুর উপর তাপের প্রভাব",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch06",
+  "question_text": "0C তাপমাত্রার একটি ইস্পাতের খ-ের ÿেত্রফল100 cm2। একে100C তাপমাত্রা পযর্ন্ত্ম উত্তপ্ত করার ফলে এর ÿেত্রফল বৃদ্ধি পেয়ে1",
+  "question_number": 4,
+  "stimulus": "0C তাপমাত্রার একটি ইস্পাতের খ-ের ÿেত্রফল100 cm2। একে100C তাপমাত্রা পযর্ন্ত্ম উত্তপ্ত করার ফলে এর ÿেত্রফল বৃদ্ধি পেয়ে10022 cm2 হয়ে গেছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তাপমাত্রিক পদাথর্ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তাপ প্রয়োগের ফলে কঠিন পদাথের্র দৈঘর্য বৃদ্ধি পায় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ইস্পাতের পাতটির ÿেত্র প্রসারণ সহগ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ইস্পাতের পাতটির আদি উচ্চতা10 cm হলে এর চূড়ান্ত্ম আয়তন কত হবে নিণর্য় কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 6 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-6.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-6.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch02-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 2,
+  "chapter_number": 2,
+  "chapter_name": "গতি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch02",
+  "question_text": "একটি গাড়ি স্থির অবস্থান থেকে যাত্রা শুরম্ন করে5 ms−2 সমত্বরণে118 m দূরত্ব অতিক্রম করে।",
+  "question_number": 1,
+  "stimulus": "একটি গাড়ি স্থির অবস্থান থেকে যাত্রা শুরম্ন করে5 ms−2 সমত্বরণে118 m দূরত্ব অতিক্রম করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সুষম বেগের একটি প্রাকৃতিক উদাহরণ লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অভিকষর্জ ত্বরণকে সমত্বরণ বলা যায় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "গাড়িটির শেষ বেগ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "গাড়িটি40 m পর থেকে বাকি পথ4 ms−2 ত্বরণে গমন করলে সময়ের পরিমাণ গাণিতিকভাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-2.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch02-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 2,
+  "chapter_number": 2,
+  "chapter_name": "গতি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch02",
+  "question_text": "15 kg ভরের একটি বস্তু25 ms−1 বেগে চলছিল। এর উপর300 N এর একটি বল প্রয়োগ করায়t সময় পরে বস্তুটির গতিবেগ60 ms−1 এ পৌঁছায",
+  "question_number": 2,
+  "stimulus": "15 kg ভরের একটি বস্তু25 ms−1 বেগে চলছিল। এর উপর300 N এর একটি বল প্রয়োগ করায়t সময় পরে বস্তুটির গতিবেগ60 ms−1 এ পৌঁছায়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পযার্বৃত্ত গতির একটি উদাহরণ লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বেগ কোন ধরনের রাশি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "t এর মান কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "300 Nএর পরিবতের্ কোনো বল প্রয়োগ না করলে বস্তুর গতির পরিবতর্ন ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-2.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch02-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 2,
+  "chapter_number": 2,
+  "chapter_name": "গতি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch02",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও:",
+  "question_number": 3,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও:",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রতিক্রিয়া কতÿণ কাজকরে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একটি বস্তু বৃত্তাকার পথে সম্পূণর্ একবার ঘুরে আসলে এর সরণ কত হবে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের গাড়িটি সমবেগে চলার সময় কত দূরত্ব অতিক্রম করবে নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের গাড়িটির ত্বরণ লেখচিত্রের বিভিন্ন অবস্থায় কীরূপ হবে? গাণিতিকভাবে ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-2.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch02-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 2,
+  "chapter_number": 2,
+  "chapter_name": "গতি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch02",
+  "question_text": "একটি বিমান360 kmh−1 বেগে বিমান বন্দরে অবতরণ করছে। বিমানটি মাটি স্পশর্ করার20 s পর তার নিধাির্রত স্থানে থেমে যায়। বিমানট",
+  "question_number": 4,
+  "stimulus": "একটি বিমান360 kmh−1 বেগে বিমান বন্দরে অবতরণ করছে। বিমানটি মাটি স্পশর্ করার20 s পর তার নিধাির্রত স্থানে থেমে যায়। বিমানটির অবতরণ পথে660 m দূরে একটি অ্যাম্বুলেন্স রাখা আছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "g-এর আদশর্ মান কত?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ক্রিয়া-প্রতিক্রিয়া বল ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিমানটিঅবতরণকালে ত্বরণ কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বিমানটিনিরাপদে অবতরণ করতে পারবে কি?গাণিতিক বিশেস্নষণ দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 2 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-2.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

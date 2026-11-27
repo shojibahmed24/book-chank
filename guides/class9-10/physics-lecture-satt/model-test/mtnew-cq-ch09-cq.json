@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch09-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 9,
+  "chapter_number": 9,
+  "chapter_name": "আলোর প্রতিসরণ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch09",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: O 5 cm F  A  D 10 cm",
+  "question_number": 1,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: O 5 cm F  A  D 10 cm",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ফোকাস দূরত্ব কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "স্বাস্থ্যÿেত্রে অপটিক্যাল ফাইবার এর ব্যবহার লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "লেন্সটির ÿমতা নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "OA লÿ্যবস্তুটির বিম্ব রশ্মি চিত্রের সাহায্যে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 9 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-9.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-9.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch09-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 9,
+  "chapter_number": 9,
+  "chapter_name": "আলোর প্রতিসরণ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch09",
+  "question_text": "সুজাতা শ্রেণি কÿের পিছনে বসে লÿকরল, সে বোডের্র লেখাগুলো স্পষ্ট পড়তে পারছেনা। তাই ডাক্তারের কাছে গেলে ডাক্তার তাকে−2.5D ",
+  "question_number": 2,
+  "stimulus": "সুজাতা শ্রেণি কÿের পিছনে বসে লÿকরল, সে বোডের্র লেখাগুলো স্পষ্ট পড়তে পারছেনা। তাই ডাক্তারের কাছে গেলে ডাক্তার তাকে−2.5D ÿমতাসম্পন্ন লেন্সের চশমাব্যবহারের পরামশর্ দিলেন।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "লেন্স কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "টেলিযোগাযোগে অপটিক্যাল ফাইবারের ভূমিকা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "সুজাতার চশমার ফোকাস দূরত্ব নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সুজাতার চোখের ত্রম্নটির কারণ, ফল ও প্রতিকার চিত্রের সাহায্যে বণর্না কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 9 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-9.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-9.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch09-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 9,
+  "chapter_number": 9,
+  "chapter_name": "আলোর প্রতিসরণ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch09",
+  "question_text": "একদিন আজাদ খেয়াল করল যে, সে তার ক্লাসে বস্ন্যাকবোডের্র লেখা বুঝতে পারছে না। বিষয়টি সে ডাক্তারকে জানালে, ডাক্তার তাকে 5",
+  "question_number": 3,
+  "stimulus": "একদিন আজাদ খেয়াল করল যে, সে তার ক্লাসে বস্ন্যাকবোডের্র লেখা বুঝতে পারছে না। বিষয়টি সে ডাক্তারকে জানালে, ডাক্তার তাকে 50 cm ফোকাস দূরত্বের একটি লেন্স ব্যবহার করতে বলল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যাকুয়াস হিউমার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "অনেক দূরের গাছপালা ও লাইটপোস্টকে ছোট দেখায় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ডাক্তার প্রদত্ত লেন্সের ÿমতা কত ছিল?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিত্র এঁকে এই ধরনের ত্রম্নটিরকারণ এবং তার প্রতিকার বণর্না কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 9 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-9.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-9.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch09-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 9,
+  "chapter_number": 9,
+  "chapter_name": "আলোর প্রতিসরণ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch09",
+  "question_text": "এক গ্রীষ্মের দুপুরে ছন্দা তার মামার সাথে গাড়িতে করে পিচঢালা রাস্ত্মা দিয়ে যাচ্ছিল। যেতে যেতে সে দেখল যে, দূরে রাস্ত্মা",
+  "question_number": 4,
+  "stimulus": "এক গ্রীষ্মের দুপুরে ছন্দা তার মামার সাথে গাড়িতে করে পিচঢালা রাস্ত্মা দিয়ে যাচ্ছিল। যেতে যেতে সে দেখল যে, দূরে রাস্ত্মা ভেজা ও চকচকে দেখা যাচ্ছে। সে যতই সামনে যাচ্ছে ততই এ দৃশ্যটি দেখছে। বিষয়টি তাকে অবাক করল। কারণ শীতকালে একই রাস্ত্মা দিয়ে যাওয়ার সময় সে এ ঘটনাটি দেখেনি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পূণর্ অভ্যন্ত্মরীণ প্রতিফলনের ত্রম্নটি শতর্ লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "পিচঢালা রাস্ত্মা ভেজা দেখার কারণ কী?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "শীতকালে ঐ ধরনের ঘটনা দেখা যায় নি কেন? ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "রাস্ত্মায় এ ধরনের দৃষ্টিভ্রমের ÿেত্রে চালকের কী ধরনের সতকর্তা গ্রহণ করা উচিত বলে তুমি মনে কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 9 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-9.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-9.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

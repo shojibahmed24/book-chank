@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch12-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 12,
+  "chapter_number": 12,
+  "chapter_name": "বিদ্যুতের চৌম্বক ক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch12",
+  "question_text": "একটি ট্রান্সফমাের্রর গৌণ ও মুখ্য কুন্ডলীর পাকসংখ্যার অনুপাত1 : 20 এবং মুখ্য কু-লীতে1 A বিদ্যুৎ প্রবাহ চলছে।",
+  "question_number": 1,
+  "stimulus": "একটি ট্রান্সফমাের্রর গৌণ ও মুখ্য কুন্ডলীর পাকসংখ্যার অনুপাত1 : 20 এবং মুখ্য কু-লীতে1 A বিদ্যুৎ প্রবাহ চলছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "নিম্নধাপী ট্রান্সফমার্র কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "এসি জেনারেটর ও ডিসি জেনারেটরের মধ্যে পাথর্ক্য লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ট্রান্সফমাের্রর গৌণ কু-লীর বিদ্যুৎ প্রবাহ কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের গৌণ ও মুখ্য কু-লীর পাকসংখ্যা পরিবতর্ন করে1 : 10 এ উন্নীত করলে গৌণ কু-লীর তড়িৎ প্রবাহ ও বিভবের কী পরিবতর্ন হবে তা গাণিতিকভাবে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 12 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-12.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch12-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 12,
+  "chapter_number": 12,
+  "chapter_name": "বিদ্যুতের চৌম্বক ক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch12",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: Ip = 6A n  = 90  E E s s p n  = 18 p",
+  "question_number": 2,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: Ip = 6A n  = 90  E E s s p n  = 18 p",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "জেনারেটর কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তাড়িত চুম্বক বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ট্রান্সফমার্রটির গৌণ কু-লীর প্রবাহমাত্রা নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ট্রান্সফমার্রব্যবহারে ÿমতার পরিমাণ ধ্রম্নব থাকে-উদ্দীপকের আলোকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 12 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-12.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch12-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 12,
+  "chapter_number": 12,
+  "chapter_name": "বিদ্যুতের চৌম্বক ক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch12",
+  "question_text": "একটি ট্রান্সফমাের্রর মুখ্য কু-লীর ভোল্টেজ 700  V, পাকসংখ্যা100 এবং তড়িৎ প্রবাহ15  A। এর গৌণ কু-লীর তড়িৎ প্রবাহ5 A। ট্",
+  "question_number": 3,
+  "stimulus": "একটি ট্রান্সফমাের্রর মুখ্য কু-লীর ভোল্টেজ 700  V, পাকসংখ্যা100 এবং তড়িৎ প্রবাহ15  A। এর গৌণ কু-লীর তড়িৎ প্রবাহ5 A। ট্রান্সফমার্রটিকে1050 W -এর একটি বৈদ্যুতিক মোটর চালানোর জন্য নিবার্চন করা হলো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অবরোহী ট্রান্সফমার্র কী কী যন্ত্রে ব্যবহার করা হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বৈদ্যুতিক বতর্নীতে ট্রান্সফমার্র কেন ব্যবহার করা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের ট্রান্সফমার্রটির গৌণকু-লীর পাকসংখ্যা কত হবে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকে উলিস্নখিত বৈদ্যুতিক মোটরটি চালানোর জন্য ট্রান্সফমার্রটি উপযোগী কি-না গাণিতিক বিশেস্নষণের মাধ্যমে মতমত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 12 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-12.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch12-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 12,
+  "chapter_number": 12,
+  "chapter_name": "বিদ্যুতের চৌম্বক ক্রিয়া",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch12",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: P  4000 V 500 V n  = 250 p S n s",
+  "question_number": 4,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও: P  4000 V 500 V n  = 250 p S n s",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "আমের্চার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তড়িৎ চুম্বকের প্রাবল্য কী করে বৃদ্ধি করা যায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "n  এর মান নিণর্য় কর। s",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "মুখ্য কু-লী ও গৌণ কু-লীর ভোল্টেজ অপরিবতির্ত রেখেn কে দ্বিগুণ করলেn এর মান কত হবে? s p",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 12 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-12.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-12.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

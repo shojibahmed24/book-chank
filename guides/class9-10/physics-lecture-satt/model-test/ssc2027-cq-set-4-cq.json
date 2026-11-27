@@ -1,0 +1,422 @@
+[
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-4-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-4",
+  "question_text": "কানিজ ফাতিমা ল্যাব ক্লাসে বিভিন্ন জিনিস পরিমাপের ধারণা পেল। তাকে একটি আয়তাকার বস্ত্মু দেয়া হলো এবং ল্যাবের ভেতর থেকে ত",
+  "question_number": 1,
+  "stimulus": "কানিজ ফাতিমা ল্যাব ক্লাসে বিভিন্ন জিনিস পরিমাপের ধারণা পেল। তাকে একটি আয়তাকার বস্ত্মু দেয়া হলো এবং ল্যাবের ভেতর থেকে তার প্রয়োজনমতো যন্ত্রপাতি দিয়ে পরিমাপ করতে দেয়া হলো। বস্তুটির দৈঘর্য5 cm, প্রস্থ3 cm এবং উচ্চতা 4cm।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পরিমাপ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কানিজ ফাতিমা আয়তাকার বস্ত্মুটির আয়তন কত নিণর্য় করল?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "আয়তাকার বস্তুটির আয়তন কোন যন্ত্রের সাহায্যে কীভাবে নিণর্য় করবে বণর্না কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "স্ক্রু গজের সাহায্যে কোনো বস্তুর ব্যাস কীভাবে নিণর্য় করা যায়? বণর্না কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-4-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 2,
+  "chapter_number": 2,
+  "chapter_name": "গতি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-4",
+  "question_text": "20 kg এবং8 kg ভরের দুটি স্থির বস্তুর ওপর একই বল ক্রিয়া করলে প্রথমটির4 ms-1 ত্বরণ সৃষ্টি করে।",
+  "question_number": 2,
+  "stimulus": "20 kg এবং8 kg ভরের দুটি স্থির বস্তুর ওপর একই বল ক্রিয়া করলে প্রথমটির4 ms-1 ত্বরণ সৃষ্টি করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ত্বরণের মাত্রা লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বায়ুপূণর্ স্থানে পাখি উড়তে পারে কিন্তু বায়ুশূন্য স্থানে উড়তে পারে না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দ্বিতীয় বস্তুটির ত্বরণ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "10 s সময় পযর্ন্ত্ম বস্তু দুটির বেগ বনাম সময় এর তুলনামূলক লেখচিত্র অঙ্কন কর।(10 s-এ প্রাপ্ত বেগের হিসাবসহ)",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-4-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "বল",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-4",
+  "question_text": "চিত্রের দুটি বস্তুর ভর, বেগ ও গতির অভিমুখ দেখানো হয়েছে। 4 ms−1  2 ms−1 5 kg  3 kg P  Q",
+  "question_number": 3,
+  "stimulus": "চিত্রের দুটি বস্তুর ভর, বেগ ও গতির অভিমুখ দেখানো হয়েছে। 4 ms−1  2 ms−1 5 kg  3 kg P  Q",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোন সূত্র থেকে বলের গুণগত সংজ্ঞা পাওয়া যায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মহাকষর্ বল একটি অস্পশর্ বল ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "মিলিত বস্তুটির বেগ কত হবে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "গাণিতিকভাবে দেখাও যে,P বস্তুর গতিশক্তি >Q বস্তুর গতিশক্তি।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-4-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-4",
+  "question_text": "3.5 kg ভরের একটি বস্তুকে ভূমি থেকে18 ms-1 বেগে খাড়া উপরের দিকে নিÿেপ করা হলো।",
+  "question_number": 4,
+  "stimulus": "3.5 kg ভরের একটি বস্তুকে ভূমি থেকে18 ms-1 বেগে খাড়া উপরের দিকে নিÿেপ করা হলো।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পেট্রোলিয়াম থেকে কী কী বস্ত্র পাওয়া যায়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কখন কাজ শূন্য ও সবোর্চ্চ হয় ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের বস্তু দ্বারা সবোর্চ্চ উচ্চতায় উঠতে কৃত কাজের পরিমাণ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "পড়ন্ত্ম অবস্থায় বস্তুটির3 এবং4 সেকেন্ডের গতিশক্তির পরিবতর্ন বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-4-cq-005",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "তরঙ্গ ও শব্দ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-4",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : a 10cm b চিত্রa ওb সুরশলাকা হতে সৃষ্ট তরঙ্গ দেখানো হয়েছে। বায়ুতে শব্দ ",
+  "question_number": 5,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : a 10cm b চিত্রa ওb সুরশলাকা হতে সৃষ্ট তরঙ্গ দেখানো হয়েছে। বায়ুতে শব্দ তরঙ্গদ্বয়ের বেগ350 ms-1।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শব্দের বেগের উপর তাপমাত্রার প্রভাব কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "কম্পাঙ্ক ও পযার্য়কালের মধ্যে সম্পকর্ স্থাপন কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের আলোকে বায়ুর তাপমাত্রা কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "a ওb সুরশলাকার কম্পাঙ্কের তুলনামূলক বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf cq5",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-4-cq-006",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 8,
+  "chapter_number": 8,
+  "chapter_name": "আলোর প্রতিফলন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-4",
+  "question_text": "নিচের চিত্রটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : O 15 cm B  M A  C  F",
+  "question_number": 6,
+  "stimulus": "নিচের চিত্রটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও : O 15 cm B  M A  C  F",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উত্তল দপর্ণ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সদ ও অসদ বিম্বের ২টি পাথর্ক্য লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বিবধর্ন0.6 হলে প্রতিবিম্বের দৈঘর্য নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "লÿ্যবস্তুটিM বিন্দুতে অবস্থিত হলে, বিম্বের অবস্থান প্রকৃতি কিরূপ হবে? চিত্রসহ আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf cq6",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-4-cq-007",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "স্থির বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-4",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : A এর বিভব700 V এবংB এর বিভব500 V।",
+  "question_number": 7,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : A এর বিভব700 V এবংB এর বিভব500 V।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিভবের একক কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আহিতকরণ বলতে কী বোঝ? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "B থেকে+30 C আধানকেA তে আনতে কৃত কাজের পরিমাণ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A ওB গোলককে দুইটি তার দ্বারা পৃথিবীর সাথে যুক্ত করলে তাদের বিভব পাথর্ক্য সম্পকের্ তোমার মতামত ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 4 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf cq7",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-4 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

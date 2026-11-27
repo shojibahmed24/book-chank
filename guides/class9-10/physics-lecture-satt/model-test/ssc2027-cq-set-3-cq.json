@@ -1,0 +1,422 @@
+[
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-3-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-3",
+  "question_text": "পদাথির্বজ্ঞান ক্লাসে মিজান স্যার 0.00000846 লিখলেন এবং বললেন পরিমাপের জন্য ব্যবহৃত অনেক বড় ও ছোট রাশিকে সংক্ষিপ্ত আকারে",
+  "question_number": 1,
+  "stimulus": "পদাথির্বজ্ঞান ক্লাসে মিজান স্যার 0.00000846 লিখলেন এবং বললেন পরিমাপের জন্য ব্যবহৃত অনেক বড় ও ছোট রাশিকে সংক্ষিপ্ত আকারে লেখা যায়। স্যার আরও বললেন এগুলো সংখ্যার বৈজ্ঞানিক আকার। অনেক সময় মৌলিক এককগুলোর ভগ্নাংশ বা গুণিতক ব্যবহার করা সুবিধাজনক।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'এক মাইক্রোমিটার' এর সংকেত লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সংখ্যার বৈজ্ঞানিক প্রতীক ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "স্যারের লেখা সংখ্যাটিকে বৈজ্ঞানিক পদ্ধতির মাধ্যমে প্রকাশ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সংখ্যার বৈজ্ঞানিক প্রতীকের সাহায্যে বিভিন্ন ছোট-বড় একক ব্যবহার করা যায়-ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-3-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 2,
+  "chapter_number": 2,
+  "chapter_name": "গতি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-3",
+  "question_text": "নিচের লেখচিত্রটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 2,
+  "stimulus": "নিচের লেখচিত্রটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রতিক্রিয়া কতÿণ কাজ করে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "একটি বস্তু বৃত্তাকার পথে সম্পূণর্ একবার ঘুরে আসলে এর সরণ কত হবে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের গাড়িটি সমবেগে চলার সময় কত দূরত্ব অতিক্রম করবে নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের গাড়িটির ত্বরণ লেখচিত্রের বিভিন্ন অবস্থায় কীরূপ হবে? গাণিতিকভাবে ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-3-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "বল",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-3",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : u v 1  u 1  v 2  F 2 1  F 1 m m m m m m 1  2  1  2  1  2",
+  "question_number": 3,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : u v 1  u 1  v 2  F 2 1  F 1 m m m m m m 1  2  1  2  1  2",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "পড়ন্ত্ম বস্তুর প্রথম সূত্রটি বিবৃত কর।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ঘষর্ণ বলতে কী বোঝায়? ব্যাখ্যা কর। ২",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "m2 বস্তুর ভর2 kg আদিবেগ2ms-1; শেষবেগ5ms-1 এবং তা অজের্নর সময়2 সেকেন্ড হলেF2 এর মান কত? ৩",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের প্রতিফলিত ঘটনা ভরবেগের নিত্যতা মেনে চলে-বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-3-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 4,
+  "chapter_number": 4,
+  "chapter_name": "কাজ, ক্ষমতা ও শক্তি",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-3",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : Y  †iLv GK রেখা দুই I  J 18  L 16  E 14  C  N /s) 12  K  L †iLv- 2 10  B",
+  "question_number": 4,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও : Y  †iLv GK রেখা দুই I  J 18  L 16  E 14  C  N /s) 12  K  L †iLv- 2 10  B   D  F  M  2 (m 8 6  A    G 4    H  L1 †iLv- 1 2 †eM X O  1  2  3  4  5  6  7 mgq s",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সকল সচল বস্তুই কোন শক্তির অধিকারী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "নিউক্লীয় শক্তি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বস্তুর ভর5 kg হলে সুষম বেগ অংশে গতিশক্তি নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "E বিন্দুতে গতিশক্তি নিণর্য় কর, ইহা কি পূবের্র শক্তির চেয়ে বেশি? গাণিতিক বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-3-cq-005",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "তরঙ্গ ও শব্দ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-3",
+  "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : v =350ms-1 v =400ms-1 P gva¨g Q gva¨g P ওQ মাধ্যমে তরঙ্গদৈঘের্যর পাথর্ক্য0",
+  "question_number": 5,
+  "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : v =350ms-1 v =400ms-1 P gva¨g Q gva¨g P ওQ মাধ্যমে তরঙ্গদৈঘের্যর পাথর্ক্য04 m।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অনুদৈঘর্য তরঙ্গ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বায়ু অপেÿা পানিতে শব্দের বেগ বেশি কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "Q মাধ্যমে শব্দের পযার্য়কাল কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "P ওQ মাধ্যমে শব্দটি30টি কম্পনের জন্য অতিক্রান্ত্ম দূরত্বের পাথর্ক্য কত হবে? গাণিতিকভাবে দেখাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf cq5",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-3-cq-006",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 8,
+  "chapter_number": 8,
+  "chapter_name": "আলোর প্রতিফলন",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-3",
+  "question_text": "নিচের চিত্রটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও :",
+  "question_number": 6,
+  "stimulus": "নিচের চিত্রটি লÿ কর এবং প্রশ্নগুলোর উত্তর দাও :",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দপের্ণর গৌণ অÿ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আমরা যে সকল বস্তু দেখতে পাই সেগুলো উজ্জ্বল না হয়ে অনুজ্জ্বল হয় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের দপের্ণ স্থাপিত বস্তুটির রৈখিক বিবধের্নর মান কত হবে তা রশ্মি চিত্রের সাহায্যে ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের দপের্ণ সদ ও অসদ উভয় ধরনের বিম্ব গঠিত হয় তা রশ্মি চিত্রের সাহায্যে ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf cq6",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-ssc2027-cq-set-3-cq-007",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 10,
+  "chapter_number": 10,
+  "chapter_name": "স্থির বিদ্যুৎ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "ssc2027-cq-set-3",
+  "question_text": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : A B 20 C −10 C 10 m চিত্রে শূন্য বিভবের কোনো স্থান থেকেA এবংB বস্তুতে1 C ধন",
+  "question_number": 7,
+  "stimulus": "নিচের উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও : A B 20 C −10 C 10 m চিত্রে শূন্য বিভবের কোনো স্থান থেকেA এবংB বস্তুতে1 C ধনাত্মক আধান আনতে যথাক্রমে100 J এবং10 J কাজ করতে হয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তড়িৎ আবেশ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "তড়িৎÿেত্রের কোনো বিন্দুতে বিভব20 V বলতে কী বোঝায়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বস্তুদ্বয়ের কেন্দ্রের সংযোজক রেখাংশের মধ্যবিন্দুতে তড়িৎ প্রাবল্য কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "A ওB কে পরিবাহী তার দ্বারা যুক্ত করে ইলেকট্রন প্রবাহের দিক ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC-2027 Physics Model Test set 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf cq7",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/#SSC-2027/CQ/set-3 (CQ).pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch01-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch01",
+  "question_text": "পদাথির্বজ্ঞান ক্লাসে মিজান স্যার000000846 লিখলেন এবং বললেন পরিমাপের জন্য ব্যবহৃত অনেক বড় ও ছোট রাশিকে সংক্ষিপ্ত আকারে ",
+  "question_number": 1,
+  "stimulus": "পদাথির্বজ্ঞান ক্লাসে মিজান স্যার000000846 লিখলেন এবং বললেন পরিমাপের জন্য ব্যবহৃত অনেক বড় ও ছোট রাশিকে সংক্ষিপ্ত আকারে লেখা যায়। স্যার আরও বললেন এগুলো সংখ্যার বৈজ্ঞানিক আকার। অনেক সময় মৌলিক এককগুলোর ভগ্নাংশ বা গুণিতক ব্যবহার করা সুবিধাজনক।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "'এক মাইক্রোমিটার' এর সংকেত লেখ।",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সংখ্যার বৈজ্ঞানিক প্রতীক ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "স্যারের লেখা সংখ্যাটিকে বৈজ্ঞানিক পদ্ধতির মাধ্যমে প্রকাশ কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সংখ্যার বৈজ্ঞানিক প্রতীকের সাহায্যে বিভিন্ন ছোট-বড় একক ব্যবহার করা যায়-ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-1.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch01-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch01",
+  "question_text": "মিজান ব্যবহারিক ক্লাসে একটি তারের ব্যাস স্ক্রু গজ দ্বারা মেপে গড় পাঠ পেল32 mm। তখন বৃত্তাকার স্কেলের গড় ভাগ সংখ্যা ছি",
+  "question_number": 2,
+  "stimulus": "মিজান ব্যবহারিক ক্লাসে একটি তারের ব্যাস স্ক্রু গজ দ্বারা মেপে গড় পাঠ পেল32 mm। তখন বৃত্তাকার স্কেলের গড় ভাগ সংখ্যা ছিল20।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "স্ক্রুর পিচ কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "লঘিষ্ঠ গণন বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের আলোকে লঘিষ্ঠ গণন নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "শুধু মিটার স্কেলের সাহায্যে তারটির প্রস্থচ্ছেদের ক্ষেত্রফল নিণর্য় করলে প্রাপ্ত পাঠ থেকে তা কত শতাংশ পরিবতর্ন হতো বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-1.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch01-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch01",
+  "question_text": "দৈনন্দিন জীবনে পরিমাপের জন্য আমরা বিভিন্ন যন্ত্র ব্যবহার করে থাকি। বিশেষ করে পরীÿাগারে বৈজ্ঞানিক পরিমাপের ÿেত্রে যেসব যন",
+  "question_number": 3,
+  "stimulus": "দৈনন্দিন জীবনে পরিমাপের জন্য আমরা বিভিন্ন যন্ত্র ব্যবহার করে থাকি। বিশেষ করে পরীÿাগারে বৈজ্ঞানিক পরিমাপের ÿেত্রে যেসব যন্ত্রাদি ব্যবহৃত হয় তাদের একটি হলো ভানির্য়ার স্কেল। এটি মূলত মূল বা প্রধান স্কেলের পাশে সংযুক্ত থাকে। ভানির্য়ার স্কেলের 10 ভাগ প্রধান স্কেলের 9 ক্ষুদ্রতম ভাগের সমান। প্রধান স্কেলের নয়টি ক্ষুদ্রতম ভাগ 9 মিলিমিটার বা009 সেন্টিমিটার।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভানির্য়ার স্কেল কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভানির্য়ার স্কেল কেন ব্যবহার করা হয়?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রধান স্কেলের ক্ষুদ্রতম1 ভাগ =1 মিমি হলে, ভানির্য়ার ধ্রম্নবকের মান বের কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "প্রধান স্কেলের সাথে ভানির্য়ার স্কেলের সম্পকর্ আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-1.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch01-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 1,
+  "chapter_number": 1,
+  "chapter_name": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch01",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: M L P 2 LS",
+  "question_number": 4,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: M L P 2 LS",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "চিত্রে প্রদশির্ত যন্ত্রের নাম কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "যন্ত্রটি কীভাবে কাজ করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "প্রদশির্ত চিত্রটির বিভিন্ন অংশ চিহ্নিত কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "যন্ত্রটির সাহায্যে ক্ষুদ্র বস্তুর ভর নিণর্য় করা সুবিধাজনক—আলোচনা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 1 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-1.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

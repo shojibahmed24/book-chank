@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch07-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "তরঙ্গ ও শব্দ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch07",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: M cvnvo m s ‡ K v P b s cÖmviY শ ে ব্দ র উ ৎ স 2 m শব্দের উৎস থে",
+  "question_number": 1,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: M cvnvo m s ‡ K v P b s cÖmviY শ ে ব্দ র উ ৎ স 2 m শব্দের উৎস থেকে পাহাড়ের দূরত্ব17mএবংঐদিনবায়ুরতাপমাত্রা25C।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "শ্রাব্যতার সীমা কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সরল দোলকের গতি স্পন্দন গতি ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উক্ত শব্দের কম্পাঙ্ক নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "S অবস্থানে দাঁড়িয়ে থাকা কোনো ব্যক্তি পÿে প্রতিধ্বনি শোনা সম্ভব কিনা গাণিতিক বিশেস্নষণের সাহায্যে মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 7 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-7.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch07-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "তরঙ্গ ও শব্দ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch07",
+  "question_text": "একজন ব্যক্তি একটি উঁচু দেয়ালের দিকে54 kmh−1বেগে দৌড়াচ্ছে। দেয়াল হতে1735 km দূরে থাকা অবস্থানে সে পিস্ত্মল হতে গুলি ছ",
+  "question_number": 2,
+  "stimulus": "একজন ব্যক্তি একটি উঁচু দেয়ালের দিকে54 kmh−1বেগে দৌড়াচ্ছে। দেয়াল হতে1735 km দূরে থাকা অবস্থানে সে পিস্ত্মল হতে গুলি ছুঁড়ল। কিছু সময় পর সে ঐ গুলির প্রতিধ্বনি শুনল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রতিধ্বনি কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "সকল প্রতিফলনই শব্দের প্রতিধ্বনি নয়—ব্যাখ্যা করে।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের দূরত্ব অতিক্রমণে শব্দের মোট5 সেকেন্ড সময় লাগলে ঐ দিনের তাপমাত্রা কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "ঐ ব্যক্তি কখন ও কোথায় গুলির শব্দের প্রতিধ্বনি শুনবে? গাণিতিক বিশেস্নষণের মাধ্যমে মতামত দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 7 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-7.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch07-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "তরঙ্গ ও শব্দ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch07",
+  "question_text": "একটি বস্তু বাতাসে যে শব্দ সৃষ্টি করে তার তরঙ্গ দৈঘর্য002 m। বাতাসে শব্দের বেগ332 ms-1।",
+  "question_number": 3,
+  "stimulus": "একটি বস্তু বাতাসে যে শব্দ সৃষ্টি করে তার তরঙ্গ দৈঘর্য002 m। বাতাসে শব্দের বেগ332 ms-1।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বেতার তরঙ্গ কী ধরনের?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "আকাশে বিদ্যুৎ চমকানোর কিছুÿণ পরে শব্দ শোনা যায় কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের শব্দটির কম্পাঙ্ক নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উক্ত বস্তুর পানিতে সৃষ্ট শব্দ উদ্দীপকের সৃষ্ট শব্দের চেয়ে কতগুণ দ্রম্নত চলে গাণিতিক বিশেস্নষণ কর। (পানিতে শব্দের তরঙ্গ দৈঘর্য=875 cm)",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 7 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-7.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch07-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 7,
+  "chapter_number": 7,
+  "chapter_name": "তরঙ্গ ও শব্দ",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch07",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: সুতার আন্দোলন",
+  "question_number": 4,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: সুতার আন্দোলন",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "১নং চিত্রের তরঙ্গ কী ধরনের?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "২ নং তরঙ্গের সঞ্চালন প্রক্রিয়া ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "দ্বিতীয় তরঙ্গটির বেগ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "১ এবং ২ নং তরঙ্গের বৈশিষ্ট্য বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 7 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-7.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch03-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "বল",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch03",
+  "question_text": "রিফাত বন্দুক নিয়ে শিকারে বের হলো। যার ভর0.2 kg। সে একটি পাখি দেখতে পেয়ে বন্দুক থেকে একটি গুলি ছুড়ল। গুলির ভর10 g এবং ",
+  "question_number": 1,
+  "stimulus": "রিফাত বন্দুক নিয়ে শিকারে বের হলো। যার ভর0.2 kg। সে একটি পাখি দেখতে পেয়ে বন্দুক থেকে একটি গুলি ছুড়ল। গুলির ভর10 g এবং গুলি ছোড়ার মুহূতের্ বেগ500 m/s।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "মৌলিক বলগুলোর মধ্যে সবাের্পÿা দূবর্ল বল কোনটি?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "বিভিন্ন স্থানে অভিকষর্জ ত্বরণ'g'এর মানের তারতম্য হয়-সূত্রের সাহায্যে দেখাও।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "বন্দুকটির পশ্চাৎ বেগ ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বন্দুক ও গুলির সংঘষের্র পূবের্র ও পরের ভরবেগের সমষ্টি সবর্দা সমান থাকে বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-3.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch03-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "বল",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch03",
+  "question_text": "1000 kg ভরের একটি গাড়ি রাতের অন্ধকারে10 ms−1 বেগে সরল পথে চলছিল। হঠাৎ রাস্ত্মায় দাঁড়িয়ে থাকা1200 kg ভরের অপর একটি ট্",
+  "question_number": 2,
+  "stimulus": "1000 kg ভরের একটি গাড়ি রাতের অন্ধকারে10 ms−1 বেগে সরল পথে চলছিল। হঠাৎ রাস্ত্মায় দাঁড়িয়ে থাকা1200 kg ভরের অপর একটি ট্রাকের সাথে ধাক্কা খেয়ে আটকে গেল। মিলিত গাড়ি দুটি একই পথে চলতে থাকল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "গতিশীল বস্তু থামাতে কিসের প্রয়োজন?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মহাকষর্ বল অস্পশর্ বল কেন? ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "গাড়ি দুটির মিলিত বেগ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "সংঘষের্র ফলে গাড়ি দুটির ভরবেগ সংরÿিত হলেও গতিশক্তি সংরÿিত হয়নি-উক্তিটির পÿে যুক্তি দাও।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-3.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch03-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "বল",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch03",
+  "question_text": "একটি রাইফেল থেকে1 kms−1 বেগে15 g ভরের একটি বুলেট এক টুকরা কাঠের মধ্যে4.5 cm প্রবেশ করে থেমে গেল।",
+  "question_number": 3,
+  "stimulus": "একটি রাইফেল থেকে1 kms−1 বেগে15 g ভরের একটি বুলেট এক টুকরা কাঠের মধ্যে4.5 cm প্রবেশ করে থেমে গেল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ঘষের্ণর ফলে হারানো শক্তি কিসে পরিণত হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "দৈনন্দিন জীবনে ঘষের্ণর সুবিধা ব্যাখ্যা কর।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের রাইফেলের ভর যদি15 kg হয়, তবে এর পশ্চাৎবেগ নিণর্য় কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "বুলেটকে বাধাদানকারী বলের মান নিণর্য় কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-3.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch03-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 3,
+  "chapter_number": 3,
+  "chapter_name": "বল",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch03",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: m  = 850 kg  m  = 400 kg  A  B 1 2 u = 20ms−1  u  = 15 ms−1 1 2 ",
+  "question_number": 4,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবংপ্রশ্নগুলোর উত্তর দাও: m  = 850 kg  m  = 400 kg  A  B 1 2 u = 20ms−1  u  = 15 ms−1 1 2 A অবস্থানে বস্তুদ্বয় মিলিত হয়েB অবস্থানের দিকে মিলিত অবস্থায় চলতে থাকে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভরবেগের সংরÿণ কাকে বলে?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মাটির উপর দিয়ে হাঁটা সহজ কিন্তু পানির উপর দিয়ে হাঁটা যায় না কেন?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "A বিন্দুতে মিলিত গাড়ির বেগ কত?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "20 সেকেন্ড পর গাড়িদ্বয়B বিন্দুতে থেমে গেলে AB এর দূরত্ব কত?",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 3 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-3.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

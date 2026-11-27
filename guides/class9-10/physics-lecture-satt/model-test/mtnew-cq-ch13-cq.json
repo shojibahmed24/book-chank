@@ -1,0 +1,242 @@
+[
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch13-cq-001",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 13,
+  "chapter_number": 13,
+  "chapter_name": "তেজস্ক্রিয়তা ও ইলেকট্রনিক্স",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch13",
+  "question_text": "মানুষ একটি নিদির্ষ্ট সীমার বাইরে তার স্বরযন্ত্র দিয়ে তৈরি শব্দ পৌঁছাতে পারে না। বড় কোনো সভা বা অনুষ্ঠানে বক্তার কথা সব",
+  "question_number": 1,
+  "stimulus": "মানুষ একটি নিদির্ষ্ট সীমার বাইরে তার স্বরযন্ত্র দিয়ে তৈরি শব্দ পৌঁছাতে পারে না। বড় কোনো সভা বা অনুষ্ঠানে বক্তার কথা সবার কাছে পৌঁছে দিতে আমরা কিছু কিছু যন্ত্র ব্যবহার করি, যার কিছু যন্ত্র কথাকে গ্রহণ করে আর কিছু যন্ত্র শব্দ আকারে শ্রোতার কানে পৌঁছে দেয়।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ইন্টারনেট সবর্প্রথম কোথায় চালু করা হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ভিশন সিনড্রোম বলতে কী বোঝ?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকে যে ইলেকট্রনিক ডিভাইসের কথা বলা হয়েছে তার গঠন ও কাযর্ক্রম ব্যাখ্যা কর।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "যেকোনো অনুষ্ঠানকে প্রাণবন্ত্ম করতে মাইকের ব্যবহার অতুলনীয়−ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 13 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": null,
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-13.pdf cq1",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-13.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch13-cq-002",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 13,
+  "chapter_number": 13,
+  "chapter_name": "তেজস্ক্রিয়তা ও ইলেকট্রনিক্স",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch13",
+  "question_text": "পযার্য় সারণিতে অবস্থিত যে সকল মৌলের পারমাণবিক সংখ্যা82 এর বেশি সেগুলো সাধারণত তেজস্ক্রিয় হয়ে থাকে। এরকম একটি তেজস্ক্র",
+  "question_number": 2,
+  "stimulus": "পযার্য় সারণিতে অবস্থিত যে সকল মৌলের পারমাণবিক সংখ্যা82 এর বেশি সেগুলো সাধারণত তেজস্ক্রিয় হয়ে থাকে। এরকম একটি তেজস্ক্রিয় মৌল রেডিয়াম যার পারমাণবিক সংখ্যা88। এদের নিউক্লিয়াস থেকে অনবরত,  ও রশ্মি নিগর্ত হয়। এছাড়া চিকিৎসাÿেত্রে তেজস্ক্রিয় আইসোটোপের বহু ব্যবহার রয়েছে। এরকম একটি আইসোটোপ হচ্ছে ট্রিটিয়াম।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "অ্যামপিস্নফায়ার কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "গামা রশ্মির কয়েকটি বৈশিষ্ট্য লেখ।",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উলিস্নখিত আইসোটোপের অধার্য়ু12.5 বছর হলে25 বছর পর এর মোট পরমাণুর কত অংশ বাকি থাকবে?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "চিকিৎসাÿেত্রে উক্ত আইসোটোপসমূহের ব্যবহার বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 13 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-13.pdf cq2",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-13.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch13-cq-003",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 13,
+  "chapter_number": 13,
+  "chapter_name": "তেজস্ক্রিয়তা ও ইলেকট্রনিক্স",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch13",
+  "question_text": "ইলেকট্রনিক্সের বিভিন্ন কাযর্ক্রম এনালগ ও ডিজিটাল পদ্ধতিতে সম্পন্ন করা হয়। তবে দিন দিন ডিজিটাল পদ্ধতি জনপ্রিয় হচ্ছে এবং",
+  "question_number": 3,
+  "stimulus": "ইলেকট্রনিক্সের বিভিন্ন কাযর্ক্রম এনালগ ও ডিজিটাল পদ্ধতিতে সম্পন্ন করা হয়। তবে দিন দিন ডিজিটাল পদ্ধতি জনপ্রিয় হচ্ছে এবং এর ব্যবহার বাড়ছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "তেজস্ক্রিয় মৌল থেকে কয় ধরনের রশ্মি নিগর্ত হয়?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "মাইক্রোফোন কীভাবে শব্দ শক্তিকে তড়িৎশক্তিতে রূপান্ত্মরিত করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের পদ্ধতি দুইটির সংকেত চিত্র অঙ্কন এদের বৈশিষ্ট্যসমূহ লেখ।",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের পদ্ধতি দুইটির মধ্যে ডিজিটালই উত্তম—ব্যাখ্যা কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 13 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-13.pdf cq3",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-13.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "physics-lec-mt-mtnew-cq-ch13-cq-004",
+  "book_id": "class9-10-physics-lecture",
+  "subject": "পদার্থবিজ্ঞান",
+  "subject_slug": "physics",
+  "class_id": 9,
+  "chapter": 13,
+  "chapter_number": 13,
+  "chapter_name": "তেজস্ক্রিয়তা ও ইলেকট্রনিক্স",
+  "section": "lecture-cq",
+  "type": "cq",
+  "set_id": "mtnew-cq-ch13",
+  "question_text": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: E  n  p  n  C B",
+  "question_number": 4,
+  "stimulus": "নিচের ডায়াগ্রামটি লক্ষ্য করো এবং প্রশ্নগুলোর উত্তর দাও: E  n  p  n  C B",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 10,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ট্রানজিস্টর কী?",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "ট্রানজিস্টর কীভাবে আমপিস্নফায়ার হিসেবে কাজ করে?",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "উদ্দীপকের চিত্রের আলোকে আমরা কীভাবেAC প্রবাহকেDC-তে রূপান্ত্মর করতে পারি?",
+    "marks": 3
+   },
+   {
+    "part": "ঘ",
+    "text": "উদ্দীপকের চিত্রটি কীভাবে বৈদ্যুতিক সুইচ হিসেবে ব্যবহার করা হয় বিশেস্নষণ কর।",
+    "marks": 4
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Physics Model Test New Chapter 13 CQ",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": true,
+  "flag_note": "diagram-dependent (চিত্র/গ্রাফ/ছক referenced)",
+  "guide_source": "2. SSC Science/SSC Physics/Model Test New/CQ/chapter-13.pdf cq4",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Physics/Model Test New/CQ/chapter-13.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
