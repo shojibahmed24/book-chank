@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q11-3-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "স্থানাঙ্ক জ্যামিতি",
+  "chapter_number": 11,
+  "chapter_name": "স্থানাঙ্ক জ্যামিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q11-3",
+  "question_text": "XY সমতলে A t,3t ,B t2,2t ,C t − 2,t ,D 1,1 চারটি ভিন্নভিন্ন বিন্দু। ABBএবং\nCDরেখাদ্বয় সমান্ত্মরাল।",
+  "question_number": 1,
+  "stimulus": "XY সমতলে A t,3t ,B t2,2t ,C t − 2,t ,D 1,1 চারটি ভিন্নভিন্ন বিন্দু। ABBএবং\nCDরেখাদ্বয় সমান্ত্মরাল।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দুটি বিন্দুর কোটি সমান হলে তাদের যথাক্রমে সংযোগরেখাY অÿের সাথেকত ডিগ্রি\nউৎপন্ন করে?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "t  ্‌এর সম্ভাব্য মানসমূহ নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "\nt 0 ধরে বিন্দু চারটি দ্বারাগঠিত চতুভুর্জটি ÿেত্রফল এবং কণর্দ্বয়ের দৈঘ্যর্ নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q11-3-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "স্থানাঙ্ক জ্যামিতি",
+  "chapter_number": 11,
+  "chapter_name": "স্থানাঙ্ক জ্যামিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q11-3",
+  "question_text": "P(1,4x),Q(5, x2 −1), A(t,3t,B(t2,2t),C(t − 2,t) এবং D(1,1) ছয়টি বিন্দু",
+  "question_number": 2,
+  "stimulus": "P(1,4x),Q(5, x2 −1), A(t,3t,B(t2,2t),C(t − 2,t) এবং D(1,1) ছয়টি বিন্দু",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "P ওQ বিন্দুগামীরেখার ঢাল। হলে x  এরমান নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "x এরমানদ্বয়ের জন্য যে চারটি বিন্দু পাওয়া যায় তা ছক কাগজে স্থাপন করে দেখাও\nএবং বিন্দুগুলো পযার্য়ক্রমে যোগকরে যে ÿেত্রটি পাওয়াযায় তার ÿেত্রফল নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "ABও CDরেখাদ্বয় সমান্ত্মরাল হলে t  এর সম্ভাব্য মান নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q11-3-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "স্থানাঙ্ক জ্যামিতি",
+  "chapter_number": 11,
+  "chapter_name": "স্থানাঙ্ক জ্যামিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q11-3",
+  "question_text": "E(1,1)\nD(t-2,t)\nB(t,3t)  C(t,2t)",
+  "question_number": 3,
+  "stimulus": "E(1,1)\nD(t-2,t)\nB(t,3t)  C(t,2t)",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 2,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "DE ও BC রেখার ঢাল নিণর্য়কর।\n1\n=",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে, DEII BC এবং DE BC",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "ঢালের শতর্ ব্যবহার করে t এরমান নিণর্য় কর এবং রেখার সমীকরণ নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

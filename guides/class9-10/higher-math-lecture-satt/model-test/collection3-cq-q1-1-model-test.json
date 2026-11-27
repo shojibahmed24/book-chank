@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q1-1-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সেট ও ফাংশন",
+  "chapter_number": 1,
+  "chapter_name": "সেট ও ফাংশন",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q1-1",
+  "question_text": "কোনো শ্রেণীর30 জন ছাত্রের20 জন ফুটবল এবং15 জন ক্রিকেট খেলতে পছন্দ করে। প্রত্যেক ছাত্র দুইটি\nখেলার অন্ত্মত একটি খেলা পছন্দ করে।",
+  "question_number": 1,
+  "stimulus": "কোনো শ্রেণীর30 জন ছাত্রের20 জন ফুটবল এবং15 জন ক্রিকেট খেলতে পছন্দ করে। প্রত্যেক ছাত্র দুইটি\nখেলার অন্ত্মত একটি খেলা পছন্দ করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উদ্দীপকের তথ্যগুলো সান্ত্ম সেটের সংজ্ঞানুসারে বণর্না কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কতজন ছাত্র দুইটি খেলাই পছন্দ করে?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "কতজন ছাত্র কেবলমাত্র দুইটি খেলার একটি পছন্দ করে।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q1-1-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সেট ও ফাংশন",
+  "chapter_number": 1,
+  "chapter_name": "সেট ও ফাংশন",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q1-1",
+  "question_text": "দশম শ্রেণির30 জন শিÿাথীর্ও মধ্যে ক্রিকেট খেলা পছন্দ করে49 জন ফুটবল খেলা পছন্দ করে40জন\nহ্যান্ডবল খেলা পছন্দ করে39জন ফুটবল ও ক্রিকেট খেলা পছন্দ করে13জন ক্রিকেট ও হ্যান্ডবল পছন্দ করে\n12জন ফুটবল ও হ্যান্ড",
+  "question_number": 2,
+  "stimulus": "দশম শ্রেণির30 জন শিÿাথীর্ও মধ্যে ক্রিকেট খেলা পছন্দ করে49 জন ফুটবল খেলা পছন্দ করে40জন\nহ্যান্ডবল খেলা পছন্দ করে39জন ফুটবল ও ক্রিকেট খেলা পছন্দ করে13জন ক্রিকেট ও হ্যান্ডবল পছন্দ করে\n12জন ফুটবল ও হ্যান্ডবল পছন্দ করে১০জন এবং ু জন শিÿাথীর্ কোনো খেলা পছন্দ করে না?",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ভেনচিত্রের মাধ্যমে তথ্যগুলো প্রকাশ কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কতজন শিÿাথীর্ তিনটি খেলা পছন্দ করে?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "কেবলমাত্র একটি এবং শুধুমাত্র দুইটি খেলা পছন্দ করে কত জন ?",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q1-1-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সেট ও ফাংশন",
+  "chapter_number": 1,
+  "chapter_name": "সেট ও ফাংশন",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q1-1",
+  "question_text": "ঢাকা বিশ্ববিদ্যালয়ের আধুনিক ভাষা ইনস্টিটিউটের জন শিÿাথীর্ও মধ্যে42 জন ফ্রেঞ্চ30 জন জামার্নত্ম24জন\nস্প্যানিশ নিযেছে।10 জন নিয়েছে ফ্রেঞ্চ ও স্প্যানিশত্ম8জন নিয়েছে জামার্ন ও স্প্যানিশ5 জন নিয়েছে জামার্ন ",
+  "question_number": 3,
+  "stimulus": "ঢাকা বিশ্ববিদ্যালয়ের আধুনিক ভাষা ইনস্টিটিউটের জন শিÿাথীর্ও মধ্যে42 জন ফ্রেঞ্চ30 জন জামার্নত্ম24জন\nস্প্যানিশ নিযেছে।10 জন নিয়েছে ফ্রেঞ্চ ও স্প্যানিশত্ম8জন নিয়েছে জামার্ন ও স্প্যানিশ5 জন নিয়েছে জামার্ন ও\nফ্রেঞ্চ3জন শিÿাথীর্ তিনটি ভাষাই নিয়েছে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিবরণ সহ উপাত্তগুলোকে সেটের মাধ্যমে প্রকাশ কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "কতজন শিÿাথীর্ ঐ তিনটি ভাষার একটি নেয়নি।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "কত জন শিÿাথীর্ ঐ তিনটি ভাষার কেবল একটি ভাষা নিয়েছে।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

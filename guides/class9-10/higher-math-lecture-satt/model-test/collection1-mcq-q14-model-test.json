@@ -1,0 +1,43 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection1-mcq-q14-mcq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সম্ভাবনা",
+  "chapter_number": 14,
+  "chapter_name": "সম্ভাবনা",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection1-mcq-q14",
+  "question_text": "সম্ভাবনার সবোর্চ্চ মান কত?\nসংখ্যা নেওয়া হলে সংখ্যাটি পূণর্বগর্ হওয়ার সম্ভাবনা কত?\nক. 0 খ. 1\nকোচিং সেন্টার সেট-২\nঅধ্যায় ভিত্তি",
+  "question_number": 30,
+  "stimulus": null,
+  "options": {
+   "ক": "বহুনিবার্চনী পরীÿা\nবিষয়: উচ্চতর গণিত অধ্যায়: ১৪\nসময়: ২০ মিনিট  পূণর্মান: ৩০\n1 ক. ঘটনা খ. অনুকূল ফলাফল গ. নমুনা ঘ. সম্ভাবনা\nগ. ঘ. 2\n2 মুদ্রা নিÿেপ পরীÿা একটি-\ni. দৈব পরীÿা\nii. সমসম্ভাব্য ঘটনা\niii. নিশ্চিত পরীÿা\nনিচের কোনটি সঠিক?\nক. i ওii খ. ii ওiii গ. i ওiii ঘ. i, ii ওiii"
+  },
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection1 Chapterwise MCQ model/H.math mcq question-14.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "● চিহ্ন নেই — উত্তর অজানা; অপশন অসম্পূর্ণ (1/৪); DUP of #TYPEWISE MCQ (identical content)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection1 Chapterwise MCQ model/H.math mcq question-14.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection1 Chapterwise MCQ model/H.math mcq question-14.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

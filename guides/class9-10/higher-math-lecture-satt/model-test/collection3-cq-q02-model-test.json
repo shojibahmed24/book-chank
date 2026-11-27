@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q02-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "বীজগাণিতিক রাশি",
+  "chapter_number": 2,
+  "chapter_name": "বীজগাণিতিক রাশি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q02",
+  "question_text": "(x Y (y রাশিটিকে ু",
+  "question_number": 1,
+  "stimulus": "(x Y (y রাশিটিকে ু",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "x চলকের বহুপদীর আদশর্ আকারে বণর্না কর এবং x চলকের বহুপদী রূপে তার মাত্রা মুখ্য সহগ ও ধ্রম্নবপদ\nনিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "y চলকের বহুপদীর আদশর্ আকারে বনর্না ক্‌র এবং y চলকের বহুপদী রম্নপে তার মাত্রা মুখ্য ও সহগ ও\nধ্রম্নবপদ নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "x  ও y চলকের বহুপদী রম্নপে বিবেচনা করে তার মাত্র া নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q02-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "বীজগাণিতিক রাশি",
+  "chapter_number": 2,
+  "chapter_name": "বীজগাণিতিক রাশি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q02",
+  "question_text": "চালক এর তিনটি রাশি ----",
+  "question_number": 2,
+  "stimulus": "চালক এর তিনটি রাশি ----",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উপরিউক্ত রাশিসমূহ হতে ১ম ও ২য় রাশি দ্বারা একটি প্রকৃত এবং ২য় ও ৩য় রাশি দ্বারা একটি অপ্রকৃত ভগ্নাংশ\nতৈরি কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "অপ্রকৃত ভগ্নাংশটি থেকে এটি প্রকৃত ভগ্নাংশ পৃথক কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "খ থেকে প্রাপ্ত প্রকৃত ভগ্নাংশটিকে আংশিক ভগ্নাংশ রম্নপে প্রকাশ কর।\n= + − + −",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q02-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "বীজগাণিতিক রাশি",
+  "chapter_number": 2,
+  "chapter_name": "বীজগাণিতিক রাশি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q02",
+  "question_text": "P(x) 18x2 15x2 x a  বহু পদীর একটি উৎপাদনক3x 1",
+  "question_number": 3,
+  "stimulus": "P(x) 18x2 15x2 x a  বহু পদীর একটি উৎপাদনক3x 1",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 2,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "a এর মান নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "P(x) কে উৎপাদক বিশেস্নষণ কর।\n2 + +\n3x 8x",
+    "marks": 2
+   },
+   {
+    "part": "গ",
+    "text": "কে আংশিক ভগ্নাংশে প্রকাশ কর।\nP(x)",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

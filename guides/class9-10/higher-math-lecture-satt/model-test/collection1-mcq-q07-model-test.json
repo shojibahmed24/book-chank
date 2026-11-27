@@ -1,0 +1,43 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection1-mcq-q07-mcq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "অসীম ধারা",
+  "chapter_number": 7,
+  "chapter_name": "অসীম ধারা",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection1-mcq-q07",
+  "question_text": "অনুক্রমটির100 তম পদ কত?\nকোচিং সেন্টার সেট-২\nঅধ্যায় ভিত্তি",
+  "question_number": 29,
+  "stimulus": null,
+  "options": {
+   "ক": "বহুনিবার্চনী পরীÿা\nবিষয়: উচ্চতর গণিত অধ্যায়: ৭\nসময়: ২০ মিনিট  পূণর্মান: ৩০\nক. 194 খ. − 194 n2 1, 3, 5, 7, 9 ------ অনুক্রমের10 তম পদ কত?\nক. 21 খ. 24 গ. 27 ঘ. 30\n2 3 4"
+  },
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": null,
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection1 Chapterwise MCQ model/H.math mcq question-7.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "● চিহ্ন নেই — উত্তর অজানা; অপশন অসম্পূর্ণ (1/৪); DUP of #TYPEWISE MCQ (identical content)",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection1 Chapterwise MCQ model/H.math mcq question-7.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection1 Chapterwise MCQ model/H.math mcq question-7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

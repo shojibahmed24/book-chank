@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-3-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-3",
+  "question_text": "a2 2 33 33 হলে\n=",
+  "question_number": 1,
+  "stimulus": "a2 2 33 33 হলে\n=",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 9,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "a\n+ =",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "দেখাও যে,3a 9a 8\n1\n+ + =",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "a 6a4 9a2 7",
+    "marks": 9
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-3-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-3",
+  "question_text": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও\nx2 − 6x + 9 - x2 −6x + 6 =1\n− = + =",
+  "question_number": 2,
+  "stimulus": "নিচের উদ্দীপকটি পড় এবং প্রশ্নগুলোর উত্তর দাও\nx2 − 6x + 9 - x2 −6x + 6 =1\n− = + =",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 1,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "x2 6x y ধরে দেখাও যে, y 6",
+    "marks": 1
+   },
+   {
+    "part": "খ",
+    "text": "প্রদত্ত সমীকরণটিকে সমাধান কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "সমীকরনটি সমাধান সত্যতা যাচাই কর।\n− = + − −",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-3-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-3",
+  "question_text": "11x 6 4x 5 x 1",
+  "question_number": 3,
+  "stimulus": "11x 6 4x 5 x 1",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দ্বিঘাত সমীকরণ কাকে বলে? দ্বিঘাত সমীকরনের আদশর্ রম্নপ নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "প্রদত্ত সমীকরণের নিশ্চয়ক নিণর্য় কর এবং মূলের ধরণ লিখ।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "প্রদত্ত সমীকরনের সমাধান সূত্র প্রয়োগ করে নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.3.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

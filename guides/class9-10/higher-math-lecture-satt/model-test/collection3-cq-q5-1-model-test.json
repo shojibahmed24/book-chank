@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-1-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-1",
+  "question_text": "ax2 bx c 0  সমীকরণটি এক চলকসম্বলিত দ্বিঘাত সমীকরণ।",
+  "question_number": 1,
+  "stimulus": "ax2 bx c 0  সমীকরণটি এক চলকসম্বলিত দ্বিঘাত সমীকরণ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দ্বিঘাত সমীকরণ বলতে কী বুঝ?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "উদ্দীপকের সমীকরণরি মূলদ্বয় নিণর্য় কর।\n2 − − =",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "2x 5x 1 0 সমীকরণটির মুল নিণর্য় কর। ( উদ্দীপকওে সমীকরণের সাথে তুলনা কর)",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-1-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-1",
+  "question_text": "একটি সংখ্যার বগের দ্বিগুণ সংখ্যাটির5 গুণ থেকে3 কম। কিন্তু ঐ সংখ্যাটির বগের্ও3 গুণ সংখ্যাটির5 গুণ\nথেকে3 বেশি",
+  "question_number": 2,
+  "stimulus": "একটি সংখ্যার বগের দ্বিগুণ সংখ্যাটির5 গুণ থেকে3 কম। কিন্তু ঐ সংখ্যাটির বগের্ও3 গুণ সংখ্যাটির5 গুণ\nথেকে3 বেশি",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ক. উদ্দীপকের তথ্যগুলোর সাহায্য সমীকরণ গঠন করে।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "সূত্র প্রয়োগ কওে ১ম সমীরকণটি সমাধান কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "২য় সমীকরণটি লেখচিত্রের সাহায্য সমাধান কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-1-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-1",
+  "question_text": "জনাব আশফাক আলীর জমির ÿেত্রফল 0.12 হেক্টর। জমিটির অধর্পরীসিমা এর একটি কণর্ অপেÿা 20\nমিটার বেশি। তিনি তার জমি থেকে শ্যাম বাবুর নিকট এক তৃতীয়াংশ বিক্রি করেন। শ্যাম বাবুর জমির দৈঘ্যর্ প্রস্থ\nঅপেÿা 5 মিটার",
+  "question_number": 3,
+  "stimulus": "জনাব আশফাক আলীর জমির ÿেত্রফল 0.12 হেক্টর। জমিটির অধর্পরীসিমা এর একটি কণর্ অপেÿা 20\nমিটার বেশি। তিনি তার জমি থেকে শ্যাম বাবুর নিকট এক তৃতীয়াংশ বিক্রি করেন। শ্যাম বাবুর জমির দৈঘ্যর্ প্রস্থ\nঅপেÿা 5 মিটার বেশি।[1 হেক্টর=10,000বগির্মটার।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উদ্দীপকের আলোকে দুটি সমীকরণ গঠন কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "আশফাক আলীর জমির দৈঘ্যর্ ও প্রস্থ নিণর্য কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "শ্যামবাবুর জমিটির দৈঘ্যর্ ও পরিসীমা নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-7-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-7",
+  "question_text": "জনাব আশরাফ আলীর জমিরÿেত্রফল--হেক্টর। জমির অধর্ পরিসীমা এর একটি কণর্ অপেÿা 25  মিটার\nবেশি। তিনি তার জমি থেকে দুই তৃতীয়াংশ শ্যামবাবুর নিকট বিক্রি করেন। শ্যাম বাবুর জমির দৈঘ্যর্ প্রস্থ অপেÿা ু\nমিটার বেশি",
+  "question_number": 1,
+  "stimulus": "জনাব আশরাফ আলীর জমিরÿেত্রফল--হেক্টর। জমির অধর্ পরিসীমা এর একটি কণর্ অপেÿা 25  মিটার\nবেশি। তিনি তার জমি থেকে দুই তৃতীয়াংশ শ্যামবাবুর নিকট বিক্রি করেন। শ্যাম বাবুর জমির দৈঘ্যর্ প্রস্থ অপেÿা ু\nমিটার বেশি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "উদ্দীপকের আলোকে দুটি সমীকরণ গঠন কর্‌",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "জনাব আশরাফ আলীর জমির দৈঘ্যর্ ও প্রস্থ নিণর্য় কর্‌",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "শ্যামবাবুর জমিটির পরিসীমা ও কণের্র দৈঘ্যর্ নিণর্য় কর।\n= = − = + −",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-7-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-7",
+  "question_text": "f (x) 3x9x, f (y) 2x y, g(x) x2 3x 2\n= =",
+  "question_number": 2,
+  "stimulus": "f (x) 3x9x, f (y) 2x y, g(x) x2 3x 2\n= =",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ু x 2  এব f (x) 81 হলে y  এর মানকত?\n= =",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "f (x) 81এবং f (y) 8 হলে সমীকরণ জোটের সমাধান কর্‌\n=",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "g(x) 0হলে লেখচিত্রের সাহায্য সমীকরণটির সমাধানকর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q5-7-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সমীকরণ",
+  "chapter_number": 5,
+  "chapter_name": "সমীকরণ",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q5-7",
+  "question_text": "i.2x2 − 5x +1\n− 2 + − =\nii. x 3x 2 0",
+  "question_number": 3,
+  "stimulus": "i.2x2 − 5x +1\n− 2 + − =\nii. x 3x 2 0",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "(ii) নং সমীকরণের নিশ্চয়ক নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "(i) নং সমীকরণেরসমাদান কর এবং মূলের প্রকৃতি নিধার্রণকর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "(i)নং সমীকরণটির লেখচিত্র আক এবং ক অংশে প্রাপ্ত সমাধানের সত্যতা যাচাইকর",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/5.7.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "higher-math-lec-mt-collection3-cq-q9-2-cq-001",
+    "book_id": "class9-10-higher-math-lecture",
+    "subject": "উচ্চতর গণিত",
+    "subject_slug": "higher-math",
+    "class_id": 9,
+    "chapter": "সূচকীয় ও লগারিদমীয় ফাংশন",
+    "chapter_number": 9,
+    "chapter_name": "সূচকীয় ও লগারিদমীয় ফাংশন",
+    "section": "lecture-model-test",
+    "type": "model-test",
+    "set_id": "collection3-cq-q9-2",
+    "question_text": "একটি লগারিদমিক ফাংশন f (x) In 5 x 5\n−\n5 x\n+\n5 x",
+    "question_number": 1,
+    "stimulus": "একটি লগারিদমিক ফাংশন f (x) In 5 x 5\n−\n5 x\n+\n5 x",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "কোন কেন শতের্র জন্য --ধনাত্বক ঋণাত্বক হবে?\n−\n5 x",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "ু f (x) এর ডোমেন ও রেঞ্জনিণরর্য় কর।\n−1\nগ f (x) . নিণর্য় কর এবং ফাংশনটি এক এক ঋণাত্বক হবে?",
+        "marks": null
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "বোর্ড/সাল অজানা",
+    "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "key_format": null,
+    "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "higher-math-lec-mt-collection3-cq-q9-2-cq-002",
+    "book_id": "class9-10-higher-math-lecture",
+    "subject": "উচ্চতর গণিত",
+    "subject_slug": "higher-math",
+    "class_id": 9,
+    "chapter": "সূচকীয় ও লগারিদমীয় ফাংশন",
+    "chapter_number": 9,
+    "chapter_name": "সূচকীয় ও লগারিদমীয় ফাংশন",
+    "section": "lecture-model-test",
+    "type": "model-test",
+    "set_id": "collection3-cq-q9-2",
+    "question_text": "1 1 1\n+ +\ni.\nxb + c−c +1 xc + x−a +1 xa + x−b +1\n= = =\nii.P loga (bc),q logb(ca),r logc(ab)",
+    "question_number": 2,
+    "stimulus": "1 1 1\n+ +\ni.\nxb + c−c +1 xc + x−a +1 xa + x−b +1\n= = =\nii.P loga (bc),q logb(ca),r logc(ab)",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": 1,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "পরমমান ফাংশন এর সংজ্ঞা দাও।\n( )",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "যদি a + b + c = 0 হয় তবে দেখাও যে, i এবণির্ত রাশিগুলো যোগফল1\n1 1",
+        "marks": 1
+      },
+      {
+        "part": "গ",
+        "text": "প্রমান কর যে, + + =1\n+ + +\np 1 q 1 r 1\n( )\n+\n`log 1 x",
+        "marks": null
+      }
+    ],
+    "marks_source": "printed",
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "বোর্ড/সাল অজানা",
+    "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "key_format": null,
+    "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  },
+  {
+    "id": "higher-math-lec-mt-collection3-cq-q9-2-cq-003",
+    "book_id": "class9-10-higher-math-lecture",
+    "subject": "উচ্চতর গণিত",
+    "subject_slug": "higher-math",
+    "class_id": 9,
+    "chapter": "সূচকীয় ও লগারিদমীয় ফাংশন",
+    "chapter_number": 9,
+    "chapter_name": "সূচকীয় ও লগারিদমীয় ফাংশন",
+    "section": "lecture-model-test",
+    "type": "model-test",
+    "set_id": "collection3-cq-q9-2",
+    "question_text": "c =\n2একটি লগারিদমিক সমীকরণ।\nlogx",
+    "question_number": 3,
+    "stimulus": "c =\n2একটি লগারিদমিক সমীকরণ।\nlogx",
+    "options": null,
+    "answer_key": null,
+    "answer_pointer": null,
+    "guide_solution": null,
+    "explanation": null,
+    "marks": null,
+    "marks_parts": [
+      {
+        "part": "ক",
+        "text": "প্রদত্ত সমীকরণটিকে x চলক সংবলিত একটি বীজগাণিতক দ্বিঘাত সমীকরনের\nআদশর্রম্নপে প্রকাশ কর।",
+        "marks": null
+      },
+      {
+        "part": "খ",
+        "text": "ক হতে প্রাপ্ত দ্বিঘাত সমীকরণটির মূলের প্রকৃতি নিণর্য় কর এবং লেখাচিত্রের সাহায্যে\nসমাধান কর।\n \nb",
+        "marks": null
+      },
+      {
+        "part": "গ",
+        "text": "যদি a3−xb5x = a5+xb3x হয় তবে দেখাও যে,log   = log a\nc  c\na",
+        "marks": null
+      }
+    ],
+    "marks_source": null,
+    "lesson": null,
+    "textbook_page": null,
+    "learning_outcome": null,
+    "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "source_kind": "lecture-sheet",
+    "importance": null,
+    "out_of_syllabus": false,
+    "diagram_dependent": false,
+    "flag_note": "বোর্ড/সাল অজানা",
+    "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "key_format": null,
+    "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/9.2.pdf",
+    "board_name": null,
+    "board_year": null,
+    "verified_visual": false
+  }
+]

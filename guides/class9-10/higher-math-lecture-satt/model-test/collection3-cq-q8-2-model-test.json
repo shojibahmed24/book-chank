@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q8-2-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "ত্রিকোণমিতি",
+  "chapter_number": 8,
+  "chapter_name": "ত্রিকোণমিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q8-2",
+  "question_text": "ত্রিকোণমিতিক অভেদ সমূহের ÿেত্রে-",
+  "question_number": 1,
+  "stimulus": "ত্রিকোণমিতিক অভেদ সমূহের ÿেত্রে-",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "secA  ওtan A এর অভেদসমূহ লেখ।\n−\n1 sin A\n= −",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "দেখাও যে. sec A tan A\n+\n1 sin A\n−  + − \n1 sin A sin A 1 cosA",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "প্রমানকর যে,   =\n1\n−+  − + \nsin A sin A 1 cosA\n",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q8-2-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "ত্রিকোণমিতি",
+  "chapter_number": 8,
+  "chapter_name": "ত্রিকোণমিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q8-2",
+  "question_text": "একটি ঋণাত্বক সূÿ্নকোণ\n\n = ",
+  "question_number": 2,
+  "stimulus": "একটি ঋণাত্বক সূÿ্নকোণ\n\n = ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 3,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "হলেcos =?",
+    "marks": 3
+   },
+   {
+    "part": "খ",
+    "text": "15cos2  + 2sin = 7 হলেcot এর মান নিণর্য় কর।\n2 −\n x 1\n+  =  =",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "tan sec x হলে দেখাও যে,sin\n+\nx2 1\n3\n =",
+    "marks": null
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q8-2-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "ত্রিকোণমিতি",
+  "chapter_number": 8,
+  "chapter_name": "ত্রিকোণমিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q8-2",
+  "question_text": "ABC একটি সমকোণী ত্রিভুজ এবংsin\n5",
+  "question_number": 3,
+  "stimulus": "ABC একটি সমকোণী ত্রিভুজ এবংsin\n5",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": 1,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ABC ত্রিভুজের ভুমিরদৈঘ্যর্ নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "অন্য ত্রিকোনমিতিক অনুপাতসমূহ নিণর্য় কর।\n2  + 2  = 2  − 2  =",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "চিত্রের সাহায্য প্রমান কর যে,(i)sin cos 1(ii)sec tan",
+    "marks": 1
+   }
+  ],
+  "marks_source": "printed",
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

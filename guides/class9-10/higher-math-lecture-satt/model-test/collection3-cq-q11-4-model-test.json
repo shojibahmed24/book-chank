@@ -1,0 +1,102 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q11-4-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "স্থানাঙ্ক জ্যামিতি",
+  "chapter_number": 11,
+  "chapter_name": "স্থানাঙ্ক জ্যামিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q11-4",
+  "question_text": "+ = একটি সরলরেখার সমীকরণ।\n2x 3y 12",
+  "question_number": 1,
+  "stimulus": "+ = একটি সরলরেখার সমীকরণ।\n2x 3y 12",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রদত্ত রেখাটি অÿদ্বয়কে যে যে বিন্দুতে ছেদ করে তা নিণর্য় কর\nখ,অÿদ্বয়ের খন্ডিত অংশের পরিমাণনিণর্য় কর এবং রেখাটি অÿদ্বয়ের সাথে যে ত্রিভুজ উৎপন্নকরেতার\nÿেত্রফল নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "ত্রিভুজটিকে y ু অÿের সাপেÿে চতুদিকেএকবার ঘুরিয়েআনলে যে ঘনবস্তু উৎপন্নহয় তার সমগ্রতলের\nÿেত্রফল ও আয়তন নিণর্য়কর।\n২।3x − 2y − 6 = 0 একটি রেখার সমীকরণ।\nক, রেখাটির ঢাল নিণর্য কর্‌\nখ, রেখাটি অÿদ্বয়ের সাথেযে ত্রিভুজ উৎপন্নকরে এবং ÿেত্রফল নিণর্য় কর।\nগ. অÿদ্বয়এবং রেখাটিকে ধার বিবেচনা করে এর উপর একটি একক উচ্চতাবিশিষ্ট ঘনবস্তু তৈরি করা\nহলো যার শীষর্ মূলবিন্দুর উপরে ঘবস্তুটির সমগ্রতলের ÿেত্রফল নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/11.4.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.4.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q11-4-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "স্থানাঙ্ক জ্যামিতি",
+  "chapter_number": 11,
+  "chapter_name": "স্থানাঙ্ক জ্যামিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q11-4",
+  "question_text": "+ =\n3x 2y 6 ্‌একটি সরলরেখার সমীকরণ।",
+  "question_number": 3,
+  "stimulus": "+ =\n3x 2y 6 ্‌একটি সরলরেখার সমীকরণ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "প্রদত্ত সরলরেখাটির ঢাল নিণর্য় কর।\nখ, রেখাটি ও অÿদ্বয় নিয়েগঠিত ত্রিভুজের ÿেত্রফল নিণর্য় কর্‌",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "অÿদ্বয় ও রেখাটি একটিলোহার তৈরি নিরেট সিলিভারের ব্যাসাধ1.5র্ সেমি। সিলিন্ডারটির লোহা\nদিয়ে 0.25cm ব্যাসের কয়টি নিরেট গোলক তৈরি করা যাবে?",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/11.4.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.4.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.4.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

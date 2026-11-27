@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q1-2-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সেট ও ফাংশন",
+  "chapter_number": 1,
+  "chapter_name": "সেট ও ফাংশন",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q1-2",
+  "question_text": "SSC Model Test\nসেটঃ বিষয়ঃউচ্চতর গণিত অধ্যায়ঃ ১.২\nসময়ঃ ৫০ মিনিট পূণর্মাণঃ ২০\nযে কোন ২টি প্রশ্নের উত্তর দাওঃ\n= −\n১।-- F(x) 3x 1\n 1\n+  ",
+  "question_number": 1,
+  "stimulus": "SSC Model Test\nসেটঃ বিষয়ঃউচ্চতর গণিত অধ্যায়ঃ ১.২\nসময়ঃ ৫০ মিনিট পূণর্মাণঃ ২০\nযে কোন ২টি প্রশ্নের উত্তর দাওঃ\n= −\n১।-- F(x) 3x 1\n 1\n+  ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "F(x 2), F নিণর্য় কর।\n 3\n=",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "F(x) Y ফাংশনটি এক এক কিনা তা নিণর্য় কর।\n( )\n=  = −",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "F(x) Y হলে x  এর তিনটি মান নিনর্য় কর যখন x, y N  এবং y 3x 1 সমীকরণটি\nলেখচিত্র অংকন করে দেখাও যে তারা একই সরলরেখায় অবস্থিত।\n( )\n= −",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q1-2-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সেট ও ফাংশন",
+  "chapter_number": 1,
+  "chapter_name": "সেট ও ফাংশন",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q1-2",
+  "question_text": "F x 1 x",
+  "question_number": 2,
+  "stimulus": "F x 1 x",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "F এর ডোমেন নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "F  একু এক ফাংশন কিনা তা নিণর্য় কর।\n \n1\n−  ",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "F( 3),F(0),F , F(2) এ মধ্যে কোনগুলো সংজ্ঞায়িত এবং কোনগুলো সংজ্ঞায়িত নয় তা নিণর্য়\n 2\nকর।\n= − ",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q1-2-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "সেট ও ফাংশন",
+  "chapter_number": 1,
+  "chapter_name": "সেট ও ফাংশন",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q1-2",
+  "question_text": "F(x) 1 X যেকোন x R",
+  "question_number": 3,
+  "stimulus": "F(x) 1 X যেকোন x R",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "কোনো ফাংশন এক- এক হওয়ার শতর্ কী ? উদাহরণ দাও।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "দেখাও যে ফাংশনটি এক- এক।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "F(x) দ্বারা বণির্ত ফাংশনটির ডোমেন এবং রেঞ্জনিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/1.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

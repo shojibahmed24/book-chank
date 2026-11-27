@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q8-1-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "ত্রিকোণমিতি",
+  "chapter_number": 8,
+  "chapter_name": "ত্রিকোণমিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q8-1",
+  "question_text": "ঢাকা থেকে কক্সবাজারের দুরত্ব786.8 কিলোমিটার। ঢাকা ও কক্সবাজার পৃথিবীর 7 কোণ উৎপনন করে।",
+  "question_number": 1,
+  "stimulus": "ঢাকা থেকে কক্সবাজারের দুরত্ব786.8 কিলোমিটার। ঢাকা ও কক্সবাজার পৃথিবীর 7 কোণ উৎপনন করে।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "7 কে রেডিয়ানে প্রকাশ কর্‌",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "পৃথিবীর ব্যাসাধর্কত?",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "ঢাকা হতে পঞ্চগড়ের দুরত্ব560.28কিমি হলে ঢাকা পঞ্চগড় কতৃর্ক কেন্দ্রে উৎপন্ন কোণকতডিগ্রি?",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q8-1-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "ত্রিকোণমিতি",
+  "chapter_number": 8,
+  "chapter_name": "ত্রিকোণমিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q8-1",
+  "question_text": "একটি ত্রিভুজের কোণগুলো সমান্ত্মর শ্রেণিভুক্ত এবংবৃহত্তম কোণটি ÿুদ্রতম কোণের চারগুণ।",
+  "question_number": 2,
+  "stimulus": "একটি ত্রিভুজের কোণগুলো সমান্ত্মর শ্রেণিভুক্ত এবংবৃহত্তম কোণটি ÿুদ্রতম কোণের চারগুণ।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "ষাটমূলক ও বৃত্তীয় পদ্ধতিতে একটি কোণের পরিমাপ যথাক্রমে Dও R হলে এদের মধ্যে সম্পকর্ নিণর্য\nকর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "উদ্দীপকে উলেস্নখিত ত্রিভুজের কোণগুলোকে রেডিয়ানে প্রকাশকর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "রেডিয়ান কোণকাকেবলে ? প্রমান কর যে রেডিয়ান কোণ একটি ধ্রম্নব কোণ।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q8-1-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "ত্রিকোণমিতি",
+  "chapter_number": 8,
+  "chapter_name": "ত্রিকোণমিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q8-1",
+  "question_text": "একটি চাকা বৃত্তাকার পথে300 মিটার পত যেতে 50 বার ঘুরে",
+  "question_number": 3,
+  "stimulus": "একটি চাকা বৃত্তাকার পথে300 মিটার পত যেতে 50 বার ঘুরে",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "চাকার ব্যাসাধর্ নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "চাকাটি প্রতি সেকেন্ডে15বার ঘুরলে চাকাটির গতিবেগ ঘন্টায় নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "চাকাটি যদি বৃত্তের কেন্দ্রে 60 কোণ উৎপন্ন করে তবে বৃত্তের ব্যাসাধর্ নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/8.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

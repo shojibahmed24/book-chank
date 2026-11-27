@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q10-2-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "দ্বিপদী বিস্তৃতি",
+  "chapter_number": 10,
+  "chapter_name": "দ্বিপদী বিস্তৃতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q10-2",
+  "question_text": "SSC Model Test\nসেটঃ বিষয়ঃউচ্চতর গণিত অধ্যায়ঃ ১০.২\nসময়ঃ ৫০ মিনিট পূণর্মাণঃ ২০\nযে কোন ২টি প্রশ্নের উত্তর দাওঃ\n − 7\nx\n১।2  একটি দ্বিপদ রাশি।\n 2 ",
+  "question_number": 1,
+  "stimulus": "SSC Model Test\nসেটঃ বিষয়ঃউচ্চতর গণিত অধ্যায়ঃ ১০.২\nসময়ঃ ৫০ মিনিট পূণর্মাণঃ ২০\nযে কোন ২টি প্রশ্নের উত্তর দাওঃ\n − 7\nx\n১।2  একটি দ্বিপদ রাশি।\n 2 ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "x এরঘাতের ঊধ্বর্ক্রমানুসারে উদ্দীপকের বিস্ত্মৃতির প্রথম চারটি পদ নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ক হতে প্রাপ্তবিস্ত্মৃতির x  এর মানকত?\n( )",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "কহতেপ্রাপ্ত বিস্ত্মৃতির সাহায্য 1.995 7 এর মান চার দশমিক স্থান পযর্ন্ত্ম নিণর্য়\nকর।\n( )",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q10-2-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "দ্বিপদী বিস্তৃতি",
+  "chapter_number": 10,
+  "chapter_name": "দ্বিপদী বিস্তৃতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q10-2",
+  "question_text": "p +2x nএকটি দ্বিপদী রাশি।",
+  "question_number": 2,
+  "stimulus": "p +2x nএকটি দ্বিপদী রাশি।",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "দ্বিপদী রাশিটির − এরসহগ কত?\npn 3\n( )",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "p এরস্থলে 2 হলে p + 2x 5কেদ্বিপদী উপপাদ্যের সাহায্য বিস্ত্মৃুতি হয়।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "+ 5 দ্বিপদী রাশিটির বিস্ত্মৃতিতে 3  এরসহগ হলে এর মান নিণর্য়\n(p 2x) x 320\nকর।\n + 6\n3a",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q10-2-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "দ্বিপদী বিস্তৃতি",
+  "chapter_number": 10,
+  "chapter_name": "দ্বিপদী বিস্তৃতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q10-2",
+  "question_text": " x2  একটি দ্বিপদী রাশি।\n x ",
+  "question_number": 3,
+  "stimulus": " x2  একটি দ্বিপদী রাশি।\n x ",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "বিস্ত্মৃতির সাধারণ পদকত?",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বিস্ত্মৃতির পদসংখ্যা ও মধ্যপদ নিণর্য়কর্‌",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "বিস্ত্মৃতির x6  এসহগ540হলেa এরমান নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/10.2.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]

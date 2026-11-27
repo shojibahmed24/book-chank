@@ -1,0 +1,167 @@
+[
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q11-1-cq-001",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "স্থানাঙ্ক জ্যামিতি",
+  "chapter_number": 11,
+  "chapter_name": "স্থানাঙ্ক জ্যামিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q11-1",
+  "question_text": "P 1,1,Q 4,4 ,R 4,8  এবং S 1,5 চারটি বিন্দুর স্থ্যানাংক",
+  "question_number": 1,
+  "stimulus": "P 1,1,Q 4,4 ,R 4,8  এবং S 1,5 চারটি বিন্দুর স্থ্যানাংক",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "PQ সরল রেখারঢাল নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": " এর ÿেত্রফল নিণর্য়কর।\nPQR",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "PQRS চতুভূর্জটিসামান্ত্মরিক না আয়তÿেত্রতা নিণর্য় কর।\n( ) ( ) ( ) ( )",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q11-1-cq-002",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "স্থানাঙ্ক জ্যামিতি",
+  "chapter_number": 11,
+  "chapter_name": "স্থানাঙ্ক জ্যামিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q11-1",
+  "question_text": "− − − − চারটি বিন্দু।\nA 7,2 ,B 4,2 ,C 4, 3 ,D 7, 3",
+  "question_number": 2,
+  "stimulus": "− − − − চারটি বিন্দু।\nA 7,2 ,B 4,2 ,C 4, 3 ,D 7, 3",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমতল বিন্দু চারটির অবস্থান দেখাও এবং চতুভূর্জঅঙ্কন কর।",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "বিন্দুগুলো দ্বারা গঠিত চতুভূের্জর পরিসীমা নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "দেখাও যে বিন্দুচারটি আয়তÿেত্রের শীষির্বন্দু।\n( ) ( )",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ },
+ {
+  "id": "higher-math-lec-mt-collection3-cq-q11-1-cq-003",
+  "book_id": "class9-10-higher-math-lecture",
+  "subject": "উচ্চতর গণিত",
+  "subject_slug": "higher-math",
+  "class_id": 9,
+  "chapter": "স্থানাঙ্ক জ্যামিতি",
+  "chapter_number": 11,
+  "chapter_name": "স্থানাঙ্ক জ্যামিতি",
+  "section": "lecture-model-test",
+  "type": "model-test",
+  "set_id": "collection3-cq-q11-1",
+  "question_text": "−  এবং − − বিন্দু তিনটি একটি ত্রিভুজের শীষর্ ত্রয়।\nA 6,3 , B 2,3 C( 2,",
+  "question_number": 3,
+  "stimulus": "−  এবং − − বিন্দু তিনটি একটি ত্রিভুজের শীষর্ ত্রয়।\nA 6,3 , B 2,3 C( 2,",
+  "options": null,
+  "answer_key": null,
+  "answer_pointer": null,
+  "guide_solution": null,
+  "explanation": null,
+  "marks": null,
+  "marks_parts": [
+   {
+    "part": "ক",
+    "text": "সমতল বিন্দুতিনটির অবস্থান দেখাও এবং ত্রিভুজ অঙ্কনকর",
+    "marks": null
+   },
+   {
+    "part": "খ",
+    "text": "ত্রিভুজের পরিসীমা নিণর্য় কর।",
+    "marks": null
+   },
+   {
+    "part": "গ",
+    "text": "পরিসীমা ও বাহুর দৈঘের্যর মাধ্যমেত্রিভুজের ÿেত্রফল নিণর্য় কর।",
+    "marks": null
+   }
+  ],
+  "marks_source": null,
+  "lesson": null,
+  "textbook_page": null,
+  "learning_outcome": null,
+  "source": "SSC Higher Math — Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "source_kind": "lecture-sheet",
+  "importance": null,
+  "out_of_syllabus": false,
+  "diagram_dependent": false,
+  "flag_note": "বোর্ড/সাল অজানা",
+  "guide_source": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "key_format": null,
+  "source_file": "ssc-chapter-wise/2. SSC Science/SSC Higher Math/Model Test/Collection3 Chapterwise CQ model/11.1.pdf",
+  "board_name": null,
+  "board_year": null,
+  "verified_visual": false
+ }
+]
